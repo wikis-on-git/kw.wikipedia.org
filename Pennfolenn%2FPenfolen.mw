@@ -1,11 +1,23 @@
+<table width="100%" border="0" cellspacing=0 cellpadding=0>
+<tr>
+<td width="25%" bgcolor="#FAF9B2" valign="top" align="center">
+'''Dynnargh dhe Wikipedia Kernewek ([[KK]])'''</td>
+<td width="25%" bgcolor="#BBFFBB" valign="top" align="center">
+'''Welkom the Wikipedia Kernuack ([[Kernuack]])'''</td>
+<td width="25%" bgcolor="#ddddff" valign="top" align="center">
+'''Wolcum dhe Wikipedia Kernewek ([[KU]])'''</td>
+<td width="25%" bgcolor="#FFE2E2" valign="top" align="center">
+'''Wolcum dhe Wikipedia Kernowek ([[KUA]])'''</td>
+</tr>
+</table>
 <table width="100%" border="0" cellspacing=0 cellpadding=0 cellmargin=4>
 <tr>
 <td>
-
 <table width="100%" border="0" cellspacing=0 cellpadding=0>
 <tr>
 <td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
 <center>Nowethhés dewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} (GMT)</center>
+
 {{Template:Wikipediawelcome_{{CURRENTDAYNAME}}}}
 
 <small>
@@ -147,23 +159,23 @@
 [[gd:]]
 [[gv:]]
 
-<!--
+
 <table width="100%" border=1 cellpadding=0 cellspacing=0>
 <tr>
 <td bgcolor="#f3f3ff"> 1</td>
-<td bgcolor="#ddddff"> 1</td>
-<td bgcolor="#f3f3ff"> 1</td>
-<td bgcolor="#FFE2E2"> 1</td>
-<td bgcolor="#FFF5F5"> 1</td>
-<td bgcolor="#BBFFBB"> 1</td>
-<td bgcolor="#FAF9B2"> 1</td>
-<td bgcolor="#FFFFEC"> 1</td>
-<td bgcolor="#E6E6FA"> 1</td>
-<td bgcolor="#F5F5DC"> 1</td>
-<td bgcolor="#E0FFFF"> 1</td>
-<td bgcolor="#FAF9EC"> 1</td>
+<td bgcolor="#ddddff"> 2</td>
+<td bgcolor="#f3f3ff"> 3</td>
+<td bgcolor="#FFE2E2"> 4</td>
+<td bgcolor="#FFF5F5"> 5</td>
+<td bgcolor="#BBFFBB"> 6</td>
+<td bgcolor="#FAF9B2"> 7</td>
+<td bgcolor="#FFFFEC"> 8</td>
+<td bgcolor="#E6E6FA"> 9</td>
+<td bgcolor="#F5F5DC"> 10</td>
+<td bgcolor="#E0FFFF"> 11</td>
+<td bgcolor="#FAF9EC"> 12</td>
 </tr>
 </table>
--->
+
 __NOTOC__
 __NOEDITSECTION__
