@@ -61,7 +61,7 @@
 <!-- ============================================================= -->
 <table width="100%" border=0 style="padding: 5px">
 <tr>
-<td width="100%" bgcolor="#E0FFFF" valign="top">
+<td width="100%" valign="top" style="background: #E0FFFF; border: 1px solid olive;">
 ====Erthygel dysquedhys hedhyu====
 <div>
 {{erthyglow_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
@@ -72,7 +72,7 @@
 </td>
 <tr>
 <tr>
-<td  width="100%"  bgcolor="#FFF5F5" valign="top">
+<td  width="100%" valign="top" style="background: #FFF5F5; border: 1px solid olive;">
 ====Y'n newodhow====
 <div>
 {{Template:news}}
@@ -83,7 +83,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%"   bgcolor="#FFE2E2" valign="top">
+<td width="100%" valign="top" style="background: #FFE2E2; border: 1px solid olive;">
 ====Penbloth hedhyu====
 <div>
 {{penbloth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
@@ -94,7 +94,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%"   bgcolor="#BBFFBB" valign="top">
+<td width="100%" valign="top" style="background: #BBFFBB; border: 1px solid olive;">
 ====A wrüssough-why aswonvos?====
 <div>
 {{Template:didyouknow}}
@@ -105,7 +105,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%"   bgcolor="#FAF9B2" valign="top">
+<td width="100%" valign="top"  style="background: #FAF9B2; border: 1px solid olive;">
 ====An mýs-ma====
 <div>
 {{mys_{{CURRENTMONTH}}}}
@@ -116,7 +116,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%"   bgcolor="#F5F5DC" valign="top">
+<td width="100%" valign="top"  style="background: #F5F5DC; border: 1px solid olive;">
 ====Cofscryvaow====
 <div>
 {{Cofscryvaow}}
@@ -134,21 +134,21 @@
 </td>
 </tr>
 <tr>
-<td bgcolor="#f3f3ff">
+<td style="background: #f3f3ff; border: 1px solid olive;">
 <!--Kelghwodhyador-->
 ====Kelghwodhyador====
 {{wikitopics}}
 </td>
 </tr>
 <tr>
-<td bgcolor="#BBFFBB">
+<td style="background: #BBFFBB; border: 1px solid olive;">
 <!--Kevrennow-->
 ====Kevrennow====
 {{links}}
 </td>
 </tr>
 <tr>
-<td bgcolor="#ddddff">
+<td style="background: #ddddff; border: 1px solid olive;">
 ====Wikipedia yn yéthow erel====
 {{Template:Wikipedialang}}
 ----
