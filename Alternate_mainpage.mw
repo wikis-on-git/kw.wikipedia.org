@@ -100,7 +100,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top"  style="background: #FAF9B2; border: 1px solid olive;">
+<td width="100%" valign="top"  style="background: #FAF9B2; border: 1px solid orange;">
 ====An mýs-ma====
 <div>
 {{mys_{{CURRENTMONTH}}}}
@@ -111,7 +111,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top"  style="background: #F5F5DC; border: 1px solid orange;">
+<td width="100%" valign="top"  style="background: #F5F5DC; border: 1px solid olive;">
 ====Cofscryvaow====
 <div>
 {{Cofscryvaow}}
