@@ -6,26 +6,16 @@
 <tr>
 <td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
 <center>Nowythhes yn tiwettha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} (UTC)</center>
+</table>
 == Dynnargh dhe Wikipedi yn [[Yeth_Kernewek|Kernewek]]! ==
+
+[[Image:Flag.png|right|]]
 
 Yma '''{{NUMBEROFARTICLES}}''' a erthyglow y'n Wikipedi kernewek y'n termyn ma. Mar kewsydh neb rannyeth a Gernewek po mars esos ow tyski  an yeth, ''ty a yll gweres!'' Y hyll'ta skrifa erthygel yn kever neppyth dhe les yn godhoniador, mes yma nebes profyansow a Gernow a-is. Nyns yw erthyglow gans kevrennow rudh skrifys na hwath, mes y hyllir hwath amendya, gwellhe hag ystynna erthyglow gans kevrennow glas. 
 
-</td>
-<td width="1%" align="center" valign="top">
-[[Image:Flag.png|center|St Piran's Flag]]
-[[Image:Ukkernow.png|center|Kernow]]
-</td>
-</tr>
-</table>
+[[Image:Ukkernow.png|right|]]
 
-<!-- ======================================= -->
-<!-- ======================================= -->
-<!-- ======================================= -->
-<table width="100%" border=1 cellpadding=0 cellspacing=0>
-<tr>
-<td width="50%" bgcolor="#E0FFFF" valign="top">
-<!--Kelghwodhyador-->
-====Kelghwodhyador====
+====Testennow Wikipedi====
 {{wikitestennowKK}}
 </td>
 </tr>
