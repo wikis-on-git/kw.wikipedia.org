@@ -176,7 +176,12 @@
 
 <table>
 <tr>
-<td style="background: #E6E6FA; border: 1px solid red;">01</td>
+<td style="background: #E6E6FA; border: 1px solid red;">red</td>
+<td style="background: #E6E6FA; border: 1px solid brown;">brown</td>
+<td style="background: #E6E6FA; border: 1px solid blue;">blue</td>
+<td style="background: #E6E6FA; border: 1px solid navy;">navy</td>
+<td style="background: #E6E6FA; border: 1px solid purple;">purple</td>
+<td style="background: #E6E6FA; border: 1px solid green;">green</td>
 <td style="background: #E6E6FA; border: 1px solid #006699;">1</td>
 <td style="background: #F5F5DC; border: 1px solid #996600;">2</td>
 <td style="background: #E6E6FA; border: 1px solid #006699; padding: 5px;" >3</td>
