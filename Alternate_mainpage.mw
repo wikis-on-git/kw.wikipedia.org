@@ -14,9 +14,9 @@
 <td width="50%" bgcolor="#FFFFEC" valign="top" align="left">
 * [[#Erthygel dysquedhys an mýs-ma|1. Erthygel dysquedhys an mýs-ma]]
 * [[#Y'n newodhow...|2. Y'n newodhow...]]
-* [[#Ow wharfos an mýs-ma...|3. Ow wharfos an mýs-ma...]]
+* [[#Penbloth hedhyu...|3. Penbloth hedhyu...]]
 * [[#A wrüssough-why aswonvos?...|4. A wrüssough-why aswonvos?...]]
-* [[#Pandr'a wharfa an mýs-ma...|5. Pandr'a wharfa an mýs-ma...]]
+* [[#An mýs-ma...|5. An mýs-ma...]]
 * [[#Erel...|6. Erel...]]
 * [[#Kelghwodhyador|7. Kelghwodhyador]]
 * [[#Kevrennow|8. Kevrennow]]
@@ -27,8 +27,10 @@
 </center>
 </td>
 <td width="1%" align="center" valign="top">
+<!--
 [[Image:Flag.png|center|St Piran's Flag]]
 [[Image:Ukkernow.png|center|Kernow]]
+-->
 </td>
 </tr>
 </table>
@@ -59,9 +61,9 @@
 </tr>
 <tr>
 <td width="50%"   bgcolor="#FFE2E2" valign="top">
-====Ow wharfos an mýs-ma...====
+====Penbloth hedhyu...====
 <div>
-{{eventsthismonth/{{CURRENTMONTH}}}}
+{{penbloth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
 </div>
 <small>
 [[alleventsthismonth|Clykyeugh omma dhe dhyllo erthyglow wharfedhyans resek yn mysyow erel pup bledhen]]
@@ -79,7 +81,7 @@
 </tr>
 <tr>
 <td width="50%"   bgcolor="#FAF9B2" valign="top">
-====Pandr'a wharfa an mýs-ma...====
+====An mýs-ma...====
 <div>
 {{historythismonth/{{CURRENTMONTH}}}}
 </div>
