@@ -20,7 +20,7 @@
 <!-- ------------------------------------------------------------- -->
 <table width="100%" border="0" style="padding: 5px">
 <tr>
-<td width="100%" align="left" valign="top" style="background: #FFFFEC; border: 1px solid olive;"> 
+<td width="50%" align="left" valign="top" style="background: #FFFFEC; border: 1px solid olive;"> 
 {{Template:Wikipediawelcome_{{CURRENTDAYNAME}}}}
 <small>
 [[Wikipediawelcome_ranyeth|Clykyeugh omma dhe dhyllo penfolen pupteth y'n ranyeth dyffrans]]
@@ -49,7 +49,7 @@
 
 
 
-<td width="1%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <!--[[Image:Flag.png|center|St Piran's Flag]]
 [[Image:Ukkernow.png|center|Kernow]]-->
 
