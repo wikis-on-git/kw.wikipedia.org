@@ -65,7 +65,7 @@
 <td width="100%" valign="top" style="background: #FFE2E2; border: 1px solid red;">
 ====Penbloth hedhyu====
 <div>
-{{penbloth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
+{{penbloth_{{CURRENTMONTH}}_{{CURRENTDAY}}}}
 </div>
 <small>
 [[penbloth_hedhyu|Clykyeugh omma dhe dhyllo erthyglow penbloth pup deth y'n veldhen]]
@@ -105,7 +105,7 @@
 <td align="left" width="100%" valign="top" style="background: #E0FFFF; border: 1px solid blue;">
 ====Erthygel dysquedhys hedhyu====
 <div>
-{{erthyglow_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
+{{erthyglow_pupteth_{{CURRENTMONTH}}_{{CURRENTDAY}}}}
 </div>
 <small>
 [[erthyglow_pupteth|Clykyeugh omma dhe dhyllo erthyglow dysquedhys pupteth y'n vledhen]]
@@ -117,7 +117,7 @@
 <!--Ymaj pupteth hedhyu-->
 ====Ymaj pupteth hedhyu====
 <div>
-{{ymajys_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
+{{ymajys_pupteth_{{CURRENTMONTH}}_{{CURRENTDAY}}}}
 </div>
 <small>
 [[ymajys_pupteth|Clykyeugh omma dhe worra ymajys dysquedhys pupteth y'n vledhen]]
