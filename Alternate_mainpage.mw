@@ -1,17 +1,26 @@
+<small>Nowethhés dewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} UTC</small>
+<table width="100%" border="0" cellspacing=0 cellpadding=0>
+<tr>
+<td width="25%" bgcolor="#FFE2E2" valign="top" align="center">
+'''Dynnargh dhe Wikipedia Kernewek <br />([[KK]])'''</td>
+<td width="25%" bgcolor="#FAF9B2" valign="top" align="center">
+'''Welkom the Wikipedia Kernuack <br />([[Kernuack]])'''</td>
+<td width="25%" bgcolor="#BBFFBB" valign="top" align="center">
+'''Wolcum dhe Wikipedia Kernewek <br />([[KU]])'''</td>
+<td width="25%" bgcolor="#ddddff" valign="top" align="center">
+'''Wolcum dhe Wikipedia Kernowek <br />([[KUA]])'''</td>
+</tr>
+</table>
 <table width="100%" border="0" cellspacing=0 cellpadding=0 cellmargin=4>
 <tr>
 <td>
-
 <table width="100%" border="0" cellspacing=0 cellpadding=0>
 <tr>
 <td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
-<center>Nowethhés dewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} (GMT)</center>
 {{Template:Wikipediawelcome_{{CURRENTDAYNAME}}}}
-
 <small>
 [[Wikipediawelcome_ranyeth|Clykyeugh omma dhe dhyllo penfolen pupteth y'n ranyeth dyffrans]]
 </small>
-
 ----
 <center>
 <table width="80%" border="0" cellspacing=0 cellpadding=0>
@@ -22,7 +31,7 @@
 * [[#Penbloth hedhyu|3. Penbloth hedhyu]]
 * [[#A wrüssough-why aswonvos?|4. A wrüssough-why aswonvos?]]
 * [[#An mýs-ma|5. An mýs-ma]]
-* [[#Erel|6. Erel]]
+* [[#Cofscryvaow|6. Cofscryvaow]]
 * [[#Kelghwodhyador|7. Kelghwodhyador (Encyclopedya)]]
 * [[#Kevrennow|8. Kevrennow]]
 * [[#Wikipedia yn yéthow erel|9. Wikipedia yn yéthow erel]]
@@ -32,10 +41,8 @@
 </center>
 </td>
 <td width="1%" align="center" valign="top">
-<!--
 [[Image:Flag.png|center|St Piran's Flag]]
 [[Image:Ukkernow.png|center|Kernow]]
--->
 </td>
 </tr>
 </table>
@@ -101,9 +108,9 @@
 </tr>
 <tr>
 <td width="100%"   bgcolor="#F5F5DC" valign="top">
-====Erel====
+====Cofscryvaow====
 <div>
-{{miscellaneous}}
+{{Cofscryvaow}}
 </div>
 <small>
 [[Template:miscellaneous|Clykyeugh omma dhe dhyllo an erthyglow ma yn kever wharfedhyans, poblow, po taclow a bup sort]]
@@ -148,22 +155,21 @@
 [[ga:]]
 [[gd:]]
 [[gv:]]
-
 <!--
 <table width="100%" border=1 cellpadding=0 cellspacing=0>
 <tr>
 <td bgcolor="#f3f3ff"> 1</td>
-<td bgcolor="#ddddff"> 1</td>
-<td bgcolor="#f3f3ff"> 1</td>
-<td bgcolor="#FFE2E2"> 1</td>
-<td bgcolor="#FFF5F5"> 1</td>
-<td bgcolor="#BBFFBB"> 1</td>
-<td bgcolor="#FAF9B2"> 1</td>
-<td bgcolor="#FFFFEC"> 1</td>
-<td bgcolor="#E6E6FA"> 1</td>
-<td bgcolor="#F5F5DC"> 1</td>
-<td bgcolor="#E0FFFF"> 1</td>
-<td bgcolor="#FAF9EC"> 1</td>
+<td bgcolor="#ddddff"> 2</td>
+<td bgcolor="#f3f3ff"> 3</td>
+<td bgcolor="#FFE2E2"> 4</td>
+<td bgcolor="#FFF5F5"> 5</td>
+<td bgcolor="#BBFFBB"> 6</td>
+<td bgcolor="#FAF9B2"> 7</td>
+<td bgcolor="#FFFFEC"> 8</td>
+<td bgcolor="#E6E6FA"> 9</td>
+<td bgcolor="#F5F5DC"> 10</td>
+<td bgcolor="#E0FFFF"> 11</td>
+<td bgcolor="#FAF9EC"> 12</td>
 </tr>
 </table>
 -->
