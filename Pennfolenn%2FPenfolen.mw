@@ -1,13 +1,13 @@
 <small>Nowethhés dewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} UTC</small>
 <table width="100%" border="0" cellspacing=0 cellpadding=0>
 <tr>
-<td width="25%" bgcolor="#FAF9B2" valign="top" align="center">
-'''Dynnargh dhe Wikipedia Kernewek <br />([[KK]])'''</td>
-<td width="25%" bgcolor="#BBFFBB" valign="top" align="center">
-'''Welkom the Wikipedia Kernuack <br />([[Kernuack]])'''</td>
-<td width="25%" bgcolor="#ddddff" valign="top" align="center">
-'''Wolcum dhe Wikipedia Kernewek <br />([[KU]])'''</td>
 <td width="25%" bgcolor="#FFE2E2" valign="top" align="center">
+'''Dynnargh dhe Wikipedia Kernewek <br />([[KK]])'''</td>
+<td width="25%" bgcolor="#FAF9B2" valign="top" align="center">
+'''Welkom the Wikipedia Kernuack <br />([[Kernuack]])'''</td>
+<td width="25%" bgcolor="#BBFFBB" valign="top" align="center">
+'''Wolcum dhe Wikipedia Kernewek <br />([[KU]])'''</td>
+<td width="25%" bgcolor="#ddddff" valign="top" align="center">
 '''Wolcum dhe Wikipedia Kernowek <br />([[KUA]])'''</td>
 </tr>
 </table>
