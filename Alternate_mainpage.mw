@@ -40,7 +40,7 @@
 <!-- ======================================= -->
 <table width="100%" border=1 cellpadding=0 cellspacing=0>
 <tr>
-<td width="50%" bgcolor="#E0FFFF" valign="top">
+<td width="100%" bgcolor="#E0FFFF" valign="top">
 ====Erthygel dysquedhys an mýs-ma====
 <div>
 {{monthfeature/{{CURRENTYEAR}}{{CURRENTMONTH}}}}
@@ -49,7 +49,9 @@
 [[futuremonthfeatures|Clykyeugh omma dhe dhyllo erthyglow pup mys yn termyn a-dhe]]
 </small>
 </td>
-<td  width="50%"  bgcolor="#FFF5F5" valign="top">
+<tr>
+<tr>
+<td  width="100%"  bgcolor="#FFF5F5" valign="top">
 ====Y'n newodhow...====
 <div>
 {{Template:news}}
@@ -60,7 +62,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%"   bgcolor="#FFE2E2" valign="top">
+<td width="100%"   bgcolor="#FFE2E2" valign="top">
 ====Penbloth hedhyu...====
 <div>
 {{penbloth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
@@ -69,7 +71,9 @@
 [[alleventsthismonth|Clykyeugh omma dhe dhyllo erthyglow wharfedhyans resek yn mysyow erel pup bledhen]]
 </small>
 </td>
-<td width="50%"   bgcolor="#BBFFBB" valign="top">
+</tr>
+<tr>
+<td width="100%"   bgcolor="#BBFFBB" valign="top">
 ====A wrüssough-why aswonvos?...====
 <div>
 {{Template:didyouknow}}
@@ -80,7 +84,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%"   bgcolor="#FAF9B2" valign="top">
+<td width="100%"   bgcolor="#FAF9B2" valign="top">
 ====An mýs-ma...====
 <div>
 {{mys_{{CURRENTMONTH}}}}
@@ -89,7 +93,9 @@
 [[allhistorythismonth|Clykyeugh omma dhe dhyllo erthyglow adhedro wharfedhyans ystorek yn mysyow erel]]
 </small>
 </td>
-<td width="50%"   bgcolor="#F5F5DC" valign="top">
+</tr>
+<tr>
+<td width="100%"   bgcolor="#F5F5DC" valign="top">
 ====Erel...====
 <div>
 {{miscellaneous}}
