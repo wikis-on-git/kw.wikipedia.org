@@ -20,7 +20,7 @@
 <!-- ------------------------------------------------------------- -->
 <table width="100%" border="0" style="padding: 5px">
 <tr>
-<td width="100%" align="left" valign="top" style="background: #FFFFEC; border: 1px solid blue;"> 
+<td width="100%" align="left" valign="top" style="background: #FFFFEC; border: 1px solid olive;"> 
 {{Template:Wikipediawelcome_{{CURRENTDAYNAME}}}}
 <small>
 [[Wikipediawelcome_ranyeth|Clykyeugh omma dhe dhyllo penfolen pupteth y'n ranyeth dyffrans]]
@@ -56,7 +56,7 @@
 <!-- ============================================================= -->
 <table width="100%" border=0 style="padding: 5px">
 <tr>
-<td width="100%" valign="top" style="background: #E0FFFF; border: 1px solid olive;">
+<td width="100%" valign="top" style="background: #E0FFFF; border: 1px solid blue;">
 ====Erthygel dysquedhys hedhyu====
 <div>
 {{erthyglow_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
@@ -67,7 +67,7 @@
 </td>
 <tr>
 <tr>
-<td  width="100%" valign="top" style="background: #FFF5F5; border: 1px solid olive;">
+<td  width="100%" valign="top" style="background: #FFF5F5; border: 1px solid green;">
 ====Y'n newodhow====
 <div>
 {{Template:news}}
@@ -78,7 +78,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top" style="background: #FFE2E2; border: 1px solid olive;">
+<td width="100%" valign="top" style="background: #FFE2E2; border: 1px solid red;">
 ====Penbloth hedhyu====
 <div>
 {{penbloth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
@@ -89,7 +89,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top" style="background: #BBFFBB; border: 1px solid olive;">
+<td width="100%" valign="top" style="background: #BBFFBB; border: 1px solid green;">
 ====A wrüssough-why aswonvos?====
 <div>
 {{Template:didyouknow}}
@@ -122,28 +122,25 @@
 </td>
 </tr>
 </table>
-
 <!-- ============================================================= -->
-
-
 </td>
 </tr>
 <tr>
-<td style="background: #f3f3ff; border: 1px solid olive;">
+<td style="background: #f3f3ff; border: 1px solid purple;">
 <!--Kelghwodhyador-->
 ====Kelghwodhyador====
 {{wikitopics}}
 </td>
 </tr>
 <tr>
-<td style="background: #BBFFBB; border: 1px solid olive;">
+<td style="background: #BBFFBB; border: 1px solid green;">
 <!--Kevrennow-->
 ====Kevrennow====
 {{links}}
 </td>
 </tr>
 <tr>
-<td style="background: #ddddff; border: 1px solid olive;">
+<td style="background: #ddddff; border: 1px solid blue;">
 ====Wikipedia yn yéthow erel====
 {{Template:Wikipedialang}}
 ----
