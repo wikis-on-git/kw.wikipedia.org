@@ -136,7 +136,7 @@
 [[Image:Kota_Arvow_Kernow.png|Kota Arvow Kernow]]
 </div>
 <small>
-[[ymajys_pupteth|Clykyeugh omma dhe worra ymajys dysquedhys pupteth y'n vledhen]]
+{{ymajys_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
 </small>
 <!-- {{erthyglow_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}-->
 </td>
