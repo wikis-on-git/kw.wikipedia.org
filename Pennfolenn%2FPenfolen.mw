@@ -132,7 +132,7 @@
 <td align="center" valign="top" width="100%" valign="top"  style="background: #F5F5DC; border: 1px solid olive;">
 <!--Ymaj pupteth hedhyu-->
 ====Ymaj pupteth hedhyu====
-<div class="floatright" style="width: 250px">
+<div class="floatleft" style="width: 100px">
 {{ymajys_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
 </div>
 <small>
