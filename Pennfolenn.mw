@@ -6,10 +6,10 @@
 <tr>
 <td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
 <center>Nowythhes yn tiwettha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} (UTC)</center>
-{{Template:Wikipediawelcome}}
-----
-<center>
-</center>
+== Dynnargh dhe Wikipedi yn [[Yeth_Kernewek|Kernewek]]! ==
+
+Yma '''{{NUMBEROFARTICLES}}''' a erthyglow y'n Wikipedi kernewek y'n termyn ma. Mar kewsydh neb rannyeth a Gernewek po mars esos ow tyski  an yeth, ''ty a yll gweres!'' Y hyll'ta skrifa erthygel yn kever neppyth dhe les yn godhoniador, mes yma nebes profyansow a Gernow a-is. Nyns yw erthyglow gans kevrennow rudh skrifys na hwath, mes y hyllir hwath amendya, gwellhe hag ystynna erthyglow gans kevrennow glas. 
+
 </td>
 <td width="1%" align="center" valign="top">
 [[Image:Flag.png|center|St Piran's Flag]]
