@@ -1,4 +1,4 @@
-<table width="100%" border="0" cellspacing=0 cellpadding=0>
+<table width="100%" border="1" cellspacing=0 cellpadding=0 cellmargin=4>
 <tr>
 <td>
 
@@ -17,50 +17,65 @@
 <!-- ======================================= -->
 <!-- ======================================= -->
 <!-- ======================================= -->
-<table width="100%" border=0 cellpadding=0 cellspacing=0>
+<table width="100%" border=1 cellpadding=0 cellspacing=0>
 <tr>
 <td width="50%" bgcolor="#E0FFFF" valign="top">
-===Erthygel dysquedhys an mys-ma===
+====Erthygel dysquedhys an mys-ma====
 <div>
 {{monthfeature/{{CURRENTYEAR}}{{CURRENTMONTH}}}}
 </div>
+<small>
 [[futuremonthfeatures|Clykyeugh omma dhe dhyllo erthyglow pup mys yn termyn a-dhe]]
+</small>
 </td>
 <td  width="50%"  bgcolor="#FFF5F5" valign="top">
-===Y'n newodhow===
+====Y'n newodhow====
 <div>
 {{Template:news}}
 </div>
+<small>
+[[Template:news|Clykyeugh omma dhe dhyllo an erthygel ma adhedro maters yn kever an newodhow]]
+</small>
 </td>
 </tr>
 <tr>
 <td width="50%"   bgcolor="#FFE2E2" valign="top">
-===Ow wharfos an mys-ma...===
+====Ow wharfos an mys-ma...====
 <div>
 {{eventsthismonth/{{CURRENTMONTH}}}}
 </div>
+<small>
 [[alleventsthismonth|Clykyeugh omma dhe dhyllo erthyglow wharfedhyans resek yn mysow erel pup bledhen]]
+</small>
 </td>
 <td width="50%"   bgcolor="#BBFFBB" valign="top">
-===A wrussough-why aswonvos?...===
+====A wrussough-why aswonvos?...====
 <div>
 {{Template:didyouknow}}
 </div>
+<small>
+[[Template:didyouknow|Clykyeugh omma dhe dhyllo an erthyglow ma yn kever wharfedhyans, poblow, po taclow nyns yu aswonvys da]]
+</small>
 </td>
 </tr>
 <tr>
 <td width="50%"   bgcolor="#FAF9B2" valign="top">
-===Pandra a wharfys an mys-ma...===
+====Pandr'a wharfys an mys-ma...====
 <div>
 {{historythismonth/{{CURRENTMONTH}}}}
 </div>
+<small>
 [[allhistorythismonth|Clykyeugh omma dhe dhyllo erthyglow adhedro wharfedhyans ystorek yn mysow erel]]
+</small>
 </td>
 <td width="50%"   bgcolor="#F5F5DC" valign="top">
-===Erel...===
+====Erel...====
 <div>
 {{miscellaneous}}
 </div>
+<small>
+[[Template:miscellany|Clykyeugh omma dhe dhyllo an erthyglow ma yn kever wharfedhyans, poblow, po taclow a bup sort]]
+</small>
 </td>
 </tr>
 </table>
@@ -72,23 +87,23 @@
 <tr>
 <td bgcolor="#f3f3ff">
 <!--Kelghwodhyador-->
-===Kelghwodhyador===
+====Kelghwodhyador====
 {{wikitopics}}
 </td>
 </tr>
 <tr>
 <td bgcolor="#BBFFBB">
 <!--Kevrennow-->
-===Kevrennow===
+====Kevrennow====
 {{links}}
 </td>
 </tr>
 <tr>
 <td bgcolor="#ddddff">
-===Wikipedia yn yéthow erel===
+====Wikipedia yn yéthow erel====
 {{Template:Wikipedialang}}
 ----
-===Towlow whór Wikipedia===
+====Towlow whór Wikipedia====
 {{Template:Wikipediasister}}
 [[br:]]
 [[cy:]]
@@ -101,7 +116,7 @@
 </td>
 </tr>
 </table>
-
+<!-- 
 <table width="100%" border=1 cellpadding=0 cellspacing=0>
 <tr>
 <td bgcolor="#f3f3ff"> 1</td>
@@ -118,6 +133,6 @@
 <td bgcolor="#FAF9EC"> 1</td>
 </tr>
 </table>
-
+-->
 __NOTOC__
 __NOEDITSECTION__
