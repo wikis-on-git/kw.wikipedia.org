@@ -56,17 +56,6 @@
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top" style="background: #BBFFBB; border: 1px solid green;">
-====A wrüssough-why gothvos?====
-<div>
-{{Template:didyouknow}}
-</div>
-<small>
-[[Template:didyouknow|Clykyeugh omma dhe dhyllo an erthyglow ma yn kever wharfedhyans, poblow, po taclow nag yu aswonys yn ta]]
-</small>
-</td>
-</tr>
-<tr>
 <td width="100%" valign="top"  style="background: #FAF9B2; border: 1px solid orange;">
 ====An mýs-ma====
 <div>
@@ -74,17 +63,6 @@
 </div>
 <small>
 [[mysow|Clykyeugh omma dhe dhyllo erthyglow ynkever pup mys y'n vledhen]]
-</small>
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top"  style="background: #F5F5DC; border: 1px solid olive;">
-====Cofscryvaow====
-<div>
-{{Cofscryvaow}}
-</div>
-<small>
-[[Template:miscellaneous|Clykyeugh omma dhe dhyllo an erthyglow ma yn kever wharfedhyans, poblow, po taclow a bup sort]]
 </small>
 </td>
 </tr>
@@ -149,6 +127,28 @@
 </div>
 <small>
 [[Template:news|Clykyeugh omma dhe dhyllo an erthygel ma adhedro maters yn kever an newodhow]]
+</small>
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top" style="background: #BBFFBB; border: 1px solid green;">
+====A wrüssough-why gothvos?====
+<div>
+{{Template:didyouknow}}
+</div>
+<small>
+[[Template:didyouknow|Clykyeugh omma dhe dhyllo an erthyglow ma yn kever wharfedhyans, poblow, po taclow nag yu aswonys yn ta]]
+</small>
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top"  style="background: #F5F5DC; border: 1px solid olive;">
+====Cofscryvaow====
+<div>
+{{Cofscryvaow}}
+</div>
+<small>
+[[Template:miscellaneous|Clykyeugh omma dhe dhyllo an erthyglow ma yn kever wharfedhyans, poblow, po taclow a bup sort]]
 </small>
 </td>
 </tr>
