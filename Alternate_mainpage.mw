@@ -83,7 +83,7 @@
 <td width="50%"   bgcolor="#FAF9B2" valign="top">
 ====An mýs-ma...====
 <div>
-{{historythismonth/{{CURRENTMONTH}}}}
+{{mys_{{CURRENTMONTH}}}}
 </div>
 <small>
 [[allhistorythismonth|Clykyeugh omma dhe dhyllo erthyglow adhedro wharfedhyans ystorek yn mysyow erel]]
