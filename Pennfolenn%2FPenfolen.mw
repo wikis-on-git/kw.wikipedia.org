@@ -1,38 +1,47 @@
-<!-- Date -->
-{|-
-| width="100%" style="border: 1px solid #333333; background:#DAFCEC; padding: 5px;" |
-<div align="center">'''Déth hedhyu yú: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} orth {{CURRENTTIME}} (GMT)'''</div>
-|-
-|
+<table width="100%" border="0" cellspacing=0 cellpadding=0>
+<tr>
+<td>
 
+<table width="100%" border="0" cellspacing=0 cellpadding=0>
+<tr>
+<td width="100%" align="left" valign="top"  bgcolor="#FAF9B2"> 
+<h1>Wolcum dhe Wikipedia Kernewek</h1>
+<center><small>Déth hedhyu yú: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} orth {{CURRENTTIME}} (GMT)</small></center>
+<center>
+'''Dynnargh''' dhe Wikipedia yn [[Yeth_Kernewek|Kernewek]]!
+</center>
+
+Yma '''{{NUMBEROFARTICLES}}''' a erthyglow y'n Wikipedia kernewek y'n termyn ma. Mar kewsydh neb rannyeth a Gernewek po mars esos ow tyski  an yeth, ''ty a yll gweres!'' Y hyll'ta skrifa erthygel yn kever neppyth dhe les yn godhoniador, mes yma nebes profyansow a Gernow a-is. Nyns yw erthyglow gans kevrennow rudh skrifys na hwath, mes y hyllir hwath amendya, gwellhe hag ystynna erthyglow gans kevrennow glas. 
+----
+<small>
+'''Welcome''' to Wikipedia in [[:en:Cornish_language|Cornish]]!<br />
+</small>
+<small>
+There are currently '''{{NUMBEROFARTICLES}}''' articles in the Cornish Wikipedia. If you speak Cornish or are learning the language, you can help! You can write an article on anything worthy of inclusion in an encyclopedia, but below are some Cornish suggestions. Articles with red links are those which haven't been written yet, but articles with blue links can still be edited, improved and expanded upon.
+</small>
+
+</td>
+<td width="1%" align="center">
 [[Image:Flag.png|right|St Piran's Flag]]
 [[Image:Ukkernow.png|right|Kernow]]
-'''Dynnargh''' dhe Wikipedia yn [[Yeth_Kernewek|Kernewek]]!
-<br /><br />
-Yma '''{{NUMBEROFARTICLES}}''' a erthyglow y'n Wikipedia kernewek y'n termyn ma. Mar kewsydh neb rannyeth a Gernewek po mars esos ow tyski  an yeth, ''ty a yll gweres!'' Y hyll'ta skrifa erthygel yn kever neppyth dhe les yn godhoniador, mes yma nebes profyansow a Gernow a-is. Nyns yw erthyglow gans kevrennow rudh skrifys na hwath, mes y hyllir hwath amendya, gwellhe hag ystynna erthyglow gans kevrennow glas. 
-<br /><br />
-----
-<small><br />
-'''Welcome''' to Wikipedia in [[:en:Cornish_language|Cornish]]!
-<br /><br />
-There are currently '''{{NUMBEROFARTICLES}}''' articles in the Cornish Wikipedia. If you speak Cornish or are learning the language, you can help! You can write an article on anything worthy of inclusion in an encyclopedia, but below are some Cornish suggestions. Articles with red links are those which haven't been written yet, but articles with blue links can still be edited, improved and expanded upon.
-<br /><br /></small>
-----
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#f3f3ff">
 <!--Bagasow Aswonvos-->
-|- valign="top"
-| style="background: #E0FFFF; border: 1px solid #339999; padding: 5px;" |
-<h2 style="font-size: 120%;">'''Bagasow Aswonvos'''</h2>
 {{wikitopics}}
-{|- 
-|colspan="2" bgcolor="#fffffc" style="border:1px solid #cfcfcf;padding:1em;padding-top:0.5em;padding-bottom:0em; font-size:100%; color: black;"|
+</td>
+</tr>
+<tr>
+<td bgcolor="#ddddff">
 ===Wikipedia in other languages===
 {{Template:Wikipedialang}}
 ----
-
 ===Wikipedia's sister projects===
-
 Wikipedia is run by the non-profit [[:en:Wikimedia|Wikimedia]] Foundation.  Wikimedia operates several other  [[:en:Wikipedia:Multilingual coordination|multilingual]] and [[:en:Wikipedia:Copyrights|open-content]] wiki projects:
-
 {|-
 | align="center" | [[m:|'''Meta-Wiki''']]<br/>''Coordination of all Wikimedia projects''
 | align="center" | [[wiktionary:|'''Wiktionary''']]<br/>''A dictionary and thesaurus''
@@ -41,7 +50,6 @@ Wikipedia is run by the non-profit [[:en:Wikimedia|Wikimedia]] Foundation.  Wiki
 | align="center" | [[wikisource:Main Page:English|'''Wikisource''']]<br/>''Free source documents''
 |}
 If you find Wikipedia or its sister projects useful, please consider making a [http://wikimediafoundation.org/fundraising donation.] Donations are used primarily for purchasing computer equipment and launching new [[m:Complete_list_of_wikimedia_projects#Proposed_projects|projects]].
-|}
 <!-- <br><br>
 [http://kw.wikipedia.org/w/wiki.phtml?title=Special:Allpages&from=1 List of all pages in the Cornish Wikipedia] -->
 [[br:]]
@@ -52,5 +60,24 @@ If you find Wikipedia or its sister projects useful, please consider making a [h
 [[ga:]]
 [[gd:]]
 [[gv:]]
+</td>
+</tr>
+</table>
+<!-- 
+<table width="100%" border=1 cellpadding=0 cellspacing=0>
+<tr>
+<td bgcolor="#f3f3ff"> 1</td>
+<td bgcolor="#ddddff"> 1</td>
+<td bgcolor="#f3f3ff"> 1</td>
+<td bgcolor="#FFE2E2"> 1</td>
+<td bgcolor="#FFF5F5"> 1</td>
+<td bgcolor="#BBFFBB"> 1</td>
+<td bgcolor="#FAF9B2"> 1</td>
+<td bgcolor="#FFFFEC"> 1</td>
+</tr>
+</table>
+-->
+
+
 
 __NOTOC__
