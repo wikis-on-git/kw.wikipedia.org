@@ -131,7 +131,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top" style="background: #BBFFBB; border: 1px solid green;">
+<td align="left" valign="left" width="100%" valign="top" style="background: #E0FFFF; border: 1px solid blue;">
 ====A wrüssough-why gothvos?====
 <div>
 {{Template:didyouknow}}
@@ -206,7 +206,7 @@
 </tr>
 </table>
 -->
-<!-- -->
+<!--
 <table>
 <tr>
 <td style="background: #E6E6FA; border: 1px solid red;">red</td>
@@ -225,6 +225,6 @@
 <td style="background: #FAF9EC; border: 1px solid #333; padding: 0.5em 2em 0.5em 2em;" >8</td>
 </tr>
 </table>
-<!-- -->
+-->
 __NOTOC__
 __NOEDITSECTION__
