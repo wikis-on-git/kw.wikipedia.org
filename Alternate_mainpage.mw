@@ -43,7 +43,7 @@
 <td width="100%" bgcolor="#E0FFFF" valign="top">
 ====Erthygel dysquedhys an mýs-ma====
 <div>
-{{monthfeature/{{CURRENTYEAR}}{{CURRENTMONTH}}}}
+{{erthyglow_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
 </div>
 <small>
 [[erthyglow_pupteth|Clykyeugh omma dhe dhyllo erthyglow pup mys yn termyn a-dhe]]
