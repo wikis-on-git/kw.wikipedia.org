@@ -32,7 +32,15 @@ There are currently '''{{NUMBEROFARTICLES}}''' articles in the Cornish Wikipedia
 <tr>
 <td bgcolor="#f3f3ff">
 <!--Bagasow Aswonvos-->
+===Bagasow Aswonvos===
 {{wikitopics}}
+</td>
+</tr>
+<tr>
+<td bgcolor="#BBFFBB">
+<!--Kevrennow-->
+===Kevrennow===
+{{links}}
 </td>
 </tr>
 <tr>
@@ -63,7 +71,7 @@ If you find Wikipedia or its sister projects useful, please consider making a [h
 </td>
 </tr>
 </table>
-<!-- 
+<!--
 <table width="100%" border=1 cellpadding=0 cellspacing=0>
 <tr>
 <td bgcolor="#f3f3ff"> 1</td>
