@@ -1,133 +1,54 @@
-<table border="0" cellpadding=0 cellspacing=4>
-<tr>
-<td width="1%">[[image:circleflag.gif]]</td>
-<td width="100%" align="left" valign="top">
-<small>Nowethhés dewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} UTC. ( Mar plék clykyeugh war'n boton dasfrethhé dhe weles an dewetha versyon a'n folen wysva ma. )</small>
-</td>
-</tr>
-</table>
-<!-- _____________________________________________________________ -->
-<table width="100%" style="border: 5px">
-<tr>
-<td width="25%" valign="top" align="center" style="background: #FFE2E2; border: 1px solid red;" >
-'''Dynnargh dhe Wikipedia Kernewek <br />([[KK]])'''</td>
-<td width="25%" valign="top" align="center" style="background: #FAF9B2; border: 1px solid olive;">
-'''Welkom the Wikipedia Kernuack <br />([[Kernuack]])'''</td>
-<td width="25%" valign="top" align="center" style="background: #BBFFBB; border: 1px solid green;">
-'''Wolcum dhe Wikipedia Kernewek <br />([[KU]])'''</td>
-<td width="25%" valign="top" align="center" style="background: #ddddff; border: 1px solid blue;">
-'''Wolcum dhe Wikipedia Kernowek <br />([[KUA]])'''</td>
-</tr>
-</table>
-<!-- ============================================================= -->
-<table width="100%" border="0" cellpadding=0 cellspacing=0>
+<table width="100%" border="1" cellspacing=0 cellpadding=0 cellmargin=4>
 <tr>
 <td>
-<!-- ------------------------------------------------------------- -->
-<table width="100%" border="0" cellpadding=0 cellspacing=0>
+
+<table width="100%" border="0" cellspacing=0 cellpadding=0>
 <tr>
-<td width="50%" align="left" valign="top"> 
-<!-- ............................................................ -->
-<table width="100%" border="0" >
-<td width="100%" align="left" valign="top" style="background: #FFFFEC; border: 1px solid olive;"> 
-{{Template:Wikipediawelcome_{{CURRENTDAYNAME}}}}
-<small>
-[[Wikipediawelcome_ranyeth|Clykyeugh omma dhe dhyllo penfolen pupteth y'n ranyeth dhyffrans]]
-</small>
-</td>
-</tr>
+<td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
+<center>Nowethhés dewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} (GMT)</center>
+{{Template:Wikipediawelcome}}
+----
+<center>
+<table width="80%" border="0" cellspacing=0 cellpadding=0>
 <tr>
-<td width="100%" align="left" valign="top" style="background: #f3f3ff; border: 1px solid purple;"> 
-* [[#Erthygel dysquedhys hedhyu|1. Erthygel dysquedhys hedhyu]]
-* [[#Y'n newodhow|2. Y'n newodhow]]
-* [[#Ymaj pupteth hedhyu|3. Ymaj pupteth hedhyu]]
-* [[#Penbloth hedhyu|4. Penbloth hedhyu]]
-* [[#A wrüssough-why aswonvos?|5. A wrüssough-why gothvos?]]
-* [[#An mýs-ma|6. An mýs-ma]]
-* [[#Cofscryvaow|7. Cofscryvaow]]
-* [[#Kelghwodhyador|8. Kelghwodhyador (Encyclopedya)]]
-* [[#Kevrennow|9. Kevrennow]]
-* [[#Wikipedia yn yéthow erel|10. Wikipedia yn yéthow erel]]
-</td>
-</tr>
-<tr>
-<td align="left" width="100%" valign="top" style="background: #E0FFFF; border: 1px solid blue;">
-====Wharfedhyans an mys ma====
-<div>
-{{wharfedhyans_mys_{{CURRENTYEAR}}{{CURRENTMONTH}}}}
-</div>
-<small>
-[[wharfedhyans_pup_mys|Clykyeugh omma dhe dhyllo templatys whathfedhyans pup mys y'n vledhen]]
-</small>
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top" style="background: #FFE2E2; border: 1px solid red;">
-====Penbloth hedhyu====
-<div>
-{{penbloth_{{CURRENTMONTH}}_{{CURRENTDAY}}}}
-</div>
-<small>
-[[penbloth_hedhyu|Clykyeugh omma dhe dhyllo erthyglow penbloth pup deth y'n veldhen]]
-</small>
-</td>
-</tr>
-<tr>
-<td style="background: #f3f3ff; border: 1px solid purple;">
-<!--Kelghwodhyador-->
-====Kelghwodhyador====
-{{wikitopics}}
+<td width="50%" bgcolor="#FFFFEC" valign="top" align="left">
+* [[#Erthygel dysquedhys an mýs-ma|1. Erthygel dysquedhys an mýs-ma]]
+* [[#Y'n newodhow...|2. Y'n newodhow...]]
+* [[#Ow wharfos an mýs-ma...|3. Ow wharfos an mýs-ma...]]
+* [[#A wrüssough-why aswonvos?...|4. A wrüssough-why aswonvos?...]]
+* [[#Pandr'a wharfa an mýs-ma...|5. Pandr'a wharfa an mýs-ma...]]
+* [[#Erel...|6. Erel...]]
+* [[#Kelghwodhyador|7. Kelghwodhyador]]
+* [[#Kevrennow|8. Kevrennow]]
+* [[#Wikipedia yn yéthow erel|9. Wikipedia yn yéthow erel]]
 </td>
 </tr>
 </table>
 </center>
-<!-- ============================================================= -->
-<!-- ============================================================= -->
-<!-- ============================================================= -->
-<!-- ============================================================= -->
-<!-- ============================================================= -->
-<!-- ============================================================= -->
-<!-- ============================================================= -->
-<!-- ============================================================= -->
-<!-- ============================================================= -->
-<!-- ============================================================= -->
-<!-- ============================================================= -->
-<!-- ============================================================= -->
 </td>
-<td width="50%" align="center" valign="top">
-<!--
+<td width="1%" align="center" valign="top">
 [[Image:Flag.png|center|St Piran's Flag]]
 [[Image:Ukkernow.png|center|Kernow]]
--->
-<!-- ============================================================= -->
-<table width="100%" border=0>
-<tr>
-<td align="left" width="100%" valign="top" style="background: #E0FFFF; border: 1px solid blue;">
-====Erthygel dysquedhys hedhyu====
-<div>
-{{erthyglow_pupteth_{{CURRENTMONTH}}_{{CURRENTDAY}}}}
-</div>
-<small>
-[[erthyglow_pupteth|Clykyeugh omma dhe dhyllo erthyglow dysquedhys pupteth y'n vledhen]]
-</small>
 </td>
 </tr>
+</table>
+
+<!-- ======================================= -->
+<!-- ======================================= -->
+<!-- ======================================= -->
+<table width="100%" border=1 cellpadding=0 cellspacing=0>
 <tr>
-<td align="center" valign="top" width="100%" valign="top"  style="background: #F5F5DC; border: 1px solid olive;">
-<!--Ymaj pupteth hedhyu-->
-====Ymaj pupteth hedhyu====
+<td width="50%" bgcolor="#E0FFFF" valign="top">
+====Erthygel dysquedhys an mýs-ma====
 <div>
-{{ymajys_pupteth_{{CURRENTMONTH}}_{{CURRENTDAY}}}}
+{{monthfeature/{{CURRENTYEAR}}{{CURRENTMONTH}}}}
 </div>
 <small>
-[[ymajys_pupteth|Clykyeugh omma dhe worra ymajys dysquedhys pupteth y'n vledhen]]
+[[futuremonthfeatures|Clykyeugh omma dhe dhyllo erthyglow pup mys yn termyn a-dhe]]
 </small>
-<!-- {{erthyglow_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}-->
 </td>
-</tr>
-<tr>
-<td align="left" width="100%" valign="top" style="background: #FFF5F5; border: 1px solid orange;">
-====Y'n newodhow====
+<td  width="50%"  bgcolor="#FFF5F5" valign="top">
+====Y'n newodhow...====
 <div>
 {{Template:news}}
 </div>
@@ -137,56 +58,67 @@
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top"  style="background: #FAF9B2; border: 1px solid orange;">
-====An mýs-ma====
+<td width="50%"   bgcolor="#FFE2E2" valign="top">
+====Ow wharfos an mýs-ma...====
 <div>
-{{mys_{{CURRENTMONTH}}}}
+{{eventsthismonth/{{CURRENTMONTH}}}}
 </div>
 <small>
-[[mysow|Clykyeugh omma dhe dhyllo erthyglow ynkever pup mys y'n vledhen]]
+[[alleventsthismonth|Clykyeugh omma dhe dhyllo erthyglow wharfedhyans resek yn mysyow erel pup bledhen]]
 </small>
 </td>
-</tr>
-<tr>
-<td align="left" valign="left" width="100%" valign="top" style="background: #E0FFFF; border: 1px solid blue;">
-====A wrüssough-why gothvos?====
+<td width="50%"   bgcolor="#BBFFBB" valign="top">
+====A wrüssough-why aswonvos?...====
 <div>
 {{Template:didyouknow}}
 </div>
 <small>
-[[Template:didyouknow|Clykyeugh omma dhe dhyllo an erthyglow ma yn kever wharfedhyans, poblow, po taclow nag yu aswonys yn ta]]
+[[Template:didyouknow|Clykyeugh omma dhe dhyllo an erthyglow ma yn kever wharfedhyans, poblow, po taclow nyns yu aswonys yn ta]]
 </small>
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top"  style="background: #F5F5DC; border: 1px solid olive;">
-====Cofscryvaow====
+<td width="50%"   bgcolor="#FAF9B2" valign="top">
+====Pandr'a wharfa an mýs-ma...====
 <div>
-{{Cofscryvaow}}
+{{historythismonth/{{CURRENTMONTH}}}}
 </div>
 <small>
-[[Template:cofscryvaow|Clykyeugh omma dhe dhyllo an erthyglow ma yn kever wharfedhyans, poblow, po taclow a bup sort]]
+[[allhistorythismonth|Clykyeugh omma dhe dhyllo erthyglow adhedro wharfedhyans ystorek yn mysyow erel]]
+</small>
+</td>
+<td width="50%"   bgcolor="#F5F5DC" valign="top">
+====Erel...====
+<div>
+{{miscellaneous}}
+</div>
+<small>
+[[Template:miscellaneous|Clykyeugh omma dhe dhyllo an erthyglow ma yn kever wharfedhyans, poblow, po taclow a bup sort]]
 </small>
 </td>
 </tr>
+</table>
+<!-- ======================================= -->
+<!-- ======================================= -->
+<!-- ======================================= -->
+</td>
+</tr>
 <tr>
-<td align="left" style="background: #BBFFBB; border: 1px solid green;">
+<td bgcolor="#f3f3ff">
+<!--Kelghwodhyador-->
+====Kelghwodhyador====
+{{wikitopics}}
+</td>
+</tr>
+<tr>
+<td bgcolor="#BBFFBB">
 <!--Kevrennow-->
 ====Kevrennow====
 {{links}}
 </td>
 </tr>
-</table>
-
-</td>
-</tr>
-</table>
-<!-- ============================================================= -->
-<!-- ============================================================= -->
-</td>
-</tr>
 <tr>
-<td style="background: #ddddff; border: 1px solid blue;">
+<td bgcolor="#ddddff">
 ====Wikipedia yn yéthow erel====
 {{Template:Wikipedialang}}
 ----
@@ -195,8 +127,6 @@
 </td>
 </tr>
 </table>
-
-<!-- ____________________________________________________________ -->
 [[br:]]
 [[cy:]]
 [[de:]]
@@ -205,41 +135,22 @@
 [[ga:]]
 [[gd:]]
 [[gv:]]
+
 <!--
 <table width="100%" border=1 cellpadding=0 cellspacing=0>
 <tr>
 <td bgcolor="#f3f3ff"> 1</td>
-<td bgcolor="#ddddff"> 2</td>
-<td bgcolor="#f3f3ff"> 3</td>
-<td bgcolor="#FFE2E2"> 4</td>
-<td bgcolor="#FFF5F5"> 5</td>
-<td bgcolor="#BBFFBB"> 6</td>
-<td bgcolor="#FAF9B2"> 7</td>
-<td bgcolor="#FFFFEC"> 8</td>
-<td bgcolor="#E6E6FA"> 9</td>
-<td bgcolor="#F5F5DC"> 10</td>
-<td bgcolor="#E0FFFF"> 11</td>
-<td bgcolor="#FAF9EC"> 12</td>
-</tr>
-</table>
--->
-<!--
-<table>
-<tr>
-<td style="background: #E6E6FA; border: 1px solid red;">red</td>
-<td style="background: #E6E6FA; border: 1px solid brown;">brown</td>
-<td style="background: #E6E6FA; border: 1px solid blue;">blue</td>
-<td style="background: #E6E6FA; border: 1px solid navy;">navy</td>
-<td style="background: #E6E6FA; border: 1px solid purple;">purple</td>
-<td style="background: #E6E6FA; border: 1px solid green;">green</td>
-<td style="background: #E6E6FA; border: 1px solid #006699;">1</td>
-<td style="background: #F5F5DC; border: 1px solid #996600;">2</td>
-<td style="background: #E6E6FA; border: 1px solid #006699; padding: 5px;" >3</td>
-<td style="background: #F5F5DC; border: 1px solid #996600; padding: 5px" >4</td>
-<td style="background: #E0FFFF; border: 1px solid #339999;">5</td>
-<td style="background: #E0FFFF; border: 1px solid #339999; padding: 0.5em 2em 0.5em 2em;" >6</td>
-<td style="background: #FAF9EC; border: 1px solid #333;" >7</td>
-<td style="background: #FAF9EC; border: 1px solid #333; padding: 0.5em 2em 0.5em 2em;" >8</td>
+<td bgcolor="#ddddff"> 1</td>
+<td bgcolor="#f3f3ff"> 1</td>
+<td bgcolor="#FFE2E2"> 1</td>
+<td bgcolor="#FFF5F5"> 1</td>
+<td bgcolor="#BBFFBB"> 1</td>
+<td bgcolor="#FAF9B2"> 1</td>
+<td bgcolor="#FFFFEC"> 1</td>
+<td bgcolor="#E6E6FA"> 1</td>
+<td bgcolor="#F5F5DC"> 1</td>
+<td bgcolor="#E0FFFF"> 1</td>
+<td bgcolor="#FAF9EC"> 1</td>
 </tr>
 </table>
 -->
