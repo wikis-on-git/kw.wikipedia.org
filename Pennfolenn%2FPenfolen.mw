@@ -132,11 +132,11 @@
 <td align="center" valign="top" width="100%" valign="top"  style="background: #F5F5DC; border: 1px solid olive;">
 <!--Ymaj pupteth hedhyu-->
 ====Ymaj pupteth hedhyu====
-<div>
-[[Image:Kota_Arvow_Kernow.png|Kota Arvow Kernow]]
+<div class="floatright" style="width: 250px">
+{{ymajys_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
+</div> 
 </div>
 <small>
-{{ymajys_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
 </small>
 <!-- {{erthyglow_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}-->
 </td>
