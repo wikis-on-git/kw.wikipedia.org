@@ -5,21 +5,7 @@
 <table width="100%" border="0" cellspacing=0 cellpadding=0>
 <tr>
 <td width="100%" align="left" valign="top"  bgcolor="#FAF9B2"> 
-<h1>Wolcum dhe Wikipedia Kernewek</h1>
-<center><small>Déth hedhyu yú: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} orth {{CURRENTTIME}} (GMT)</small></center>
-<center>
-'''Dynnargh''' dhe Wikipedia yn [[Yeth_Kernewek|Kernewek]]!
-</center>
-
-Yma '''{{NUMBEROFARTICLES}}''' a erthyglow y'n Wikipedia kernewek y'n termyn ma. Mar kewsydh neb rannyeth a Gernewek po mars esos ow tyski  an yeth, ''ty a yll gweres!'' Y hyll'ta skrifa erthygel yn kever neppyth dhe les yn godhoniador, mes yma nebes profyansow a Gernow a-is. Nyns yw erthyglow gans kevrennow rudh skrifys na hwath, mes y hyllir hwath amendya, gwellhe hag ystynna erthyglow gans kevrennow glas. 
-----
-<small>
-'''Welcome''' to Wikipedia in [[:en:Cornish_language|Cornish]]!<br />
-</small>
-<small>
-There are currently '''{{NUMBEROFARTICLES}}''' articles in the Cornish Wikipedia. If you speak Cornish or are learning the language, you can help! You can write an article on anything worthy of inclusion in an encyclopedia, but below are some Cornish suggestions. Articles with red links are those which haven't been written yet, but articles with blue links can still be edited, improved and expanded upon.
-</small>
-
+{{Template:Wikipediawelcome}}
 </td>
 <td width="1%" align="center" valign="top">
 [[Image:Flag.png|right|St Piran's Flag]]
