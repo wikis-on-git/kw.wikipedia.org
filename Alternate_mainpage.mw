@@ -44,12 +44,44 @@
 </table>
 <!-- ------------------------------------------------------------- -->
 
-
 </center>
 </td>
+
+
+
 <td width="1%" align="center" valign="top">
 <!--[[Image:Flag.png|center|St Piran's Flag]]
 [[Image:Ukkernow.png|center|Kernow]]-->
+
+
+
+<!-- ============================================================= -->
+<table width="100%" border=0 style="padding: 5px">
+<tr>
+<td width="100%" valign="top" style="background: #E0FFFF; border: 1px solid blue;">
+====Erthygel dysquedhys hedhyu====
+<div>
+{{erthyglow_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
+</div>
+<small>
+[[erthyglow_pupteth|Clykyeugh omma dhe dhyllo erthyglow dysquedhys pupteth y'n vledhen]]
+</small>
+</td>
+<tr>
+<tr>
+<td  width="100%" valign="top" style="background: #FFF5F5; border: 1px solid orange;">
+====Y'n newodhow====
+<div>
+{{Template:news}}
+</div>
+<small>
+[[Template:news|Clykyeugh omma dhe dhyllo an erthygel ma adhedro maters yn kever an newodhow]]
+</small>
+</td>
+</tr>
+<tr>
+</table>
+
 </td>
 </tr>
 </table>
