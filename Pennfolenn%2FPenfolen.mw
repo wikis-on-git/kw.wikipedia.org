@@ -56,17 +56,6 @@
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top"  style="background: #FAF9B2; border: 1px solid orange;">
-====An mýs-ma====
-<div>
-{{mys_{{CURRENTMONTH}}}}
-</div>
-<small>
-[[mysow|Clykyeugh omma dhe dhyllo erthyglow ynkever pup mys y'n vledhen]]
-</small>
-</td>
-</tr>
-<tr>
 <td style="background: #f3f3ff; border: 1px solid purple;">
 <!--Kelghwodhyador-->
 ====Kelghwodhyador====
@@ -127,6 +116,17 @@
 </div>
 <small>
 [[Template:news|Clykyeugh omma dhe dhyllo an erthygel ma adhedro maters yn kever an newodhow]]
+</small>
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top"  style="background: #FAF9B2; border: 1px solid orange;">
+====An mýs-ma====
+<div>
+{{mys_{{CURRENTMONTH}}}}
+</div>
+<small>
+[[mysow|Clykyeugh omma dhe dhyllo erthyglow ynkever pup mys y'n vledhen]]
 </small>
 </td>
 </tr>
