@@ -173,5 +173,25 @@
 </tr>
 </table>
 -->
+
+<table>
+<tr>
+<td style="background: #E6E6FA; border: 1px solid #006699;">
+</td>
+<td style="background: #F5F5DC; border: 1px solid #996600;"style="background: #E6E6FA; border: 1px solid #006699; padding: 5px;" >
+</td>
+<td style="background: #F5F5DC; border: 1px solid #996600; padding: 5px" >
+</td>
+<td style="background: #E0FFFF; border: 1px solid #339999;"
+</td>
+<td style="background: #E0FFFF; border: 1px solid #339999; padding: 0.5em 2em 0.5em 2em;" >
+</td>
+<td style="background: #FAF9EC; border: 1px solid #333;" >
+</td>
+<td style="background: #FAF9EC; border: 1px solid #333; padding: 0.5em 2em 0.5em 2em;" >
+</td>
+</tr>
+</table>
+
 __NOTOC__
 __NOEDITSECTION__
