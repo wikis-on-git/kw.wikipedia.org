@@ -1,4 +1,4 @@
-<table width="100%" border="1" cellspacing=0 cellpadding=0 cellmargin=4>
+<table width="100%" border="0" cellspacing=0 cellpadding=0 cellmargin=4>
 <tr>
 <td>
 
@@ -6,19 +6,24 @@
 <tr>
 <td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
 <center>Nowethhés dewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} (GMT)</center>
-{{Template:Wikipediawelcome}}
+{{Template:Wikipediawelcome_{{CURRENTDAYNAME}}}}
+
+<small>
+[[Wikipediawelcome_ranyeth|Clykyeugh omma dhe dhyllo penfolen pupteth y'n ranyeth dyffrans]]
+</small>
+
 ----
 <center>
 <table width="80%" border="0" cellspacing=0 cellpadding=0>
 <tr>
 <td width="50%" bgcolor="#FFFFEC" valign="top" align="left">
-* [[#Erthygel dysquedhys an mýs-ma|1. Erthygel dysquedhys an mýs-ma]]
-* [[#Y'n newodhow...|2. Y'n newodhow...]]
-* [[#Ow wharfos an mýs-ma...|3. Ow wharfos an mýs-ma...]]
-* [[#A wrüssough-why aswonvos?...|4. A wrüssough-why aswonvos?...]]
-* [[#Pandr'a wharfa an mýs-ma...|5. Pandr'a wharfa an mýs-ma...]]
-* [[#Erel...|6. Erel...]]
-* [[#Kelghwodhyador|7. Kelghwodhyador]]
+* [[#Erthygel dysquedhys hedhyu|1. Erthygel dysquedhys hedhyu]]
+* [[#Y'n newodhow|2. Y'n newodhow]]
+* [[#Penbloth hedhyu|3. Penbloth hedhyu]]
+* [[#A wrüssough-why aswonvos?|4. A wrüssough-why aswonvos?]]
+* [[#An mýs-ma|5. An mýs-ma]]
+* [[#Erel|6. Erel]]
+* [[#Kelghwodhyador|7. Kelghwodhyador (Encyclopedya)]]
 * [[#Kevrennow|8. Kevrennow]]
 * [[#Wikipedia yn yéthow erel|9. Wikipedia yn yéthow erel]]
 </td>
@@ -36,19 +41,21 @@
 <!-- ======================================= -->
 <!-- ======================================= -->
 <!-- ======================================= -->
-<table width="100%" border=1 cellpadding=0 cellspacing=0>
+<table width="100%" border=0 cellpadding=0 cellspacing=0>
 <tr>
-<td width="50%" bgcolor="#E0FFFF" valign="top">
-====Erthygel dysquedhys an mýs-ma====
+<td width="100%" bgcolor="#E0FFFF" valign="top">
+====Erthygel dysquedhys hedhyu====
 <div>
-{{monthfeature/{{CURRENTYEAR}}{{CURRENTMONTH}}}}
+{{erthyglow_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
 </div>
 <small>
-[[futuremonthfeatures|Clykyeugh omma dhe dhyllo erthyglow pup mys yn termyn a-dhe]]
+[[erthyglow_pupteth|Clykyeugh omma dhe dhyllo erthyglow dysquedhys pupteth y'n vledhen]]
 </small>
 </td>
-<td  width="50%"  bgcolor="#FFF5F5" valign="top">
-====Y'n newodhow...====
+<tr>
+<tr>
+<td  width="100%"  bgcolor="#FFF5F5" valign="top">
+====Y'n newodhow====
 <div>
 {{Template:news}}
 </div>
@@ -58,17 +65,19 @@
 </td>
 </tr>
 <tr>
-<td width="50%"   bgcolor="#FFE2E2" valign="top">
-====Ow wharfos an mýs-ma...====
+<td width="100%"   bgcolor="#FFE2E2" valign="top">
+====Penbloth hedhyu====
 <div>
-{{eventsthismonth/{{CURRENTMONTH}}}}
+{{penbloth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
 </div>
 <small>
-[[alleventsthismonth|Clykyeugh omma dhe dhyllo erthyglow wharfedhyans resek yn mysyow erel pup bledhen]]
+[[penbloth_hedhyu|Clykyeugh omma dhe dhyllo erthyglow penbloth pup deth y'n veldhen]]
 </small>
 </td>
-<td width="50%"   bgcolor="#BBFFBB" valign="top">
-====A wrüssough-why aswonvos?...====
+</tr>
+<tr>
+<td width="100%"   bgcolor="#BBFFBB" valign="top">
+====A wrüssough-why aswonvos?====
 <div>
 {{Template:didyouknow}}
 </div>
@@ -78,17 +87,19 @@
 </td>
 </tr>
 <tr>
-<td width="50%"   bgcolor="#FAF9B2" valign="top">
-====Pandr'a wharfa an mýs-ma...====
+<td width="100%"   bgcolor="#FAF9B2" valign="top">
+====An mýs-ma====
 <div>
-{{historythismonth/{{CURRENTMONTH}}}}
+{{mys_{{CURRENTMONTH}}}}
 </div>
 <small>
-[[allhistorythismonth|Clykyeugh omma dhe dhyllo erthyglow adhedro wharfedhyans ystorek yn mysyow erel]]
+[[mysow|Clykyeugh omma dhe dhyllo erthyglow ynkever pup mys y'n vledhen]]
 </small>
 </td>
-<td width="50%"   bgcolor="#F5F5DC" valign="top">
-====Erel...====
+</tr>
+<tr>
+<td width="100%"   bgcolor="#F5F5DC" valign="top">
+====Erel====
 <div>
 {{miscellaneous}}
 </div>
