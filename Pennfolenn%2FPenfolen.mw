@@ -1,3 +1,10 @@
+<!-- Date -->
+{|-
+| width="100%" style="border: 1px solid #333333; background:#DAFCEC; padding: 5px;" |
+<div align="center">'''Déth hedhyu yú: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} orth {{CURRENTTIME}} (GMT)'''</div>
+|-
+|
+
 [[Image:Flag.png|right|St Piran's Flag]]
 [[Image:Ukkernow.png|right|Kernow]]
 '''Dynnargh''' dhe Wikipedia yn [[Yeth_Kernewek|Kernewek]]!
@@ -11,13 +18,15 @@ Yma '''{{NUMBEROFARTICLES}}''' a erthyglow y'n Wikipedia kernewek y'n termyn ma.
 There are currently '''{{NUMBEROFARTICLES}}''' articles in the Cornish Wikipedia. If you speak Cornish or are learning the language, you can help! You can write an article on anything worthy of inclusion in an encyclopedia, but below are some Cornish suggestions. Articles with red links are those which haven't been written yet, but articles with blue links can still be edited, improved and expanded upon.
 <br /><br /></small>
 ----
-<br /><br />
+<!--Bagasow Aswonvos-->
+|- valign="top"
+| style="background: #E0FFFF; border: 1px solid #339999; padding: 5px;" |
+<h2 style="font-size: 120%;">'''Bagasow Aswonvos'''</h2>
+{{wikitopics}}
+----
 *'''[[Kernow]]''' ([[:en:Cornwall|Cornwall]])
 *[[:Category:Testennow Kernewek|Testennow Kernewek]]
 **[[Politegieth Kernewek]]
-
-<br />
-
 ''[[:Category:Trevow yn Kernow|Trevow ha Gwigow]]:''
 *[[Aberfal]] ([[:en:Falmouth,_Cornwall|Falmouth]])
 *[[Bosvenegh]] ([[:en:Bodmin|Bodmin]])
@@ -49,7 +58,6 @@ There are currently '''{{NUMBEROFARTICLES}}''' articles in the Cornish Wikipedia
 *[[Sen Ostell]] ([[:en:St_Austell|St Austell]])
 *[[Tewynn Pleustri]] ([[:en:Newquay|Newquay]])
 *[[Tryverow]]/[[Truru]] ([[:en:Truro|Truro]])
-<br />
 ''[[Doronieth Kernewek|Traow doroniethel]]:''
 *[[Bronn Wennili]] ([[:en:Brown_Willy|Brown Willy]])
 *[[Tamer|Dowr Tamer]] ([[:en:River_Tamar|River Tamar]])
@@ -58,7 +66,6 @@ There are currently '''{{NUMBEROFARTICLES}}''' articles in the Cornish Wikipedia
 *[[Lysardh]] ([[:en:The_Lizard|The Lizard]])
 *[[Penn an Wlas]] ([[:en:Land's_End|Land's End]])
 *[[Ynysek Syllan]] ([[:en:Isles of Scilly|Scilly]])
-<br /><br />
 {|- 
 |colspan="2" bgcolor="#fffffc" style="border:1px solid #cfcfcf;padding:1em;padding-top:0.5em;padding-bottom:0em; font-size:100%; color: black;"|
 ===Wikipedia in other languages===
@@ -90,4 +97,3 @@ If you find Wikipedia or its sister projects useful, please consider making a [h
 [[gv:]]
 
 __NOTOC__
-__NOEDITSECTION__
