@@ -1,11 +1,7 @@
-<table width="100%" border="1" cellspacing=0 cellpadding=0 cellmargin=4>
-<tr>
-<td>
-
-<table width="100%" border="0" cellspacing=0 cellpadding=0>
+<table width="100%" border="2" cellspacing=0 cellpadding=0>
 <tr>
 <td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
-<center>Nowythhes yn tiwettha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} (UTC)</center>
+<center>'''Nowydhhes yn tiwettha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} (UTC)'''</center>
 </table>
 == Dynnargh dhe Wikipedi yn [[Yeth_Kernewek|Kernewek]]! ==
 
@@ -26,5 +22,3 @@ Yma '''{{NUMBEROFARTICLES}}''' a erthyglow y'n Wikipedi kernewek y'n termyn ma. 
 {{kevrennowKK}}
 </td>
 </tr>
-<tr>
-<td bgcolor="#ddddff">
