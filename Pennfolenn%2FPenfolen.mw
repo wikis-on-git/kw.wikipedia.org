@@ -118,7 +118,7 @@
 <!-- ============================================================= -->
 <table width="100%" border=0>
 <tr>
-<td width="100%" valign="top" style="background: #E0FFFF; border: 1px solid blue;">
+<td align="left" width="100%" valign="top" style="background: #E0FFFF; border: 1px solid blue;">
 ====Erthygel dysquedhys hedhyu====
 <div>
 {{erthyglow_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
@@ -142,7 +142,7 @@
 </td>
 </tr>
 <tr>
-<td  width="100%" valign="top" style="background: #FFF5F5; border: 1px solid orange;">
+<td align="left" width="100%" valign="top" style="background: #FFF5F5; border: 1px solid orange;">
 ====Y'n newodhow====
 <div>
 {{Template:news}}
@@ -153,7 +153,7 @@
 </td>
 </tr>
 <tr>
-<td style="background: #BBFFBB; border: 1px solid green;">
+<td align="left" style="background: #BBFFBB; border: 1px solid green;">
 <!--Kevrennow-->
 ====Kevrennow====
 {{links}}
