@@ -49,17 +49,7 @@ There are currently '''{{NUMBEROFARTICLES}}''' articles in the Cornish Wikipedia
 {{Template:Wikipedialang}}
 ----
 ===Wikipedia's sister projects===
-Wikipedia is run by the non-profit [[:en:Wikimedia|Wikimedia]] Foundation.  Wikimedia operates several other  [[:en:Wikipedia:Multilingual coordination|multilingual]] and [[:en:Wikipedia:Copyrights|open-content]] wiki projects:
-{|-
-| align="center" | [[m:|'''Meta-Wiki''']]<br/>''Coordination of all Wikimedia projects''
-| align="center" | [[wiktionary:|'''Wiktionary''']]<br/>''A dictionary and thesaurus''
-| align="center" | [[wikibooks:|'''Wikibooks''']]<br/>''Free textbooks and manuals''
-| align="center" | [[wikiquote:|'''Wikiquote''']] <br/>''A collection of quotations''
-| align="center" | [[wikisource:Main Page:English|'''Wikisource''']]<br/>''Free source documents''
-|}
-If you find Wikipedia or its sister projects useful, please consider making a [http://wikimediafoundation.org/fundraising donation.] Donations are used primarily for purchasing computer equipment and launching new [[m:Complete_list_of_wikimedia_projects#Proposed_projects|projects]].
-<!-- <br><br>
-[http://kw.wikipedia.org/w/wiki.phtml?title=Special:Allpages&from=1 List of all pages in the Cornish Wikipedia] -->
+{{Template:Wikipediasister}}
 [[br:]]
 [[cy:]]
 [[de:]]
