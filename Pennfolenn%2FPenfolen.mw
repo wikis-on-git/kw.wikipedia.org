@@ -1,5 +1,5 @@
 [[image:circleflag.gif]]
-<small>Nowethhés dewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} UTC</small>
+<small>Nowethhés dewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} UTC </small>
 <!-- _____________________________________________________________ -->
 <table width="100%" style="border: 5px">
 <tr>
