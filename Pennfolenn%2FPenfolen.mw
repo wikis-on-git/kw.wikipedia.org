@@ -6,10 +6,28 @@
 <tr>
 <td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
 {{Template:Wikipediawelcome}}
+----
+<center>
+<table width="80%" border="0" cellspacing=0 cellpadding=0>
+<tr>
+<td width="50%" bgcolor="#FFFFEC" valign="top" align="left">
+* [[#Erthygel dysquedhys an mýs-ma|1. Erthygel dysquedhys an mýs-ma]]
+* [[#Y'n newodhow...|2. Y'n newodhow...]]
+* [[#Ow wharfos an mýs-ma...|3. Ow wharfos an mýs-ma...]]
+* [[#A wrüssough-why aswonvos?...|4. A wrüssough-why aswonvos?...]]
+* [[#Pandr'a wharfa an mýs-ma...|5. Pandr'a wharfa an mýs-ma...]]
+* [[#Erel...|6. Erel...]]
+* [[#Kelghwodhyador|7. Kelghwodhyador]]
+* [[#Kevrennow|8. Kevrennow]]
+* [[#Wikipedia yn yéthow erel|9. Wikipedia yn yéthow erel]]
+</td>
+</tr>
+</table>
+</center>
 </td>
 <td width="1%" align="center" valign="top">
-[[Image:Flag.png|right|St Piran's Flag]]
-[[Image:Ukkernow.png|right|Kernow]]
+[[Image:Flag.png|center|St Piran's Flag]]
+[[Image:Ukkernow.png|center|Kernow]]
 </td>
 </tr>
 </table>
@@ -105,6 +123,9 @@
 ----
 ====Towlow whór Wikipedia====
 {{Template:Wikipediasister}}
+</td>
+</tr>
+</table>
 [[br:]]
 [[cy:]]
 [[de:]]
@@ -113,10 +134,8 @@
 [[ga:]]
 [[gd:]]
 [[gv:]]
-</td>
-</tr>
-</table>
-<!-- 
+
+<!--
 <table width="100%" border=1 cellpadding=0 cellspacing=0>
 <tr>
 <td bgcolor="#f3f3ff"> 1</td>
