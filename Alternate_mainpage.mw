@@ -1,16 +1,15 @@
 [[image:circleflag.gif]]
 <small>Nowethhés dewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} UTC</small>
 <!-- _____________________________________________________________ -->
-<table width="100%" border="0" cellspacing=0 cellpadding=0>
+<table width="100%" style="padding: 5px">
 <tr>
-<td width="25%" valign="top" align="center"
-style="background: #FFE2E2; border: 1px solid red; padding: 0.5em 2em 0.5em 2em;" >
+<td width="25%" valign="top" align="center" style="background: #FFE2E2; border: 1px solid red;" >
 '''Dynnargh dhe Wikipedia Kernewek <br />([[KK]])'''</td>
-<td width="25%" bgcolor="#FAF9B2" valign="top" align="center">
+<td width="25%" valign="top" align="center" style="background: #FAF9B2; border: 1px solid orange;">
 '''Welkom the Wikipedia Kernuack <br />([[Kernuack]])'''</td>
-<td width="25%" bgcolor="#BBFFBB" valign="top" align="center">
+<td width="25%" valign="top" align="center" style="background: #BBFFBB; border: 1px solid green;">
 '''Wolcum dhe Wikipedia Kernewek <br />([[KU]])'''</td>
-<td width="25%" bgcolor="#ddddff" valign="top" align="center">
+<td width="25%" valign="top" align="center" style="background: #BBFFBB; border: 1px solid blue;">
 '''Wolcum dhe Wikipedia Kernowek <br />([[KUA]])'''</td>
 </tr>
 </table>
