@@ -7,6 +7,11 @@
 <td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
 <center>Nowethhés dewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} (GMT)</center>
 {{Template:Wikipediawelcome_{{CURRENTDAYNAME}}}}
+
+<small>
+[[Wikipediawelcome_ranyeth|Clykyeugh omma dhe dhyllo penfolen pupteth y'n ranyeth dyffrans]]
+</small>
+
 ----
 <center>
 <table width="80%" border="0" cellspacing=0 cellpadding=0>
