@@ -16,12 +16,12 @@
 
 <!-- ============================================================= -->
 
-<table width="100%" border="0" cellspacing=0 cellpadding=0 cellmargin=4>
+<table width="100%" border="0" style="padding: 5px">
 <tr>
 <td>
 
 <!-- ------------------------------------------------------------- -->
-<table width="100%" border="0" cellspacing=0 cellpadding=0>
+<table width="100%" border="0" style="padding: 5px">
 <tr>
 <td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
 {{Template:Wikipediawelcome_{{CURRENTDAYNAME}}}}
@@ -30,7 +30,7 @@
 </small>
 ----
 <center>
-<table width="80%" border="0" cellspacing=0 cellpadding=0>
+<table width="80%" border="0" style="padding: 5px">
 <tr>
 <td width="50%" bgcolor="#FFFFEC" valign="top" align="left">
 * [[#Erthygel dysquedhys hedhyu|1. Erthygel dysquedhys hedhyu]]
@@ -59,7 +59,7 @@
 
 
 <!-- ============================================================= -->
-<table width="100%" border=0 cellpadding=0 cellspacing=0>
+<table width="100%" border=0 style="padding: 5px">
 <tr>
 <td width="100%" bgcolor="#E0FFFF" valign="top">
 ====Erthygel dysquedhys hedhyu====
