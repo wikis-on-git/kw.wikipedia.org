@@ -12,13 +12,13 @@
 <table width="80%" border="0" cellspacing=0 cellpadding=0>
 <tr>
 <td width="50%" bgcolor="#FFFFEC" valign="top" align="left">
-* [[#Erthygel dysquedhys an mýs-ma|1. Erthygel dysquedhys an mýs-ma]]
-* [[#Y'n newodhow...|2. Y'n newodhow...]]
-* [[#Penbloth hedhyu...|3. Penbloth hedhyu...]]
-* [[#A wrüssough-why aswonvos?...|4. A wrüssough-why aswonvos?...]]
-* [[#An mýs-ma...|5. An mýs-ma...]]
-* [[#Erel...|6. Erel...]]
-* [[#Kelghwodhyador|7. Kelghwodhyador]]
+* [[#Erthygel dysquedhys hedhyu|1. Erthygel dysquedhys hedhyu]]
+* [[#Y'n newodhow|2. Y'n newodhow]]
+* [[#Penbloth hedhyu|3. Penbloth hedhyu]]
+* [[#A wrüssough-why aswonvos?|4. A wrüssough-why aswonvos?]]
+* [[#An mýs-ma|5. An mýs-ma]]
+* [[#Erel|6. Erel]]
+* [[#Kelghwodhyador|7. Kelghwodhyador (Encyclopedya)]]
 * [[#Kevrennow|8. Kevrennow]]
 * [[#Wikipedia yn yéthow erel|9. Wikipedia yn yéthow erel]]
 </td>
@@ -41,7 +41,7 @@
 <table width="100%" border=0 cellpadding=0 cellspacing=0>
 <tr>
 <td width="100%" bgcolor="#E0FFFF" valign="top">
-====Erthygel dysquedhys an mýs-ma====
+====Erthygel dysquedhys hedhyu====
 <div>
 {{erthyglow_pupteth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
 </div>
@@ -52,7 +52,7 @@
 <tr>
 <tr>
 <td  width="100%"  bgcolor="#FFF5F5" valign="top">
-====Y'n newodhow...====
+====Y'n newodhow====
 <div>
 {{Template:news}}
 </div>
@@ -63,7 +63,7 @@
 </tr>
 <tr>
 <td width="100%"   bgcolor="#FFE2E2" valign="top">
-====Penbloth hedhyu...====
+====Penbloth hedhyu====
 <div>
 {{penbloth_{{CURRENTMONTH}}{{CURRENTDAY}}}}
 </div>
@@ -74,7 +74,7 @@
 </tr>
 <tr>
 <td width="100%"   bgcolor="#BBFFBB" valign="top">
-====A wrüssough-why aswonvos?...====
+====A wrüssough-why aswonvos?====
 <div>
 {{Template:didyouknow}}
 </div>
@@ -85,7 +85,7 @@
 </tr>
 <tr>
 <td width="100%"   bgcolor="#FAF9B2" valign="top">
-====An mýs-ma...====
+====An mýs-ma====
 <div>
 {{mys_{{CURRENTMONTH}}}}
 </div>
@@ -96,7 +96,7 @@
 </tr>
 <tr>
 <td width="100%"   bgcolor="#F5F5DC" valign="top">
-====Erel...====
+====Erel====
 <div>
 {{miscellaneous}}
 </div>
