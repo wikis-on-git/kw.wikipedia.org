@@ -5,7 +5,7 @@
 <table width="100%" border="0" cellspacing=0 cellpadding=0>
 <tr>
 <td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
-<center>Nowethhés dewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} dhe {{CURRENTTIME}} (GMT)</center>
+<center>Nowethhés yn tewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} orth {{CURRENTTIME}} (UTC)</center>
 {{Template:Wikipediawelcome}}
 
 If you are learning Cornish, contribute to this encyclopedia. {{NUMBEROFARTICLES}} articles already exist in this language.
