@@ -8,13 +8,14 @@
 <center>Nowethhés yn tewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} orth {{CURRENTTIME}} (UTC)</center>
 {{Template:Wikipediawelcome}}
 
+<table width="100%" border="0" cellspacing=0 cellpadding=3>
+<tr>
+<td width="50%" align="center" valign="top"  bgcolor="#FFFFEC"> 
 If you are learning Cornish, you are welcome to contribute to this encyclopedia. {{NUMBEROFARTICLES}} articles already exist in this language.
-</table>
-</center>
-</td>
-<td width="1%" align="center" valign="top">
-[[Image:Flag.png|center|St Piran's Flag]]
 <br />
+[[Image:Flag.png|center|St Piran's Flag]]
+</td>
+<td width="50%" align="center" valign="center"  bgcolor="#FFFFEC"> 
 [[Image:Ukkernow.png|center|Kernow]]
 </td>
 </tr>
