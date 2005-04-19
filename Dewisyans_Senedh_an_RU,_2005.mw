@@ -250,29 +250,35 @@ Yma pymp pastell-vro yn [[Kernow]]. (''Gwelewgh''  [[Gwlasegeth Kernow]].)
 
 {| {{prettytable}}
 |- style="background-color:#E9E9E9"
-| &nbsp;
-!width="10%"|Sommenn
+!colspan=2| &nbsp;
+!width="8%"|Sommenn
 !width="14%"|[[Kernow Gledh]]
 !width="14%"|[[Soth-Est Kernow]]
 !width="14%"|[[Truru ha Sen Ostell]]
 !width="14%"|[[Aberfal ha Kammbronn]]
 !width="14%"|[[Porthia]]
 |-
+|bgcolor="#CC0000"|&nbsp;
 | [[Parti Gwithadorek]]
 | &nbsp; || [[Mark Formosa]] || [[Ashley Gray]] || Dr [[Fiona Kemp]] || [[Ashley Crossley]] || [[Christian Mitchell]]
 |-
+|bgcolor="gold"|&nbsp;
 | [[Parti Livrel-Werinel]]
 | &nbsp; || [[Dan Rogerson]] || [[Colin Breed]] || [[Matthew Taylor]] || [[Julia Goldsworthy]] || [[Andrew George]]
 |-
+|bgcolor="#CC0000"|&nbsp;
 | [[Parti Lavur]]
 | &nbsp; || [[David Acton]] || [[Colin Binley]] || [[Charlotte MacKenzie]] || [[Candy Atherton]] || [[Michael Dooley]]
 |-
+|bgcolor="#BB0099"|&nbsp;
 | [[UKIP]]
 | &nbsp; || [[David Campbell-Bannerman]] || &nbsp; || [[David Noakes]] || &nbsp; || &nbsp;
 |-
+|bgcolor="#FFFF00"|&nbsp;
 | [[Mebyon Kernow]]
 | &nbsp; || [[Dick Cole]] || [[Graham Sandercock]] || [[Conan Jenkin]] || [[Hilda Wasley]] || &ndash;
 |-
+|bgcolor="yellowgreen"|&nbsp;
 | [[Parti Gwyrdh]]
 | &nbsp; || &ndash; || &ndash; || &ndash; || &ndash; || [[Katrina Slack]]
 |}
