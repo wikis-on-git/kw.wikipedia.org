@@ -10,14 +10,14 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 !colspan="3"|Popular Vote
 |- style="background-color:#E9E9E9"
 !2001
-!Dissolution {{ref|before}}
+!Dissolution 
 !Elected
 !Change
 !2001 (millions)
 !2005 (millions)
 !% Change
 |-
-|{{British politics/party colours/Labour}}|&nbsp;
+|bgcolor="#CC0000"|&nbsp;
 |[[Labour Party (UK)|Labour]]
 |[[Tony Blair]]
 |align="right"|&nbsp;
@@ -30,7 +30,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/Conservative}}|&nbsp;
+|bgcolor="#3333CC"|&nbsp;
 |[[Conservative Party (UK)|Conservative]]
 |[[Michael Howard]]
 |align="right"|&nbsp;
@@ -43,8 +43,8 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/Liberal Democrat}}|&nbsp;
-|[[Liberal Democrats (UK)|Liberal Democrats]]
+|bgcolor="gold"|&nbsp;
+|[[Parti Livrel-Werinel|LivWer]]
 |[[Charles Kennedy]]
 |align="right"|&nbsp;
 |align="right"|52
@@ -56,7 +56,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/Democratic Unionist}}|&nbsp;
+|bgcolor="#D46A4C"|&nbsp;
 |[[Democratic Unionist Party|Democratic Unionist]]
 |[[Ian Paisley]]
 |align="right"|&nbsp;
@@ -69,7 +69,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/Scottish National}}|&nbsp;
+|bgcolor="#FFFF00"|&nbsp;
 |[[Scottish National Party|Scottish National]]
 |[[Alex Salmond]]
 |align="right"|&nbsp;
@@ -82,7 +82,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/Ulster Unionist}}|&nbsp;
+|bgcolor="#9999ff"|&nbsp;
 |[[Ulster Unionist Party|Ulster Unionist]]
 |[[David Trimble]]
 |align="right"|&nbsp;
@@ -95,7 +95,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/Plaid Cymru}}|&nbsp;
+|bgcolor="#00CC00"|&nbsp;
 |[[Plaid Cymru]]
 |[[Dafydd Iwan]]
 |align="right"|&nbsp;
@@ -108,7 +108,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/Sinn Fein}}|&nbsp;
+|bgcolor="#008800"|&nbsp;
 |[[Sinn F&eacute;in]]
 |[[Gerry Adams]]
 |align="right"|&nbsp;
@@ -121,7 +121,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/SDLP}}|&nbsp;
+|bgcolor= "#99FF66"|&nbsp;
 |[[Social Democratic and Labour Party|SDLP]]
 |[[Mark Durkan]]
 |align="right"|&nbsp;
@@ -134,7 +134,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/Respect}}|&nbsp;
+|bgcolor="#FF4444"|&nbsp;
 |[[RESPECT The Unity Coalition|Respect]]
 |[[George Galloway]]
 |align="right"|&nbsp;
@@ -147,7 +147,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/UKIP}}|&nbsp;
+|bgcolor="#BB0099"|&nbsp;
 |[[United Kingdom Independence Party|UKIP]]
 |[[Roger Knapman]]
 |align="right"|&nbsp;
@@ -160,7 +160,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/Green}}|&nbsp;
+|bgcolor="yellowgreen"|&nbsp;
 |[[Green Party of England and Wales|Green (Eng/Wls)]]
 |''none''
 |align="right"|&nbsp;
@@ -173,7 +173,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/SSP}}|&nbsp;
+|bgcolor="tomato"|&nbsp;
 |[[Scottish Socialist Party|Scottish Socialist]]
 |[[Colin Fox]]
 |align="right"|&nbsp;
@@ -186,7 +186,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/Green}}|&nbsp;
+|bgcolor="yellowgreen"|&nbsp;
 |[[Scottish Green Party|Scottish Green]]
 |''none''
 |align="right"|&nbsp;
@@ -199,7 +199,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|{{British politics/party colours/Veritas}}|&nbsp;
+|bgcolor="gray"|&nbsp;
 |[[Veritas (political party)|Veritas]]
 |[[Robert Kilroy-Silk]]
 |align="right"|&nbsp;
@@ -212,7 +212,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|bgcolor="gainsboro" |&nbsp;
+|bgcolor="gray" |&nbsp;
 |colspan="3"|Independents {{ref|ind}}
 |align="right"|1
 |align="right"|4
@@ -223,7 +223,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 |align="right"|&nbsp;
 
 |-
-|bgcolor="black" |&nbsp;
+|bgcolor="gray" |&nbsp;
 |colspan="3"|Speaker {{ref|Speaker}}
 |align="right"|1
 |align="right"|1
