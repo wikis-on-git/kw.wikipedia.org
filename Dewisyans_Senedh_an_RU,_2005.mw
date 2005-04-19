@@ -3,11 +3,11 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 ==Effeythow==
 {| {{prettytable}}
 |- style="background-color:#E9E9E9"
-!rowspan="2" colspan="2"|Party
-!rowspan="2"|Party Leader
-!rowspan="2"|# of<br>candidates
-!colspan="4"|Number of Seats
-!colspan="3"|Popular Vote
+!rowspan="2" colspan="2"|Parti
+!rowspan="2"|Lywydh an Parti
+!rowspan="2"|# a<br>ombrofyoryon
+!colspan="4"|Niver a sedhow
+!colspan="3"|Raglev an werin
 |- style="background-color:#E9E9E9"
 !2001
 !Dissolution 
@@ -57,7 +57,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 
 |-
 |bgcolor="#D46A4C"|&nbsp;
-|[[Parti Unyansiek Gwerinel|Unyansiegoryon Werinel]]
+|[[Parti Unyansek Gwerinel|Unyansegoryon Werinel]]
 |[[Ian Paisley]]
 |align="right"|&nbsp;
 |align="right"|5
@@ -83,7 +83,7 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 
 |-
 |bgcolor="#9999ff"|&nbsp;
-|[[Parti Unyansiek Ulster|Unyansiegoryon Ulster]]
+|[[Parti Unyansek Ulster|Unyansegoryon Ulster]]
 |[[David Trimble]]
 |align="right"|&nbsp;
 |align="right"|6
@@ -246,13 +246,21 @@ Y fydh '''dewisyansow rag [[Senedh an Rywvaneth Unys|Senedh]] an [[Rywvaneth Uny
 
 
 ==An studh yn Kernow==
-{|
+Yma pymp pastell-vro yn [[Kernow]]. (''Gwelewgh''  [[Gwlasegeth Kernow]].)
+
+{| {{prettytable}}
 | &nbsp; || [[Kernow Gledh]] || [[Soth-Est Kernow]] || [[Truru ha Sen Ostell]] || [[Kammbronn hag Aberfal]] || [[Porthia]]
+|-
 | [[Parti Gwithadorek]] || Mark Formosa || &nbsp; || &nbsp; || Ashley Crossley || &nbsp;
+|-
 | [[Parti Livrel-Werinel]] || Dan Rogerson || Colin Breed || Matthew Tyler || Julia Goldsworthy || [[Andrew George]]
+|-
 | [[Parti Lavur]] || &nbsp; || &nbsp; || &nbsp; || [[Candy Atherton]] || &nbsp;
+|-
 | [[UKIP]] || David Campbell-Bannerman || &nbsp; || &nbsp; || &nbsp;
+|-
 | [[Mebyon Kernow]] || [[Dick Cole]] || [[Graham Sandercock]] || [[Conan Jenkin]] || [[Hilda Wasley]] || -
+|-
 | [[Parti Gwyrdh]] || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp;
 |}
 
