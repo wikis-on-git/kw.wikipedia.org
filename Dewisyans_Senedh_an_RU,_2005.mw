@@ -250,7 +250,8 @@ Yma pymp pastell-vro yn [[Kernow]]. (''Gwelewgh''  [[Gwlasegeth Kernow]].)
 {| {{prettytable}}
 |- style="background-color:#E9E9E9"
 !colspan=2| &nbsp;
-!width="8%"|Sommenn
+!width="7%"|Sommenn
+!width="4%"|%
 !width="14%"|[[Kernow Gledh]]
 !width="14%"|[[Soth-Est Kernow]]
 !width="14%"|[[Truru ha Sen Ostell]]
@@ -259,48 +260,49 @@ Yma pymp pastell-vro yn [[Kernow]]. (''Gwelewgh''  [[Gwlasegeth Kernow]].)
 |-
 |bgcolor="gold"|&nbsp;
 | [[Parti Livrel-Werinel|LivWer]]
-| &nbsp; || [[Dan Rogerson]] || [[Colin Breed]]<sup>§</sup> || [[Matthew Taylor]]<sup>§</sup> || [[Julia Goldsworthy]] || [[Andrew George]]<sup>§</sup>
-|-
-|bgcolor="#CC0000"|&nbsp;
-| [[Parti Lavur|Lavur]]
-| &nbsp; || [[David Acton]] || [[Colin Binley]] || [[Charlotte MacKenzie]] || [[Candy Atherton]]<sup>§</sup> || [[Michael Dooley]]
+| 115,241 || 44.4 || '''[[Dan Rogerson]]''' 23,842 || '''[[Colin Breed]]'''<sup>§</sup> 24,986 || '''[[Matthew Taylor]]'''<sup>§</sup> 24,089 || '''[[Julia Goldsworthy]]''' 16,747 || '''[[Andrew George]]'''<sup>§</sup> 25,577
 |-
 |bgcolor="#3333CC"|&nbsp;
 | [[Parti Gwithadorek|Tori]]
-| &nbsp; || [[Mark Formosa]] || [[Ashley Gray]] || Dr [[Fiona Kemp]] || [[Ashley Crossley]] || [[Christian Mitchell]]
+| 82,543 || 31.8 || [[Mark Formosa]] 20,766 || [[Ashley Gray]] 18,479 || Dr [[Fiona Kemp]] 16,686 || [[Ashley Crossley]] 12,644 || [[Christian Mitchell]] 13,968
+|-
+|bgcolor="#CC0000"|&nbsp;
+| [[Parti Lavur|Lavur]]
+| 41,140 || 15.9 || [[David Acton]] 6,636 || [[Colin Binley]] 6,069 || [[Charlotte MacKenzie]] 6,991 || [[Candy Atherton]]<sup>§</sup> 14,861 || [[Michael Dooley]] 6,583
 |-
 |bgcolor="#BB0099"|&nbsp;
 | [[UKIP]]
-| &nbsp; || [[David Campbell-Bannerman]] || [[David Lucas]] || [[David Noakes]] || [[Michael Mahon]] || [[Michael Faulkner]]
+| 12,863 || 5.0 || [[David Campbell-Bannerman]] 3,063 || [[David Lucas]] 2,693 || [[David Noakes]] 2,736 || [[Michael Mahon]] 1,820 || [[Michael Faulkner]] 2,551
 |-
 |bgcolor="goldenrod"|&nbsp;
 | [[Mebyon Kernow|MK]]
-| &nbsp; 
-|rowspan="2"| [[Dick Cole]] <br /> &ndash;
-|rowspan="2"| [[Graham Sandercock]]  <br /> &ndash;
-|rowspan="2"| [[Conan Jenkin]]  <br /> &ndash;
-|rowspan="2"| [[Hilda Wasley]]  <br /> &ndash;
-|rowspan="2"| &ndash; <br /> [[Katrina Slack]]
+| 3,552
+|rowspan="2"| 2.0
+|rowspan="2"| [[Dick Cole]] 1,351 <br /> &ndash;
+|rowspan="2"| [[Graham Sandercock]] 769 <br /> &ndash;
+|rowspan="2"| [[Conan Jenkin]] 1,062 <br /> &ndash;
+|rowspan="2"| [[Hilda Wasley]] 370 <br /> &ndash;
+|rowspan="2"| &ndash; <br /> [[Katrina Slack]] 1,738
 |-
 |bgcolor="yellowgreen"|&nbsp;
 | [[Parti Gwyrdh|Gwyrdh]]
-| &nbsp; 
-|-
-|bgcolor="grey"|&nbsp;
-| [[Veritas]]
-| &nbsp; || [[Alan Eastwood]] || [[Anne Assheton-Salton]] || &ndash; || [[Peter Gifford]] ||  &nbsp;
-|-
-|bgcolor="grey"|&nbsp;
-| [[Parti Livrel|Livrel]]
-| &nbsp; || &ndash; || &ndash; || &ndash; || [[Paul Holmes]] || &ndash;
+| 1,738 
 |-
 |bgcolor="grey"|&nbsp;
 | Anserghek
-| &nbsp; || &ndash; || &ndash; || &ndash; || [[David Mudd]] || &ndash;
+| 961 || &nbsp; || &ndash; || &ndash; || &ndash; || [[David Mudd]] 961 || &ndash;
+|-
+|bgcolor="grey"|&nbsp;
+| [[Veritas]]
+| 911 || &nbsp; || [[Alan Eastwood]] 324 || [[Anne Assheton-Salton]] 459 || &ndash; || [[Peter Gifford]] 128 ||  &nbsp;
+|-
+|bgcolor="grey"|&nbsp;
+| [[Parti Livrel|Livrel]]
+| 423 || &nbsp; || &ndash; || &ndash; || &ndash; || [[Paul Holmes]] 423 || &ndash;
 |-
 |bgcolor="grey"|&nbsp;
 | [[Removyans Tetramast yn Kernow|Tetramast]]
-| &nbsp; || &ndash; || &ndash; || &ndash; || [[Paul Holmes]] || &ndash;
+| 61 || &nbsp; || &ndash; || &ndash; || &ndash; || [[Paul Holmes]] 61 || &ndash;
 |}
 
 * '''§''': y'n soedh kyns degeans an Senedh.
