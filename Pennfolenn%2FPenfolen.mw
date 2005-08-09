@@ -2,7 +2,7 @@
 <tr>
 <td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
 <center>Nowethhés yn tewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} orth {{CURRENTTIME}} (UTC)</center>
-{{Template:Wikipediawelcome}}
+{{Wikipediawelcome}}
 </td>
 </tr>
 </table>
@@ -37,10 +37,10 @@ If you speak or are learning Cornish, you are welcome to contribute to this ency
 <tr>
 <td bgcolor="#ddddff">
 ====Wikipedia yn yéthow erel====
-{{Template:Wikipedialang}}
+{{Wikipedialang}}
 ----
 ====Towlow whór Wikipedia====
-{{Template:Wikipediasister}}
+{{Wikipediasister}}
 </td>
 </tr>
 </table>
