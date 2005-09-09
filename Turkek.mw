@@ -1,32 +1,20 @@
-{| border="1" cellpadding="2" cellspacing="0" align="right" width="300" style="margin-left: 1em"
-! colspan="2" bgcolor="yellowgreen" style="font-size:110%"|Turkish ''(Türkçe)''
-|-
-| valign="top"|Kewsys yn:
-|[[Turki]], [[Kyproes]]
-|-
-| valign="top"|Kewsys gans:
-|65 milvil
-|-
-| valign="top"|Klasyans genynnek:
-|[[Altayek]] (?)<br>
-*Turkek<br>
-|-
-| Rannyethow
-|
-|-
-| Savla Soedhogel:
-|Turki, Repoblek Kyproes
-|-
-! colspan="2" bgcolor="yellowgreen"|Kodennow
-|-
-|ISO 639-1||tr
-|-
-|ISO 639-2(B)||tur
-|-
-|ISO 639-2(T)||ota
-|-
-|SIL||trk
-|}
+{{yeth|hanowkernewek=Turkek
+|hanow1=Türkçe
+|familycolor=#DDccEE
+|powyow=[[Turki]], [[Kyproes]]
+|poblans=65 milvil
+|teylu=[[Altayek]] (?)
+*[[Yethow Turkek|Turkek]]
+|rannyethow=
+|statys=Turki, Repoblek Kyproes
+|kesva=
+|iso1=tr
+|iso2-b=tur
+|iso2-t=ota
+|sil=trk
+}}
+
+{{Yntrawiki|kodenn=tr}}
 
 '''Turkek''' yw yeth a [[Turki|Durki]] ha'n Kledhbarth [[Kyproes]].
 
@@ -60,7 +48,7 @@
 |-
 |}
 
-{{Yntrawiki|kodenn=tr}}
+{{stokk}}
 
 [[Category:Yeth]]
 
