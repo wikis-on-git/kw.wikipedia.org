@@ -1,4 +1,4 @@
-{| {{prettytable}}
+{| {{prettytable}} align="right"
 |- style="background-color:#E9E9E9"
 ! colspan="2" | Chi an Gemmynyon
 ! ES
@@ -10,8 +10,8 @@
 |bgcolor="gold"|&nbsp; || [[Parti Livrel-Werinel|LivWer]] || 62
 |-
 |bgcolor="#FFFF00"|&nbsp;
-| rowspan="2" [[Parti Kenedhlek Albanek|SNP]] <br /> [[Plaid Cymru]] 
-| rowspan="2" 6 <br /> 3
+|rowspan="2"| [[Parti Kenedhlek Albanek|SNP]] <br /> [[Plaid Cymru]] 
+|rowspan="2"| 6 <br /> 3
 |-
 |bgcolor="#00CC00"|&nbsp;
 |-
@@ -19,7 +19,7 @@
 |-
 |bgcolor="#008800"|&nbsp; || [[Sinn Féin]] || 5
 |-
-| [[SDLP]] || 3
+|bgcolor= "#99FF66"|&nbsp; || [[SDLP]] || 3
 |-
 |bgcolor="white"|&nbsp; || Anserghogyon || 2
 |-
@@ -27,10 +27,12 @@
 |-
 |bgcolor="#FF4444"|&nbsp; || [[RESPECT The Unity Coalition|Respect]] || 1
 |-
-| Gwag || 1
+|&nbsp; || Gwag || 1
+|-
+! colspan="2"|'''Sommenn''' !! 646
 |-
 |}
-'''Senedh an [[Rywvaneth Unys]]''' yw an korf chyf ow kul reythyow yn [[Breten Veur]] hag [[Iwerdhon Gledh]]. Yma dew jambour po rann a'n Senedh: Chi an Gemmynyon ha Chi an Arlydhi.
+'''Senedh an [[Rywvaneth Unys]]''' yw an korf chyf ow kul reythyow yn [[Breten Veur]] hag [[Iwerdhon Gledh]]. Yma dew jambour po rann a'n Senedh: ''Chi an Gemmynyon'', an chambour is; ha ''Chi an Arlydhi'', an huni ugh.
 
 Yn Chi an Gemmynyon, yma 659 a '''Eseli an Senedh''' (ES). Hembrenkyas an Senedh yw an [[Pennmenyster an Rywvaneth Unys|Pennmenyster]] ([[Tony Blair]] y'n termyn ma).
 
