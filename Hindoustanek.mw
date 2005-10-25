@@ -35,9 +35,15 @@
 
 {{stokk}}
 
-{{Yntrawiki|kodenn=hi}}
+<div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 250px; padding: 4px; spacing: 0px; text-align: left; float: right;">
+<div style="float: left; padding: 4px;">[[Image:Wikipedia.png|75px|none|Wikipedi]]</div>
+<div style="margin-left: 70px;">'''''[[:hi:|Dyllans Hindi]]''''' a [[Wikipedia|Wikipedi]]</div>
+</div>
 
-{{Yntrawiki|kodenn=ur}}
+<div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 250px; padding: 4px; spacing: 0px; text-align: left; float: right;">
+<div style="float: left; padding: 4px;">[[Image:Wikipedia.png|75px|none|Wikipedi]]</div>
+<div style="margin-left: 70px;">'''''[[:urdu:|Dyllans Ourdou]]''''' a [[Wikipedia|Wikipedi]]</div>
+</div>
 
 [[bg:&#1061;&#1080;&#1085;&#1076;&#1091;&#1089;&#1090;&#1072;&#1085;&#1080;]]
 [[de:Hindustani]]
