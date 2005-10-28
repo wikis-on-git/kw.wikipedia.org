@@ -1,39 +1,30 @@
-{| border="1" cellpadding="2" cellspacing="0" align="right" width="300" style="margin-left: 1em"
-! colspan="2" bgcolor="#DDccEE" style="font-size:110%"|Māori ''(Te Reo Māori)''
-|-
-| valign="top"|Kewsys yn:
-|[[Mordir Nowydh]]
-|-
-| valign="top"|Kewsys gans:
-|100,000 - 160,000
-|-
-| valign="top"|Klasyans genynnek:
-|[[Ostronesek]]<br>
-*Malayo-Polynesek<br>
-|-
-| Rannyethow
-|Ngapuhi, Waikato, Taranaki, Taupo, Rotorua, Kaitahu
-|-
-| Savla Soedhogel:
-|Mordir Nowydh (Te Taura Whiri i te Reo Māori)
-|-
-! colspan="2" bgcolor="#DDccEE"|Kodennow
-|-
-|ISO 639-1||mi
-|-
-|ISO 639-2(B)||mao
-|-
-|ISO 639-2(T)||mri
-|-
-|SIL||MBF
-|}
+{{yeth|familycolor=#DDccEE
+|hanow=Māori
+|hanow1=Te Reo Māori
+|powyow=[[Mordir Nowydh]]
+|poblans=100,000 - 160,000
+|teylu=[[Ostronesek]]
+&nbsp;Malayo-Polynesek
+&nbsp;&nbsp;Malayo-Polynesek Est
+&nbsp;&nbsp;&nbsp;Polynesek
+|rannyethow=Ngapuhi, Waikato, Taranaki, Taupo, Rotorua, Kaitahu
+|statys=yeth soedhogel yn [[Mordir Nowydh]]
+|kesva=Te Taura Whiri i te Reo Māori
+|iso1=mi
+|iso2-b=mao
+|iso2-t=mri
+|sil=mbf
+}}
 
-Yeth polynesek yn [[Mordir Nowydh]] yw '''Maori'''.
+Yeth polynesek yn [[Mordir Nowydh]] yw '''Maori'''. Yeth soedhogel yn Mordir Nowydh yw hi, gans [[Sowsnek]] ha [[Yeth Arwoedhow]] a Vordir Nowydh.
 
 {{Yntrawiki|kodenn=mi}}
 
 [[Category:Yeth]]
+[[Category:Mordir Nowydh]]
 
+[[als:Maori (Sprache)]]
+[[ar:ماورية]]
 [[bg:&#1052;&#1072;&#1086;&#1088;&#1089;&#1082;&#1080; &#1077;&#1079;&#1080;&#1082;]]
 [[de:Maori (Sprache)]]
 [[en:Māori language]]
