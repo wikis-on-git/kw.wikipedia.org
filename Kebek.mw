@@ -6,10 +6,10 @@ image_drapeau=Flag of Quebec.svg |
 image_blason=Armoiries_du_Québec.jpg |
 devise=Je me souviens |
 image_carte=Quebec-map.png |
-capitale=Québec |
+capitale=[[Sita Kebek|Québec]] |
 plus_grande_ville=[[Montréal]] |
 kynsa_menyster=[[Jean Charest]] |
-parti_premier_ministre=[[Parti libéral du Québec|Libéral]] |
+parti_premier_ministre=[[Parti libéral du Québec|Livrel]] |
 superficie_totale=1 542 056 |
 superficie_rang=1<sup>sa</sup> |
 superficie_terre=1 183 128 |
@@ -38,7 +38,7 @@ Yma'n vrassa niver a dus ow triga war hys Dowr Sen Lorens, fest yn soth an pow. 
 Tus Kebek a aswonn unnikter krev an pow &ndash; yn fenowgh yth ombrederons bos aga fow kenedhel dhiblans dhiworth Kanada (an kryjyans ma yw kreffa yn mysk Frynkegoryon).
 
 '''An 10 brassa sita po tre herwydh poblans'''
-{| class="wikitable"
+{| {{{prettytable}}}
 !Sita po tre
 !2001
 !1996
@@ -47,7 +47,7 @@ Tus Kebek a aswonn unnikter krev an pow &ndash; yn fenowgh yth ombrederons bos a
 |1,812,723
 |1,774,846
 |-
-|Québec
+|[[Sita Kebek|Québec]]
 |507,986
 |504,605
 |-
