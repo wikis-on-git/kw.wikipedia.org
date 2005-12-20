@@ -1,1 +1,64 @@
-I love Wikipedia, you too?
+<table width="100%" border="0" cellspacing=0 cellpadding=8>
+<tr>
+<td width="100%" align="left" valign="top"  bgcolor="#FFFFEC"> 
+<center>Nowethhés yn tewetha: {{CURRENTDAY}}/{{CURRENTMONTH}}/{{CURRENTYEAR}} orth {{CURRENTTIME}} (UTC)</center>
+{{Wikipediawelcome}}
+</td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellspacing=0 cellpadding=5>
+<tr>
+<td width="50%" align="center" valign="top"  bgcolor="#FFFFEC"> 
+If you speak or are learning Cornish, you are welcome to contribute to this encyclopedia. {{NUMBEROFARTICLES}} articles already exist in this language.
+<br />
+[[Image:Flag.png|center|St Piran's Flag]]
+</td>
+<td width="50%" align="center" valign="center"  bgcolor="#FFFFEC"> 
+[[Image:Ukkernow.png|center|Kernow]]
+</td>
+</tr>
+</table>
+
+<tr>
+<td bgcolor="#f3f3ff">
+<!--Kelghwodhyador-->
+====Kelghwodhyador====
+{{wikitopics}}
+</td>
+</tr>
+<tr>
+<td bgcolor="#BBFFBB">
+<!--Kevrennow-->
+====Kevrennow====
+{{links}}
+</td>
+</tr>
+<tr>
+<td bgcolor="#ddddff">
+====Wikipedia yn yéthow erel====
+{{Wikipedialang}}
+----
+====Towlow whór Wikipedia====
+{{Wikipediasister}}
+</td>
+</tr>
+</table>
+[[ang:]]
+[[br:]]
+[[cy:]]
+[[de:]]
+[[en:]]
+[[eo:]]
+[[fr:]]
+[[ga:]]
+[[gd:]]
+[[gv:]]
+[[io:]]
+[[nl:]]
+[[pl:|Polish]]
+[[sco:]]
+
+[[Category:Wykypedy]]
+__NOTOC__
+__NOEDITSECTION__
