@@ -1,9 +1,9 @@
 {| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
-|+ <big>'''الجمهورية العراقية<br>(Al-Jumhuriyah Al-Iraqiyah)'''</big>
+|+ <font size="+1">'''الجمهورية العراقية<br>''(Al-Jumhuriyah al-Iraqiyah)'''''</font>
 |-
-| colspan="2" style="background:#efefef;" align="center" |
+| colspan="2" style="background:white" align="center" |
 {|
-|align="center" | [[Image:Iraq flag 300.png|170px|Baner Irak]]
+|align="center" | {{border|[[Image:Iraq flag 300.png|170px|Baner Irak]]}}
 |align="center" width="140px"|[[Image:Iraq-COA.png|100px|Kota Arvow Irak]]
 |- align="center" width="140px"
 | (Baner Irak) 
@@ -16,9 +16,9 @@
 |-
 |[[Yeth|Yethow]] soedhogel || [[Arabek]],<br>[[Kurdek]] (yn Kurdistan)
 |-
-|Penn-sita || [[Baghdad]]
+|Pennsita || [[Baldak]]
 |-
-|Moyha sita || [[Baghdad]]
+|Brassa sita || [[Baldak]]
 |-
 |Lywydh || [[Jalal Talabani]]
 |-
