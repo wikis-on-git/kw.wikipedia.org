@@ -1,16 +1,16 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
 |+ <big>'''Kongeriket Norge<br>Kongeriket Noreg'''</big>
 |-
 | colspan="2" style="background:white" align="center" |
 {|
-|align="center" | {{border|[[Image:flag_of_Norway.png|130px|Baner Norgagh]]}}
-|align="center" width="140px"|[[image:Norwegian COA redyellow.250px.png|80px|Kota Arvow Norgagh]]
-|- align="center" width="140px"
-| (Baner Norgagh) 
-| (Kota Arvow Norgagh)
+|align="center" | {{border|[[Image:flag_of_Norway.png|150px|Baner Norgagh]]}}
+|align="center" width="100px"|[[image:Norwegian COA redyellow.250px.png|80px|Kota Arvow Norgagh]]
+|- 
+|align="center" width="180px"| <font size="-1">(Baner Norgagh)</font>
+|align="center" width="120px"| <font size="-1">(Kota Arvow Norgagh)</font>
 |}
 |-
-| align="center" colspan="2" | ''Lavar kenedhlek: Alt for Norge''
+| align="center" colspan="2" | <font size="-1">''Lavar kenedhlek: Alt for Norge''</font>
 |-
 | align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationNorway.png|Desedhans Norgagh]]
 |-
@@ -26,7 +26,7 @@
 |-
 |[[Enep]] || 385,199 km²
 |-
-|[[Poblans]] ([[2004]])<br />&nbsp;[[Doesedh]]|| 4,593,041 a drigoryon <br /> 14 triger/km²
+|[[Poblans]]&nbsp;([[2004]])<br />&nbsp;[[Doesedh]]|| 4,593,041 a drigoryon <br /> 14 triger/km²
 |-
 |Anserghogeth || 7ves a [[Mis Metheven|vis Vetheven]] [[1905]]
 |-
