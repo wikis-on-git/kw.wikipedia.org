@@ -1,9 +1,9 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border="1" align="right" cellspacing="0" cellpadding="5" width=300 style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
 |+ <big>'''Magyar Köztársaság'''</big>
 |-
-| colspan="2" style="background:#efefef;" align="center" |
-{| style="background:#efefef;" 
-|align="center" | [[Image:Flag_of_Hungary.png|130px|Baner Hungari]]
+| colspan="2" align="center" |
+{|  
+|align="center" | {{border|[[Image:Flag_of_Hungary.png|130px|Baner Hungari]]}}
 |align="center" width="140px"|[[image:Hungary-coa.jpg|70px|Kota Arvow Hungari]]
 |- align="center" width="140px"
 | (Baner Hungari) 
@@ -32,7 +32,7 @@
 |-
 |Mona kemmyn || [[Forint hungarek]]
 |-
-|Kan genedhlek || Himnusz ([[Isten, áldd meg a magyart]])
+|Kan genedhlek || ''[[Himnusz|Himnusz (Isten, áldd meg a magyart)]]''
 |}
 '''Hungari''' ([[hungarek]]: ''Magyar Köztársaság'') yw repoblek yn Kres [[Europa]].
 
