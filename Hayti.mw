@@ -1,4 +1,4 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border="1" align="right" cellspacing="0" cellpadding="5" width=300 style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
 |+ <big>'''Repiblik d Ayiti<br>République d'Haïti'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
@@ -6,7 +6,7 @@
 |align="center" | [[Image:Flag of Haiti.svg|170px|Baner Hayti]]
 |align="center" | [[Image:Haiti-wappen.png|120px|Kota arvow Hayti]]
 |- align="center"
-| (Baner Hayti) || (Kota arvow Hayti)
+| <small>(Baner Hayti)</small> || <small>(Kota arvow Hayti)</small>
 |}
 |-
 | align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>''Lavar kenedhlek: L'Union Fait La Force (frynkek)''</small>
@@ -21,7 +21,7 @@
 |-
 |Lywydh (dewisys) || [[René Préval]]
 |-
-|Pennmenyster || [[Gérard Latortue]]
+|Pennmenyster (tremenadow) || [[Gérard Latortue]]
 |-
 |Enep || 27,750 km²
 |-
