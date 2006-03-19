@@ -7,51 +7,59 @@ Parti ranndiryel yw [[Mebyon Kernow]] (neskar a [[Plaid Cymru|Blaid Cymru]]). Yt
 ==Yn Truru==
 Yma '''Konsel Kernow''' (po '''''Cornwall County Council''''' yn [[sowsnek]]) gans 82 esel: 
 
-{| border=1 cellpadding="2" cellspacing="0" 
+{| border=1 cellpadding="2" cellspacing="1" 
 !colspan="7" align=center bgcolor="#ff9999"| Dewisyans Konsel Kernow, [[2005]]
 |-
-| 
+|colspan="2"| 
 | ''Raglevow''
 | ''Kansrann''<br> ''an raglev''
 | ''Konsloryon 2005''
 | ''Konsloryon 2001''
 | ''Chanj''
 |-
-| '''LivWer'''
+|style="width:10px" bgcolor=#fcb825|
+|'''LivWer'''
 | 117 064 
 | 39.21%
 | '''48'''
 | 36
 | +12
 |-
-| '''Gwithadoryon'''
+| style="width:10px" bgcolor=#2061a2|
+|'''Gwithadoryon'''
 | 71 858 
 | 24.1%
 | '''9'''
 | 9
 | 0
 |-
-| '''Anserghogyon'''
+| style="width:10px" bgcolor=#b0c6b3 |
+|'''Anserghogyon'''
 | 58 344
 | 19.5%
 | '''20'''
 | 24
 | &ndash;4
 |-
-| '''Lavur'''
+| style="width:10px" bgcolor=#ee1a2c |
+|'''Lavur'''
 | 30 634
 | 10.3%
 | '''5'''
 | 8
 | &ndash;3
 |-
-| '''MK''' <br> '''Gwyrdhyon'''
-| 9 421 <br> 3 978
-| 3.2% <br> 1.3%
-| '''0'''
-| 0
-| 0
+| style="width:10px" bgcolor=#d6c610 |
+|rowspan="2"|'''MK''' <br> '''Gwyrdhyon'''
+|rowspan="2"| 9 421 <br> 3 978
+|rowspan="2"| 3.2% <br> 1.3%
+|rowspan="2"| '''0'''
+|rowspan="2"| 0
+|rowspan="2"| 0
 |-
+| style="width:10px" bgcolor="#679d01" |
+|-
+| style="width:10px" bgcolor="#89167b" |
 | '''UKIP'''
 | 3 253
 | 1.1%
@@ -59,6 +67,7 @@ Yma '''Konsel Kernow''' (po '''''Cornwall County Council''''' yn [[sowsnek]]) ga
 | 0
 | 0
 |-
+| style="width:10px" bgcolor="#fc7500" |
 | '''Livrel'''
 | 1 388
 | 0.5%
@@ -66,6 +75,7 @@ Yma '''Konsel Kernow''' (po '''''Cornwall County Council''''' yn [[sowsnek]]) ga
 | 0
 | 0
 |-
+| style="width:10px" |
 | '''Erell'''
 | 2 622
 | 0.9%
