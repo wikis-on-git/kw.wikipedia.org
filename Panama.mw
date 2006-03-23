@@ -1,16 +1,16 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''República de Panamá'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Panama.svg|170px|Baner Panama]]
+|align="center" | [[Image:Flag of Panama.svg|150px|Baner Panama]]
 |align="center" width="140px"|[[Image:Panama coa.gif|100px|Kota arvow Panama]]
 |- align="center" width="140px"
 | (Baner Panama) 
 | (Kota arvow Panama)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: ''Pro Mundi Beneficio''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Pro Mundi Beneficio''</small>
 |-
 | align="center" colspan="2" | [[image:LocationPanama.png|Desedhans Panama|300px|]]
 |-
@@ -33,6 +33,8 @@
 |Kan genedhlek || ''Himno Istmeño''
 |-
 |Kodenn kesroesweyth || [[.pa]]
+|-
+|Kodenn pellgowser || +507
 |}
 
 An '''Repoblek Panama''' (yn [[Spaynek]], ''República de Panamá'') yw gwlas yn [[Amerika Gres]].
