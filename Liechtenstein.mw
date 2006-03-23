@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Fürstentum Liechtenstein <br> Prynseth Liechtenstein'''</big>
 |-
-| colspan="2" align="center" |
-{|
-|align="center" | {{border|[[Image:Liechtenstein flag large.png|130px|Baner Liechtenstein]]}}
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
+|align="center" | {{border|[[Image:Liechtenstein flag large.png|150px|Baner Liechtenstein]]}}
 |align="center" width="140px"|[[Image:Liechtenstein_coa.png|100px|Kota Arvow Liechtenstein]]
 |- align="center" width="140px"
 | (Baner Liechtenstein) 
 | (Kota Arvow Liechtenstein)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: nagonan''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationLiechtenstein.png|Desedhans Liechtenstein yn Europa]]
+| align="center" colspan="2" | [[image:LocationLiechtenstein.png|300px|Desedhans Liechtenstein yn Europa]]
 |-
 |[[Yeth]] soedhogel || [[Almaynek]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''Oben am jungen Rhein''
 |-
 |Kodenn kesroesweyth || [[.li]]
+|-
+|Kodenn pellgowser || +423
 |}
 
 '''Prynseth Liechtenstein''' (yn [[Almaynek]], ''Fürstentum Liechtenstein'') yw stat yn kres [[Europa]] ynter [[Swistir]] hag [[Estrych|Awstri]].
