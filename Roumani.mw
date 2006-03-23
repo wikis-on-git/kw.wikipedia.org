@@ -1,16 +1,16 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''România'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Romania.svg|170px|Baner Roumani]]
+|align="center" | [[Image:Flag of Romania.svg|150px|Baner Roumani]]
 |align="center" width="140px"|[[Image:Romania Coat of Arms.png|100px|Kota arvow Roumani]]
 |- align="center" width="140px"
 | (Baner Roumani) 
 | (Kota arvow Roumani)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: nagonan
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
 | align="center" colspan="2" | [[image:LocationRomania.png|Desedhans Roumani|300px|]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''Deşteaptă-te, române!''
 |-
 |Kodenn kesroesweyth || [[.ro]]
+|-
+|Kodenn pellgowser || +40
 |}
 
 '''Roumani''' (yn [[Roumanek]], ''România'') yw gwlas yn [[Europa]].
