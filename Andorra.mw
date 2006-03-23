@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Principat d'Andorra <br> Principauté d'Andorre <br> Principado de Andorra <br> '''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
-{|
-|align="center" | [[Image:Flag of Andorra.svg|130px|Baner Andorra]]
+{| style="background:#efefef;"
+|align="center" | [[Image:Flag of Andorra.svg|160px|Baner Andorra]]
 |align="center" width="140px"|[[Image:Andorra_coa.png|100px|Kota Arvow Andorra]]
 |- align="center" width="140px"
 | (Baner Andorra) 
 | (Kota Arvow Andorra)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: Virtus Unita Fortior''
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>''Lavar kenedhlek: Virtus Unita Fortior''</small>
 |-
-| align="center" colspan="2" | [[image:LocationAndorra.png|Desedhans Andorra yn Europa]]
+| align="center" colspan="2" | {{border|[[image:LocationAndorra.png|300px|Desedhans Andorra yn Europa]]}}
 |-
 |[[Yeth]] soedhogel || [[Katalanek]]
 |-
@@ -37,6 +37,8 @@
 |Kan genedhlek || ''El Gran Carlemany, Mon Pare''
 |-
 |Kodenn kesroesweyth || [[.ad]]
+|-
+|Kodenn pellgowser || +376
 |}
 
 '''Prynseth Andorra''' (yn [[Katalanek]], ''Principat d'Andorra''; yn [[Frynkek]], ''Principauté d'Andorre''; yn [[Spaynek]], ''Principado de Andorra'') yw stat pur vyghan yn deghow [[Europa]]. An brynseth usi desedhys y'n Menydhyow Pyreneek yntra [[Kataloni]] ha [[Gaskoyn]].
