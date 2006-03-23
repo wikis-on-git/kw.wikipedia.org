@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''ދިވެހިރާއްޖޭގެ ޖުމުހޫރިއްޔ<br>Raajjeyge Jumhooriyyaa<br>Repoblek Maldivys'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | [[Image:Flag of Maldives.svg|150px|Baner Maldivys]]
 |align="center" width="140px"|[[Image:Coat of arms of Maldives.png|100px|Kota Arvow Maldivys]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota Arvow Maldivys)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>Lavar kenedhlek: nagonan</small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationMaldives.png|Desedhans Maldivys]]
+| align="center" colspan="2" | [[image:LocationMaldives.png|300px|Desedhans Maldivys]]
 |-
 |[[Yeth]] soedhogel || [[Dhivehi]] 
 |-
@@ -33,6 +33,8 @@
 |Kan genedhlek || ''Gavmii mi ekuverikan matii<br>tibegen kuriime salaam''
 |-
 |Kodenn kesroesweyth || [[.mv]]
+|-
+|Kodenn pellgowser || +960
 |}
 
 An '''Repoblek Maldivys''' (yn [[Dhivehi]], ދިވެހިރާއްޖޭގެ ޖުމުހޫރިއްޔ ''Raajjeyge Jumhooriyyaa'') yw gwlas ynysek yn [[Asi]] Soth.
