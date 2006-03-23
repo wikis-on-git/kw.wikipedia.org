@@ -1,20 +1,20 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''República de Bolivia'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
-|align="center" | {{border|[[Image:Flag of Bolivia.svg|150px|Baner Bolivi]]}}
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
+|align="center" | {{border|[[Image:Flag of Bolivia.svg|130px|Baner Bolivi]]}}
 |align="center" width="100px"|[[Image:Bolivia coa.png|150px|Kota arvow Bolivi]]
 |- 
 |align="center" width="180px"| <font size="-1">(Baner Bolivi)</font>
 |align="center" width="120px"| <font size="-1">(Kota arvow Bolivi)</font>
 |}
 |-
-| align="center" colspan="2" | <font size="-1"> Lavar kenedhlek: ''Morir antes que esclavos vivir''</font>
+| align="center" colspan="2" | <small> ''Lavar kenedhlek: Morir antes que esclavos vivir''</small>
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationBolivia.png|200px|Desedhans Bolivi]]
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | {{border|[[image:LocationBolivia.png|300px|Desedhans Bolivi]]}}
 |-
-|[[Yeth]] soedhogel || [[Spaynek]], [[Runa Simi]], [[Aymara]]
+|[[Yeth]] soedhogel || [[Spaynek]], [[Quechua]], [[Aymarek]], [[Guaranek]]
 |-
 |Pennsita || [[La Paz]], [[Sucre]]
 |-
@@ -33,9 +33,11 @@
 |Kan genedhlek || ''Bolivianos, el hado propicio''
 |-
 |Kodenn kesroesweyth || [[.bo]]
+|-
+|Kodenn pellgowser || +591
 |}
 
-An '''Repoblek Bolivi''' (yn [[spaynek]], '''''República de Bolivia''''') yw gwlas yn [[Deghow Amerika]]. 
+An '''Repoblek Bolivi''' (yn [[Spaynek]], '''''República de Bolivia''''') yw gwlas yn [[Deghow Amerika]]. 
 
 
 {{stokk}}
