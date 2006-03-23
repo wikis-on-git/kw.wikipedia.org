@@ -1,4 +1,4 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Grenada'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
@@ -10,7 +10,7 @@
 | (Kota arvow Grenayd)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: ''The Land, the People, the Light''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: The Land, the People, the Light''</small>
 |-
 | align="center" colspan="2" | [[image:LocationGrenada.png|Desedhans Grenayd|300px|]]
 |-
@@ -37,6 +37,8 @@
 |Kan genedhlek || ''Hail Grenada''
 |-
 |Kodenn kesroesweyth || [[.gd]]
+|-
+|Kodenn pellgowser || +1-473
 |}
 
 '''Grenayd''' (yn [[Sowsnek]] ha [[Spaynek]], ''Grenada'') yw gwlas ynysek yn [[Mor Karib]].
