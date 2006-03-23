@@ -1,16 +1,16 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Antigua and Barbuda'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
 |align="center" | [[Image:Flag of Antigua and Barbuda.svg|150px|Baner Antiga ha Barbuda]]
-|align="center" width="140px"|[[Image:Antigua and barbuda coa.png|100px|Kota arvow Antiga ha Barbuda]]
+|align="center" width="140px"|[[Image:Antigua and barbuda coa.png|110px|Kota arvow Antiga ha Barbuda]]
 |- align="center" width="140px"
 | (Baner Antiga ha Barbuda) 
 | (Kota arvow Antiga ha Barbuda)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: ''Each Endeavouring, All Achieving''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Each Endeavouring, All Achieving''</small>
 |-
 | align="center" colspan="2" | [[image:LocationAntiguaAndBarbuda.png|Desedhans Antiga ha Barbuda|300px|]]
 |-
@@ -35,6 +35,10 @@
 |Mona kemmyn || East Caribbean dollar (EC$)
 |-
 |Kan genedhlek || ''Fair Antigua, We Salute Thee''
+|-
+|Kodenn kesroesweyth || [[.ag]]
+|-
+|Kodenn pellgowser || 1-268
 |}
 
 '''Antiga ha Barbuda''' (yn [[Sowsnek]], ''Antigua and Barbuda'') yw gwlas ynysek yn [[Mor Karib]].
