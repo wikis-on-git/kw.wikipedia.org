@@ -1,8 +1,8 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''República Oriental del Uruguay'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of Uruguay.svg|150px|Baner Urugway]]}}
 |align="center" width="100px"|[[Image:Uruguay coa.png|100px|Kota arvow Urugway]]
 |- 
@@ -10,7 +10,7 @@
 |align="center" width="120px"| <font size="-1">(Kota arvow Urugway)</font>
 |}
 |-
-| align="center" colspan="2" | <font size="-1"> Lavar kenedhlek: ''Libertad o Muerte''</font>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Libertad o Muerte''</small>
 |-
 | align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationUruguay.png|300px|Desedhans Urugway]]
 |-
@@ -33,6 +33,8 @@
 |Kan genedhlek || ''Orientales, la Patria o la tumba''
 |-
 |Kodenn kesroesweyth || [[.uy]]
+|-
+|Kodenn pellgowser || +598
 |}
 
 '''Urugway''' (yn [[spaynek]], '''''Uruguay''''') yw gwlas yn [[Deghow Amerika]]. 
