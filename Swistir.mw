@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Schweizerische Eidgenossenschaft<br>Confédération suisse<br>Confederazione Svizzera<br>Confederziun Svizra<br>Confœderatio Helvetica'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
-{|
+{| style="background:#efefef;"
 |align="center" | [[Image:Flag of Switzerland.svg|100px|Baner Swistir]]
 |align="center" width="140px"|[[image:Switzerland coat.png|100px|Kota Arvow Swistir]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota Arvow Swistir)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small> ''Lavar kenedhlek: Unus pro omnibus, omnes pro uno'' </small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Unus pro omnibus, omnes pro uno''</small>
 |-
-| align="center" colspan="2" | [[image:LocationSwitzerland.png|Desedhans Swistir]]
+| align="center" colspan="2" | [[image:LocationSwitzerland.png|300px|Desedhans Swistir]]
 |-
 |[[Yeth|Yethow]] soedhogel || [[Almaynek]], [[Frynkek]], [[Italek]],<br> [[Roumantsh]]
 |-
@@ -31,6 +31,8 @@
 |Kan genedhlek || Schweizerpsalm (Almaynek)<br>Cantique suisse (Frynkek)<br> Salmo svizzero (Italek)<br> Psalm svizzer (Romansh)
 |-
 |Kodenn kesroesweyth || [[.ch]]
+|-
+|Kodenn pellgowser || +41
 |}
 
 '''Swistir''' yw pow yn howlsedhes [[Europa]].
