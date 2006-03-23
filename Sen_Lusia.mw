@@ -1,4 +1,4 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Saint Lucia'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
@@ -10,7 +10,7 @@
 | (Kota arvow Sen Lusia)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: ''The Land, The People, The Light''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: The Land, The People, The Light''</small>
 |-
 | align="center" colspan="2" | [[image:LocationSaintLucia.png|Desedhans Sen Lusia|300px|]]
 |-
@@ -37,6 +37,8 @@
 |Kan genedhlek || ''Sons and Daughters of Saint Lucia''
 |-
 |Kodenn kesroesweyth || [[.lc]]
+|-
+|Kodenn pellgowser || +1-758
 |}
 
 '''Sen Lusia''' (yn [[Sowsnek]], ''Saint Lucia'') yw gwlas ynysek yn [[Mor Karib]].
