@@ -1,8 +1,8 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''República Argentina'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of Argentina.svg|150px|Baner Arghantina]]}}
 |align="center" width="100px"|[[Image:Argentina coa.png|100px|Kota arvow Arghantina]]
 |- 
@@ -10,9 +10,9 @@
 |align="center" width="120px"| <font size="-1">(Kota arvow Arghantina)</font>
 |}
 |-
-| align="center" colspan="2" | <font size="-1">''Lavar kenedhlek: En Unión y Libertad''</font>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: En Unión y Libertad''</small>
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationArgentina.png|200px|Desedhans Arghantina]]
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | {{border|[[image:LocationArgentina.png|300px|Desedhans Arghantina]]}}
 |-
 |[[Yeth]] soedhogel || [[Spaynek]]
 |-
@@ -33,6 +33,8 @@
 |Kan genedhlek || ''Himno nacional argentino''
 |-
 |Kodenn kesroesweyth || [[.ar]]
+|-
+|Kodenn pellgowser || +54
 |-
 |colspan="2"|<font size="-1">''<sup>*</sup> Yma Arghantina ow challenjya 1,000,000 km² a [[Antarktik]], an [[Ynysow Falkland/Malvinas]] hag [[Ynysow Jeorji Soth ha Sandwich Soth]]''</font>
 |}
