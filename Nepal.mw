@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" width=300 style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''&#2344;&#2375;&#2346;&#2366;&#2354; &#2309;&#2343;&#2367;&#2352;&#2366;&#2332;&#2381;&#2351;<br>Nepal Adhirajya<br>Rywvaneth Nepal'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | [[Image:Flag of Nepal.svg|100px|Baner Nepal]]
 |align="center" width="140px"|[[Image:Nepal_COA.png|100px|Kota Arvow Nepal]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota Arvow Nepal)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>Lavar kenedhlek: जननी जन्मभूमिष्च स्वर्गादिप गरियिस</small> <br> <small>([[Sanskritek]]: ''Moy yw mamm ha bro es gwlaskor an Nev'')</small>
+| align="center" colspan="2" | <small>Lavar kenedhlek: जननी जन्मभूमिष्च स्वर्गादिप गरियिस</small> <br> <small>([[Sanskritek]]: ''Moy yw mamm ha bro es gwlaskor an Nev'')</small>
 |-
-| align="center" colspan="2" | [[image:LocationNepal.png|Desedhans Nepal]]
+| align="center" colspan="2" | [[image:LocationNepal.png|300px|Desedhans Nepal]]
 |-
 |[[Yeth]] soedhogel || [[Nepalek]] 
 |-
@@ -37,6 +37,8 @@
 |Kan genedhlek || ''Rastriya Gaan''
 |-
 |Kodenn kesroesweyth || [[.np]]
+|-
+|Kodenn pellgowser || +977
 |}
 
 '''Nepal''' yw gwlaskor yn [[Asi]] [[Asi Soth|Soth]] a-hys an Menydhyow [[Himalaya]]. A-dro dhe Nepal usi [[Cheyna]] hag [[Eynda]].
