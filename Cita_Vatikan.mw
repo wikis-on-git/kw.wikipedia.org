@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Status Civitatis Vaticanae <br> Stato della Città del Vaticano <br> Sita-Stat an Vatikan'''</big>
 |-
-| colspan="2" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of the Vatican City.svg|130px|Baner Sita an Vatikan]]}}
 |align="center" width="140px"|[[Image:Vatican City coa.png|100px|Kota Arvow Sita an Vatikan]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota Arvow Sita an Vatikan)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek:'' nagonan
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationVaticanCity.png|Desedhans Sita an Vatikan yn Europa]]
+| align="center" colspan="2" | [[image:LocationVaticanCity.png|300px|Desedhans Sita an Vatikan yn Europa]]
 |-
 |[[Yeth]] soedhogel || [[Latin]]
 |-
@@ -37,6 +37,8 @@
 |Kan genedhlek || ''Inno e Marcia Pontificale''
 |-
 |Kodenn kesroesweyth || [[.va]]
+|-
+|Kodenn pellgowser || +379
 |}
 
 '''Sita an Vatikan''' (yn [[Italek]], ''Città del Vaticano''; yn [[Latin]], ''Civitatis Vaticanae'') yw sita-stat yn [[Europa]].
