@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Principauté de Monaco <br> Principatu de Munegu'''</big>
 |-
-| colspan="2" align="center" |
-{|
-|align="center" | {{border|[[Image:Flag of Monaco.svg|130px|Baner Monako]]}}
-|align="center" width="140px"|[[Image:Monaco coa.png|100px|Kota Arvow Monako]]
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
+|align="center" | {{border|[[Image:Flag of Monaco.svg|150px|Baner Monako]]}}
+|align="center" width="140px"|[[Image:Monaco coa.png|150px|Kota Arvow Monako]]
 |- align="center" width="140px"
 | (Baner Monako) 
 | (Kota Arvow Monako)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: Deo Juvante''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Deo Juvante''</small>
 |-
-| align="center" colspan="2" | [[image:LocationMonaco.png|Desedhans Monako yn Europa]]
+| align="center" colspan="2" | [[image:LocationMonaco.png|300px|Desedhans Monako yn Europa]]
 |-
 |[[Yeth]] soedhogel || [[Frynkek]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''Hymne Monégasque''
 |-
 |Kodenn kesroesweyth || [[.mc]]
+|-
+|Kodenn pellgowser || +377
 |}
 
 '''Prynseth Monako''' (yn [[Frynkek]], ''Principauté de Monaco'') yw sita-stat yn deghow [[Europa]].
