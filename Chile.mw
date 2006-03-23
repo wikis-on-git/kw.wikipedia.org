@@ -1,18 +1,18 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''República de Chile'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of Chile.svg|150px|Baner Chile]]}}
-|align="center" width="100px"|[[Image:Chili coa n3714.gif|100px|Kota arvow Chile]]
+|align="center" width="100px"|[[Image:Chili coa n3714.gif|120px|Kota arvow Chile]]
 |- 
 |align="center" width="180px"| <font size="-1">(Baner Chile)</font>
 |align="center" width="120px"| <font size="-1">(Kota arvow Chile)</font>
 |}
 |-
-| align="center" colspan="2" | <font size="-1"> Lavar kenedhlek: ''Por la Razón o la Fuerza''</font>
+| align="center" colspan="2" | <small> ''Lavar kenedhlek: Por la Razón o la Fuerza''</small>
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationChile.png|200px|Desedhans Chile]]
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | {{border|[[image:LocationChile.png|300px|Desedhans Chile]]}}
 |-
 |[[Yeth]] soedhogel || [[Spaynek]]
 |-
@@ -33,6 +33,8 @@
 |Kan genedhlek || ''Himno Nacional''
 |-
 |Kodenn kesroesweyth || [[.cl]]
+|-
+|Kodenn pellgowser || +56
 |}
 
 An '''Repoblek Chile''' (yn [[spaynek]], '''''República de Chile''''') yw gwlas yn [[Amerika Dheghow]]. 
