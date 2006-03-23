@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Suomen tasavalta <br> Republiken Finland'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Finland.svg|170px|Baner Pow Finn]]
+|align="center" | [[Image:Flag of Finland.svg|150px|Baner Pow Finn]]
 |align="center" width="140px"|[[image:Coat of arms of Finland.svg|100px|Kota Arvow Pow Finn]]
 |- align="center" width="140px"
 | (Baner Pow Finn) 
 | (Kota Arvow Pow Finn)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: nagonan''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationFinland.png|Desedhans Pow Finn]]
+| align="center" colspan="2" | [[image:LocationFinland.png|300px|Desedhans Pow Finn]]
 |-
 |[[Yeth|Yethow]] soedhogel || [[Finnek]], [[Swedek]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || Maamme / <br> Vårt land
 |-
 |Kodenn kesroesweyth || [[.fi]]
+|-
+|Kodenn pellgowser || +358
 |}
 
 '''Pow Finn''' yw stat yn Kledhbarth [[Europa]], ryb an [[Mor Baltek]] ynter [[Skandinavi]] ha [[Russi]]. Dres niver a gansblydhynyow, Pow Finn o rann a'n Rywvaneth [[Swedherwyk|Swedek]]; mes wosa an breseli Napoleonek y teuth ev ha bos Dugeth a Russi. Repoblek anserghek yw ev a-dhia dermyn an [[Domhwelans Russek]].
