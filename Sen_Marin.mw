@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Serenissima Repubblica di San Marino'''</big>
 |-
-| colspan="2" align="center" |
-{|
-|align="center" | {{border|[[Image:Flag of San Marino.svg|130px|Baner San Marino]]}}
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
+|align="center" | {{border|[[Image:Flag of San Marino.svg|150px|Baner San Marino]]}}
 |align="center" width="140px"|[[Image:Coat of arms of San Marino.png|100px|Kota Arvow San Marino]]
 |- align="center" width="140px"
 | (Baner San Marino) 
 | (Kota Arvow San Marino)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: Libertas''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Libertas''</small>
 |-
-| align="center" colspan="2" | [[image:LocationSanMarino.png|Desedhans San Marino yn Europa]]
+| align="center" colspan="2" | [[image:LocationSanMarino.png|300px|Desedhans San Marino yn Europa]]
 |-
 |[[Yeth]] soedhogel || [[Italek]]
 |-
@@ -33,6 +33,8 @@
 |Kan genedhlek || ''Inno Nazionale''
 |-
 |Kodenn kesroesweyth || [[.sm]]
+|-
+|Kodenn pellgowser || +378
 |}
 
 '''San Marino''' (yn [[Italek]], ''Serenissima Repubblica di San Marino'') yw stat yn deghow [[Europa]].
