@@ -1,4 +1,4 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Кыргыз Республикасы'''<br>'''Kyrgyz Respublikasy'''<br>'''Кыргызская республика'''<br>'''Kyrgyzskaya respublika'''<br>'''Repoblek Kyrgysek'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
@@ -10,7 +10,7 @@
 | (Kota arvow Pow Kyrgys)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: nagonan
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
 | align="center" colspan="2" | [[image:LocationKyrgyzstan.png|Desedhans Pow Kyrgys|300px|]]
 |-
@@ -35,12 +35,15 @@
 |Kan genedhlek || ''Кыргыз Республикасынын Мамлекеттик Гимни''
 |-
 |Kodenn kesroesweyth || [[.kg]]
+|-
+|Kodenn pellgowser || +996
 |}
 
 '''Pow Kyrgys''' (yn [[Kyrgysek]], ''Кыргызстан'') yw gwlas yn [[Asi Gres]].
 
 
 {{stokk}}
+{{Asi}}
 [[Category:Asi]]
 
 [[als:Kirgisistan]]
