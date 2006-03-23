@@ -1,18 +1,18 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Republiek Suriname'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of Suriname.svg|150px|Baner Surinam]]}}
-|align="center" width="100px"|[[Image:Coat of arms of Suriname.png|150px|Kota arvow Surinam]]
+|align="center" width="100px"|[[Image:Coat of arms of Suriname.png|130px|Kota arvow Surinam]]
 |- 
 |align="center" width="180px"| <font size="-1">(Baner Surinam)</font>
 |align="center" width="120px"| <font size="-1">(Kota arvow Surinam)</font>
 |}
 |-
-| align="center" colspan="2" | <font size="-1"> Lavar kenedhlek: ''Justitia - Pietas - Fides''</font>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Justitia - Pietas - Fides''</small>
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationSuriname.png|Desedhans Surinam]]
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationSuriname.png|300px|Desedhans Surinam]]
 |-
 |[[Yeth]] soedhogel || [[Iseldiryek]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''Opo kondreman''
 |-
 |Kodenn kesroesweyth || [[.sr]]
+|-
+|Kodenn pellgowser || +597
 |}
 
 An '''Repoblek Surinam''' (yn [[Iseldiryek]], '''''Republiek Suriname''''') yw gwlas yn [[Amerika Dheghow]]. 
