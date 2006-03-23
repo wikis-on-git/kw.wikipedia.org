@@ -1,16 +1,16 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Հայաստանի Հանրապետություն'''<br>'''Hayastani Hanrapetutyun'''<br>'''Repoblek Armeni'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Armenia.svg|170px|Baner Armeni]]
+|align="center" | [[Image:Flag of Armenia.svg|150px|Baner Armeni]]
 |align="center" width="140px"|[[Image:Armenia coa.png|100px|Kota arvow Armeni]]
 |- align="center" width="140px"
 | (Baner Armeni) 
 | (Kota arvow Armeni)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: nagonan
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
 | align="center" colspan="2" | [[image:LocationArmenia.png|Desedhans Armeni|300px|]]
 |-
@@ -33,6 +33,10 @@
 |Mona kemmyn || Dram (AMD)
 |-
 |Kan genedhlek || ''Mer Hayrenik''
+|-
+|Kodenn kesroesweyth || [[.am]]
+|-
+|Kodenn pellgowser || +374
 |}
 
 '''Armeni''' (yn [[Armynek]], Հայաստան ''Hayastan'', Հայք ''Hayq'') yw gwlas yn [[Europa]].
