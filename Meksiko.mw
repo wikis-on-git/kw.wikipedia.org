@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Estados Unidos Mexicanos'''</big>
 |-
-| colspan="2" style="background:#efefef;" align="center" |
-{|
+| colspan="2" style="background:#f9f9f9;" align="center" |
+{| style="background:#f9f9f9;"
 |align="center" | [[Image:flag_of_Mexico.png|170px|Baner Meksiko]]
 |align="center" width="140px"|[[Image:Mexico coat of arms (small).png|100px|Kota Arvow Meksiko]]
 |- align="center" width="140px"
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationMexico.png|300px|Desedhans Meksiko]]
+| align="center" colspan="2" | {{border|[[image:LocationMexico.png|300px|Desedhans Meksiko]]}}
 |-
 |[[Yeth|Yethow]] soedhogel || [[Spaynek]]
 |-
@@ -22,9 +22,9 @@
 |-
 |Lywydh || [[Vicente Fox]]
 |-
-|Enep || 1,964,375 km²
+|[[Enep]] || 1,964,375 km²
 |-
-|Poblans ([[2005]])<br />&nbsp;Doesedh|| 106,202,903 a drigoryon <br /> 54.3 triger/km²
+|[[Poblans]] ([[2005]])<br />&nbsp;[[Doesedh]]|| 106,202,903 a drigoryon <br /> 54.3 triger/km²
 |-
 |Anserghogeth || dhiworth [[Spayn]]<br>16 [[Mis Gwynngala]], [[1810]]
 |-
@@ -33,6 +33,8 @@
 |Kan genedhlek || ''Himno Nacional Mexicano''
 |-
 |Kodenn kesroesweyth || [[.mx]]
+|-
+|Kodenn pellgowser || +52
 |}
 
 '''Meksiko''' yw repoblek yn [[Amerika Gledh]], ynter an [[Statys Unys]] ha [[Belisa]] ha [[Gwatemala]].
