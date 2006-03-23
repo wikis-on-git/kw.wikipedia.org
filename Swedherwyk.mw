@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Konungariket Sverige'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
-{|
-|align="center" | [[Image:flag_of_Sweden.svg|170px|Baner Swedherwyk]]
-|align="center" width="140px"|[[image:Sweden greater arms.png|100px|Kota Arvow Swedherwyk]]
+{| style="background:#efefef;"
+|align="center" | [[Image:flag_of_Sweden.svg|150px|Baner Swedherwyk]]
+|align="center" width="140px"|[[image:Sweden greater arms.png|150px|Kota Arvow Swedherwyk]]
 |- align="center" width="140px"
 | (Baner Swedherwyk) 
 | (Kota Arvow Swedherwyk)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: nagonan''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationSweden.png|Desedhans Swedherwyk]]
+| align="center" colspan="2" | [[image:LocationSweden.png|300px|Desedhans Swedherwyk]]
 |-
 |[[Yeth]] soedhogel || [[Swedek]]
 |-
@@ -33,6 +33,8 @@
 |Kan genedhlek || Du gamla, Du fria
 |-
 |Kodenn kesroesweyth || [[.se]]
+|-
+|Kodenn pellgowser || +46
 |}
 
 '''Swedherwyk''' yw rywvaneth yn kledhbarth [[Europa]] yntra [[Norgagh]] ha [[Pow Finn]] war an gonna-tir Skandinavek. Yma [[Denmark]] a-dreus an ''Skaggerak''.
