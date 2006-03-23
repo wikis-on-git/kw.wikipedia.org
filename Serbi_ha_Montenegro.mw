@@ -1,16 +1,16 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Државна заједница Србија и Црна Гора'''<br>'''Državna zajednica Srbija i Crna Gora'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Serbia and Montenegro.svg|170px|Baner Serbi ha Montenegro]]
+|align="center" | [[Image:Flag of Serbia and Montenegro.svg|150px|Baner Serbi ha Montenegro]]
 |align="center" width="140px"|[[Image:Coat of arms of Serbia and Montenegro.png|100px|Kota arvow Serbi ha Montenegro]]
 |- align="center" width="140px"
 | (Baner Serbi ha Montenegro) 
 | (Kota arvow Serbi ha Montenegro)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: nagonan
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
 | align="center" colspan="2" | [[image:LocationSerbiaAndMontenegro.png|Desedhans Serbi ha Montenegro|300px|]]
 |-
@@ -31,6 +31,8 @@
 |Kan genedhlek || ''Hej Sloveni''
 |-
 |Kodenn kesroesweyth || [[.yu]]
+|-
+|Kodenn pellgowser || + 381
 |}
 
 '''Serbi ha Montenegro''' (yn [[Serbek]]: Србија и Црна Гора Srbija i Crna Gora) yw gwlas yn deghow [[Europa]].
