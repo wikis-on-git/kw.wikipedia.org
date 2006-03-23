@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Republika Slovenija'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:flag_of_Slovenia.png|170px|Baner Sloveni]]
+|align="center" | [[Image:flag_of_Slovenia.png|150px|Baner Sloveni]]
 |align="center" width="140px"|[[Image:Slovenia_Coat_of_Arms.png|100px|Kota Arvow Sloveni]]
 |- align="center" width="140px"
 | (Baner Sloveni)
 | (Kota Arvow Sloveni)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: nagonan''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationSlovenia.png|Desedhans Sloveni]]
+| align="center" colspan="2" | [[image:LocationSlovenia.png|300px|Desedhans Sloveni]]
 |-
 |[[Yeth|Yethow]] soedhogel || [[Slovenek]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || Zdravljica
 |-
 |Kodenn kesroesweyth || [[.si]]
+|-
+|Kodenn pellgowser || +386
 |}
 
 '''Sloveni''' yw repoblek yn kres [[Europa]]. An powyow kentrevik yw [[Kroati]], [[Estrych]], hag [[Itali]] (an rannvroyow hengovek [[Frioul]] ha [[Veneto]]). Kyns [[1991]] yth o an pow ma rann a [[Yougoslavi]]; ha kyns henna hi o rann a Emperoureth Estrych. A-dhia [[2003]] yth yw Sloveni rann a'n [[Unyans Europek]].
