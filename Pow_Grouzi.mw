@@ -1,16 +1,16 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''საქართველო'''<br>'''Sak’art’velo'''<br>'''Pow Grousi'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Georgia.svg|170px|Baner Pow Grousi]]
+|align="center" | [[Image:Flag of Georgia.svg|150px|Baner Pow Grousi]]
 |align="center" width="140px"|[[Image:Georgian COA.jpg|100px|Kota arvow Pow Grousi]]
 |- align="center" width="140px"
 | (Baner Pow Grousi) 
 | (Kota arvow Pow Grousi)
 |}
 |-
-| align="center" colspan="2" | ''Lavar kenedhlek: ძალა ერთობაშია <br> Dzala ertobashia''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: ძალა ერთობაშია - Dzala ertobashia''</small>
 |-
 | align="center" colspan="2" | [[image:LocationGeorgia.png|Desedhans Pow Grousi|300px|]]
 |-
@@ -33,6 +33,10 @@
 |Mona kemmyn || Lari (GEL)
 |-
 |Kan genedhlek || ''Tavisupleba''
+|-
+|Kodenn kesroesweyth || [[.ge]]
+|-
+|Kodenn pellgowser || +995
 |}
 
 '''Pow Grousi''' (yn [[Kartulek]], ''საქართველო Sak’art’velo'') yw gwlas yn [[Europa]].
