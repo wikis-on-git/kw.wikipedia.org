@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Република България'''<br>'''Republika Bulgariya'''<br>'''Repoblek Bulgari'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Bulgaria.svg|170px|Baner Bulgari]]
+|align="center" | [[Image:Flag of Bulgaria.svg|150px|Baner Bulgari]]
 |align="center" width="140px"|[[Image:Bulgaria coa.png|100px|Kota arvow Bulgari]]
 |- align="center" width="140px"
 | (Baner Bulgari) 
 | (Kota arvow Bulgari)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: ''Съединението прави силата'' <br> ''(Union provides strength)''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Съединението прави силата <br> ([[Bulgarek]]: Union provides strength)''</small>
 |-
-| align="center" colspan="2" | [[image:LocationBulgaria.png|Desedhans Bulgari|300px|]]
+| align="center" colspan="2" | {{border|[[image:LocationBulgaria.png|Desedhans Bulgari|300px|]]}}
 |-
 |[[Yeth]] soedhogel || [[Bulgarek]]
 |-
@@ -35,9 +35,11 @@
 |Kan genedhlek || ''Mila Rodino''
 |-
 |Kodenn kesroesweyth || [[.bg]]
+|-
+|Kodenn pellgowser || +359
 |}
 
-'''Repoblek Bulgari''' (yn [[Bulgarek]], ''Република България - Republika Bulgariya'') yw gwlas yn deghow [[Europa]].
+An '''Repoblek Bulgari''' (yn [[Bulgarek]], ''Република България - Republika Bulgariya'') yw gwlas yn deghow [[Europa]].
 
 
 {{stokk}}
