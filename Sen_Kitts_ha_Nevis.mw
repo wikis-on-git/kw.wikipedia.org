@@ -1,16 +1,16 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Federation of Saint Kitts and Nevis'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Saint Kitts and Nevis.svg|150px|Baner Sen Kitts ha Nevis]]
-|align="center" width="140px"|[[Image:St Kitts and Nevis coa.gif|150px|Kota arvow Sen Kitts ha Nevis]]
+|align="center" | [[Image:Flag of Saint Kitts and Nevis.svg|130px|Baner Sen Kitts ha Nevis]]
+|align="center" width="140px"|[[Image:St Kitts and Nevis coa.gif|130px|Kota arvow Sen Kitts ha Nevis]]
 |- align="center" width="140px"
 | (Baner Sen Kitts ha Nevis) 
 | (Kota arvow Sen Kitts ha Nevis)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: ''Country Above Self''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Country Above Self''</small>
 |-
 | align="center" colspan="2" | [[image:LocationSaintKittsAndNevis.png|Desedhans Sen Kitts ha Nevis|300px|]]
 |-
@@ -37,6 +37,8 @@
 |Kan genedhlek || ''O Land of Beauty!''
 |-
 |Kodenn kesroesweyth || [[.kn]]
+|-
+|Kodenn pellgowser || +1-869
 |}
 
 '''Sen Kitts ha Nevis''' (yn [[Sowsnek]], ''Saint Kitts and Nevis'') yw gwlas ynysek yn [[Mor Karib]].
