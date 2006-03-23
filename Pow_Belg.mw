@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Royaume de Belgique''' <br> '''Koninkrijk België''' <br> '''Königreich Belgien'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{| style="background:white"
-|align="center" | [[Image:flag_of_Belgium.png|130px|Baner Pow Belg]]
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
+|align="center" | [[Image:flag_of_Belgium.png|150px|Baner Pow Belg]]
 |align="center" width="140px"|[[image:Belgium coat of arms large.png|100px|Kota Arvow Pow Belg]]
 |- align="center" width="140px"
 | (Baner Pow Belg) 
 | (Kota Arvow Pow Belg)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | Lavar kenedhlek: ''[[Iseldiryek]]: Eendracht maakt macht <br> [[Frynkek]]: L'union fait la force <br> [[Almaynek]]: Einigkeit macht stark<br>''
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>Lavar kenedhlek: ''[[Iseldiryek]]: Eendracht maakt macht <br> [[Frynkek]]: L'union fait la force <br> [[Almaynek]]: Einigkeit macht stark<br>''</small>
 |-
-| align="center" colspan="2" | [[image:LocationBelgium.png|Desedhans Pow Belg yn Europa]]
+| align="center" colspan="2" | {{border|[[image:LocationBelgium.png|300px|Desedhans Pow Belg yn Europa]]}}
 |-
 |[[Yeth|Yethow]] soedhogel || [[Frynkek]], [[Iseldiryek]], [[Almaynek]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || [[La Brabançonne]]
 |-
 |Kodenn kesroesweyth || [[.be]]
+|-
+|Kodenn pellgowser || +32
 |}
 [[Image:Margh JPG01.jpg|right|thumb|250px|[[Margh]] belgek.]]
 
