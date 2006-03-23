@@ -1,18 +1,18 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''República del Paraguay'''</big>
 |-
 | colspan="2" style="background:white" align="center" |
 {|
-|align="center" | {{border|[[Image:Flag of Paraguay.svg|170px|Baner Paragway]]}}
+|align="center" | {{border|[[Image:Flag of Paraguay.svg|150px|Baner Paragway]]}}
 |align="center" width="100px"|[[Image:Coat of arms of Paraguay.png|100px|Kota arvow Paragway]]
 |- 
 |align="center" width="180px"| <font size="-1">(Baner Paragway)</font>
 |align="center" width="120px"| <font size="-1">(Kota arvow Paragway)</font>
 |}
 |-
-| align="center" colspan="2" | <font size="-1"> Lavar kenedhlek: ''Paz y justicia''</font>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Paz y justicia''</small>
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationParaguay.png|200px|Desedhans Paragway]]
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationParaguay.png|300px|Desedhans Paragway]]
 |-
 |[[Yeth]] soedhogel || [[Spaynek]], [[Guaranek]]
 |-
@@ -33,9 +33,11 @@
 |Kan genedhlek || ''Paraguayos, República o Muerte''
 |-
 |Kodenn kesroesweyth || [[.py]]
+|-
+|Kodenn pellgowser || +595
 |}
 
-An '''Repoblek Paragway''' (yn [[spaynek]], '''''República del Paraguay''''') yw gwlas yn [[Deghow Amerika]]. 
+An '''Repoblek Paragway''' (yn [[Spaynek]], '''''República del Paraguay''''') yw gwlas yn [[Deghow Amerika]]. 
 
 
 {{stokk}}
