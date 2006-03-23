@@ -1,16 +1,16 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Україна'''<br>'''Ukrayina'''<br>'''Ukrayn'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Ukraine.svg|170px|Baner Ukrayn]]
+|align="center" | [[Image:Flag of Ukraine.svg|150px|Baner Ukrayn]]
 |align="center" width="140px"|[[Image:Ukraine coa.png|100px|Kota arvow Ukrayn]]
 |- align="center" width="140px"
 | (Baner Ukrayn) 
 | (Kota arvow Ukrayn)
 |}
 |-
-| align="center" colspan="2" | ''Lavar kenedhlek: Volya, zlahoda, dobro''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Volya, zlahoda, dobro''</small>
 |-
 | align="center" colspan="2" | [[image:LocationUkraine.png|Desedhans Ukrayn|300px|]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''Shche ne vmerla Ukraina''
 |-
 |Kodenn kesroesweyth || [[.ua]]
+|-
+|Kodenn pellgowser || +380
 |}
 
 '''Ukrayn''' (yn [[Ukraynek]], Україна ''Ukrayina'') yw gwlas yn [[Europa]].
