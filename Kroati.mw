@@ -1,16 +1,16 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Republika Hrvatska'''<br>'''Repoblek Kroati'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag_of_Croatia.svg|170px|Baner Kroati]]
+|align="center" | [[Image:Flag_of_Croatia.svg|150px|Baner Kroati]]
 |align="center" width="140px"|[[Image:Croatian_Coat_of_Arms.svg|100px|Kota arvow Kroati]]
 |- align="center" width="140px"
 | (Baner Kroati) 
 | (Kota arvow Kroati)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: nagonan
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
 | align="center" colspan="2" | [[image:LocationCroatia.png|Desedhans Kroati|300px|]]
 |-
@@ -35,9 +35,11 @@
 |Kan genedhlek || ''Lijepa naša domovino''
 |-
 |Kodenn kesroesweyth || [[.hr]]
+|-
+|Kodenn pellgowser || +385
 |}
 
-'''Repoblek Kroati''' (yn [[Kroatek]], ''Republika Hrvatska'') yw gwlas yn deghow [[Europa]].
+An '''Repoblek Kroati''' (yn [[Kroatek]], ''Republika Hrvatska'') yw gwlas yn deghow [[Europa]].
 
 
 {{stokk}}
