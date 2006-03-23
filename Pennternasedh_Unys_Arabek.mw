@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''الإمارات العربيّة المتّحد<br>Al-Imārāt al-‘Arabīyah al-Muttahidah<br>Pennternasedh Unys Arabek'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of the United Arab Emirates.svg|150px|Baner PUA]]}}
 |align="center" width="140px"|[[Image:Uae coa.png|100px|Kota Arvow PUA]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota Arvow PUA)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>Lavar kenedhlek: nagonan</small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationYemen.png|Desedhans Yemen]]
+| align="center" colspan="2" | [[image:LocationYemen.png|300px|Desedhans PUA]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]] 
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''Arabic Emirati Tahiat Alalam''
 |-
 |Kodenn kesroesweyth || [[.ae]]
+|-
+|Kodenn pellgowser || +971
 |}
 
 An '''Pennternasedh Unys Arabek''' (yn [[Arabek]], الإمارات العربيّة المتّح ''Al-Imārāt al-‘Arabīyah al-Muttahidah'') yw gwlas yn [[Asi]] West.
