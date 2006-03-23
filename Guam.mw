@@ -1,8 +1,8 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''The Territory of Guam<br>Guåhån'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of Guam.svg|150px|Baner Guam]]}}
 |align="center" width="100px"|[[Image:Coat of arms of Guam.svg|80px|Kota arvow Guam]]
 |- 
@@ -10,9 +10,9 @@
 |align="center" width="120px"| <font size="-1">(Kota arvow Guam)</font>
 |}
 |-
-| align="center" colspan="2" | <font size="-1"> Lavar kenedhlek: ''Where America's Day Begins''</font>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Where America's Day Begins''</small>
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationGuam.png|200px|Desedhans Guam]]
+| align="center" colspan="2" | [[image:LocationGuam.png|300px|Desedhans Guam]]
 |-
 |Kenedhel || [[Statys Unys|Statys Unys Amerika]]
 |-
@@ -37,6 +37,8 @@
 |Amser || UTC +10
 |-
 |Kodenn kesroesweyth || [[.gu]]
+|-
+|Kodenn pellgowser || +1-671
 |}
 
 '''Guam''' (yn [[Chamorro]], '''''Guåhån''''') yw ynysek y'n [[Keynvor Hebask]]. 
