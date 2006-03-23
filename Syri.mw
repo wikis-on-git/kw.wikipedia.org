@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''الجمهوريّة العربيّة السّوريّة<br>Al-Jumhūriyyaḧ al-ʻArabiyyaḧ as-Sūriyyaḧ'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of Syria.svg|150px|Baner Surri]]}}
 |align="center" width="140px"|[[Image:Coat of arms of Syria.png|100px|Kota Arvow Surri]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota Arvow Surri)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>Lavar kenedhlek: nagonan</small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationSyria.png|Desedhans Surri]]
+| align="center" colspan="2" | [[image:LocationSyria.png|300px|Desedhans Surri]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''Homat el Diyar''
 |-
 |Kodenn kesroesweyth || [[.sy]]
+|-
+|Kodenn pellgowser || +963
 |}
 
 '''Surri''' yw gwlas yn [[Asi]] West.
