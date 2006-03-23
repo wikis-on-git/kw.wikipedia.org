@@ -1,16 +1,16 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Saint Vincent and the Grenadines'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Saint Vincent and the Grenadines.svg|150px|Baner Sen Vinsent ha'n Ynysow Grenadinek]]
+|align="center" | [[Image:Flag of Saint Vincent and the Grenadines.svg|130px|Baner Sen Vinsent ha'n Ynysow Grenadinek]]
 |align="center" width="140px"|[[Image:St Vincent and the Grenadines coa.gif|100px|Kota arvow Sen Vinsent ha'n Ynysow Grenadinek]]
 |- align="center" width="140px"
 | (Baner Sen Vinsent ha'n Ynysow Grenadinek) 
 | (Kota arvow Sen Vinsent ha'n Ynysow Grenadinek)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: ''Pax et justitia''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Pax et justitia''</small>
 |-
 | align="center" colspan="2" | [[image:LocationSaintVincentAndTheGrenadines.png|Desedhans Sen Vinsent ha'n Ynysow Grenadinek|300px|]]
 |-
@@ -37,6 +37,8 @@
 |Kan genedhlek || ''St Vincent Land So Beautiful''
 |-
 |Kodenn kesroesweyth || [[.vc]]
+|-
+|Kodenn pellgowser || +1-784
 |}
 
 '''Sen Vinsent ha'n Ynysow Grenadinek''' (yn [[Sowsnek]], ''Saint Vincent and the Grenadines'') yw gwlas ynysek yn [[Mor Karib]].
