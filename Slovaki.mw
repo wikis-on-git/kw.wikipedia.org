@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Slovenská republika'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:flag_of_Slovakia.png|170px|Baner Slovaki]]
+|align="center" | [[Image:flag_of_Slovakia.png|150px|Baner Slovaki]]
 |align="center" width="140px"|[[image:Slovakia_Coat_of_Arms.png|100px|Kota Arvow Slovaki]]
 |- align="center" width="140px"
 | (Baner Slovaki) 
 | (Kota Arvow Slovaki)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: nagonan''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationSlovakia.png|Desedhans Slovaki]]
+| align="center" colspan="2" | [[image:LocationSlovakia.png|300px|Desedhans Slovaki]]
 |-
 |[[Yeth]] soedhogel || [[Slovakek]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || Nad Tatrou sa blýska
 |-
 |Kodenn kesroesweyth || [[.sk]]
+|-
+|Kodenn pellgowser || +421
 |}
 
 '''Slovaki''' yw repoblek yn Kres [[Europa]]. Rann a Jekoslovaki o hi warbarth gans [[Pow Chek|Repoblek Chek]]; kyns henna, an pow ma o rann a Rywvaneth [[Hungari|Hungarek]].
