@@ -1,18 +1,18 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''República del Ecuador'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of Ecuador.svg|150px|Baner Pow Ekwadorel]]}}
-|align="center" width="100px"|[[Image:Ecuador coa.png|80px|Kota arvow Pow Ekwadorel]]
+|align="center" width="100px"|[[Image:Ecuador coa.png|100px|Kota arvow Pow Ekwadorel]]
 |- 
 |align="center" width="180px"| <font size="-1">(Baner Pow Ekwadorel)</font>
 |align="center" width="120px"| <font size="-1">(Kota arvow Pow Ekwadorel)</font>
 |}
 |-
-| align="center" colspan="2" | <font size="-1"> Lavar kenedhlek: ''El Ecuador ha sido, es y será país Amazónico''</font>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: El Ecuador ha sido, es y será país Amazónico''</small>
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationEcuador.png|200px|Desedhans Pow Ekwadorel]]
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationEcuador.png|300px|Desedhans Pow Ekwadorel]]
 |-
 |[[Yeth]] soedhogel || [[Spaynek]]
 |-
@@ -33,9 +33,11 @@
 |Kan genedhlek || ''Salve, Oh Patria''
 |-
 |Kodenn kesroesweyth || [[.ec]]
+|-
+|Kodenn pellgowser || +593
 |}
 
-An '''Repoblek Ekwadorel''' (yn [[spaynek]], '''''República del Ecuador''''') yw gwlas yn [[Deghow Amerika]]. 
+An '''Repoblek Ekwadorel''' (yn [[Spaynek]], '''''República del Ecuador''''') yw gwlas yn [[Deghow Amerika]]. 
 
 
 {{stokk}}
