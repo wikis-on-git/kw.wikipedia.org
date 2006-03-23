@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''대한 민국<br>Daehan Minguk'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|  
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of South Korea.svg|170px|Baner Korea Dheghow]]}}
 |align="center" width="140px"|[[Image:South korea coa.png|100px|Kota arvow Korea Dheghow]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota arvow Korea Dheghow)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>''Lavar kenedhlek:'' 널리 인간을 이롭게 하라</small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek:'' 널리 인간을 이롭게 하라</small>
 |-
-| align="center" colspan="2" | [[image:LocationSouthKorea.png|Desedhans Korea Dheghow]]
+| align="center" colspan="2" | [[image:LocationSouthKorea.png|300px|Desedhans Korea Dheghow]]
 |-
 |[[Yeth]] soedhogel || [[Koreek]]
 |-
@@ -33,6 +33,10 @@
 |Mona kemmyn || [[won]]
 |-
 |Kan genedhlek || ''애국가 (Aegukga)''
+|-
+|Kodenn kesroesweyth || [[.kr]]
+|-
+|Kodenn pellgowser || +82
 |}
 
 '''Korea Dheghow''' po '''Repoblek Korea''' ([[Koreek]]: 대한 민국, ''Daehan Minguk'') yw gwlas yn Howldrehevel [[Asi]] orth an [[Konna-tir Koreek]]. Koreek yw hy yeth soedhogel.
