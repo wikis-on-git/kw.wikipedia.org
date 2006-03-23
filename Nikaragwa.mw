@@ -1,16 +1,16 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;" width="320px"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''República de Nicarágua'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Nicaragua.svg|170px|Baner Nikaragwa]]
+|align="center" | [[Image:Flag of Nicaragua.svg|150px|Baner Nikaragwa]]
 |align="center" width="140px"|[[Image:Nicaragua coa.gif|100px|Kota arvow Nikaragwa]]
 |- align="center" width="140px"
 | (Baner Nikaragwa) 
 | (Kota arvow Nikaragwa)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: ''Pro Mundi Beneficio''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Pro Mundi Beneficio''</small>
 |-
 | align="center" colspan="2" | [[image:LocationNicaragua.png|Desedhans Nikaragwa|300px|]]
 |-
@@ -33,6 +33,8 @@
 |Kan genedhlek || ''Salve a ti''
 |-
 |Kodenn kesroesweyth || [[.ni]]
+|-
+|Kodenn pellgowser || +505
 |}
 
 An '''Repoblek Nikaragwa''' (yn [[Spaynek]], ''República de Nicarágua'') yw gwlas yn [[Amerika Gres]].
