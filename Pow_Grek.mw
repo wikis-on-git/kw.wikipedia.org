@@ -1,14 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
-|+ <big>'''Ελληνική Δημοκρατία''' <br> Ellinikí Dhimokratía'''</big>
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+ <big>'''Ελληνική Δημοκρατία''' <br> '''Ellinikí Dhimokratía'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
-{|
-|align="center" | [[Image:Greece_flag_300.png|130px|Baner Pow Grek]]
+{| style="background:#efefef;"
+|align="center" | [[Image:Flag of Greece.svg|150px|Baner Pow Grek]]
+|align="center" width="140px"|[[Image:Coat of arms of Greece.png|100px|Kota arvow Pow Grek]]
+|- align="center" width="140px"
+| (Baner Pow Grek) 
+| (Kota arvow Pow Grek)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: Ελευθερία ή θάνατος''<br /><small>"Rydhses po mernans"</small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Ελευθερία ή θάνατος'' <br> ''([[Grew]]: Rydhses po mernans)''</small>
 |-
-| align="center" colspan="2" | [[image:LocationGreece.png|Desedhans Pow Grek]]
+| align="center" colspan="2" | [[image:LocationGreece.png|300px|Desedhans Pow Grek]]
 |-
 |[[Yeth]] soedhogel || [[Grew]]
 |-
@@ -22,7 +26,7 @@
 |-
 |[[Enep]] || 131,940 km²
 |-
-|[[Poblans]] ([[2004]])<br />&nbsp;Doesedh||10,665,989 a drigoryon <br /> 82 triger/km²
+|[[Poblans]] ([[2004]])<br />&nbsp;[[Doesedh]]||10,665,989 a drigoryon <br /> 82 triger/km²
 |-
 |Anserghogeth || 25ves [[Mis Meurth|vis Meurth]], [[1821]]
 |-
@@ -31,7 +35,10 @@
 |Kan genedhlek || Ύμνος προς <br> την Ελευθερία
 |-
 |Kodenn kesroesweyth || [[.gr]]
+|-
+|Kodenn pellgowser || +30
 |}
+
 An '''Repoblek Grek''' (yn [[Greka]], Ελληνική Δημοκρατία) yw stat yn deghow [[Europa]].
 
 
