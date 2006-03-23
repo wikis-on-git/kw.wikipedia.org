@@ -1,18 +1,18 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''United States Virgin Islands'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
-|align="center" | {{border|[[Image:Flag of the United States Virgin Islands.svg|150px|Baner Ynysow an Wyrghes]]}}
-|align="center" width="100px"|[[Image:US Virgin Islands seal.png|100px|Kota arvow Ynysow an Wyrghes]]
-|- 
-|align="center" width="180px"| <font size="-1">(Baner Ynysow an Wyrghes)</font>
-|align="center" width="120px"| <font size="-1">(Kota arvow Ynysow an Wyrghes)</font>
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
+|align="center" | [[Image:Flag of the United States Virgin Islands.svg|150px|Baner Ynysow an Wyrghes]]
+|align="center" width="140px"|[[Image:US Virgin Islands seal.png|100px|Kota arvow Ynysow an Wyrghes]]
+|- align="center" width="140px"
+| (Baner Ynysow an Wyrghes) 
+| (Kota arvow Ynysow an Wyrghes)
 |}
 |-
-| align="center" colspan="2" | <font size="-1"> Lavar kenedhlek: ''United in Pride and Hope''</font>
+| align="center" colspan="2" | <font size="-1"> <small>''Lavar kenedhlek: United in Pride and Hope''</small>
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationUSVirginIslands.png|200px|Desedhans Ynysow an Wyrghes]]
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationUSVirginIslands.png|300px|Desedhans Ynysow an Wyrghes]]
 |-
 |Kenedhel || [[Statys Unys|Statys Unys Amerika]]
 |-
@@ -39,6 +39,8 @@
 |Amser || UTC -4
 |-
 |Kodenn kesroesweyth || [[.vi]]
+|-
+|Kodenn pellgowser || +1-340
 |}
 
 '''Ynysow an Wyrghes a'n Statys Unys''' (yn [[Sowsnek]], '''''United States Virgin Islands''''') yw ynysek y'n [[Mor Karib]]. 
