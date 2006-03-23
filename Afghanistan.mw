@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''د افغانستان اسلامي دول<br>دولت اسلامی افغانستا<br>Da Afghanistan Islami Dawlat<br>Dawlate Islamiye Afghanistan<br>Repoblek Islamek Afghanistan'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of Afghanistan.svg|150px|Baner Afghanistan]]}}
 |align="center" width="140px"|[[Image:Afghanistan COA.png|100px|Kota Arvow Afghanistan]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota Arvow Afghanistan)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>Lavar kenedhlek: nagonan</small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationAfghanistan.png|Desedhans Afghanistan]]
+| align="center" colspan="2" | {{border|[[image:LocationAfghanistan.png|300px|Desedhans Afghanistan]]}}
 |-
 |[[Yeth]] soedhogel || [[Pashtek]], Dari ([[Persek]])
 |-
@@ -22,9 +22,9 @@
 |-
 |Lywydh || [[Hamid Karzai]]
 |-
-|Enep || 647,500 km²
+|[[Enep]] || 647,500 km²
 |-
-|Poblans ([[2005]])<br />&nbsp;Doesedh|| 29,928,987 a drigoryon <br /> 43 triger/km²
+|[[Poblans]] ([[2005]])<br />&nbsp;[[Doesedh]]|| 29,928,987 a drigoryon <br /> 43 triger/km²
 |-
 |Anserghogeth || dhiworth [[Rywvaneth Unys]] <br> [[1919]]
 |-
@@ -33,6 +33,8 @@
 |Kan genedhlek || ''Soroud-e-Melli''
 |-
 |Kodenn kesroesweyth || [[.af]]
+|-
+|Kodenn pellgowser || +93
 |}
 
 '''Afghanistan''' yw gwlas yn [[Asi]] West.
