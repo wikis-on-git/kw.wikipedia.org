@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <font size="+2">'''Canada'''</font>
 |-
-| colspan="2" align="center" |
-{| 
+| colspan="2" style="background:#f9f9f9;" align="center" |
+{| style="background:#f9f9f9;"
 |align="center" | {{border|[[Image:Flag of Canada.svg|140px|Baner Kanada]]}}
 |align="center" width="140px"|[[Image:Bigcancoat.png|100px|Kota arvow Kanada]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota arvow Kanada)
 |}
 |-
-| align="center" colspan="2" | Lavar kenedhlek: ''A Mari usque ad Mare''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: A Mari usque ad Mare''</small>
 |-
-| align="center" colspan="2" | [[image:LocationCanada.png|Desedhans Kanada]]
+| align="center" colspan="2" | {{border|[[image:LocationCanada.png|300px|Desedhans Kanada]]}}
 |-
 |[[Yeth]]ow soedhogel || [[Sowsnek]], [[Frynkek]]
 |-
@@ -36,8 +36,11 @@
 |-
 |Kan genedhlek || ''O Canada''
 |-
-|colspan="2"|[[Image:Ca-map.png|250px|Mappa Kanada]]
+|Kodenn pellgowser || +1
+|-
+|colspan="2"|[[Image:Ca-map.png|300px|Mappa Kanada]]
 |}
+
 '''Kanada''' yw rywvaneth werinel keffrysyes yn [[Amerika]] Gledh. Yma'n Keffrysyans ow tydhya a-dhia [[1867]] hag ynno 10 pow ha 3 tiredh y'n eur ma. Trevesigethow [[Pow Frynk|frynkek]] ha [[Breten Veur|predennek]] o niver a'n powyow ma.
 
 Powyow Kanada:
