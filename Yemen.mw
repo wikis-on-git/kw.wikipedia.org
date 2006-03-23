@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''الجمهوريّة اليمنية<br>Al-Jumhuriyah al-Yamaniyah<br>Repoblek Yemen'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of Yemen.svg|150px|Baner Yemen]]}}
 |align="center" width="140px"|[[Image:Coat of arms of Yemen.png|150px|Kota Arvow Yemen]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota Arvow Yemen)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>Lavar kenedhlek: nagonan</small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationYemen.png|Desedhans Yemen]]
+| align="center" colspan="2" | [[image:LocationYemen.png|300px|Desedhans Yemen]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]] 
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''United Republic''
 |-
 |Kodenn kesroesweyth || [[.ye]]
+|-
+|Kodenn pellgowser || +967
 |}
 
 An '''Repoblek Yemen''' (yn [[Arabek]], الجمهورية اليمنية ''Al-Jumhuriyah al-Yamaniyah'') yw gwlas yn [[Asi]] West.
