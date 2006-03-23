@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''المملكة الأردنية الهاشمي<br>Al Mamlakah al Urdunnīyah al Hāshimīyah<br>Rywvaneth Hashemek Jordan'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of Jordan.svg|150px|Baner Jordan]]}}
 |align="center" width="140px"|[[Image:Coat of Jordan.png|100px|Kota Arvow Jordan]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota Arvow Jordan)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>Lavar kenedhlek: ''Allah Al-Watan Al-Malek''</small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Allah Al-Watan Al-Malek''</small>
 |-
-| align="center" colspan="2" | [[image:LocationJordan.png|Desedhans Jordan]]
+| align="center" colspan="2" | [[image:LocationJordan.png|300px|Desedhans Jordan]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]] 
 |-
@@ -33,6 +33,8 @@
 |Kan genedhlek || ''As-salam al-malaki al-Urduni''
 |-
 |Kodenn kesroesweyth || [[.jo]]
+|-
+|Kodenn pellgowser || +962
 |}
 
 '''Jordan''' (yn [[Arabek]], أردنّ ''ʼUrdunn'') yw gwlas yn [[Asi]] West.
