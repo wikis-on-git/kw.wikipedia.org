@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Repubblica Italiana'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
-{|
-|align="center" | [[Image:flag_of_Italy.png|130px|Baner Itali]]
+{| style="background:#efefef;"
+|align="center" | [[Image:flag_of_Italy.png|150px|Baner Itali]]
 |align="center" width="140px"|[[image:Italy coa.png|100px|Kota Arvow Itali]]
 |- align="center" width="140px"
 | (Baner Itali) 
 | (Kota Arvow Itali)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: nagonan''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationItaly.png|Desedhans Itali yn Europa]]
+| align="center" colspan="2" | [[image:LocationItaly.png|300px|Desedhans Itali yn Europa]]
 |-
 |[[Yeth]] soedhogel || [[Italek]]
 |-
@@ -35,9 +35,11 @@
 |Kan genedhlek || ''Il Canto degli Italiani''
 |-
 |Kodenn kesroesweyth || [[.it]]
+|-
+|Kodenn pellgowser || +39
 |}
 
-'''Repoblek Itali''' (yn [[italek]], ''Repubblica Italiana'') yw stat yn deghow [[Europa]].
+An '''Repoblek Itali''' (yn [[Italek]], ''Repubblica Italiana'') yw stat yn deghow [[Europa]].
 
 
 {{stokk}}
