@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Republik Österreich'''</big>
 |-
-| colspan="2" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Austria flag large.png|150px|Baner Estrych]]}}
-|align="center" width="140px"|[[Image:Austria_Bundesadler.svg|150px|Kota Arvow Estrych]]
+|align="center" width="140px"|[[Image:Austria_Bundesadler.svg|100px|Kota Arvow Estrych]]
 |- align="center" width="140px"
 | (Baner Estrych) 
 | (Kota Arvow Estrych)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | Lavar kenedhlek: ''nagonan''
+| align="center" colspan="2" | <small>Lavar kenedhlek: ''nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationAustria.png|Desedhans Estrych yn Europa]]
+| align="center" colspan="2" | [[image:LocationAustria.png|300px|Desedhans Estrych yn Europa]]
 |-
 |[[Yeth]] soedhogel || [[Almaynek]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''Land der Berge, Land am Strome''
 |-
 |Kodenn kesroesweyth || [[.at]]
+|-
+|Kodenn pellgowser || +43
 |}
 
 '''Estrych''' ([[almaynek]]: '''''Österreich''''') yu pow yn Cres [[Ewrop]]. Stat esel an [[Unyans Ewropek]] ha'n [[Kenedhlow Unys]] yu hy. Hy hentrevygyon yu [[Almayn]], [[Pow Chek]], [[Hungari]], [[Sloveni]], [[Itali]], ha [[Swistir]]. Poblans Estrych o 8 150 835 a dregoryon yn [[2001]]. Estrych yu republyk gans seneth ha penmenester, gelwys an Cansler (po ''Kanzler'' &ndash; Wolfgang Schüssel y'n uer ma).
