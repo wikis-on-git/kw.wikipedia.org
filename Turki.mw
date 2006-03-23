@@ -1,18 +1,18 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Türkiye Cumhuriyeti'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:flag_of_Turkey.svg|150px|Baner Turki]]}}
-|align="center" width="100px"|[[image:Turkey coat of arms.png|80px|Kota arvow Turki]]
+|align="center" width="100px"|[[image:Turkey coat of arms.png|100px|Kota arvow Turki]]
 |- 
 |align="center" width="180px"| <font size="-1">(Baner Turki)</font>
 |align="center" width="120px"| <font size="-1">(Kota arvow Turki)</font>
 |}
 |-
-| align="center" colspan="2" | <font size="-1">''Lavar kenedhlek: Yurtta Sulh, Cihanda Sulh''</font>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Yurtta Sulh, Cihanda Sulh''</small>
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationTurkey.png|Desedhans Turki]]
+| align="center" colspan="2" | [[image:LocationTurkey.png|300px|Desedhans Turki]]
 |-
 |[[Yeth]]ow soedhogel || [[Turkek]]
 |-
@@ -33,7 +33,12 @@
 |Mona kemmyn || [[Lira]] (berrhes YTL po TRY)
 |-
 |Kan genedhlek || ''İstiklâl Marşı''
+|-
+|Kodenn kesroesweyth || [[.tr]]
+|-
+|Kodenn pellgowser || +90
 |}
+
 '''Turki''' yw repoblek yn [[Asi]] west hag [[Europa]] soth-est. A-dro dhedhi yma [[Syri]], [[Irak]], [[Iran]], [[Aserbayjan]], [[Armeni]], [[Pow Grousi]], [[Bulgari]] ha [[Pow Grek]]. Kyproes usi ogas a-dreus rann a'n mor.
 
 
