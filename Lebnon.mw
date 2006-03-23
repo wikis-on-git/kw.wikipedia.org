@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''الجمهوريّة اللبنانيّة<br>Al Jumhuriyah Al Lubnaniyah<br>Repoblek Lebnon'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of Lebanon.svg|150px|Baner Lebnon]]}}
 |align="center" width="140px"|[[Image:Lebanese COA transparent.png|100px|Kota Arvow Lebnon]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota Arvow Lebnon)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>Lavar kenedhlek: ''Koullouna Lil Watan, Lil Oula wal'Allam''</small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Koullouna Lil Watan, Lil Oula wal'Allam''</small>
 |-
-| align="center" colspan="2" | [[image:LocationLebanon.png|Desedhans Lebnon]]
+| align="center" colspan="2" | [[image:LocationLebanon.png|300px|Desedhans Lebnon]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''Kulluna lil-watan lil 'ula lil-'alam''
 |-
 |Kodenn kesroesweyth || [[.lb]]
+|-
+|Kodenn pellgowser || +961
 |}
 
 '''Lebnon''' yw repoblek yn [[Asi]] West, yntra [[Israel]] ha [[Surri]].
