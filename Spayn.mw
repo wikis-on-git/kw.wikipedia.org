@@ -1,15 +1,15 @@
 {| border="1" align="right" cellpadding="4" cellspacing="0" width="300px" style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Reino de España'''</big>
 |-
-| align="center" colspan="2" |
-{| border="0" cellpadding="2" cellspacing="0" style="background: #f9f9f9; text-align: center;"
-| width="130px" | [[Image:Spain flag 300.png|120px|Baner Spayn]]
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
+| width="130px" | [[Image:Spain flag 300.png|150px|Baner Spayn]]
 | width="130px" | [[Image:Escudo de España.png|120px|Kota arvow Spayn]]
 |}
 |-
-| align="center" colspan="2" style="border"-bottom:3px solid gray; | ''Lavar kenedhlek: Plus Ultra<br/>([[Latin]]: "Yn foy yn-mes")''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Plus Ultra<br/>([[Latin]]: Yn foy yn-mes)''</small>
 |-
-| align="center" colspan="2" | [[Image:LocationSpain.png|Desedhans Spayn yn Europa]]
+| align="center" colspan="2" | [[Image:LocationSpain.png|300px|Desedhans Spayn yn Europa]]
 |-
 | Yeth soedhogel || [[Spaynek]]<sup>1</sup>
 |-
@@ -26,6 +26,8 @@
 | Arghans || [[Euro]] (€)
 |-
 | Kodenn kesroesweyth || [[.es]]
+|-
+| Kodenn pellgowser || +34
 |-
 | colspan="2" | Stat esel a'n [[Unyans Europek]], [[NATO]], [[Kenedhlow Unys]], h.e.
 |-
