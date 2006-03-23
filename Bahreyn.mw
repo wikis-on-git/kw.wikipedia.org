@@ -1,8 +1,8 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''مملكة البحرين<br>Mamlakat al-Bahrayn<br>Rywvaneth Bahreyn'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag of Bahrain.svg|150px|Baner Bahreyn]]}}
 |align="center" width="140px"|[[Image:Bahrain coa.png|100px|Kota Arvow Bahreyn]]
 |- align="center" width="140px"
@@ -10,9 +10,9 @@
 | (Kota Arvow Bahreyn)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>Lavar kenedhlek: ''Bahrainona''</small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Bahrainona''</small>
 |-
-| align="center" colspan="2" | [[image:LocationBahrain.png|Desedhans Bahreyn]]
+| align="center" colspan="2" | {{border|[[image:LocationBahrain.png|300px|Desedhans Bahreyn]]}}
 |-
 |[[Yeth]] soedhogel || [[Arabek]] ha [[Sowsnek]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''Bahrainona''
 |-
 |Kodenn kesroesweyth || [[.bh]]
+|-
+|Kodenn pellgowser || +973
 |}
 
 '''Bahreyn''' (yn [[Arabek]], مملكة ''al-Bahrain'') yw gwlas ynysek yn [[Gammas Persek]].
