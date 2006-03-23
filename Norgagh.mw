@@ -1,18 +1,18 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Kongeriket Norge<br>Kongeriket Noreg'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:flag_of_Norway.png|150px|Baner Norgagh]]}}
-|align="center" width="100px"|[[image:Norwegian COA redyellow.250px.png|80px|Kota Arvow Norgagh]]
-|- 
-|align="center" width="180px"| <font size="-1">(Baner Norgagh)</font>
-|align="center" width="120px"| <font size="-1">(Kota Arvow Norgagh)</font>
+|align="center" width="100px"|[[image:Norwegian COA redyellow.250px.png|100px|Kota Arvow Norgagh]]
+|- align="center" width="140px"
+| (Baner Norgagh) 
+| (Kota arvow Norgagh)
 |}
 |-
-| align="center" colspan="2" | <font size="-1">''Lavar kenedhlek: Alt for Norge''</font>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Alt for Norge''</small>
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationNorway.png|Desedhans Norgagh]]
+| align="center" colspan="2" | [[image:LocationNorway.png|300px|Desedhans Norgagh]]
 |-
 |[[Yeth]]ow soedhogel || [[Norgaghek]] (Bokmål and Nynorsk), [[Sami]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''Ja, vi elsker dette landet''
 |-
 |Kodenn kesroesweyth || [[.no]]
+|-
+|Kodenn pellgowser || +47
 |}
 
 '''Norgagh''' yw rywvaneth yn kledhbarth [[Europa]] yntra [[Swedherwyk]] ha'n [[Mor Norgaghek]] war an gonna-tir Skandinavek.
