@@ -1,13 +1,13 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''United States of America'''</big>
 |-
-| colspan="2" style="background:#f9f9f9;" align="center" |
-{| style="background:#f9f9f9;"
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag_of_the_United_States.svg|150px|Baner Statys Unys]]}}
 |align="center" | [[Image:Great_Seal_of_the_US.png|100px]]
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <small>Lavar kenedhlek: ''In God We Trust''<br>Lavar arall: ''E Pluribus Unum''</small>
+| align="center" colspan="2" | <small>Lavar kenedhlek: ''In God We Trust''<br>Lavar arall: ''E Pluribus Unum''</small>
 |-
 | align="center" colspan="2" | {{border|[[image:LocationUSA.png|300px|Desedhans an Statys Unys]]}}
 |-
@@ -28,6 +28,8 @@
 |Mona kemmyn || [[Dollar]] amerikan ($ USD)
 |-
 |Kan genedhlek || ''The Star-Spangled Banner''
+|-
+|Kodenn kesroesweyth || [[.us]] [[.gov]] [[.edu]] [[.mil]] [[.um]]
 |-
 |Kodenn pellgowser || +1
 |}
