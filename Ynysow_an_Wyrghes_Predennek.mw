@@ -1,18 +1,18 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''British Virgin Islands'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|
-|align="center" | {{border|[[Image:Flag of the British Virgin Islands.svg|150px|Baner Ynysow an Wyrghes Predennek]]}}
-|align="center" width="100px"|[[Image:Coat of arms of British Virgin Islands.png|100px|Kota arvow Ynysow an Wyrghes Predennek]]
-|- 
-|align="center" width="180px"| <font size="-1">(Baner Ynysow an Wyrghes Predennek)</font>
-|align="center" width="120px"| <font size="-1">(Kota arvow Ynysow an Wyrghes Predennek)</font>
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
+|align="center" | [[Image:Flag of the British Virgin Islands.svg|150px|Baner Ynysow an Wyrghes Predennek]]
+|align="center" width="140px"|[[Image:Coat of arms of British Virgin Islands.png|100px|Kota arvow Ynysow an Wyrghes Predennek]]
+|- align="center" width="140px"
+| (Baner Ynysow an Wyrghes Predennek) 
+| (Kota arvow Ynysow an Wyrghes Predennek)
 |}
 |-
-| align="center" colspan="2" | <font size="-1"> Lavar kenedhlek: ''The Land, The People, The Light''</font>
+| align="center" colspan="2" | <small> ''Lavar kenedhlek: The Land, The People, The Light''</small>
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationBritishVirginIslands.png|200px|Desedhans Ynysow an Wyrghes Predennek]]
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationBritishVirginIslands.png|300px|Desedhans Ynysow an Wyrghes Predennek]]
 |-
 |Kenedhel || [[Rywvaneth Unys]]
 |-
@@ -33,6 +33,8 @@
 |Amser || UTC -4
 |-
 |Kodenn kesroesweyth || [[.vg]]
+|-
+|Kodenn pellgowser || +1-284
 |}
 
 '''Ynysow an Wyrghes Predennek''' (yn [[Sowsnek]], '''''British Virgin Islands''''') yw ynysek y'n [[Mor Karib]]. 
