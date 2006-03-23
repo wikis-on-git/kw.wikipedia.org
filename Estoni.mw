@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Eesti Vabariik'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag_of_Estonia.png|130px|Baner Estoni]]
+|align="center" | [[Image:Flag_of_Estonia.png|150px|Baner Estoni]]
 |align="center" width="140px"|[[image:Estonia coat-of-arms.jpg|100px|Kota Arvow Estoni]]
 |- align="center" width="140px"
 | (Baner Estoni) 
 | (Kota Arvow Estoni)
 |}
 |-
-| align="center" colspan="2" | [[image:LocationEstonia.png|Desedhans Estoni yn Europa]]
+| align="center" colspan="2" | [[image:LocationEstonia.png|300px|Desedhans Estoni yn Europa]]
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: nagonan''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
 |[[Yeth]] soedhogel || [[Estonek]]
 |-
@@ -34,7 +34,9 @@
 |-
 |Kan genedhlek || Mu isamaa, mu õnn ja rõõm
 |-
-|align="center" colspan="2" | [[image:En-map.png]]
+|Kodenn pellgowser || +372
+|-
+|align="center" colspan="2" | [[image:En-map.png|300px]]
 |}
 
 '''Repoblek Estoni''' yw [[stat]] yn kledhbarth [[Europa]], ryb an [[Mor Baltek]].
