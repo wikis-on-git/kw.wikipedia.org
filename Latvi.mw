@@ -1,16 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Latvijas Republika'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
-{|
-|align="center" | [[Image:flag_of_Latvia.png|170px|Baner Latvi]]
+{| style="background:#efefef;"
+|align="center" | [[Image:Flag of Latvia.svg|150px|Baner Latvi]]
+|align="center" width="140px"|[[Image:Latvia coa.png|100px|Kota arvow Latvi]]
 |- align="center" width="140px"
 | (Baner Latvi) 
+| (Kota arvow Latvi)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: nagonan''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationLatvia.png|Desedhans Latvi]]
+| align="center" colspan="2" | [[image:LocationLatvia.png|300px|Desedhans Latvi]]
 |-
 |[[Yeth]] soedhogel || [[Latviek]]
 |-
@@ -33,6 +35,8 @@
 |Kan genedhlek || ''Dievs, svētī Latviju!''
 |-
 |Kodenn kesroesweyth || [[.lv]]
+|-
+|Kodenn pellgowser || +371
 |}
 
 '''Latvi''' yw repoblek yn [[Europa]] reb an [[Mor Baltek]].
