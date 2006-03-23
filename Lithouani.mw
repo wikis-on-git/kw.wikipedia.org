@@ -1,18 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Lietuvos Respublika'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag_of_Lithuania.svg|170px|Baner Lithouani]]
+|align="center" | [[Image:Flag_of_Lithuania.svg|150px|Baner Lithouani]]
 |align="center" width="140px"|[[image:Coat of Arms Lithuania.gif|100px|Kota Arvow Lithouani]]
 |- align="center" width="140px"
 | (Baner Lithouani) 
 | (Kota Arvow Lithouani)
 |}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | ''Lavar kenedhlek: Lietuva, Tėvyne mūsų... (Let the unity bloom)''
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Lietuva, Tėvyne mūsų...<br>([[Lithywanek]]: Let the unity bloom)''</small>
 |-
-| align="center" colspan="2" | [[image:LocationLithuania.png|Desedhans Lithouani]]
+| align="center" colspan="2" | [[image:LocationLithuania.png|300px|Desedhans Lithouani]]
 |-
 |[[Yeth]] soedhogel || [[Lithywanek]]
 |-
@@ -35,6 +35,8 @@
 |Kan genedhlek || ''Tautiška Giesmė, Vincas Kudirka''
 |-
 |Kodenn kesroesweyth || [[.lt]]
+|-
+|Kodenn pellgowser || +370
 |}
 
 '''Lithouani''', '''Lietuva''' yw repoblek yn [[Europa]] reb an [[Mor Baltek]], an [[Latvi]], [[Poloni]], [[Russi]] ([[Russek]]), [[Belarus]]. 
