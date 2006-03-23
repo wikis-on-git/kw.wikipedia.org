@@ -1,8 +1,8 @@
-{| border="1" align="right" width=300 cellspacing="0" cellpadding="5" style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Navassa Island'''</big>
 |-
-| colspan="2" style="background:white" align="center" |
-{|3
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
 |align="center" | {{border|[[Image:Flag_of_the_United_States.svg|150px|Baner Statys Unys]]}}
 |align="center" width="100px"|[[Image:Great_Seal_of_the_US.png|100px]]
 |- 
@@ -10,7 +10,7 @@
 |align="center" width="120px"| <font size="-1">(Sel Statys Unys)</font>
 |}
 |-
-| align="center" colspan="2" | <font size="-1"> Lavar kenedhlek: ''In God We Trust''</font>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: In God We Trust''</small>
 |-
 |Kenedhel || [[Statys Unys|Statys Unys Amerika]]
 |-
