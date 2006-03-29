@@ -1,11 +1,18 @@
-{| border="1" align="right" cellspacing="0" cellpadding="5" width=300 style="text-align:center;border-collapse:collapse;margin: 0.5em 0 1em 1em;"
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Commonwealth of Australia'''</big>
 |-
-| colspan="2" style="background:#efefef;" align="center" | [[Image:Flag of Australia.svg|200px|Baner Ostrali]]
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;"
+|align="center" | [[Image:Flag of Australia.svg|150px|Baner Ostrali]]
+|align="center" width="140px"|[[image:Australia coa.png|150px|Kota Arvow Ostrali]]
+|- align="center" width="140px" 
+| <small>(Baner Ostrali)</small>
+| <small>(Kota arvow Ostrali)</small>
+|}
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" |<small> ''Lavar kenedhlek: none (formerly Advance Australia)''</small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan <br> (formerly Advance Australia)''</small>
 |-
-| align="center" colspan="2" | [[image:LocationAustralia.png|Desedhans Ostrali|290px]]
+| align="center" colspan="2" | {{border|[[image:LocationAustralia.png|300px|Desedhans Ostrali]]}}
 |-
 |Yeth soedhogel || [[Sowsnek]]
 |-
