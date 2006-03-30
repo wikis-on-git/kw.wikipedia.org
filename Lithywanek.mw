@@ -1,32 +1,19 @@
-{| border="1" cellpadding="2" cellspacing="0" align="right" width="300" style="margin-left: 1em"
-! colspan="2" bgcolor="lightgreen" style="font-size:110%"|Lithywanek ''(lietuvių kalba)''
-|-
-| valign="top"|Kewsys yn:
-|[[Lithouani]]
-|-
-| valign="top"|Kewsys gans:
-|4 milvil
-|-
-| valign="top"|Klasyans genynnek:
-|[[Eyndo-Europek]]<br>
-*[[Baltek]]<br>
-|-
-| Rannyethow
-| Aukštaičių, Žemaičių
-|-
-| Savla Soedhogel:
-|yeth soedhogel a Lithywani hag [[Unyans Europek]]
-|-
-! colspan="2" bgcolor="lightgreen"|Kodennow
-|-
-|ISO 639-1||lt
-|-
-|ISO 639-2(B)||lit
-|-
-|ISO 639-2(T)||lit
-|-
-|SIL||LIT
-|}
+{{Yeth|hanow=Lithywanek
+|hanow1=lietuvių kalba
+|familycolor=lightgreen
+|powyow=[[Lithywani]]
+|poblans=4 milvil
+|teylu=[[Eyndo-Europek]]
+*[[Yethow Baltek|Baltek]]
+**Baltek Est
+***'''Lithywanek'''
+|statys=yeth soedhogel a Lithywani hag [[Unyans Europek]]
+|kesva=''nagonan''
+|iso1=lt
+|iso2-b=lit
+|iso2-t=lit
+|iso3=lit
+}}
 
 '''Lithywanek''' yw [[yeth]] kewsys yn [[Lithywani]] (le mayth yw hi yeth soedhogel ha kenedhlek an bro), an [[Statys Unys]], [[Russi]] ha powyow erell.
 
@@ -34,7 +21,7 @@
 
 {{Yntrawiki|kodenn=lt}}
 
-[[Category:Yeth]]
+[[Category:Yethow Baltek]]
 [[Category:Lithouani]]
 
 [[af:Litaus]]
