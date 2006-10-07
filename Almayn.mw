@@ -1,81 +1,45 @@
-<table style="margin-left:0.5em; float:right" border="1" cellpadding="2" cellspacing="0" 
-width="300px">
-<caption><font size="+1">'''Bundesrepublik Deutschland'''</font></caption>
-<tr>
-<td style="background:#efefef;" align="center" colspan="2">
-<table border="0" cellpadding="2" cellspacing="0">
-<tr>
-<td align="center" width="140px">
-[[Image:Flag of Germany.svg|150px|Baner Almayn]]</td>
-<td align="center" width="140px" rowspan="2" height="130px">
-[[Image:Coat of Arms of Germany.svg|100px|Kota arvow Almayn]]</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2" style="border-bottom:3px" solid="">
-<font size="-1">Lavar kenedhlek: <br>''Einigkeit und Recht und Freiheit'' <br>(Unnses hag ewnder ha rydhses)</font> </td>
-</tr>
-<tr><td align=center colspan=2>[[Image:LocationGermany.png|Almayn yn Europa]]</td></tr>
-<tr>
-<td>Yeth soedhogel</td>
-<td>[[Yeth Almaynek|Almaynek]]'''&sup1;'''</td>
-</tr>
-<tr>
-<td>Pennsita</td>
-<td>[[Berlin]]</td>
-</tr>
-<tr><td>Brassa sita<td>[[Berlin]]
-<tr>
-<td>[[Lywydh Almayn|Lywydh]]:</td>
-<td>[[Horst Köhler]]</td>
-</tr>
-<tr>
-<td>[[Chansler Almayn|Chansler]]:</td>
-<td>[[Angela Merkel]]</td>
-</tr>
-<tr>
-<td>Enep
-<td>357,022.90 km&sup2;
-</tr>
-<tr>
-<td>Poblans<br>
-&nbsp;- Sommenn ([[2003]])<br>
-&nbsp;- Doesedh</td>
-<td>&nbsp;<br>
-82,544,000<br>
-231/km&sup2;</td>
-</tr>
-<tr>
-<td>Selyans/<br>
-Unnses</td>
-<td>Kesunyans Verdun ([[843]]),<br>
-18 [[Genver]] [[1871]],<br>
-23 [[Mys Me|Me]] [[1949]]<br>
-3 [[Hedra]] [[1990]]</td>
-</tr>
-<tr>
-<td>Arghans</td>
-<td>[[Euro]] (&euro;)</td>
-</tr>
-<tr>
-<td>[[Amser]]</td>
-<td>[[UTC]] +1</td>
-</tr>
-<tr>
-<td>Kan genedhlek</td>
-<td>''Das Lied der Deutschen'' <br>(Kan an Almanyon)</td>
-</tr>
-<tr>
-<td>Kodenn kesroesweyth</td>
-<td>[[.de]]</td>
-</tr>
-<tr>
-<td>Kodenn pellgowser</td>
-<td>+49</td>
-</tr>
-</table>
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+ <big>'''Bundesrepublik Deutschland'''</big>
+|-
+| colspan="2" style="background:#efefef;" align="center" |
+{| style="background:#efefef;" 
+|align="center" | [[Image:Flag of Germany.svg|150px|Baner Almayn]]
+|align="center" width="140px"|[[image:Coat of Arms of Germany.svg|100px|Kota Arvow Almayn]]
+|- align="center" width="140px"
+| (Baner Almayn) 
+| (Kota Arvow Almayn)
+|}
+|-
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Einigkeit und Recht und Freiheit''<br>''(Unnses hag ewnder ha rydhses)''</small>
+|-
+| align="center" colspan="2" | [[image:LocationGermany.png|Desedhans Almayn]]
+|-
+|[[Yeth]] soedhogel || [[Yeth Almaynek|Almaynek]]¹
+|-
+|Pennsita || [[Berlin]]
+|-
+|Brassa sita || [[Berlin]]
+|-
+|Lywydh || [[Horst Köhler]] (CDU)
+|-
+|Chansler || [[Angela Merkel]] (CDU)
+|-
+|[[Enep]] || 357,022.90 km²
+|-
+|[[Poblans]] ([[2005]])<br />&nbsp;[[Doesedh]]|| 82,438,000 a drigoryon <br /> 230.9 triger/km²
+|-
+|Selyans ha Unnses || [[Kesunyans Verdun]] ([[843]])<br>18 [[Mys Genver|Genver]] [[1871]]<br>23 [[Mys Me|Me]] [[1949]]<br>3 [[Mys Hedra|Hedra]] [[1990]]</td>
+|-
+|Mona kemmyn || [[Euro]] (EUR)
+|-
+|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|-
+|Kan genedhlek || ''Das Lied der Deutschen''<br>(Kan an Almanyon)
+|-
+|Kodenn kesroesweyth || [[.de]]
+|-
+|Kodenn pellgowser || +49
+|}
 
 '''Almayn''' ([[Almaynek]]: ''Deutschland'') yw repoblek kesunys yn Howlsedhes [[Europa]]. Yma dhodho amal gans [[Denmark]] y'n kledh, gans [[Pow Chek]] ha [[Poloni]] y'n howldrevel, an [[Swistir]] hag [[Awstri]] y'n deghow, ha [[Pow Frynk]], [[Luksembourg]], [[Pow Belg]] ha'n [[Iseldiryow]] y'n howlsedhes. [[Berlin]] yw an bennsita.
 
