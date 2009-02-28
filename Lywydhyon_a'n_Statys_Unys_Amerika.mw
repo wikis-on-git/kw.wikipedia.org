@@ -437,13 +437,21 @@
 | rowspan=2 | [[George W. Bush]]
 | rowspan=2 | [[Image:George-W-Bush.jpeg|100px]]
 | rowspan=2 | 20 [[Mys Genver|Genver]] [[2001]]
-| rowspan=2 | hwath y'n soedh
+| rowspan=2 | 20 [[Mys Genver|Genver]] [[2009]]
 | rowspan=2 | [[Republican Party (Statys Unys)|Republican]]
 | rowspan=2 | [[Dick Cheney]]
 | align=center | 54
 |- {{party shading (SUA)/Republican}}
 | align=center | 55
-|- style="background:#cccccc"
+|- {{party shading (SUA)/Democratic}}
+| '''44'''
+| [[Barack Obama]]
+| [[File:Official portrait of Barack Obama.jpg|100px]]
+| rowspan=2 | 20 [[Mys Genver|Genver]] [[2009]]
+| rowspan=2 | hwath y'n soedh
+| &nbsp; [[Democratic Party (Statys Unys)|Democratic]] &nbsp;
+| [[Joe Biden]]
+| align=center | 56
 |}
 
 [[Category:SUA]]
