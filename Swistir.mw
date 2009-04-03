@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Schweizerische Eidgenossenschaft<br>Confédération suisse<br>Confederazione Svizzera<br>Confederziun Svizra<br>Confœderatio Helvetica'''</big>
+|+ <big>'''Schweizerische Eidgenossenschaft<br />Confédération suisse<br />Confederazione Svizzera<br />Confederziun Svizra<br />Confœderatio Helvetica'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Switzerland.svg|100px|Baner Swistir]]
-|align="center" width="140px"|[[image:Switzerland coat.png|100px|Kota Arvow Swistir]]
+|align="center" | [[File:Flag of Switzerland.svg|100px|Baner Swistir]]
+|align="center" width="140px"|[[File:Switzerland coat.png|100px|Kota Arvow Swistir]]
 |- align="center" width="140px"
 | (Baner Swistir)
 | (Kota Arvow Swistir)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Unus pro omnibus, omnes pro uno''</small>
 |-
-| align="center" colspan="2" | [[Image:Europe location CHE.png|250px|Desedhans Swistir yn Europa]]
+| align="center" colspan="2" | [[File:Europe location CHE.png|250px|Desedhans Swistir yn Europa]]
 |-
-|[[Yeth|Yethow]] soedhogel || [[Almaynek]], [[Frynkek]], [[Italek]],<br> [[Roumantsh]]
+|[[Yeth]]ow soedhogel || [[Almaynek]], [[Frynkek]], [[Italek]],<br /> [[Roumantsh]]
 |-
 |Pennsita || [[Bern]]
 |-
@@ -28,9 +28,9 @@
 |-
 |Mona kemmyn || [[Franc Swistirek]] (CHF)
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |-
-|Kan genedhlek || ''Schweizerpsalm (Almaynek)<br>Cantique suisse (Frynkek)<br> Salmo svizzero (Italek)<br> Psalm svizzer (Romansh)''
+|Kan genedhlek || ''Schweizerpsalm (Almaynek)<br />Cantique suisse (Frynkek)<br /> Salmo svizzero (Italek)<br /> Psalm svizzer (Romansh)''
 |-
 |Kodenn kesroesweyth || [[.ch]]
 |-
@@ -42,13 +42,12 @@
 
 {{Stokk-europa}}
 {{Europa}}
-
-[[Category:Swistir| ]]
-
 {{Link FA|af}}
 
 {{Link FA|lmo}}
 {{Link FA|no}}
+
+[[Category:Swistir| ]]
 
 [[af:Switserland]]
 [[als:Schweiz]]
@@ -155,7 +154,7 @@
 [[oc:Soïssa]]
 [[os:Швейцари]]
 [[pag:Switzerland]]
-[[pam:Switzerland]]
+[[pam:Suiza]]
 [[pdc:Schweiz]]
 [[pih:Switsaland]]
 [[pl:Szwajcaria]]
