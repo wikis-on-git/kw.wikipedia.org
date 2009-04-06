@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of San Marino.svg|150px|Baner San Marino]]}}
-|align="center" width="140px"|[[Image:Coat of arms of San Marino.png|100px|Kota Arvow San Marino]]
+|align="center" | {{border|[[File:Flag of San Marino.svg|150px|Baner San Marino]]}}
+|align="center" width="140px"|[[File:Coat of arms of San Marino.png|100px|Kota Arvow San Marino]]
 |- align="center" width="140px"
 | (Baner San Marino) 
 | (Kota Arvow San Marino)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Libertas''</small>
 |-
-| align="center" colspan="2" | [[image:LocationSanMarino.png|300px|Desedhans San Marino yn Europa]]
+| align="center" colspan="2" | [[File:LocationSanMarino.png|300px|Desedhans San Marino yn Europa]]
 |-
 |[[Yeth]] soedhogel || [[Italek]]
 |-
@@ -20,7 +20,7 @@
 |-
 |Brassa sita || [[Serravalle]]
 |-
-|Capitani reggenti || [[Claudio Muccioli]] <br> [[Antonello Bacciocchi]]
+|Capitani reggenti || [[Claudio Muccioli]] <br /> [[Antonello Bacciocchi]]
 |-
 |[[Enep]] || 61 km²
 |-
@@ -30,7 +30,7 @@
 |-
 |Mona kemmyn || [[Euro]] (EUR)
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |-
 |Kan genedhlek || ''Inno Nazionale''
 |-
@@ -38,16 +38,15 @@
 |-
 |Kodenn pellgowser || +378
 |}
-[[Image:San marino map.png|300px|right]]
+[[File:San marino map.png|300px|right]]
 
 '''Sen Marin''' (yn [[Italek]], ''Serenissima Repubblica di San Marino'') yw stat yn deghow [[Europa]].
 
 {{Stokk-europa}}
 {{Europa}}
+{{Link FA|de}}
 
 [[Category:San Marino| ]]
-
-{{Link FA|de}}
 
 [[af:San Marino]]
 [[als:San Marino]]
@@ -95,6 +94,7 @@
 [[ga:San Mairíne]]
 [[gd:San Marino]]
 [[gl:San Mariño - San Marino]]
+[[gn:San Marino]]
 [[gv:San Marino]]
 [[haw:Sana Marino]]
 [[he:סן מרינו]]
