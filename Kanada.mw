@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Canada.svg|150px|Baner Kanada]]}}
-|align="center" width="140px"|[[Image:Bigcancoat.png|100px|Kota arvow Kanada]]
+|align="center" | {{border|[[File:Flag of Canada.svg|150px|Baner Kanada]]}}
+|align="center" width="140px"|[[File:Bigcancoat.png|100px|Kota arvow Kanada]]
 |- align="center" width="140px"
 | (Baner Kanada) 
 | (Kota arvow Kanada)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: A Mari usque ad Mare''</small>
 |-
-| align="center" colspan="2" | {{border|[[image:LocationCanada.png|300px|Desedhans Kanada]]}}
+| align="center" colspan="2" | {{border|[[File:LocationCanada.png|300px|Desedhans Kanada]]}}
 |-
 |[[Yeth]]ow soedhogel || [[Sowsnek]], [[Frynkek]]
 |-
@@ -20,7 +20,7 @@
 |-
 |Brassa sita || [[Toronto]]
 |-
-|Pennmenyster || [[Stephen Harper]] <br> ([[Parti Gwithadorel Kanada|Gwithador]])
+|Pennmenyster || [[Stephen Harper]] <br /> ([[Parti Gwithadorel Kanada|Gwithador]])
 |-
 |Myghternes || [[Elisabeth II]]
 |-
@@ -38,7 +38,7 @@
 |-
 |Kodenn pellgowser || +1
 |-
-|colspan="2"|[[Image:Ca-map.png|300px|Mappa Kanada]]
+|colspan="2"|[[File:Ca-map.png|300px|Mappa Kanada]]
 |}
 
 '''Kanada''' yw rywvaneth werinel keffrysyes yn [[Amerika]] Gledh. Yma'n Keffrysyans ow tydhya a-dhia [[1867]] hag ynno 10 pow ha 3 tiredh y'n eur ma. Trevesigethow [[Pow Frynk|frynkek]] ha [[Breten Veur|predennek]] o niver a'n powyow ma.
@@ -67,9 +67,6 @@ Nyns eus dhe Ganada gwlas kentrevik saw onan, an [[Statys Unys]].
 An [[Emperoureth Predennek]] a dryghas powyow est Kanada a'n [[Pow Frynk|Frynkyon]] yn 1713 (pow ''[[Alban Nowydh|Acadie]]'') ha [[18ves kansblydhen|1759-1760]] (pow ''[[Pow Kebek|Canada]]''). Tus Kanada a omladha erbynn an Amerikanyon y'n [[Domhwelans Amerikan]] ha [[Bresel 1812]]. Kanada yw anserghek yn soedhogel a-dhia Reyth [[Westminster]] yn [[1931]].
 
 {{AmerikaGledh}}
-
-[[Category:Kanada| ]]
-
 {{Link FA|af}}
 {{Link FA|vi}}
 
@@ -80,6 +77,8 @@ An [[Emperoureth Predennek]] a dryghas powyow est Kanada a'n [[Pow Frynk|Frynkyo
 {{Link FA|eo}}
 {{Link FA|fi}}
 {{Link FA|pt}}
+
+[[Category:Kanada| ]]
 
 [[af:Kanada]]
 [[als:Kanada]]
@@ -215,6 +214,7 @@ An [[Emperoureth Predennek]] a dryghas powyow est Kanada a'n [[Pow Frynk|Frynkyo
 [[ru:Канада]]
 [[sa:केनडा]]
 [[sah:Канаада]]
+[[sc:Canada]]
 [[scn:Canadà]]
 [[sco:Canadae]]
 [[se:Kanáda]]
