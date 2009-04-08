@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Republic of Botswana'''<br>'''Lefatshe la Botswana'''</big></br>
+|+ <big>'''Republic of Botswana'''<br />'''Lefatshe la Botswana'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Botswana.svg|150px|Baner Botswana]]
-|align="center" width="140px"|[[Image:Coat_of_arms_of_Botswana.png|130px|Kota arvow Botswana]]
+|align="center" | [[File:Flag of Botswana.svg|150px|Baner Botswana]]
+|align="center" width="140px"|[[File:Coat_of_arms_of_Botswana.png|130px|Kota arvow Botswana]]
 |- align="center" width="140px"
 | (Baner Botswana) 
 | (Kota arvow Botswana)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Pula (Let There Be Rain)''</small>
 |-
-| align="center" colspan="2" | {{border|[[image:LocationBotswana.png|Desedhans Botswana]]}}
+| align="center" colspan="2" | {{border|[[File:LocationBotswana.png|Desedhans Botswana]]}}
 |-
 |[[Yeth]] soedhogel || [[Sowsnek]] ha [[Setswana]]
 |-
@@ -26,13 +26,13 @@
 |-
 |[[Poblans]] ([[2003]])<br />&nbsp;[[Doesedh]]|| 1,573,267 a drigoryon <br /> 2.7 triger/km²
 |-
-|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br> 30ves a [[Mys Gwyngala|vis Gwyngala]], [[1966]]
+|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br /> 30ves a [[Mys Gwyngala|vis Gwyngala]], [[1966]]
 |-
 |Mona kemmyn || Pula (BWP)
 |-
 |Amser || UTC +2
 |-
-|Kan genedhlek || ''Fatshe leno la rona <br> ([[Setswana]]: Blessed Be This Noble Land)''
+|Kan genedhlek || ''Fatshe leno la rona <br /> ([[Setswana]]: Blessed Be This Noble Land)''
 |-
 |Kodenn kesroesweyth || [[.bw]]
 |-
@@ -44,6 +44,7 @@
 
 {{stokk-dor}}
 {{afrika}}
+
 [[Category:Gwlasow yn Afrika]]
 
 [[af:Botswana]]
@@ -116,6 +117,7 @@
 [[la:Botsuana]]
 [[lb:Botswana]]
 [[lij:Bòtswana]]
+[[lmo:Botswana]]
 [[ln:Botswana]]
 [[lt:Botsvana]]
 [[lv:Botsvana]]
