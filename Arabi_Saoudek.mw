@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''المملكة العربية السعودية<br>Al-Mamlakah al-'Arabiyah as-Sa'udiyah<br>Rywvaneth Arabi Saoudek'''</big>
+|+ <big>'''المملكة العربية السعودية<br />Al-Mamlakah al-'Arabiyah as-Sa'udiyah<br />Rywvaneth Arabi Saoudek'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Saudi Arabia.svg|150px|Baner Arabi Saoudek]]}}
-|align="center" width="140px"|[[Image:Coat_of_arms_of_Saudi_Arabia.svg|100px|Kota Arvow Arabi Saoudek]]
+|align="center" | {{border|[[File:Flag of Saudi Arabia.svg|150px|Baner Arabi Saoudek]]}}
+|align="center" width="140px"|[[File:Coat_of_arms_of_Saudi_Arabia.svg|100px|Kota Arvow Arabi Saoudek]]
 |- align="center" width="140px"
 | (Baner Arabi Saoudek) 
 | (Kota Arvow Arabi Saoudek)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationSaudiArabia.png|300px|Desedhans Arabi Saoudek]]
+| align="center" colspan="2" | [[File:LocationSaudiArabia.png|300px|Desedhans Arabi Saoudek]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]]
 |-
@@ -44,10 +44,10 @@
 
 {{stokk-dor}}
 {{Asi}}
+{{Link FA|ar}}
+
 [[Category:Asi]]
 [[Category:Arabi]]
-
-{{Link FA|ar}}
 
 [[af:Saoedi-Arabië]]
 [[als:Saudi-Arabien]]
@@ -95,6 +95,7 @@
 [[frp:Arabie saoudita]]
 [[fy:Saûdy-Araabje]]
 [[ga:An Araib Shádach]]
+[[gan:沙特阿拉伯]]
 [[gd:Saud-Aràibia]]
 [[gl:Arabia Saudí - العربية السعودية]]
 [[gv:Yn Araab Saudi]]
