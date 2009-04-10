@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''جمهوريّة مصر العربيّة<br>Gomhuriat Misr Al-Arabiah'''</big>
+|+ <big>'''جمهوريّة مصر العربيّة<br />Gomhuriat Misr Al-Arabiah'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Egypt.svg|170px|Baner Ejyp]]
-|align="center" width="140px"|[[image:Coat_of_arms_of_Egypt.svg|100px|Kota Arvow Ejyp]]
+|align="center" | [[File:Flag of Egypt.svg|170px|Baner Ejyp]]
+|align="center" width="140px"|[[File:Coat_of_arms_of_Egypt.svg|100px|Kota Arvow Ejyp]]
 |- align="center" width="140px"
 | (Baner Ejyp) 
 | (Kota Arvow Ejyp)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Bilady, Bilady, Bilady ([[Arabek]])''</small>
 |-
-| align="center" colspan="2" | [[image:LocationEgypt.png|Desedhans Ejyp]]
+| align="center" colspan="2" | [[File:LocationEgypt.png|Desedhans Ejyp]]
 |-
-|[[Yeth|Yethow]] soedhogel || [[Arabek]]
+|[[Yeth]]ow soedhogel || [[Arabek]]
 |-
 |Penn-sita || [[El Qâhira]] (Cairo)
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2003]])<br />- [[Doesedh]]|| 74,718,797 a drigoryon <br /> 75 triger/km²
 |-
-|Anserghogeth || dhiworth [[Rywvaneth Unys]]<br> 28 [[Mis Hwevrer]], [[1922]]
+|Anserghogeth || dhiworth [[Rywvaneth Unys]]<br /> 28 [[Mis Hwevrer]], [[1922]]
 |-
 |Mona kemmyn || [[Peuns]]
 |-
-|Amser <br>- Hav (DST) || UTC +2 <br> UTC +3
+|Amser <br />- Hav (DST) || UTC +2 <br /> UTC +3
 |-
 |Kan genedhlek || ''Bilady, Bilady, Bilady''
 |-
@@ -45,12 +45,12 @@
 
 {{stokk-dor}}
 
-[[Image:Pyramids_of_Egypt1.jpg|thumb|left|300px]]
+[[File:Pyramids_of_Egypt1.jpg|thumb|left|300px]]
 {{Afrika}}
+{{Link FA|ar}}
+
 [[Category:Gwlasow yn Afrika]]
 [[Category:Arabi]]
-
-{{Link FA|ar}}
 
 [[af:Egipte]]
 [[als:Ägypten]]
@@ -101,6 +101,7 @@
 [[fur:Egjit]]
 [[fy:Egypte]]
 [[ga:An Éigipt]]
+[[gan:埃及]]
 [[gd:An Èipheit]]
 [[gl:Exipto - مصر]]
 [[gv:Yn Egypt]]
