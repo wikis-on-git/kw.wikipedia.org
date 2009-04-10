@@ -3,18 +3,18 @@
 ! Baner
 ! Kota arvow
 |- align="center"
-| style="background: #f0f0f0;width: 145px;" | [[Image:Flag of Budapest.png|150px|Baner Budapest]]
-| style="background: #ffffff;width: 145px;" | [[Image:Coat of arms of Budapest.png|100px|Kota arvow Budapest]]
+| style="background: #f0f0f0;width: 145px;" | [[File:Flag of Budapest.png|150px|Baner Budapest]]
+| style="background: #ffffff;width: 145px;" | [[File:Coat of arms of Budapest.png|100px|Kota arvow Budapest]]
 |-
 |---- bgcolor="#FFFFFF"
 | '''Gwlaskor'''
-| [[Image:Flag of Hungary.svg|20px|]]&nbsp;[[Hungari]]
+| [[File:Flag of Hungary.svg|20px|]]&nbsp;[[Hungari]]
 |---- bgcolor="#FFFFFF"
 | '''Rannvro'''
-| [[Image:Flag of Hungary.svg|20px|]]&nbsp;[[Hungari Kres]]
+| [[File:Flag of Hungary.svg|20px|]]&nbsp;[[Hungari Kres]]
 |---- bgcolor="#FFFFFF"
 | '''Konteth'''
-| [[Image:Pest departemento blazono.jpg|20px|]]&nbsp;[[Konteth Pest|Pest]]
+| [[File:Pest departemento blazono.jpg|20px|]]&nbsp;[[Konteth Pest|Pest]]
 |---- bgcolor="#FFFFFF"
 | '''Kodenn post'''
 | 1011-1239
@@ -31,22 +31,21 @@
 | '''[[Enep]]'''
 | 525.16 km²
 |---- bgcolor="#FFFFFF"
-| '''Amser'''<br>'''- Hav (DST)'''
-| UTC +1 <br> UTC +2
+| '''Amser'''<br />'''- Hav (DST)'''
+| UTC +1 <br /> UTC +2
 |---- bgcolor="#FFFFFF"
 ! colspan="2" align="center" bgcolor="#EFEFEF" | '''Mappa: Desedhans Budapest yn Hungari'''
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" | [[Image:BudapestMap23.gif|Mappa Hungari (Budapest)]]
+| colspan="2" align="center" | [[File:BudapestMap23.gif|Mappa Hungari (Budapest)]]
 |}
 
 '''Budapest''' yw pennsita [[Hungari]].
 
 {{stokk-europa}}
+{{Link FA|eo}}
 
 [[Category:Hungari]]
 [[Category:Citys ha trevow yn Europa]]
-
-{{Link FA|eo}}
 
 [[af:Boedapest]]
 [[als:Budapest]]
@@ -107,6 +106,7 @@
 [[kv:Будапешт]]
 [[la:Aquincum]]
 [[lb:Budapest]]
+[[li:Boedapes]]
 [[lij:Budapest]]
 [[lmo:Budapest]]
 [[ln:Budapest]]
