@@ -1,24 +1,24 @@
 {| border="1" cellpadding="2" cellspacing="0" align="right" width="300px" style="margin-left:1em"
-|+ <font size="+2"> جمهوری اسلامی  ايران </font><br>'''Jomhouri-ye Eslāmi-ye Irān''' <br>'''Islamic Republic of Iran'''</font>
+|+ <font size="+2"> جمهوری اسلامی  ايران </font><br />'''Jomhouri-ye Eslāmi-ye Irān''' <br />'''Islamic Republic of Iran'''</font>
 |-
 | style="background:#efefef;" align="center" colspan="2" | 
 {| border="0" cellpadding="2" cellspacing="0" style="background:#efefef;"
 |- align="center" width="140px"
-| [[Image:Flag of Iran.svg|125px|Baner Iran]] 
-| height="115px" | [[Image:Coat of arms of Iran.svg|100px|Kota arvow Iran]]
+| [[File:Flag of Iran.svg|125px|Baner Iran]] 
+| height="115px" | [[File:Coat of arms of Iran.svg|100px|Kota arvow Iran]]
 |- align="center" width="140px"
 | Baner Iran
 | Arwoedh kenedhlek Iran
 |}
 |- 
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[Image:LocationIran.png|Desedhans Iran]]
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[File:LocationIran.png|Desedhans Iran]]
 |-
 | align="center" colspan="2" | ''Lavar kenedhlek: Esteqlāl, āzādi, jomhouri-ye eslāmi''
 |- 
-| [[Yeth|Yethow]] soedhogel
+| [[Yeth]]ow soedhogel
 | [[Persek]]
 |-
-| Pennsita  
+| Pennsita 
 | [[Tehran|Tehrān]]
 |-
 | Brassa sita 
@@ -43,7 +43,7 @@
 | 23{{ves}} a [[mys Merth|vis Meurth]], [[1956]]
 |-
 | Mona kemmyn <br />Kodenn ([[ISO 4217]]) 
-| ''Rial'' (ريال) <br> IRR
+| ''Rial'' (ريال) <br /> IRR
 |-
 |Amser 
 |UTC +3:30
@@ -68,11 +68,10 @@ A-dro dhe'n wlas yma [[Turkmenistan]], [[Afghanistan]] ha [[Pakistan]] y'n est h
 ]
 
 {{Asi}}
-
-[[Category:Asi]]
-
 {{Link FA|fr}}
 {{Link FA|hr}}
+
+[[Category:Asi]]
 
 [[af:Iran]]
 [[als:Iran]]
