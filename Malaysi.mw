@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''مليسيا'''<br>'''Malaysia'''</big>
+|+ <big>'''مليسيا'''<br />'''Malaysia'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Malaysia.svg|150px|Baner Malaysi]]}}
-|align="center" width="150px"|[[Image:Coat of arms of Malaysia.png|100px|Kota Arvow Malaysi]]
+|align="center" | {{border|[[File:Flag of Malaysia.svg|150px|Baner Malaysi]]}}
+|align="center" width="150px"|[[File:Coat of arms of Malaysia.png|100px|Kota Arvow Malaysi]]
 |- align="center" width="150px"
 | (Baner Malaysi) 
 | (Kota Arvow Malaysi)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Bersekutu Bertambah Mutu''</small>
 |-
-| align="center" colspan="2" | [[image:LocationMalaysia.png|300px|Desedhans Malaysi]]
+| align="center" colspan="2" | [[File:LocationMalaysia.png|300px|Desedhans Malaysi]]
 |-
 |[[Yeth]] soedhogel || [[Malayek]] 
 |-
@@ -28,7 +28,7 @@
 |-
 |[[Poblans]] ([[2005]])<br />&nbsp;[[Doesedh]]|| 26,207,102 a drigoryon <br /> 78 triger/km²
 |-
-|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br> 31ves a [[Mys Est|vis Est]], [[1957]]
+|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br /> 31ves a [[Mys Est|vis Est]], [[1957]]
 |-
 |Mona kemmyn || Ringgit (RM) (MYR)
 |-
@@ -44,9 +44,9 @@
 
 {{stokk-dor}}
 {{Asi}}
-[[Category:Asi]]
-
 {{Link FA|ms}}
+
+[[Category:Asi]]
 
 [[af:Maleisië]]
 [[als:Malaysia]]
