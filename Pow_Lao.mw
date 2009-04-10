@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''ສາທາລະນະລັດປະຊາທິປະໄຕປະຊາຊົນລາວ'''<br>'''Sathalanalat Pasathipatai Pasason Lao'''<br>'''Lao People's Democratic Republic'''</big>
+|+ <big>'''ສາທາລະນະລັດປະຊາທິປະໄຕປະຊາຊົນລາວ'''<br />'''Sathalanalat Pasathipatai Pasason Lao'''<br />'''Lao People's Democratic Republic'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Laos.svg|150px|Baner Pow Lao]]}}
-|align="center" width="150px"|[[Image:Laos coa.png|100px|Kota Arvow Pow Lao]]
+|align="center" | {{border|[[File:Flag of Laos.svg|150px|Baner Pow Lao]]}}
+|align="center" width="150px"|[[File:Laos coa.png|100px|Kota Arvow Pow Lao]]
 |- align="center" width="150px"
 | (Baner Pow Lao) 
 | (Kota Arvow Pow Lao)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Peace, Independence, Democracy, Unity and Prosperity''</small>
 |-
-| align="center" colspan="2" | [[image:LocationLaos.png|300px|Desedhans Pow Lao]]
+| align="center" colspan="2" | [[File:LocationLaos.png|300px|Desedhans Pow Lao]]
 |-
 |[[Yeth]] soedhogel || [[Lao]] 
 |-
@@ -28,7 +28,7 @@
 |-
 |[[Poblans]] ([[2005]])<br />&nbsp;[[Doesedh]]|| 6,217,141 a drigoryon <br /> 24 triger/km²
 |-
-|Anserghogeth || dhiworth [[Pow Frynk]] <br> 19ves a [[Mys Gortheren|vis Gortheren]], [[1949]]
+|Anserghogeth || dhiworth [[Pow Frynk]] <br /> 19ves a [[Mys Gortheren|vis Gortheren]], [[1949]]
 |-
 |Mona kemmyn || Kip (LAK)
 |-
@@ -44,9 +44,9 @@
 
 {{stokk-dor}}
 {{Asi}}
-[[Category:Asi]]
-
 {{Link FA|lo}}
+
+[[Category:Asi]]
 
 [[af:Laos]]
 [[als:Laos]]
