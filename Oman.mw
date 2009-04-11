@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''سلطنة عُمان<br>Saltanat Uman'''</big>
+|+ <big>'''سلطنة عُمان<br />Saltanat Uman'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Oman.svg|150px|Baner Oman]]
-|align="center" width="140px"|[[image:NationalEmblemOfOman.gif|100px|Kota Arvow Oman]]
+|align="center" | [[File:Flag of Oman.svg|150px|Baner Oman]]
+|align="center" width="140px"|[[File:NationalEmblemOfOman.gif|100px|Kota Arvow Oman]]
 |- align="center" width="140px"
 | (Baner Oman) 
 | (Kota Arvow Oman)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationOman.png|300px|Desedhans Oman]]
+| align="center" colspan="2" | [[File:LocationOman.png|300px|Desedhans Oman]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]]
 |-
@@ -26,11 +26,11 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Doesedh]]|| 3,001,583 a drigoryon <br /> 14 triger/km²
 |-
-| Anserghogeth || dhiworth [[Rywvaneth Unys]] <br> [[1971]]
+| Anserghogeth || dhiworth [[Rywvaneth Unys]] <br /> [[1971]]
 |-
 |Mona kemmyn || Rial (OMR)
 |-
-|Amser <br>- Hav (DST) || UTC +4 <br> UTC +5
+|Amser <br />- Hav (DST) || UTC +4 <br /> UTC +5
 |-
 |Kan genedhlek || ''Nashid as-Salaam as-Sultani''
 |-
@@ -157,6 +157,7 @@
 [[sr:Оман]]
 [[sv:Oman]]
 [[sw:Omani]]
+[[szl:Uoman]]
 [[ta:ஓமான்]]
 [[te:ఒమన్]]
 [[th:ประเทศโอมาน]]
