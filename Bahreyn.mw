@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''مملكة البحرين<br>Mamlakat al-Bahrayn<br>Rywvaneth Bahreyn'''</big>
+|+ <big>'''مملكة البحرين<br />Mamlakat al-Bahrayn<br />Rywvaneth Bahreyn'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Bahrain.svg|150px|Baner Bahreyn]]}}
-|align="center" width="140px"|[[Image:Coat_of_arms_of_Bahrain.svg|100px|Kota Arvow Bahreyn]]
+|align="center" | {{border|[[File:Flag of Bahrain.svg|150px|Baner Bahreyn]]}}
+|align="center" width="140px"|[[File:Coat_of_arms_of_Bahrain.svg|100px|Kota Arvow Bahreyn]]
 |- align="center" width="140px"
 | (Baner Bahreyn) 
 | (Kota Arvow Bahreyn)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Bahrainona''</small>
 |-
-| align="center" colspan="2" | {{border|[[image:LocationBahrain.png|300px|Desedhans Bahreyn]]}}
+| align="center" colspan="2" | {{border|[[File:LocationBahrain.png|300px|Desedhans Bahreyn]]}}
 |-
 |[[Yeth]] soedhogel || [[Arabek]] ha [[Sowsnek]]
 |-
@@ -28,7 +28,7 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Doesedh]]|| 688,345 a drigoryon <br /> 987 triger/km²
 |-
-|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br> 15ves a [[Mys Est|vis Est]], [[1971]]
+|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br /> 15ves a [[Mys Est|vis Est]], [[1971]]
 |-
 |Mona kemmyn || Dinar Bahreynek (BHD)
 |-
@@ -46,9 +46,10 @@
 
 {{stokk-dor}}
 {{Asi}}
+
 [[Category:Asi]]
 [[Category:Arabi]]
-[[category:Ynysow]]
+[[Category:Ynysow]]
 
 [[af:Bahrein]]
 [[als:Bahrain]]
@@ -128,7 +129,7 @@
 [[lt:Bahreinas]]
 [[lv:Bahreina]]
 [[mk:Бахреин]]
-[[ml:ബഹ്‌റൈന്‍]]
+[[ml:ബഹ്റൈന്‍]]
 [[mn:Бахрейн]]
 [[ms:Bahrain]]
 [[na:Bahrain]]
