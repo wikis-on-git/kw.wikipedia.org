@@ -1,9 +1,9 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''ราชอาณาจักรไทย'''<br>'''Racha-anachakra Thai'''<br>'''Rywvaneth Pow Tay'''</big>
+|+ <big>'''ราชอาณาจักรไทย'''<br />'''Racha-anachakra Thai'''<br />'''Rywvaneth Pow Tay'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Thailand.svg|150px|Baner Pow Tay]]}}
+|align="center" | {{border|[[File:Flag of Thailand.svg|150px|Baner Pow Tay]]}}
 |align="center" width="150px"|
 |- align="center" width="150px"
 | (Baner Pow Tay) 
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationThailand.png|300px|Desedhans Pow Tay]]
+| align="center" colspan="2" | [[File:LocationThailand.png|300px|Desedhans Pow Tay]]
 |-
 |[[Yeth]] soedhogel || [[Tayek]]
 |-
@@ -28,7 +28,7 @@
 |-
 |[[Poblans]] ([[2005]])<br />&nbsp;[[Doesedh]]|| 65,444,371 a drigoryon <br /> 127 triger/km²
 |-
-|Anserghogeth || dhiworth [[Emperoureth Khmerek]] <br> [[1238]]
+|Anserghogeth || dhiworth [[Emperoureth Khmerek]] <br /> [[1238]]
 |-
 |Mona kemmyn || ฿ Baht (THB)
 |-
@@ -44,14 +44,14 @@
 
 {{stokk-dor}}
 {{Asi}}
-[[Category:Asi]]
-
 {{Link FA|af}}
 {{Link FA|lo}}
 
 {{Link FA|th}}
 
 {{Link FA|id}}
+
+[[Category:Asi]]
 
 [[af:Thailand]]
 [[als:Thailand]]
@@ -181,7 +181,7 @@
 [[tl:Taylandiya]]
 [[tr:Tayland]]
 [[udm:Таиланд]]
-[[ug:Tayland]]
+[[ug:تايلاند]]
 [[uk:Таїланд]]
 [[ur:تھائی لینڈ]]
 [[vi:Thái Lan]]
