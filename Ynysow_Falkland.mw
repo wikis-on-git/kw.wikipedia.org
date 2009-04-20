@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of the Falkland Islands.svg|150px|Baner Ynysow Falkland]]
-|align="center" width="140px"|[[Image:Coat_of_arms_of_the_Falkland_Islands.svg|100px|Kota arvow Ynysow Falkland]]
+|align="center" | [[File:Flag of the Falkland Islands.svg|150px|Baner Ynysow Falkland]]
+|align="center" width="140px"|[[File:Coat_of_arms_of_the_Falkland_Islands.svg|100px|Kota arvow Ynysow Falkland]]
 |- align="center" width="140px"
 | (Baner Ynysow Falkland) 
 | (Kota arvow Ynysow Falkland)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Desire the right''</small>
 |-
-| align="center" colspan="2" | [[image:LocationFalklandIslands.png|Desedhans an Ynysow Falkland]]
+| align="center" colspan="2" | [[File:LocationFalklandIslands.png|Desedhans an Ynysow Falkland]]
 |-
-|Kenedhel || [[Image:Flag of the United Kingdom.svg|20px|]]&nbsp;[[Rywvaneth Unys]]
+|Kenedhel || [[File:Flag of the United Kingdom.svg|20px|]]&nbsp;[[Rywvaneth Unys]]
 |-
 |[[Yeth]] soedhogel || [[Sowsnek]]
 |-
@@ -32,7 +32,7 @@
 |-
 |Mona kemmyn || [[Peuns Ynysow Falkland]] (FKP)
 |-
-|Amser <br>- Hav (DST) || UTC -4 <br> UTC -3
+|Amser <br />- Hav (DST) || UTC -4 <br /> UTC -3
 |-
 |Kan genedhlek || ''God Save the Queen''
 |-
@@ -48,7 +48,7 @@
 {{AmerikaDheghow}}
 
 [[Category:Gwlasow yn Amerika Dheghow]]
-[[category:Ynysow]]
+[[Category:Ynysow]]
 
 [[an:Islas Malbinas]]
 [[ar:جزر فوكلاند]]
@@ -110,6 +110,7 @@
 [[nov:Falklande Isles]]
 [[nrm:Îles Falkland]]
 [[oc:Illas Falkland]]
+[[os:Фолклендаг (Мальвинаг) сакъадæхтæ]]
 [[pl:Falklandy]]
 [[pt:Ilhas Malvinas]]
 [[ro:Insulele Falkland]]
