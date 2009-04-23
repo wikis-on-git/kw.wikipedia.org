@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Suomen tasavalta <br> Republiken Finland <br> Repoblek Pow Finn'''</big>
+|+ <big>'''Suomen tasavalta <br /> Republiken Finland <br /> Repoblek Pow Finn'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Finland.svg|150px|Baner Pow Finn]]}}
-|align="center" width="140px"|[[image:Coat of arms of Finland.svg|100px|Kota Arvow Pow Finn]]
+|align="center" | {{border|[[File:Flag of Finland.svg|150px|Baner Pow Finn]]}}
+|align="center" width="140px"|[[File:Coat of arms of Finland.svg|100px|Kota Arvow Pow Finn]]
 |- align="center" width="140px"
 | (Baner Pow Finn) 
 | (Kota Arvow Pow Finn)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:Europe location FIN.png|250px|Desedhans Pow Finn yn an Unyans Europek]]
+| align="center" colspan="2" | [[File:Europe location FIN.png|250px|Desedhans Pow Finn yn an Unyans Europek]]
 |-
-|[[Yeth|Yethow]] soedhogel || [[Finnek]] ha [[Swedek]]
+|[[Yeth]]ow soedhogel || [[Finnek]] ha [[Swedek]]
 |-
 |Pennsita || [[Helsinki]]
 |-
@@ -28,13 +28,13 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Doesedh]]|| 5,211,311 a drigoryon <br /> 17.1 triger/km²
 |-
-|Anserghogeth || dhiworth [[Russi]]<br>6ves a [[Mis Kevardhu|vis Kevardhu]], [[1917]]
+|Anserghogeth || dhiworth [[Russi]]<br />6ves a [[Mis Kevardhu|vis Kevardhu]], [[1917]]
 |-
 |Mona kemmyn || [[Euro]] (EUR)
 |-
-|Amser <br>- Hav (DST) || UTC +2 <br> UTC +3
+|Amser <br />- Hav (DST) || UTC +2 <br /> UTC +3
 |-
-|Kan genedhlek || [[Finnek]]: ''Maamme'' <br>[[Swedek]]: ''Vårt land''
+|Kan genedhlek || [[Finnek]]: ''Maamme'' <br />[[Swedek]]: ''Vårt land''
 |-
 |Kodenn kesroesweyth || [[.fi]]
 |-
@@ -48,13 +48,12 @@
 
 {{Norden}}
 {{Europa}}
-
-[[Category:Pow Finn| ]]
-
 {{Link FA|th}}
 
 {{Link FA|de}}
 {{Link FA|sk}}
+
+[[Category:Pow Finn| ]]
 
 [[af:Finland]]
 [[als:Finnland]]
@@ -81,7 +80,6 @@
 [[ce:Финлянди]]
 [[ceb:Finlandia]]
 [[co:Finlandia]]
-[[cr:Suomi]]
 [[crh:Finlandiya]]
 [[cs:Finsko]]
 [[csb:Fińskô]]
