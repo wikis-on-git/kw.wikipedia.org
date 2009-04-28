@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Ripublik Naoero'''<br>'''Republic of Nauru'''</big></br>
+|+ <big>'''Ripublik Naoero'''<br />'''Republic of Nauru'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Nauru.svg|150px|Baner Nauru]]
-|align="center" width="140px"|[[Image:Coat of arms of Nauru.png|130px|Kota arvow Nauru]]
+|align="center" | [[File:Flag of Nauru.svg|150px|Baner Nauru]]
+|align="center" width="140px"|[[File:Coat of arms of Nauru.png|130px|Kota arvow Nauru]]
 |- align="center" width="140px"
 | (Baner Nauru) 
 | (Kota arvow Nauru)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: God's Will First''</small>
 |-
-| align="center" colspan="2" | [[image:LocationNauru.png|Desedhans Nauru|300px|]]
+| align="center" colspan="2" | [[File:LocationNauru.png|Desedhans Nauru|300px|]]
 |-
 |[[Yeth]] soedhogel || [[Nauruek]] ha [[Sowsnek]]
 |-
@@ -44,13 +44,13 @@
 
 {{stokk-dor}}
 {{Ostralasi}}
-[[Category:Ostralasi]]
-
 {{Link FA|ru}}
 
 {{Link FA|de}}
 {{Link FA|en}}
 {{Link FA|no}}
+
+[[Category:Ostralasi]]
 
 [[af:Nauru]]
 [[als:Nauru]]
@@ -161,6 +161,7 @@
 [[uz:Nauru]]
 [[vi:Nauru]]
 [[vo:Naureän]]
+[[war:Nauru]]
 [[wo:Nauru]]
 [[zh:諾魯]]
 [[zh-min-nan:Nauru]]
