@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Corsica.svg|150px|Baner Korsika]]
-|align="center" | [[Image:Coat of Arms of Corsica.svg|100px|Kota arvow Korsika]]
+|align="center" | [[File:Flag of Corsica.svg|150px|Baner Korsika]]
+|align="center" | [[File:Coat of Arms of Corsica.svg|100px|Kota arvow Korsika]]
 |- align="center" width="140px"
 | (Baner Korsika) 
 | (Kota arvow Korsika)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small> ''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | {{border|[[image:Corse map.png|Desedhans Korsika]]}}
+| align="center" colspan="2" | {{border|[[File:Corse map.png|Desedhans Korsika]]}}
 |-
-|Kenedhel || [[Image:Flag of France.svg|20px|]]&nbsp;[[Pow Frynk]]
+|Kenedhel || [[File:Flag of France.svg|20px|]]&nbsp;[[Pow Frynk]]
 |-
 |[[Yeth]] soedhogel || [[Frynkek]] ha [[Korsek]]
 |-
@@ -30,7 +30,7 @@
 |-
 |Kan genedhlek || ''Diu vi salvi Regina''
 |-
-|''Départements'' || [[Corse-du-Sud]] (2A)<br>[[Haute-Corse]] (2B)
+|''Départements'' || [[Corse-du-Sud]] (2A)<br />[[Haute-Corse]] (2B)
 |-
 |ISO 3166-2 || FR-H
 |}
@@ -41,12 +41,11 @@
 {{stokk-dor}}
 <br clear=all>
 {{franceReg}}
-
-[[Category:Pow Frynk]]
-
 {{Link FA|ja}}
 
 {{Link FA|it}}
+
+[[Category:Pow Frynk]]
 
 [[als:Korsika]]
 [[an:Corzega]]
@@ -128,6 +127,7 @@
 [[ur:کورسیکا]]
 [[vec:Còrsega]]
 [[vi:Corse]]
+[[war:Corsica]]
 [[wuu:科西嘉岛]]
 [[zh:科西嘉島]]
 [[zh-classical:科西嘉]]
