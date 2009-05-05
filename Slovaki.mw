@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:flag_of_Slovakia.png|150px|Baner Slovaki]]}}
-|align="center" width="140px"|[[image:Slovakia_Coat_of_Arms.png|100px|Kota arvow Slovaki]]
+|align="center" | {{border|[[File:flag_of_Slovakia.png|150px|Baner Slovaki]]}}
+|align="center" width="140px"|[[File:Slovakia_Coat_of_Arms.png|100px|Kota arvow Slovaki]]
 |- align="center" width="140px"
 | (Baner Slovaki) 
 | (Kota arvow Slovaki)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:Europe location SVK.png|250px|Desedhans Slovaki yn an Unyans Europek]]
+| align="center" colspan="2" | [[File:Europe location SVK.png|250px|Desedhans Slovaki yn an Unyans Europek]]
 |-
 |[[Yeth]] soedhogel || [[Slovakek]]
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2004]])<br />- [[Doesedh]]|| 5,379,455 a drigoryon <br /> 109 triger/km²
 |-
-|Anserghogeth || dhiworth [[Jekoslovaki]]<br>1sa a [[Mis Genver|vis Genver]], [[1993]]
+|Anserghogeth || dhiworth [[Jekoslovaki]]<br />1sa a [[Mis Genver|vis Genver]], [[1993]]
 |-
 |Mona kemmyn || [[Euro]] (EUR)
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |-
 |Kan genedhlek || ''Nad Tatrou sa blýska''
 |-
@@ -49,10 +49,9 @@
 {{Stokk-europa}}
 
 {{Europa}}
+{{Link FA|af}}
 
 [[Category:Slovaki| ]]
-
-{{Link FA|af}}
 
 [[af:Slowakye]]
 [[als:Slowakei]]
@@ -194,6 +193,7 @@
 [[udm:Словакия]]
 [[ug:Slowakiye]]
 [[uk:Словаччина]]
+[[ur:سلوواکیہ]]
 [[uz:Slovakiya]]
 [[vec:Slovachia]]
 [[vi:Slovakia]]
