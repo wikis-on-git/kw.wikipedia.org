@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''འབྲུག་ཡུལي<br>Druk Yul<br>Rywvaneth Bhoutan'''</big>
+|+ <big>'''འབྲུག་ཡུལي<br />Druk Yul<br />Rywvaneth Bhoutan'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Bhutan.svg|150px|Baner Bhoutan]]}}
-|align="center" width="140px"|[[Image:Bhutan emblem.png|100px|Kota Arvow Bhoutan]]
+|align="center" | {{border|[[File:Flag of Bhutan.svg|150px|Baner Bhoutan]]}}
+|align="center" width="140px"|[[File:Bhutan emblem.png|100px|Kota Arvow Bhoutan]]
 |- align="center" width="140px"
 | (Baner Bhoutan) 
 | (Kota Arvow Bhoutan)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: One Nation, One People''</small>
 |-
-| align="center" colspan="2" | {{border|[[image:LocationBhutan.png|300px|Desedhans Bhoutan]]}}
+| align="center" colspan="2" | {{border|[[File:LocationBhutan.png|300px|Desedhans Bhoutan]]}}
 |-
 |[[Yeth]] soedhogel || [[Dzongkha]], [[Sowsnek]] 
 |-
@@ -28,7 +28,7 @@
 |-
 |[[Poblans]] ([[2005]])<br />&nbsp;[[Doesedh]]|| 2,232,291 a drigoryon <br /> 45 triger/km²
 |-
-|Anserghogeth || dhiworth [[Eynda]] <br> 8ves a [[Mys Est|vis Est]], [[1949]]
+|Anserghogeth || dhiworth [[Eynda]] <br /> 8ves a [[Mys Est|vis Est]], [[1949]]
 |-
 |Mona kemmyn || Ngultrum (BTN)
 |-
@@ -46,9 +46,9 @@
 
 {{stokk-dor}}
 {{Asi}}
-[[Category:Asi]]
-
 {{Link FA|no}}
+
+[[Category:Asi]]
 
 [[af:Bhoetan]]
 [[als:Bhutan]]
@@ -87,7 +87,6 @@
 [[es:Bután]]
 [[et:Bhutan]]
 [[eu:Bhutan]]
-[[fa:بوتان]]
 [[fi:Bhutan]]
 [[fo:Butan]]
 [[fr:Bhoutan]]
