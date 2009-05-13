@@ -1,26 +1,26 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Comune di Milano'''</big>
 |-
-| align="center" colspan="2" | [[Image:MailaenderDom.jpg|250px|Duomo di Milano.]]
+| align="center" colspan="2" | [[File:MailaenderDom.jpg|250px|Duomo di Milano.]]
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Milan.svg|150px|Baner Milano]]}}
-|align="center" width="140px"|[[Image:Milano-Stemma.png|100px|Kota arvow Milano]]
+|align="center" | {{border|[[File:Flag of Milan.svg|150px|Baner Milano]]}}
+|align="center" width="140px"|[[File:Milano-Stemma.png|100px|Kota arvow Milano]]
 |- align="center" width="140px"
 | (Baner Milano) 
 | (Kota arvow Milano)
 |}
 |-
-| align="center" colspan="2" | [[image:Milano_posizione.png|200px|Desedhans Pow Milano]]
+| align="center" colspan="2" | [[File:Milano_posizione.png|200px|Desedhans Pow Milano]]
 |-
 | align="center" style="background:#efefef;" colspan="2" | '''Commune''' 
 |-
-|Kenedhel || [[Image:Flag of Italy.svg|20px|]]&nbsp;[[Itali]]
+|Kenedhel || [[File:Flag of Italy.svg|20px|]]&nbsp;[[Itali]]
 |-
-|Rannvro || [[Image:Flag of Lombardy.svg|20px|]]&nbsp;[[Lombardi]]
+|Rannvro || [[File:Flag of Lombardy.svg|20px|]]&nbsp;[[Lombardi]]
 |-
-|Pow || [[Image:Provincia di Milano-Stemma.png|20px|]]&nbsp;[[Pow Milano]]
+|Pow || [[File:Provincia di Milano-Stemma.png|20px|]]&nbsp;[[Pow Milano]]
 |-
 |Mayour || [[Letizia Moratti]]
 |-
@@ -32,17 +32,16 @@
 |-
 |Hanow an drigoryon || ''Milanesi'' po ''Meneghini''
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |}
 
 '''Milano''' yw sita vras yn [[Itali]] gledh ha pennsita [[Lombardi]].
 
 {{stokk-itali}}
+{{Link FA|lmo}}
 
 [[Category:Itali]]
 [[Category:Citys ha trevow yn Europa]]
-
-{{Link FA|lmo}}
 
 [[af:Milaan]]
 [[als:Mailand]]
@@ -90,7 +89,7 @@
 [[jv:Milan]]
 [[ka:მილანი]]
 [[ko:밀라노]]
-[[kv:Mилaн]]
+[[kv:Милан]]
 [[la:Mediolanum]]
 [[lb:Mailand]]
 [[lij:Milan]]
