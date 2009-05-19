@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Repubblika ta' Malta <br> Republic of Malta'''</big>
+|+ <big>'''Repubblika ta' Malta <br /> Republic of Malta'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Malta.svg|150px|Baner Malta]]}}
-|align="center" width="140px"|[[Image:Coat_of_arms_of_Malta.svg|100px|Kota arvow Malta]]
+|align="center" | {{border|[[File:Flag of Malta.svg|150px|Baner Malta]]}}
+|align="center" width="140px"|[[File:Coat_of_arms_of_Malta.svg|100px|Kota arvow Malta]]
 |- align="center" width="140px"
 | (Baner Malta) 
 | (Kota arvow Malta)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:Europe location MLT.png|250px|Desedhans Malta y'n Unyans Europek]]
+| align="center" colspan="2" | [[File:Europe location MLT.png|250px|Desedhans Malta y'n Unyans Europek]]
 |-
 |[[Yeth|Tavosow]] sodhogel || [[Maltek]] ha [[Sowsnek]]
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2003]])<br />- [[Dosedh]]|| 399,867 a drigoryon <br /> 1262 triger/km²
 |-
-|Anserhogeth || dhyworth an [[Ruwvaneth Unys]]<br>21{{ves}} [[Mis Gwynngala|Gwynngala]] [[1964]]
+|Anserhogeth || dhyworth an [[Ruwvaneth Unys]]<br />21{{ves}} [[Mis Gwynngala|Gwynngala]] [[1964]]
 |-
 |Mona kemmyn || [[Euro]] (€)
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |-
 |Kan genedhlek || ''L-Innu Malti''
 |-
@@ -51,16 +51,15 @@ War-lergh statistigow an Unyans Europek, yma 100% a dus Malta ow kewsel Maltek, 
 
 {{unn k}}
 
-==Pennfentynyow==
+== Pennfentynyow ==
 {{Reflist}}
 {{Stokk-europa}}
 
 {{Europa}}
+{{Link FA|sk}}
 
 [[Category:Malta| ]]
-[[category:Ynysow]]
-
-{{Link FA|sk}}
+[[Category:Ynysow]]
 
 [[af:Malta]]
 [[als:Malta]]
