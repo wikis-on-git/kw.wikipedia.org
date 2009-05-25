@@ -3,7 +3,7 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Iceland.svg|150px|Baner Island]]}}
+|align="center" | {{border|[[File:Flag of Iceland.svg|150px|Baner Island]]}}
 |align="center" width="140px"|
 |- align="center" width="140px"
 | (Baner Island) 
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[Image:Europe location ISL.png|250px|Desedhans Island yn Europa]]
+| align="center" colspan="2" | [[File:Europe location ISL.png|250px|Desedhans Island yn Europa]]
 |-
-|[[Yeth|Yethow]] soedhogel || [[Islandek]]
+|[[Yeth]]ow soedhogel || [[Islandek]]
 |-
 |Penn-sita || [[Reykjavik]]
 |-
@@ -28,7 +28,7 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Doesedh]]|| 293,291 a drigoryon <br /> 2.84 triger/km²
 |-
-|Anserghogeth || dhiworth [[Danmark|Rywvaneth Danmark]]<br>17ves a [[Mis Metheven|vis Metheven]], [[1944]]
+|Anserghogeth || dhiworth [[Danmark|Rywvaneth Danmark]]<br />17ves a [[Mis Metheven|vis Metheven]], [[1944]]
 |-
 |Mona kemmyn || [[Króna Islandek]] (ISK)
 |-
@@ -47,13 +47,12 @@
 {{Stokk-europa}}
 {{Norden}}
 {{Europa}}
-
-[[Category:Island]]
-
 {{Link FA|af}}
 {{Link FA|vi}}
 
 {{Link FA|lmo}}
+
+[[Category:Island]]
 
 [[af:Ysland]]
 [[als:Island]]
@@ -185,6 +184,7 @@
 [[sl:Islandija]]
 [[sq:Islanda]]
 [[sr:Исланд]]
+[[stq:Ieslound]]
 [[sv:Island]]
 [[sw:Iceland]]
 [[szl:Islandyjo]]
