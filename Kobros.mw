@@ -1,9 +1,9 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Κυπριακή Δημοκρατία''' </big><br>''Kypriakí Dhimokratía''<br> <big>'''Kıbrıs Cumhuriyeti'''</big>
+|+ <big>'''Κυπριακή Δημοκρατία''' </big><br />''Kypriakí Dhimokratía''<br /> <big>'''Kıbrıs Cumhuriyeti'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Cyprus.svg|150px|Baner Kobros]]}}
+|align="center" | {{border|[[File:Flag of Cyprus.svg|150px|Baner Kobros]]}}
 |align="center" width="140px"|
 |- align="center" width="140px"
 | (Baner Kobros) 
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:EU location CYP.png|250px|Desedhans Kobros y'n Unyans Europek]]
+| align="center" colspan="2" | [[File:EU location CYP.png|250px|Desedhans Kobros y'n Unyans Europek]]
 |-
 |[[Yeth]]ow sodhogel || [[Grew]] ha [[Turkek]]
 |-
@@ -26,11 +26,11 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Dosedh]]|| 780,133 a drigoryon <br /> 84 triger/km²
 |-
-|Anserhogeth || dhyworth an [[Ruwvaneth Unys]] <br>16{{ves}} a [[Mys Est|vis Est]], [[1960]]
+|Anserhogeth || dhyworth an [[Ruwvaneth Unys]] <br />16{{ves}} a [[Mys Est|vis Est]], [[1960]]
 |-
 |Mona kemmyn || [[Euro]] (€)
 |-
-|Amser <br>- Hav (DST) || UTC +2 <br> UTC +3
+|Amser <br />- Hav (DST) || UTC +2 <br /> UTC +3
 |-
 |Kan genedhlek || ''Ymnos pros tin Eleutherian''
 |-
@@ -47,14 +47,13 @@ Yn [[2008]], Kobros ha [[Malta]] a gemeras an [[euro]] avell aga mona kemmyn yn 
 {{Stokk-europa}}
 
 {{Europa}}
-
-[[Category:Kyproes| ]]
-
-<!--[[os:&#1050;&#1080;&#1087;&#1088;]] need to look-up os-->
+<!--[[os:Кипр]] need to look-up os-->
 
 {{Link FA|sr}}
 
 {{Link FA|lmo}}
+
+[[Category:Kyproes| ]]
 
 [[af:Siprus]]
 [[als:Republik Zypern]]
@@ -174,6 +173,7 @@ Yn [[2008]], Kobros ha [[Malta]] a gemeras an [[euro]] avell aga mona kemmyn yn 
 [[stq:Zypern]]
 [[sv:Cypern]]
 [[sw:Kupro]]
+[[szl:Cypr]]
 [[ta:சைப்பிரஸ்]]
 [[te:సైప్రస్]]
 [[tet:Xipre]]
