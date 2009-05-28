@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Република Србија'''<br>'''Republika Srbija'''<br>'''Repoblek Serbi'''</big></br>
+|+ <big>'''Република Србија'''<br />'''Republika Srbija'''<br />'''Repoblek Serbi'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Serbia (national).svg|150px|Baner Serbi]]}}
-|align="center" width="140px"|[[Image:Coat of arms of Serbia.svg|100px|Kota arvow Serbi]]
+|align="center" | {{border|[[File:Flag of Serbia (national).svg|150px|Baner Serbi]]}}
+|align="center" width="140px"|[[File:Coat of arms of Serbia.svg|100px|Kota arvow Serbi]]
 |- align="center" width="140px"
 | (Baner Serbi) 
 | (Kota arvow Serbi)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[Image:Location_of_Serbia_in_Europe,_Kosovo_included.png|250px|Desedhans Serbi yn Europa]]
+| align="center" colspan="2" | [[File:Location_of_Serbia_in_Europe,_Kosovo_included.png|250px|Desedhans Serbi yn Europa]]
 |-
 |[[Yeth]] soedhogel || [[Serbek]]
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2006]])<br />- [[Doesedh]]|| 9,778,991 a drigoryon <br /> 106.34 triger/km²
 |-
-|Anserghogeth || dhiworth [[Serbi ha Montenegro]]<br>5ves a [[Mys Metheven|vis Metheven]], [[2006]]
+|Anserghogeth || dhiworth [[Serbi ha Montenegro]]<br />5ves a [[Mys Metheven|vis Metheven]], [[2006]]
 |-
 |Mona kemmyn || [[Dinar]] (CSD)
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |-
 |Kan genedhlek || ''Bože Pravde''
 |-
@@ -46,10 +46,9 @@ An '''Repoblek Serbi''' (yn [[Serbek]], ''Република Србија / Repu
 
 {{Stokk-europa}}
 {{Europa}}
+{{Link FA|sr}}
 
 [[Category:Serbi| ]]
-
-{{Link FA|sr}}
 
 [[af:Serwië]]
 [[als:Serbien]]
@@ -135,6 +134,7 @@ An '''Repoblek Serbi''' (yn [[Serbek]], ''Република Србија / Repu
 [[lv:Serbija]]
 [[mk:Србија]]
 [[ml:സെര്‍ബിയ]]
+[[mn:Серби]]
 [[mr:सर्बिया]]
 [[ms:Serbia]]
 [[mt:Serbja]]
