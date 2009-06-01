@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''الجمهورية العراقية'''<br>''Al-Jumhuriyah Al-Iraqiyah''<br>'''كۆماری عێراق'''<br>''Komara Iraqê''</big>
+|+ <big>'''الجمهورية العراقية'''<br />''Al-Jumhuriyah Al-Iraqiyah''<br />'''كۆماری عێراق'''<br />''Komara Iraqê''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Iraq.svg|150px|Baner Irak]]}}
-|align="center" width="140px"|[[Image:Coat of arms (emblem) of Iraq 2008.svg|100px|Kota arvow Irak]]
+|align="center" | {{border|[[File:Flag of Iraq.svg|150px|Baner Irak]]}}
+|align="center" width="140px"|[[File:Coat of arms (emblem) of Iraq 2008.svg|100px|Kota arvow Irak]]
 |- align="center" width="140px"
 | (Baner Irak) 
 | (Kota arvow Irak)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Allahu Akbar''</small>
 |-
-| align="center" colspan="2" | [[image:LocationIraq.svg|300px|Desedhans Irak]]
+| align="center" colspan="2" | [[File:LocationIraq.svg|300px|Desedhans Irak]]
 |-
-|[[Yeth|Yethow]] soedhogel || [[Arabek]],<br>[[Kurdek]] (yn Kurdistan)
+|[[Yeth]]ow soedhogel || [[Arabek]],<br />[[Kurdek]] (yn Kurdistan)
 |-
 |Pennsita || [[Baldak]]
 |-
@@ -32,7 +32,7 @@
 |-
 |Mona kemmyn || [[Dinar]]
 |-
-|Amser <br>- Hav (DST) || UTC +3 <br> UTC +4
+|Amser <br />- Hav (DST) || UTC +3 <br /> UTC +4
 |-
 |Kan genedhlek || ''Mawtini''
 |-
@@ -45,12 +45,11 @@
 
 {{stokk-dor}}
 {{Asi}}
+{{Link FA|ja}}
+{{Link FA|ur}}
 
 [[Category:Asi]]
 [[Category:Arabi]]
-
-{{Link FA|ja}}
-{{Link FA|ur}}
 
 [[af:Irak]]
 [[als:Irak]]
@@ -96,6 +95,7 @@
 [[frp:Iraq]]
 [[fy:Irak]]
 [[ga:An Iaráic]]
+[[gan:伊拉克]]
 [[gd:Ioràc]]
 [[gl:Iraq - العراق]]
 [[gv:Yn Earack]]
