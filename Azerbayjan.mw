@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Azerbaijan.svg|150px|Baner Azerbayjan]]
-|align="center" width="140px"|[[Image:Azerbaijan coa.png|100px|Kota arvow Azerbayjan]]
+|align="center" | [[File:Flag of Azerbaijan.svg|150px|Baner Azerbayjan]]
+|align="center" width="140px"|[[File:Azerbaijan coa.png|100px|Kota arvow Azerbayjan]]
 |- align="center" width="140px"
 | (Baner Azerbayjan) 
 | (Kota arvow Azerbayjan)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationAzerbaijan.svg|300px|Desedhans Azerbayjan]]
+| align="center" colspan="2" | [[File:LocationAzerbaijan.svg|300px|Desedhans Azerbayjan]]
 |-
 |[[Yeth]] sodhogel || [[Azerek]]
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Dosedh]]|| 7,911,974 a drigoryon <br /> 90 triger/km²
 |-
-|Anserhogeth || dhyworth [[URSS]]<br>30{{ves}} a [[Mys Est|vis Est]], [[1991]]
+|Anserhogeth || dhyworth [[URSS]]<br />30{{ves}} a [[Mys Est|vis Est]], [[1991]]
 |-
 |Mona kemmyn || [[Manat]] (AZN)
 |-
-|Amser <br>- Hav (DST) || UTC +4 <br> UTC +5
+|Amser <br />- Hav (DST) || UTC +4 <br /> UTC +5
 |-
 |Kan genedhlek || ''Azərbaycan Respublikasının Dövlət Himni''
 |-
@@ -161,6 +161,7 @@
 [[ru:Азербайджан]]
 [[sa:अजर्बैजान]]
 [[sah:Азербайдьан]]
+[[sc:Azerbaigián]]
 [[scn:Azzirbaiggian]]
 [[sco:Azerbaijan]]
 [[se:Aserbaižan]]
