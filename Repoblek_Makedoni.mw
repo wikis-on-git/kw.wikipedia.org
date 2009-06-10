@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Република Македонија'''<br>'''Repoblek Makedoni'''</big></br>
+|+ <big>'''Република Македонија'''<br />'''Repoblek Makedoni'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of the Republic of Macedonia 1991-1995.svg|150px|Baner Repoblek Makedoni]]
-|align="center" width="140px"|[[Image:SR Macedonia coa.png|100px|Kota arvow Repoblek Makedoni]]
+|align="center" | [[File:Flag of the Republic of Macedonia 1991-1995.svg|150px|Baner Repoblek Makedoni]]
+|align="center" width="140px"|[[File:SR Macedonia coa.png|100px|Kota arvow Repoblek Makedoni]]
 |- align="center" width="140px"
 | (Baner Repoblek Makedoni) 
 | (Kota arvow Repoblek Makedoni)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[Image:Europe location MKD.png|250px|Desedhans Repoblek Makedoni yn Europa]]
+| align="center" colspan="2" | [[File:Europe location MKD.png|250px|Desedhans Repoblek Makedoni yn Europa]]
 |-
 |[[Yeth]] soedhogel || [[Makedonek]]
 |-
@@ -28,13 +28,13 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Doesedh]]|| 2,045,262 a drigoryon <br /> 80 triger/km²
 |-
-|Anserghogeth || dhiworth [[Yougoslavi]]<br>8ves a [[Mys Gwyngala|vis Gwyngala]], [[1991]]
+|Anserghogeth || dhiworth [[Yougoslavi]]<br />8ves a [[Mys Gwyngala|vis Gwyngala]], [[1991]]
 |-
 |Mona kemmyn || Makedonek Denar (MKD)
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |-
-|Kan genedhlek || ''Денес Над Македонија <br> Denes Nad Makedonija''
+|Kan genedhlek || ''Денес Над Македонија <br /> Denes Nad Makedonija''
 |-
 |Kodenn kesroesweyth || [[.mk]]
 |-
@@ -147,6 +147,7 @@
 [[roa-rup:Republica ali Machedonia]]
 [[ru:Республика Македония]]
 [[sah:Македония Республиката]]
+[[sc:Matzedònia]]
 [[scn:Ripùbblica di Macidonia]]
 [[sco:Republic o Macedonie]]
 [[se:Makedonia dásseváldi]]
