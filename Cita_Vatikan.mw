@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Status Civitatis Vaticanae <br> Stato della Città del Vaticano'''</big>
+|+ <big>'''Status Civitatis Vaticanae <br /> Stato della Città del Vaticano'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of the Vatican City.svg|130px|Baner Cita Vatikan]]}}
-|align="center" width="140px"|[[Image:Vatican City coa.png|100px|Cota arvow Cita Vatikan]]
+|align="center" | {{border|[[File:Flag of the Vatican City.svg|130px|Baner Cita Vatikan]]}}
+|align="center" width="140px"|[[File:Vatican City coa.png|100px|Cota arvow Cita Vatikan]]
 |- align="center" width="140px"
 | (Baner Cita Vatikan) 
 | (Cota arvow Cita Vatikan)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationVaticanCity.png|300px|Desedhans Cita an Vatikan yn Europa]]
+| align="center" colspan="2" | [[File:LocationVaticanCity.png|300px|Desedhans Cita an Vatikan yn Europa]]
 |-
 |[[Yeth]] sodhogel || [[Latin]]
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Dosedh]]||925 a drigoryon <br /> 2,093 triger/km²
 |-
-|Anserhogeth || dhyworth [[Itali]]<br>11{{ves}} a [[Mys Whevrer|vis Whevrel]], [[1929]]
+|Anserhogeth || dhyworth [[Itali]]<br />11{{ves}} a [[Mys Whevrer|vis Whevrel]], [[1929]]
 |-
 |Mona kemmyn || [[Euro]] (EUR)
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |-
 |Can genedhlek || ''Inno e Marcia Pontificale''
 |-
@@ -43,7 +43,7 @@
 
 '''Cita an Vatikan''' (yn [[Italek]], ''Città del Vaticano''; yn [[Latin]], ''Civitatis Vaticanae'') yw cita-stat yn [[Europa]]. Radn a cita [[Rom]] ywa. An cita-stat a veu fondys yn [[1929]] der Gevambos Lateran yntra Pietro Gasparri ha [[Benito Mussolini]]. An kevambos ma a greatyas tiredh sovran a-barth an Sedh Sans y'n ''rione'' Borgo war ladn west Dowr Tiber. Yndelma, cres institucyons an [[Eglos Katholik|Catholik Eglos]] a veu mes [[Itali|Italy]]. An Sedh Sans a'n jeves hedhyw kevrednow diplomatek gans 177 corf sovran, ow comprehendya [[Urdh Sovran Breselek Malta]]. 558 a dus o burjyjy an stat an 31{{ves}} a vis Kevardhu [[2005]]; yma'n vrassa radn a'n dhus neb a ober y'n cita ow triga mes dhedhy. Yma Gwithyjy Swis ow servya avell lu an stat.
 
-[[Image:St Peter's Square, Vatican City - April 2007.jpg|left|thumb|Sqwyr Peder Sans yn Cita an Vatikan.]]
+[[File:St Peter's Square, Vatican City - April 2007.jpg|left|thumb|Sqwyr Peder Sans yn Cita an Vatikan.]]
 
 <br clear=all>
 {{udn c}}
@@ -52,12 +52,11 @@
 {{Pennsitys Europa}}
 
 {{Europa}}
-
-[[Category:Sita an Vatikan| ]]
-
 {{Link FA|ar}}
 
 {{Link FA|fi}}
+
+[[Category:Sita an Vatikan| ]]
 
 [[af:Vatikaanstad]]
 [[als:Vatikan]]
@@ -131,6 +130,7 @@
 [[ja:バチカン]]
 [[jv:Vatikan]]
 [[ka:ვატიკანი]]
+[[kg:Vatican]]
 [[kk:Ватикан]]
 [[kn:ವ್ಯಾಟಿಕನ್ ನಗರ]]
 [[ko:바티칸 시국]]
