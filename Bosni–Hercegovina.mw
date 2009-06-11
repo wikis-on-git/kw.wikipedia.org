@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Bosna i Hercegovina'''<br>'''Босна и Херцеговина'''</big></br>
+|+ <big>'''Bosna i Hercegovina'''<br />'''Босна и Херцеговина'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Bosnia and Herzegovina.svg|150px|Baner Bosni–Hercegovina]]
-|align="center" width="140px"|[[Image:Bosnia and Herzegovina Coats of Arms.png|100px|Kota arvow Bosni–Hercegovina]]
+|align="center" | [[File:Flag of Bosnia and Herzegovina.svg|150px|Baner Bosni–Hercegovina]]
+|align="center" width="140px"|[[File:Bosnia and Herzegovina Coats of Arms.png|100px|Kota arvow Bosni–Hercegovina]]
 |- align="center" width="140px"
 | (Baner Bosni–Hercegovina) 
 | (Kota arvow Bosni–Hercegovina)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[Image:Europe location BHG.png|250px|Desedhans Bosni–Hercegovina yn Europa]]
+| align="center" colspan="2" | [[File:Europe location BHG.png|250px|Desedhans Bosni–Hercegovina yn Europa]]
 |-
 |[[Yeth|Tavosow]] sodhogel || [[Bosnek]], [[Kroatek]], [[Serbek]]
 |-
@@ -20,7 +20,7 @@
 |-
 |Brassa cita || [[Sarajevo]]
 |-
-|Lewydh || [[Ivo Miro Jović]] (Serbek) <br> [[Borislav Paravac]] (Kroatek)
+|Lewydh || [[Ivo Miro Jović]] (Serbek) <br /> [[Borislav Paravac]] (Kroatek)
 |-
 |Pennmenyster || [[Sulejman Tihić]] (Bosnek)
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Dosedh]]|| 4,025,476 a drigoryon <br /> 78 triger/km²
 |-
-|Anserhogeth || dhyworth [[Yougoslavi]]<br>5{{ves}} a [[Mys Ebrel|vis Ebrel]], [[1992]]
+|Anserhogeth || dhyworth [[Yougoslavi]]<br />5{{ves}} a [[Mys Ebrel|vis Ebrel]], [[1992]]
 |-
 |Mona kemmyn || [[Mark]] (BAM)
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +1
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +1
 |-
 |Kan genedhlek || ''Intermeco''
 |-
@@ -46,10 +46,9 @@
 {{unn k}}
 {{Stokk-europa}}
 {{Europa}}
+{{Link FA|bs}}
 
 [[Category:Bosni–Hertsegovina| ]]
-
-{{Link FA|bs}}
 
 [[af:Bosnië-Herzegowina]]
 [[als:Bosnien und Herzegowina]]
@@ -118,6 +117,7 @@
 [[ja:ボスニア・ヘルツェゴビナ]]
 [[jv:Bosnia-Herzegovina]]
 [[ka:ბოსნია და ჰერცეგოვინა]]
+[[kg:Bosna]]
 [[kk:Босния және Герцеговина]]
 [[kn:ಬೊಸ್ನಿಯ ಮತ್ತು ಹೆರ್ಜೆಗೊವಿನ]]
 [[ko:보스니아 헤르체고비나]]
