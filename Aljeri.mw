@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''الجمهورية الجزائرية الديمقراطية الشعبية <br>Al-Jumhūrīyah al-Jazā’irīyah ad-Dīmuqrāţīyah ash-Sha’bīyah'''</big>
+|+ <big>'''الجمهورية الجزائرية الديمقراطية الشعبية <br />Al-Jumhūrīyah al-Jazā’irīyah ad-Dīmuqrāţīyah ash-Sha’bīyah'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag_of_Algeria.svg|150px|Baner Aljeri]]
-|align="center" width="140px"|[[Image:Algeria coa.png|100px|Kota Arvow Aljeri]]
+|align="center" | [[File:Flag_of_Algeria.svg|150px|Baner Aljeri]]
+|align="center" width="140px"|[[File:Algeria coa.png|100px|Kota Arvow Aljeri]]
 |- align="center" width="140px"
 | (Baner Aljeri) 
 | (Kota Arvow Aljeri)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: La révolution par le peuple et pour le peuple''</small>
 |-
-| align="center" colspan="2" | [[image:LocationAlgeria.png|300px|Desedhans Aljeri]]
+| align="center" colspan="2" | [[File:LocationAlgeria.png|300px|Desedhans Aljeri]]
 |-
-|[[Yeth|Yethow]] soedhogel || [[Arabek]]
+|[[Yeth]]ow soedhogel || [[Arabek]]
 |-
 |Penn-sita || [[al-Jazā'ir]] (Alger)
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2002]])<br />&nbsp;[[Doesedh]]|| 32,818,500 a drigoryon <br /> 13.3 triger/km²
 |-
-| Anserghogeth || Dhiworth [[Pow Frynk]]<br>5es a [[Mis Gortheren|vis Gortheren]], [[1962]]
+| Anserghogeth || Dhiworth [[Pow Frynk]]<br />5es a [[Mis Gortheren|vis Gortheren]], [[1962]]
 |-
 |Mona kemmyn || [[Dinar]]
 |-
-|Kan genedhlek || <small>''Kassaman (Qassamman Bin Nazilat<br>Il-Mahiqat)''<br>([[Arabek]]: We Swear By The Lightning That Destroys)''</small>
+|Kan genedhlek || <small>''Kassaman (Qassamman Bin Nazilat<br />Il-Mahiqat)''<br />([[Arabek]]: We Swear By The Lightning That Destroys)''</small>
 |-
 |Kodenn kesroesweyth || [[.dz]]
 |-
@@ -115,6 +115,7 @@
 [[jv:Aljazair]]
 [[ka:ალჟირი]]
 [[kab:Dzayer]]
+[[kg:Djazairia]]
 [[kn:ಅಲ್ಜೀರಿಯ]]
 [[ko:알제리]]
 [[ku:Alcerya]]
