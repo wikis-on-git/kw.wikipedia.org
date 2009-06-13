@@ -1,22 +1,22 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Funchal'''</big>
 |-
-| align="center" colspan="2" | [[Image:Funchal Pico da Cruz.jpg|250px|Funchal]]
+| align="center" colspan="2" | [[File:Funchal Pico da Cruz.jpg|250px|Funchal]]
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Pt-fnc1.png|120px|Baner Funchal]]
-|align="center" width="100px"| [[Image:FNC.png|100px|Kota arvow Funchal]]
+|align="center" | [[File:Pt-fnc1.png|120px|Baner Funchal]]
+|align="center" width="100px"| [[File:FNC.png|100px|Kota arvow Funchal]]
 |- 
 |align="center" width="140px"| <font size="-1">(Baner Funchal)</font>
 |align="center" width="140px"| <font size="-1">(Kota arvow Funchal)</font>
 |}
 |-
-| align="center" colspan="2" | [[image:LocalFunchal.png|200px|Desedhans Funchal yn Madeira]]
+| align="center" colspan="2" | [[File:LocalFunchal.png|200px|Desedhans Funchal yn Madeira]]
 |-
-|Kenedhel || [[Image:Flag of Portugal.svg|20px|]]&nbsp;[[Portyngal]]
+|Kenedhel || [[File:Flag of Portugal.svg|20px|]]&nbsp;[[Portyngal]]
 |-
-|Rannvro || [[Image:Flag of Madeira.svg|20px|]]&nbsp;[[Madeira]]
+|Rannvro || [[File:Flag of Madeira.svg|20px|]]&nbsp;[[Madeira]]
 |-
 |Ranndir || [[Ynys Madeira]]
 |-
@@ -28,7 +28,7 @@
 |-
 |Hanow an drigoryon || ''Funchalense''
 |-
-|Amser <br>- Hav (DST) || UTC +0 <br> UTC +1
+|Amser <br />- Hav (DST) || UTC +0 <br /> UTC +1
 |}
 '''Funchal''' yw penncita [[Madeira]].
 
@@ -55,6 +55,7 @@
 [[fr:Funchal]]
 [[gd:Funchal]]
 [[gl:Funchal]]
+[[he:פונשל]]
 [[hr:Funchal]]
 [[hu:Funchal]]
 [[id:Funchal]]
