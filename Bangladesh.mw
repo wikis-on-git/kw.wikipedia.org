@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''গনপ্রজাতন্ত্রী বাংলাদেশ<br>Gôno Projatontri Bangladesh'''</big>
+|+ <big>'''গনপ্রজাতন্ত্রী বাংলাদেশ<br />Gôno Projatontri Bangladesh'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:flag_of_Bangladesh.svg|150px|Baner Bangladesh]]
-|align="center" width="140px"|[[image:Bangladesh coa.png|100px|Kota Arvow Bangladesh]]
+|align="center" | [[File:flag_of_Bangladesh.svg|150px|Baner Bangladesh]]
+|align="center" width="140px"|[[File:Bangladesh coa.png|100px|Kota Arvow Bangladesh]]
 |- align="center" width="140px"
 | (Baner Bangladesh) 
 | (Kota Arvow Bangladesh)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | {{border|[[image:LocationBangladesh.png|300px|Desedhans Bangladesh]]}}
+| align="center" colspan="2" | {{border|[[File:LocationBangladesh.png|300px|Desedhans Bangladesh]]}}
 |-
 |[[Yeth]] soedhogel || [[Bengalek]]
 |-
@@ -28,7 +28,7 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Doesedh]]|| 144,319,628 a drigoryon <br /> 1,002 triger/km²
 |-
-|Anserghogeth || dhiworth [[Pakistan]] <br> [[1971]]
+|Anserghogeth || dhiworth [[Pakistan]] <br /> [[1971]]
 |-
 |Mona kemmyn || Taka (BDT)
 |-
@@ -46,12 +46,11 @@
 
 {{stokk-dor}}
 {{Asi}}
-
-[[Category:Asi]]
-
 {{Link FA|bn}}
 
 {{Link FA|en}}
+
+[[Category:Asi]]
 
 [[af:Bangladesj]]
 [[als:Bangladesch]]
@@ -91,6 +90,7 @@
 [[eu:Bangladesh]]
 [[fa:بنگلادش]]
 [[fi:Bangladesh]]
+[[fiu-vro:Bangladesh]]
 [[fr:Bangladesh]]
 [[frp:Banglladèch·e]]
 [[fur:Bangladesh]]
