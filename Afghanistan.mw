@@ -1,11 +1,11 @@
 [[File:Kabul_TV_Hill_view.jpg|thumb|left|[[Kabul]]]]
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''د افغانستان اسلامي دول'''</big><br>''Da Afghanistan Islami Dawlat''<br><big>'''دولت اسلامی افغانستا'''</big><br>''Dawlate Islamiye Afghanistan''
+|+ <big>'''د افغانستان اسلامي دول'''</big><br />''Da Afghanistan Islami Dawlat''<br /><big>'''دولت اسلامی افغانستا'''</big><br />''Dawlate Islamiye Afghanistan''
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Afghanistan.svg|150px|Baner Afghanistan]]}}
-|align="center" width="140px"|[[Image:Afghanistan COA.png|100px|Kota Arvow Afghanistan]]
+|align="center" | {{border|[[File:Flag of Afghanistan.svg|150px|Baner Afghanistan]]}}
+|align="center" width="140px"|[[File:Afghanistan COA.png|100px|Kota Arvow Afghanistan]]
 |- align="center" width="140px"
 | (Baner Afghanistan) 
 | (Kota arvow Afghanistan)
@@ -13,7 +13,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | {{border|[[image:LocationAfghanistan.svg|300px|Desedhans Afghanistan]]}}
+| align="center" colspan="2" | {{border|[[File:LocationAfghanistan.svg|300px|Desedhans Afghanistan]]}}
 |-
 |[[Yeth]] soedhogel || [[Pashtouek]], [[Persek|Dari (Persek)]]
 |-
@@ -27,11 +27,11 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Doesedh]]|| 29,928,987 a drigoryon <br /> 43 triger/km²
 |-
-|Anserghogeth || dhiworth an [[Rywvaneth Unys]] <br> [[1919]]
+|Anserghogeth || dhiworth an [[Rywvaneth Unys]] <br /> [[1919]]
 |-
 |Mona kemmyn || Afghani (AFN)
 |-
-|Amser <br>- Hav (DST) || UTC +4:30 <br> UTC +4:30
+|Amser <br />- Hav (DST) || UTC +4:30 <br /> UTC +4:30
 |-
 |Kan genedhlek || ''Soroud-e-Melli''
 |-
@@ -54,12 +54,12 @@
 
 {{stokk-dor}}
 {{Asi}}
-[[Category:Asi]]
-
 {{Link FA|te}}
 {{Link FA|ur}}
 
 {{Link FA|no}}
+
+[[Category:Asi]]
 
 [[af:Afghanistan]]
 [[als:Afghanistan]]
@@ -101,6 +101,7 @@
 [[eu:Afganistan]]
 [[fa:افغانستان]]
 [[fi:Afganistan]]
+[[fiu-vro:Afganistan]]
 [[fo:Afghanistan]]
 [[fr:Afghanistan]]
 [[frp:Afganistan]]
