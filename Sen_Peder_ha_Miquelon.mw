@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of France.svg|150px|Baner Pow Frynk]]
-|align="center" | [[Image:Flag of Saint-Pierre and Miquelon.svg|150px|Baner Sen Peder ha Miquelon]]
+|align="center" | [[File:Flag of France.svg|150px|Baner Pow Frynk]]
+|align="center" | [[File:Flag of Saint-Pierre and Miquelon.svg|150px|Baner Sen Peder ha Miquelon]]
 |- align="center" width="140px"
 | (Baner Pow Frynk) 
 | (Baner Sen Peder ha Miquelon)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small> ''Lavar kenedhlek: A mare labor''</small>
 |-
-| align="center" colspan="2" | {{border|[[image:North atlantic map - saint pierre and miquelon.png|300px|Desedhans Sen Peder ha Miquelon]]}}
+| align="center" colspan="2" | {{border|[[File:North atlantic map - saint pierre and miquelon.png|300px|Desedhans Sen Peder ha Miquelon]]}}
 |-
-|Kenedhel || [[Image:Flag of France.svg|20px|]]&nbsp;[[Pow Frynk]]
+|Kenedhel || [[File:Flag of France.svg|20px|]]&nbsp;[[Pow Frynk]]
 |-
 |[[Yeth]] soedhogel || [[Frynkek]]
 |-
@@ -100,6 +100,7 @@
 [[no:Saint-Pierre og Miquelon]]
 [[nov:Sankte Pier e Mikelon]]
 [[oc:Sant Pèire e Miquelon]]
+[[os:Сен-Пьер æмæ Микелон]]
 [[pl:Saint-Pierre i Miquelon]]
 [[pt:Saint-Pierre e Miquelon]]
 [[ro:Saint Pierre şi Miquelon]]
