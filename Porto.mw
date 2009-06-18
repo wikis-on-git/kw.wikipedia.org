@@ -3,16 +3,16 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Pt-prt1.png|120px|Baner Porto]]
-|align="center" width="100px"| [[Image:PRT.png|100px|Kota arvow Porto]]
+|align="center" | [[File:Pt-prt1.png|120px|Baner Porto]]
+|align="center" width="100px"| [[File:PRT.png|100px|Kota arvow Porto]]
 |- 
 |align="center" width="140px"| <font size="-1">(Baner Porto)</font>
 |align="center" width="140px"| <font size="-1">(Kota arvow Porto)</font>
 |}
 |-
-| align="center" colspan="2" | [[image:LocalPorto.svg|200px|Desedhans Porto yn Portyngal]]
+| align="center" colspan="2" | [[File:LocalPorto.svg|200px|Desedhans Porto yn Portyngal]]
 |-
-|Kenedhel || [[Image:Flag of Portugal.svg|20px|]]&nbsp;[[Portyngal]]
+|Kenedhel || [[File:Flag of Portugal.svg|20px|]]&nbsp;[[Portyngal]]
 |-
 |Rannvro || [[Rannvro Norte|Norte]]
 |-
@@ -26,7 +26,7 @@
 |-
 |Hanow an drigoryon || ''Portuense, Tripeiro''
 |-
-|Amser <br>- Hav (DST) || UTC +0 <br> UTC +1
+|Amser <br />- Hav (DST) || UTC +0 <br /> UTC +1
 |}
 '''Porto''' yw cita vyghan yn [[Portyngal]].
 
@@ -55,6 +55,7 @@
 [[fa:پورتو]]
 [[fi:Porto]]
 [[fr:Porto (Portugal)]]
+[[ga:Porto]]
 [[gl:Porto, Portugal]]
 [[he:פורטו]]
 [[hr:Porto]]
