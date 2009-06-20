@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:flag_of_Slovenia.png|150px|Baner Sloveni]]}}
-|align="center" width="140px"|[[Image:Slovenia_Coat_of_Arms.png|100px|Kota arvow Sloveni]]
+|align="center" | {{border|[[File:flag_of_Slovenia.png|150px|Baner Sloveni]]}}
+|align="center" width="140px"|[[File:Slovenia_Coat_of_Arms.png|100px|Kota arvow Sloveni]]
 |- align="center" width="140px"
 | (Baner Sloveni)
 | (Kota arvow Sloveni)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:Europe location SLO.png|250px|Desedhans Sloveni yn an Unyans Europek]]
+| align="center" colspan="2" | [[File:Europe location SLO.png|250px|Desedhans Sloveni yn an Unyans Europek]]
 |-
-|[[Yeth|Yethow]] soedhogel || [[Slovenek]]
+|[[Yeth]]ow soedhogel || [[Slovenek]]
 |-
 |Penn-sita || [[Ljubljana]]
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Doesedh]]|| 2,011,070 a drigoryon <br /> 96 triger/km²
 |-
-|Anserghogeth || dhiworth [[Yougoslavi]]<br>25ves a [[Mis Metheven|vis Metheven]], [[1991]]
+|Anserghogeth || dhiworth [[Yougoslavi]]<br />25ves a [[Mis Metheven|vis Metheven]], [[1991]]
 |-
 |Mona kemmyn || [[Euro]] (€)
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |-
 |Kan genedhlek || ''Zdravljica''
 |-
@@ -47,6 +47,7 @@
 {{Stokk-europa}}
 
 {{Europa}}
+
 [[Category:Sloveni| ]]
 
 [[af:Slowenië]]
