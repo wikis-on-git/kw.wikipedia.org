@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Հայաստանի Հանրապետություն'''<br>'''Hayastani Hanrapetutyun'''<br>'''Repoblek Armeni'''</big></br>
+|+ <big>'''Հայաստանի Հանրապետություն'''<br />'''Hayastani Hanrapetutyun'''<br />'''Repoblek Armeni'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Armenia.svg|150px|Baner Armeni]]
-|align="center" width="140px"|[[Image:Armenia coa.png|100px|Kota arvow Armeni]]
+|align="center" | [[File:Flag of Armenia.svg|150px|Baner Armeni]]
+|align="center" width="140px"|[[File:Armenia coa.png|100px|Kota arvow Armeni]]
 |- align="center" width="140px"
 | (Baner Armeni) 
 | (Kota arvow Armeni)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationArmenia.png|Desedhans Armeni|300px|]]
+| align="center" colspan="2" | [[File:LocationArmenia.png|Desedhans Armeni|300px|]]
 |-
 |[[Yeth]] soedhogel || [[Armynek]]
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Doesedh]]|| 2,982,904 a drigoryon <br /> 100 triger/km²
 |-
-|Anserghogeth || dhiworth [[URSS]]<br>23ves a [[Mys Est|vis Est]], [[1990]]
+|Anserghogeth || dhiworth [[URSS]]<br />23ves a [[Mys Est|vis Est]], [[1990]]
 |-
 |Mona kemmyn || [[Dram]] (AMD)
 |-
-|Amser <br>- Hav (DST) || UTC +4 <br> UTC +5
+|Amser <br />- Hav (DST) || UTC +4 <br /> UTC +5
 |-
 |Kan genedhlek || ''Mer Hayrenik''
 |-
@@ -46,10 +46,9 @@
 
 {{Stokk-europa}}
 {{Europa}}
+{{Link FA|sl}}
 
 [[Category:Armeni| ]]
-
-{{Link FA|sl}}
 
 [[af:Armenië]]
 [[als:Armenien]]
@@ -196,6 +195,7 @@
 [[war:Armenya]]
 [[wo:Armeeni]]
 [[wuu:亚美尼亚]]
+[[xal:Хемшудн Орн Нутг]]
 [[yi:ארמעניע]]
 [[yo:Armenia]]
 [[zh:亞美尼亞]]
