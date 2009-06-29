@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Belize.svg|150px|Baner Belisa]]
-|align="center" width="140px"|[[Image:Coat_of_arms_of_Belize.svg|100px|Kota arvow Belisa]]
+|align="center" | [[File:Flag of Belize.svg|150px|Baner Belisa]]
+|align="center" width="140px"|[[File:Coat_of_arms_of_Belize.svg|100px|Kota arvow Belisa]]
 |- align="center" width="140px"
 | (Baner Belisa) 
 | (Kota arvow Belisa)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Sub Umbra Floreo''</small>
 |-
-| align="center" colspan="2" | {{border|[[image:LocationBelize.png|Desedhans Belisa|300px]]}}
+| align="center" colspan="2" | {{border|[[File:LocationBelize.png|Desedhans Belisa|300px]]}}
 |-
 |[[Yeth]] soedhogel || [[Sowsnek]]
 |-
@@ -30,7 +30,7 @@
 |-
 |[[Poblans]] ([[2003]])<br />&nbsp;[[Doesedh]]|| 283,000 a drigoryon <br /> 14 triger/km²
 |-
-|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br> 21ves a [[Mys Gwyngala|vis Gwyngala]], [[1981]]
+|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br /> 21ves a [[Mys Gwyngala|vis Gwyngala]], [[1981]]
 |-
 |Mona kemmyn || Dollar Belisek (BZD)
 |-
@@ -136,7 +136,6 @@
 [[pap:Belize]]
 [[pl:Belize]]
 [[pms:Belize]]
-[[ps:بېلايز]]
 [[pt:Belize]]
 [[qu:Bilisi]]
 [[rm:Belize]]
@@ -144,6 +143,7 @@
 [[roa-rup:Belize]]
 [[ru:Белиз]]
 [[sa:बेलीज]]
+[[sah:Белиз]]
 [[scn:Belizi]]
 [[se:Belize]]
 [[sh:Belize]]
