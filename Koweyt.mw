@@ -1,9 +1,9 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''دولة الكويت<br>Dawlat al Kuwayt<br>Stat Koweyt'''</big>
+|+ <big>'''دولة الكويت<br />Dawlat al Kuwayt<br />Stat Koweyt'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Kuwait.svg|150px|Baner Koweyt]]}}
+|align="center" | {{border|[[File:Flag of Kuwait.svg|150px|Baner Koweyt]]}}
 |align="center" width="140px"|
 |- align="center" width="140px"
 | (Baner Koweyt) 
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: For Kuwait''</small>
 |-
-| align="center" colspan="2" | [[image:LocationKuwait.png|300px|Desedhans Koweyt]]
+| align="center" colspan="2" | [[File:LocationKuwait.png|300px|Desedhans Koweyt]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]] 
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Doesedh]]|| 2,867,000 a drigoryon <br /> 115 triger/km²
 |-
-|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br> 19ves a [[Mys Metheven|vis Metheven]], [[1961]]
+|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br /> 19ves a [[Mys Metheven|vis Metheven]], [[1961]]
 |-
 |Mona kemmyn || Dinar Koweytek
 |-
-|Amser <br>- Hav (DST) || UTC +3 <br> UTC +4
+|Amser <br />- Hav (DST) || UTC +3 <br /> UTC +4
 |-
 |Kan genedhlek || ''Al-Nasheed Al-Watani''
 |-
@@ -46,6 +46,7 @@
 
 {{stokk-dor}}
 {{Asi}}
+
 [[Category:Asi]]
 [[Category:Arabi]]
 
@@ -141,7 +142,6 @@
 [[pam:Kuwait]]
 [[pl:Kuwejt]]
 [[pms:Kuwait]]
-[[ps:کوېټ]]
 [[pt:Kuwait]]
 [[qu:Kuwait]]
 [[ro:Kuweit]]
