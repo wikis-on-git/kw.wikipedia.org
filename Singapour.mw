@@ -1,9 +1,9 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Republik Singapura'''<br>'''Republic of Singapore'''<br>'''新加坡共和国'''<br>'''சிங்கப்பூர் குடியரசு'''</big>
+|+ <big>'''Republik Singapura'''<br />'''Republic of Singapore'''<br />'''新加坡共和国'''<br />'''சிங்கப்பூர் குடியரசு'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Singapore.svg|150px|Baner Singapour]]}}
+|align="center" | {{border|[[File:Flag of Singapore.svg|150px|Baner Singapour]]}}
 |align="center" width="150px"|
 |- align="center" width="150px"
 | (Baner Singapour) 
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Majulah Singapura''</small>
 |-
-| align="center" colspan="2" | [[image:LocationSingapore.png|300px|Desedhans Singapour]]
+| align="center" colspan="2" | [[File:LocationSingapore.png|300px|Desedhans Singapour]]
 |-
 |[[Yeth]] soedhogel || [[Malayek]], [[Sowsnek]], [[Chinek]], [[Tamilek]]
 |-
@@ -28,7 +28,7 @@
 |-
 |[[Poblans]] ([[2005]])<br />&nbsp;[[Doesedh]]|| 4,425,720 a drigoryon <br /> 6,389 triger/km²
 |-
-|Anserghogeth || dhiworth [[Malaysi]] <br> 9ves a [[Mys Est|vis Est]], [[1965]]
+|Anserghogeth || dhiworth [[Malaysi]] <br /> 9ves a [[Mys Est|vis Est]], [[1965]]
 |-
 |Mona kemmyn || Dollar Singapour (SGD)
 |-
@@ -43,10 +43,10 @@
 
 {{stokk-dor}}
 {{Asi}}
+{{Link FA|km}}
+
 [[Category:Asi]]
 [[Category:Citys ha trevow]]
-
-{{Link FA|km}}
 
 [[af:Singapoer]]
 [[als:Singapur]]
@@ -137,6 +137,7 @@
 [[mr:सिंगापूर]]
 [[ms:Singapura]]
 [[mt:Singapor]]
+[[my:စင်ကာပူနိုင်ငံ]]
 [[nah:Singapur]]
 [[nds:Singapur]]
 [[nl:Singapore]]
