@@ -3,12 +3,12 @@
 ! Baner
 ! Kota arvow
 |- align="center"
-| style="background: #f0f0f0;width: 145px;" | [[Image:Flag of Salzburg (state).svg|150px|Baner Salzburg]]
-| style="background: #ffffff;width: 145px;" | [[Image:Salzburg Wappen.svg|100px|Kota arvow Salzburg]]
+| style="background: #f0f0f0;width: 145px;" | [[File:Flag of Salzburg (state).svg|150px|Baner Salzburg]]
+| style="background: #ffffff;width: 145px;" | [[File:Salzburg Wappen.svg|100px|Kota arvow Salzburg]]
 |-
 |---- bgcolor="#FFFFFF"
 | '''Gwlaskor'''
-| [[Image:Flag of Austria.svg|20px|]]&nbsp;[[Estrych]]
+| [[File:Flag of Austria.svg|20px|]]&nbsp;[[Estrych]]
 |---- bgcolor="#FFFFFF"
 | '''Pennsita'''
 | [[Salzburg]]
@@ -39,14 +39,14 @@
 |---- bgcolor="#FFFFFF"
 ! colspan="2" align="center" bgcolor="#EFEFEF" | '''Mappa: Desedhans Salzburg yn Estrych'''
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" | [[Image:Austria sbg.svg|250px|Desedhans Salzburg yn Estrych]]
+| colspan="2" align="center" | [[File:Austria sbg.svg|250px|Desedhans Salzburg yn Estrych]]
 |---- bgcolor="#FFFFFF"
 ! colspan="2" align="center" bgcolor="#EFEFEF" | '''Mappa: Ranndiryow Salzburg'''
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" | [[Image:Bezirke_Salzburg_mit_Namen.png|250px|Mappa Ranndiryow Salzburg]]
+| colspan="2" align="center" | [[File:Bezirke_Salzburg_mit_Namen.png|250px|Mappa Ranndiryow Salzburg]]
 |}
 
-'''Salzburg'''  yw stat yn [[Estrych]].
+'''Salzburg''' yw stat yn [[Estrych]].
 
 
 {{Stokk-estrych}}
@@ -103,6 +103,7 @@
 [[sr:Салцбург (покрајина)]]
 [[sv:Salzburg (delstat)]]
 [[tr:Salzburg Eyaleti]]
+[[uk:Зальцбург (земля)]]
 [[vec:Sałisburghexe]]
 [[war:Salzburg (estado)]]
 [[zh:萨尔茨堡州]]
