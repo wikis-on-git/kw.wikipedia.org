@@ -1,20 +1,20 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Bern'''</big>
 |-
-| align="center" colspan="2" | [[Image:Bern luftaufnahme.png|250px|Bern]]
+| align="center" colspan="2" | [[File:Bern luftaufnahme.png|250px|Bern]]
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Berne-coat of arms.svg|90px|Cota arvow Bern]]
+|align="center" | [[File:Berne-coat of arms.svg|90px|Cota arvow Bern]]
 |- 
 |align="center" width="140px"| <font size="-1">(Cota arvow Bern)</font>
 |}
 |-
-| align="center" colspan="2" | [[image:Karte Gemeinde Bern 2007.png|250px|Desedhans Bern]]
+| align="center" colspan="2" | [[File:Karte Gemeinde Bern 2007.png|250px|Desedhans Bern]]
 |-
-|Kenedhel || [[Image:Flag of Switzerland.svg|20px|]]&nbsp;[[Swistir]]
+|Kenedhel || [[File:Flag of Switzerland.svg|20px|]]&nbsp;[[Swistir]]
 |-
-|Canton || [[Image:Berne-coat of arms.svg|20px|]]&nbsp;[[Canton Bern|Bern]]
+|Canton || [[File:Berne-coat of arms.svg|20px|]]&nbsp;[[Canton Bern|Bern]]
 |-
 |Ranndir || [[Ranndir Bern|Bern]]
 |-
@@ -26,7 +26,7 @@
 |-
 |Hanow an drigoryon || ''Berner''
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |}
 '''Bern''' yw penncita [[Swistir]].
 
@@ -133,6 +133,7 @@
 [[th:เบิร์น]]
 [[tl:Bern]]
 [[tr:Bern (Şehir)]]
+[[tt:Берн]]
 [[ug:Bérn]]
 [[uk:Берн]]
 [[vec:Berna]]
