@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''מדינת ישראל<br>Medīnat (Y)isra'el<br>دولة إسرائيل<br>Dawlat Isrā'īl<br>Stat Ysrael'''</big>
+|+ <big>'''מדינת ישראל<br />Medīnat (Y)isra'el<br />دولة إسرائيل<br />Dawlat Isrā'īl<br />Stat Ysrael'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag_of_Israel.svg|150px|Baner Ysrael]]
-|align="center" width="140px"|[[image:Coat_of_arms_of_Israel.svg|100px|Kota Arvow Ysrael]]
+|align="center" | [[File:Flag_of_Israel.svg|150px|Baner Ysrael]]
+|align="center" width="140px"|[[File:Coat_of_arms_of_Israel.svg|100px|Kota Arvow Ysrael]]
 |- align="center" width="140px"
 | (Baner Ysrael) 
 | (Kota Arvow Ysrael)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationIsrael.png|300px|Desedhans Ysrael]]
+| align="center" colspan="2" | [[File:LocationIsrael.png|300px|Desedhans Ysrael]]
 |-
 |[[Yeth]] soedhogel || [[Ebrow]], [[Arabek]]
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Doesedh]]|| 7,005,400 a drigoryon <br /> 333 triger/km²
 |-
-| Anserghogeth || dhiworth [[Rywvaneth Unys]] <br> 14ves a [[Mis Me|vis Me]], [[1948]]
+| Anserghogeth || dhiworth [[Rywvaneth Unys]] <br /> 14ves a [[Mis Me|vis Me]], [[1948]]
 |-
 |Mona kemmyn || New Israeli sheqel (₪) (ILS)
 |-
-|Amser <br>- Hav (DST) || UTC +2 <br> UTC +3
+|Amser <br />- Hav (DST) || UTC +2 <br /> UTC +3
 |-
 |Kan genedhlek || ''Hatikvah''
 |-
@@ -76,6 +76,7 @@
 [[bpy:ইসরাইল]]
 [[br:Israel]]
 [[bs:Izrael]]
+[[bug:Israel]]
 [[ca:Israel]]
 [[ceb:Israel]]
 [[crh:İsrail]]
@@ -115,7 +116,7 @@
 [[hak:Yî-set-lie̍t]]
 [[haw:ʻIseraʻela]]
 [[he:ישראל]]
-[[hi:इस्राइल]]
+[[hi:इज़रायल]]
 [[hif:Israel]]
 [[hr:Izrael]]
 [[hsb:Israel]]
