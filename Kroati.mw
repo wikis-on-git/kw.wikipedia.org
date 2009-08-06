@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Republika Hrvatska'''<br>'''Repoblek Kroati'''</big></br>
+|+ <big>'''Republika Hrvatska'''<br />'''Repoblek Kroati'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag_of_Croatia.svg|150px|Baner Kroati]]}}
-|align="center" width="140px"|[[Image:Coat_of_arms_of_Croatia.svg|100px|Kota arvow Kroati]]
+|align="center" | {{border|[[File:Flag_of_Croatia.svg|150px|Baner Kroati]]}}
+|align="center" width="140px"|[[File:Coat_of_arms_of_Croatia.svg|100px|Kota arvow Kroati]]
 |- align="center" width="140px"
 | (Baner Kroati) 
 | (Kota arvow Kroati)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[Image:Europe location CRO.png|250px|Desedhans Kroati yn Europa]]
+| align="center" colspan="2" | [[File:Europe location CRO.png|250px|Desedhans Kroati yn Europa]]
 |-
 |[[Yeth]] soedhogel || [[Kroatek]]
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2001]])<br />- [[Doesedh]]|| 4,437,460 a drigoryon <br /> 83 triger/km²
 |-
-|Anserghogeth || dhiworth [[Yougoslavi]]<br>25ves a [[Mys Metheven|vis Metheven]], [[1991]]
+|Anserghogeth || dhiworth [[Yougoslavi]]<br />25ves a [[Mys Metheven|vis Metheven]], [[1991]]
 |-
 |Mona kemmyn || [[Kuna]] (kn)
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |-
 |Kan genedhlek || ''Lijepa naša domovino''
 |-
@@ -187,6 +187,7 @@ An '''Repoblek Kroati''' (yn [[Kroatek]], ''Republika Hrvatska'') yw gwlas yn de
 [[tk:Horwatiýa]]
 [[tl:Croatia]]
 [[tr:Hırvatistan]]
+[[tt:Хорватия]]
 [[udm:Хорватия]]
 [[ug:Krodiye]]
 [[uk:Хорватія]]
