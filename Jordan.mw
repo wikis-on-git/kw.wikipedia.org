@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''المملكة الأردنية الهاشمي<br>Al Mamlakah al Urdunnīyah al Hāshimīyah<br>Rywvaneth Hashemek Jordan'''</big>
+|+ <big>'''المملكة الأردنية الهاشمي<br />Al Mamlakah al Urdunnīyah al Hāshimīyah<br />Rywvaneth Hashemek Jordan'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Jordan.svg|150px|Baner Jordan]]}}
-|align="center" width="140px"|[[Image:Coat of Jordan.png|100px|Kota Arvow Jordan]]
+|align="center" | {{border|[[File:Flag of Jordan.svg|150px|Baner Jordan]]}}
+|align="center" width="140px"|[[File:Coat of Jordan.png|100px|Kota Arvow Jordan]]
 |- align="center" width="140px"
 | (Baner Jordan) 
 | (Kota Arvow Jordan)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Allah Al-Watan Al-Malek''</small>
 |-
-| align="center" colspan="2" | [[image:LocationJordan.png|300px|Desedhans Jordan]]
+| align="center" colspan="2" | [[File:LocationJordan.png|300px|Desedhans Jordan]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]] 
 |-
@@ -30,7 +30,7 @@
 |-
 |Mona kemmyn || Dinar Jordanek (JOD)
 |-
-|Amser <br>- Hav (DST) || UTC +2 <br> UTC +3
+|Amser <br />- Hav (DST) || UTC +2 <br /> UTC +3
 |-
 |Kan genedhlek || ''As-salam al-malaki al-Urduni''
 |-
@@ -134,7 +134,7 @@
 [[ms:Jordan]]
 [[mzn:اوردون]]
 [[na:Jordan]]
-[[nah:Jordania]]
+[[nah:Iordania]]
 [[nds:Jordanien]]
 [[nl:Jordanië]]
 [[nn:Jordan]]
