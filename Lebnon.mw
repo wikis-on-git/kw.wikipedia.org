@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''لبنان<br>Lubnan<br>Repoblek Lebnon'''</big>
+|+ <big>'''لبنان<br />Lubnan<br />Repoblek Lebnon'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Lebanon flag.PNG|150px|Baner Lebnon]]}}
-|align="center" width="140px"| [[Image:Coat of Arms of Lebanon.svg|100px|Kota arvow Lebnon]]
+|align="center" | {{border|[[File:Lebanon flag.PNG|150px|Baner Lebnon]]}}
+|align="center" width="140px"| [[File:Coat of Arms of Lebanon.svg|100px|Kota arvow Lebnon]]
 |- align="center" width="140px"
 | (Baner Lebnon) 
 | (Kota arvow Lebnon)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Koullouna Lil Watan, Lil Oula wal'Allam''</small>
 |-
-| align="center" colspan="2" | [[image:LocationLebanon.png|300px|Desedhans Lebnon]]
+| align="center" colspan="2" | [[File:LocationLebanon.png|300px|Desedhans Lebnon]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]]
 |-
@@ -32,7 +32,7 @@
 |-
 |Mona kemmyn || [[Lira]] (LL.)
 |-
-|Amser <br>- Hav (DST) || UTC +2 <br> UTC +3
+|Amser <br />- Hav (DST) || UTC +2 <br /> UTC +3
 |-
 |Kan genedhlek || ''Kulluna Lilouataan''
 |-
@@ -50,6 +50,7 @@
 
 {{Link FA|ur}}
 
+[[ace:Lebanon]]
 [[af:Libanon]]
 [[als:Libanon]]
 [[an:Libano]]
