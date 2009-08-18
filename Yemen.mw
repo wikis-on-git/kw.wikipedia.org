@@ -1,9 +1,9 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''الجمهوريّة اليمنية<br>Al-Jumhuriyah al-Yamaniyah<br>Repoblek Yemen'''</big>
+|+ <big>'''الجمهوريّة اليمنية<br />Al-Jumhuriyah al-Yamaniyah<br />Repoblek Yemen'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Yemen.svg|150px|Baner Yemen]]}}
+|align="center" | {{border|[[File:Flag of Yemen.svg|150px|Baner Yemen]]}}
 |align="center" width="140px"|
 |- align="center" width="140px"
 | (Baner Yemen) 
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationYemen.png|300px|Desedhans Yemen]]
+| align="center" colspan="2" | [[File:LocationYemen.png|300px|Desedhans Yemen]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]] 
 |-
@@ -32,7 +32,7 @@
 |-
 |Mona kemmyn || Rial Yemenek (YER)
 |-
-|Amser <br>- Hav (DST) || UTC +3 <br> UTC +4
+|Amser <br />- Hav (DST) || UTC +3 <br /> UTC +4
 |-
 |Kan genedhlek || ''United Republic''
 |-
@@ -173,6 +173,7 @@ An '''Repoblek Yemen''' (yn [[Arabek]], الجمهورية اليمنية ''Al-J
 [[th:ประเทศเยเมน]]
 [[tl:Yemen]]
 [[tr:Yemen]]
+[[tt:Йәмән]]
 [[udm:Йемен]]
 [[ug:يەمەن]]
 [[uk:Ємен]]
