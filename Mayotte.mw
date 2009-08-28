@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of France.svg|150px|Baner Pow Frynk]]
-|align="center" | [[Image:Flag of Mayotte (local).svg|150px|Baner Mayotte]]
+|align="center" | [[File:Flag of France.svg|150px|Baner Pow Frynk]]
+|align="center" | [[File:Flag of Mayotte (local).svg|150px|Baner Mayotte]]
 |- align="center" width="140px"
 | (Baner Pow Frynk) 
 | (Baner ha Kota Arvow Mayotte)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small> ''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | {{border|[[image:LocationMayotte.png|Desedhans Mayotte]]}}
+| align="center" colspan="2" | {{border|[[File:LocationMayotte.png|Desedhans Mayotte]]}}
 |-
-|Kenedhel || [[Image:Flag of France.svg|20px|]]&nbsp;[[Pow Frynk]]
+|Kenedhel || [[File:Flag of France.svg|20px|]]&nbsp;[[Pow Frynk]]
 |-
 |[[Yeth]] soedhogel || [[Frynkek]]
 |-
@@ -87,6 +87,7 @@
 [[is:Mayotte]]
 [[it:Mayotte]]
 [[ja:マヨット]]
+[[jv:Mayotte]]
 [[kk:Майотт]]
 [[ko:마요트]]
 [[la:Maiotta]]
