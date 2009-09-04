@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Polynésie française<br>Pōrīnetia Farāni'''</big>
+|+ <big>'''Polynésie française<br />Pōrīnetia Farāni'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of French Polynesia.svg|150px|Baner Polynesi Frynkek]]}}
-|align="center" | [[Image:Coat of arms of French Polynesia.svg|100px|Kota arvow Polynesi Frynkek]]
+|align="center" | {{border|[[File:Flag of French Polynesia.svg|150px|Baner Polynesi Frynkek]]}}
+|align="center" | [[File:Coat of arms of French Polynesia.svg|100px|Kota arvow Polynesi Frynkek]]
 |- align="center" width="140px"
 | (Baner Polynesi Frynkek) 
 | (Kota arvow Polynesi Frynkek)
@@ -14,7 +14,7 @@
 |-
 | align="center" colspan="2" | 
 |-
-|Kenedhel || [[Image:Flag of France.svg|20px|]]&nbsp;[[Pow Frynk]]
+|Kenedhel || [[File:Flag of France.svg|20px|]]&nbsp;[[Pow Frynk]]
 |-
 |[[Yeth]] soedhogel || [[Frynkek]]
 |-
@@ -52,6 +52,7 @@
 [[Category:Ostralasi]]
 [[Category:Rannvroyow]]
 
+[[ace:Polinesia Peurancih]]
 [[an:Polinesia Franzesa]]
 [[ar:بولينزيا الفرنسية]]
 [[az:Fransa Polineziyası]]
