@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;" 
-|align="center" |{{border|[[File:Flag of Ireland.svg|150px|left|Baner Iwerdhon]]}}
-|align="center" |[[File:Iwerdhon_Arvow.png|100px|right|Kota arvow Iwerdhon]]
+|align="center" |{{border|[[Restren:Flag of Ireland.svg|150px|left|Baner Iwerdhon]]}}
+|align="center" |[[Restren:Iwerdhon_Arvow.png|100px|right|Kota arvow Iwerdhon]]
 |- align="center" 
 | (Baner Iwerdhon) 
 | (Kota Arvow Iwerdhon)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small> 
 |-
-| align="center" colspan="2" | [[File:Europe location IRL.png|250px|Desedhans Repoblek Iwerdhon yn an Unyans Europek]]
+| align="center" colspan="2" | [[Restren:Europe location IRL.png|250px|Desedhans Repoblek Iwerdhon yn an Unyans Europek]]
 |-
 |[[Yeth]]ow soedhogel || [[Iwerdhonek]] ha [[Sowsnek]]
 |-
@@ -40,7 +40,7 @@
 |-
 |Kodenn pellgowser || +353
 |-
-|colspan="2" align="center"| {{border|[[File:Repoblek_Iwerdhon_Mappa.png|250px|]]}}
+|colspan="2" align="center"| {{border|[[Restren:Repoblek_Iwerdhon_Mappa.png|250px|]]}}
 |}
 
 '''Repoblek Iwerdhon''' (yn [[iwerdhonek]], '''''Éire''''' po '''''Poblacht na hÉireann''''') yw [[stat]] yn deghow [[ynys Iwerdhon]] yn kledhbarth [[Europa]]. Stat esel a'n [[Unyans Europek]] ha'n [[Kenedhlow Unys]] yw hi. An wlas kentrevek unnik yw [[Kledhbarth Iwerdhon]], pow a'n [[Rywvaneth Unys]].
@@ -55,8 +55,8 @@ Yn blydhynyow 1990, erbys Iwerdhon a devi yn uskis, ha'n Repoblek a waynyas hy l
 {{Europa}}
 {{Link FA|af}}
 
-[[Category:Iwerdhon]]
-[[Category:Gwlasow yn Europa]]
+[[Class:Iwerdhon]]
+[[Class:Gwlasow yn Europa]]
 
 [[ace:Irlandia]]
 [[af:Republiek van Ierland]]
@@ -155,6 +155,7 @@ Yn blydhynyow 1990, erbys Iwerdhon a devi yn uskis, ha'n Repoblek a waynyas hy l
 [[no:Republikken Irland]]
 [[nov:Republike de Irlande]]
 [[nrm:Républyique d'Irlande]]
+[[nv:Bitsiighaʼ Łichʼííʼí Bikéyah]]
 [[oc:Republica d'Irlanda]]
 [[os:Ирланди]]
 [[pam:Republic of Ireland]]
