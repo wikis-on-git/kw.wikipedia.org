@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''New Zealand <br> Aotearoa'''</big>
+|+ <big>'''New Zealand <br /> Aotearoa'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of New Zealand.svg|170px|Baner Mordir Nowydh]]
-|align="center" width="140px"|[[image:Coat of Arms of New Zealand.svg|100px|Kota Arvow Mordir Nowydh]]
+|align="center" | [[Restren:Flag of New Zealand.svg|170px|Baner Mordir Nowydh]]
+|align="center" width="140px"|[[Restren:Coat of Arms of New Zealand.svg|100px|Kota Arvow Mordir Nowydh]]
 |- align="center" width="140px" 
 | <small>(Baner Mordir Nowydh)</small>
 | <small>(Kota arvow Mordir Nowydh)</small>
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | {{border|[[image:LocationNewZealand.png|300px|Desedhans Mordir Nowydh]]}}
+| align="center" colspan="2" | {{border|[[Restren:LocationNewZealand.png|300px|Desedhans Mordir Nowydh]]}}
 |-
-|[[Yeth|Yethow]] soedhogel || [[Sowsnek]]<br>[[Maori]]<br>[[Yeth Arwoedhyow]] a Vordir Nowydh
+|[[Yeth]]ow soedhogel || [[Sowsnek]]<br />[[Maori]]<br />[[Yeth Arwoedhyow]] a Vordir Nowydh
 |-
 |Penn-sita || [[Wellington]]
 |-
@@ -30,9 +30,9 @@
 |-
 | Anserghogeth || 26 [[Mis Gwynngala]], [[1907]]
 |-
-|Mona kemmyn || [[Dollar_(Mordir_Nowydh)|Dollar]]s ($) (NZD)
+|Mona kemmyn || [[Dollar (Mordir Nowydh)|Dollars]] ($) (NZD)
 |-
-|Kan genedhlek || ''God Defend New Zealand''<br>''God Save the Queen''
+|Kan genedhlek || ''God Defend New Zealand''<br />''God Save the Queen''
 |-
 |Kodenn kesroesweyth || [[.nz]]
 |-
@@ -45,7 +45,7 @@ Yn [[Kernewek Unys Amendys]], an pow y's helwir '''Selond Nowyth'''.
 
 {{stokk-dor}}
 {{Ostralasi}}
-[[Category:Mordir Nowydh]]
+[[Class:Mordir Nowydh]]
 
 [[ace:Seulandia Barô]]
 [[af:Nieu-Seeland]]
@@ -122,7 +122,6 @@ Yn [[Kernewek Unys Amendys]], an pow y's helwir '''Selond Nowyth'''.
 [[li:Nui-Zieland]]
 [[lij:Neuva Selanda]]
 [[lmo:Növa Zelanda]]
-[[lo:ປະເທດນູແວນ​ເຊລັງ]]
 [[lt:Naujoji Zelandija]]
 [[lv:Jaunzēlande]]
 [[mi:Aotearoa]]
