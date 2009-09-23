@@ -1,20 +1,20 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Lisboa'''</big>
 |-
-| align="center" colspan="2" | [[Image:Panoramic view - Lisboa.jpg|250px|Lisboa]]
+| align="center" colspan="2" | [[Restren:Panoramic view - Lisboa.jpg|250px|Lisboa]]
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Pt-lsb1.png|120px|Baner Lisboa]]
-|align="center" width="100px"| [[Image:LSB.png|100px|Kota arvow Lisboa]]
+|align="center" | [[Restren:Pt-lsb1.png|120px|Baner Lisboa]]
+|align="center" width="100px"| [[Restren:LSB.png|100px|Kota arvow Lisboa]]
 |- 
 |align="center" width="140px"| <font size="-1">(Baner Lisboa)</font>
 |align="center" width="140px"| <font size="-1">(Kota arvow Lisboa)</font>
 |}
 |-
-| align="center" colspan="2" | [[image:LocalLisboa.svg|200px|Desedhans Lisboa yn Portyngal]]
+| align="center" colspan="2" | [[Restren:LocalLisboa.svg|200px|Desedhans Lisboa yn Portyngal]]
 |-
-|Kenedhel || [[Image:Flag of Portugal.svg|20px|]]&nbsp;[[Portyngal]]
+|Kenedhel || [[Restren:Flag of Portugal.svg|20px|]]&nbsp;[[Portyngal]]
 |-
 |Rannvro || [[Rannvro Lisboa|Lisboa]]
 |-
@@ -28,7 +28,7 @@
 |-
 |Hanow an drigoryon || ''Lisboeta, Lisbonense, olisiponense, ha Alfacinha''
 |-
-|Amser <br>- Hav (DST) || UTC +0 <br> UTC +1
+|Amser <br />- Hav (DST) || UTC +0 <br /> UTC +1
 |}
 '''Lisboa''' yw penncita [[Portyngal]].
 
@@ -36,8 +36,8 @@
 {{stokk-Portyngal}}
 {{Pennsitys Europa}}
 
-[[Category:Citys ha trevow yn Europa]]
-[[Category:Portyngal]]
+[[Class:Citys ha trevow yn Europa]]
+[[Class:Portyngal]]
 
 {{Link FA|tr}}
 {{Link FA|es}}
@@ -109,6 +109,7 @@
 [[lb:Lissabon]]
 [[lij:Lisbonn-a]]
 [[lmo:Lisbuna]]
+[[ln:Lisboa]]
 [[lt:Lisabona]]
 [[lv:Lisabona]]
 [[mk:Лисабон]]
