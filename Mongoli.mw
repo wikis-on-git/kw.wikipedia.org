@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:Flag of Mongolia.svg|150px|Baner Mongoli]]
-|align="center" width="140px"| [[File:Coat of Arms of Mongolia.svg|100px|Kota arvow Mongoli]]
+|align="center" | [[Restren:Flag of Mongolia.svg|150px|Baner Mongoli]]
+|align="center" width="140px"| [[Restren:Coat of Arms of Mongolia.svg|100px|Kota arvow Mongoli]]
 |- align="center" width="140px"
 | (Baner Mongoli)
 | (Kota arvow Mongoli)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Dayar Mongol''</small>
 |-
-| align="center" colspan="2" | {{border|[[File:LocationMongolia.png|Desedhans Mongoli|300px|]]}}
+| align="center" colspan="2" | {{border|[[Restren:LocationMongolia.png|Desedhans Mongoli|300px|]]}}
 |-
 |[[Yeth]] soedhogel || [[Mongolek]]
 |-
@@ -44,7 +44,7 @@
 {{stokk-dor}}
 {{Asi}}
 
-[[Category:Asi]]
+[[Class:Asi]]
 
 [[ace:Mongolia]]
 [[af:Mongolië]]
@@ -126,6 +126,7 @@
 [[li:Mongolië]]
 [[lij:Mongòllia]]
 [[lmo:Mungolia]]
+[[ln:Mongolí]]
 [[lt:Mongolija]]
 [[lv:Mongolija]]
 [[mdf:Монголия]]
