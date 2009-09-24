@@ -3,7 +3,7 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:Flag of Singapore.svg|150px|Baner Singapour]]}}
+|align="center" | {{border|[[Restren:Flag of Singapore.svg|150px|Baner Singapour]]}}
 |align="center" width="150px"|
 |- align="center" width="150px"
 | (Baner Singapour) 
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Majulah Singapura''</small>
 |-
-| align="center" colspan="2" | [[File:LocationSingapore.png|300px|Desedhans Singapour]]
+| align="center" colspan="2" | [[Restren:LocationSingapore.png|300px|Desedhans Singapour]]
 |-
 |[[Yeth]] soedhogel || [[Malayek]], [[Sowsnek]], [[Chinek]], [[Tamilek]]
 |-
@@ -45,8 +45,8 @@
 {{Asi}}
 {{Link FA|km}}
 
-[[Category:Asi]]
-[[Category:Citys ha trevow]]
+[[Class:Asi]]
+[[Class:Citys ha trevow]]
 
 [[ace:Singapura]]
 [[af:Singapoer]]
@@ -130,6 +130,7 @@
 [[li:Singapore]]
 [[lij:Scingapô]]
 [[lmo:Singapur]]
+[[ln:Singapur]]
 [[lt:Singapūras]]
 [[lv:Singapūra]]
 [[map-bms:Singapura]]
