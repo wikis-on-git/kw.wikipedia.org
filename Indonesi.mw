@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Republik Indonesia<br>Repoblek Indonesi'''</big>
+|+ <big>'''Republik Indonesia<br />Repoblek Indonesi'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Indonesia.svg|150px|Baner Indonesi]]}}
-|align="center" width="150px"|[[Image:Coat of Indonesia.png|140px|Kota Arvow Indonesi]]
+|align="center" | {{border|[[Restren:Flag of Indonesia.svg|150px|Baner Indonesi]]}}
+|align="center" width="150px"|[[Restren:Coat of Indonesia.png|140px|Kota Arvow Indonesi]]
 |- align="center" width="150px"
 | (Baner Indonesi) 
 | (Kota Arvow Indonesi)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Bhinneka Tunggal Ika''</small>
 |-
-| align="center" colspan="2" | [[image:LocationIndonesia.png|300px|Desedhans Indonesi]]
+| align="center" colspan="2" | [[Restren:LocationIndonesia.png|300px|Desedhans Indonesi]]
 |-
 |[[Yeth]] soedhogel || [[Indonesek]] 
 |-
@@ -26,7 +26,7 @@
 |-
 |[[Poblans]] ([[2005]])<br />&nbsp;[[Doesedh]]|| 241,973,879 a drigoryon <br /> 126 triger/km²
 |-
-|Anserghogeth || dhiworth an [[Iseldiryow]] <br> 17ves a [[Mys Est|vis Est]], [[1945]]
+|Anserghogeth || dhiworth an [[Iseldiryow]] <br /> 17ves a [[Mys Est|vis Est]], [[1945]]
 |-
 |Mona kemmyn || Rupiah (IDR)
 |-
@@ -44,8 +44,8 @@ Indonesi yw kyns trevesigeth an [[Iseldiryow]]. Yma kevrennow istorek ynter an y
 A-dhia [[1975]] bys yn [[1999]], Indonesi a wovernya [[Timor Est]] yn anlaghel avel onan a'y fowyow. Yma hwath bagasow ow hwilas anserghogeth rag powyow [[Aceh]] ha [[Papoua West]]. Wosa diwedh a wovernans an Lywydh Souharto, yma displegyans lent tro ha gwerinieth yn Indonesi.
 
 {{Asi}}
-[[Category:Asi]]
-[[category:Ynysow]]
+[[Class:Asi]]
+[[Class:Ynysow]]
 
 {{Link FA|en}}
 {{Link FA|id}}
@@ -133,6 +133,7 @@ A-dhia [[1975]] bys yn [[1999]], Indonesi a wovernya [[Timor Est]] yn anlaghel a
 [[li:Indonesië]]
 [[lij:Indonexia]]
 [[lmo:Indunesia]]
+[[ln:Indoneziá]]
 [[lt:Indonezija]]
 [[lv:Indonēzija]]
 [[map-bms:Indonesia]]
