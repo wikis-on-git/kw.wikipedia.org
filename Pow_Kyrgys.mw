@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Кыргыз Республикасы'''<br>''(Kyrgyz Respublikasy)''<br>'''Кыргызская республика'''<br>''(Kyrgyzskaja respublika)''</big></br>
+|+ <big>'''Кыргыз Республикасы'''<br />''(Kyrgyz Respublikasy)''<br />'''Кыргызская республика'''<br />''(Kyrgyzskaja respublika)''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Kyrgyzstan.svg|150px|Baner Pow Kyrgys]]
-|align="center" width="140px"|[[Image:Kyrgystan coa.gif|100px|Kota arvow Pow Kyrgys]]
+|align="center" | [[Restren:Flag of Kyrgyzstan.svg|150px|Baner Pow Kyrgys]]
+|align="center" width="140px"|[[Restren:Kyrgystan coa.gif|100px|Kota arvow Pow Kyrgys]]
 |- align="center" width="140px"
 | (Baner Pow Kyrgys) 
 | (Kota arvow Pow Kyrgys)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[Image:LocationKyrgyzstan.svg|Desedhans Pow Kyrgys|300px|]]
+| align="center" colspan="2" | [[Restren:LocationKyrgyzstan.svg|Desedhans Pow Kyrgys|300px|]]
 |-
 |[[Yeth]] soedhogel || [[Kyrgysek]], [[Russek]]
 |-
@@ -32,7 +32,7 @@
 |-
 |Mona kemmyn || Som (KGS)
 |-
-|Amser <br>- Hav (DST) || UTC +5 <br> UTC +6
+|Amser <br />- Hav (DST) || UTC +5 <br /> UTC +6
 |-
 |Kan genedhlek || ''Кыргыз Республикасынын Мамлекеттик Гимни''
 |-
@@ -46,7 +46,7 @@
 
 {{stokk-dor}}
 {{Asi}}
-[[Category:Asi]]
+[[Class:Asi]]
 
 [[ace:Kirgiztan]]
 [[af:Kirgisië]]
@@ -155,6 +155,7 @@
 [[ru:Киргизия]]
 [[sa:किरगिस्थान]]
 [[sah:Кыргызстан]]
+[[scn:Kirghizistan]]
 [[sd:ڪِرگزِستانُ]]
 [[se:Kirgisistan]]
 [[sh:Kirgistan]]
