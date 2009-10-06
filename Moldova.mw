@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Republica Moldova'''<br>'''Repoblek Moldova'''</big></br>
+|+ <big>'''Republica Moldova'''<br />'''Repoblek Moldova'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Moldova.svg|150px|Baner Moldova]]
-|align="center" width="140px"|[[Image:Coat of arms of Moldova.png|100px|Kota arvow Moldova]]
+|align="center" | [[Restren:Flag of Moldova.svg|150px|Baner Moldova]]
+|align="center" width="140px"|[[Restren:Coat of arms of Moldova.png|100px|Kota arvow Moldova]]
 |- align="center" width="140px"
 | (Baner Moldova) 
 | (Kota arvow Moldova)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[Image:Europe location MDA.png|250px|Desedhans Moldova yn Europa]]
+| align="center" colspan="2" | [[Restren:Europe location MDA.png|250px|Desedhans Moldova yn Europa]]
 |-
 |[[Yeth]] soedhogel || [[Moldovek]] ([[Roumanek]])
 |-
@@ -28,11 +28,11 @@
 |-
 |[[Poblans]] ([[2004]])<br />- [[Doesedh]]|| 3,388,071 a drigoryon <br /> 131 triger/km²
 |-
-|Anserghogeth || dhiworth [[URSS]]<br>27ves a [[Mys Est|vis Est]], [[1991]]
+|Anserghogeth || dhiworth [[URSS]]<br />27ves a [[Mys Est|vis Est]], [[1991]]
 |-
 |Mona kemmyn || [[Leu]] (MDL)
 |-
-|Amser <br>- Hav (DST) || UTC +2 <br> UTC +3
+|Amser <br />- Hav (DST) || UTC +2 <br /> UTC +3
 |-
 |Kan genedhlek || ''Limba noastră''
 |-
@@ -47,8 +47,8 @@ An '''Repoblek Moldova''' (yn [[Moldovek]] ha [[Roumanek]], ''Republica Moldova'
 {{Stokk-europa}}
 {{Europa}}
 
-[[Category:Moldova| ]]
-[[Category:Gwlasow yn Europa]]
+[[Class:Moldova| ]]
+[[Class:Gwlasow yn Europa]]
 
 [[ace:Moldova]]
 [[af:Moldowa]]
@@ -101,6 +101,7 @@ An '''Repoblek Moldova''' (yn [[Moldovek]] ha [[Roumanek]], ''Republica Moldova'
 [[ga:An Mholdóiv]]
 [[gd:Moldàibhia]]
 [[gl:Moldova]]
+[[gu:મોલ્દોવા]]
 [[gv:Moldova]]
 [[haw:Molodowa]]
 [[he:מולדובה]]
