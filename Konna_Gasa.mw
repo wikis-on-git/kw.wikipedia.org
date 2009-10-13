@@ -1,9 +1,9 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''قطاع غزة<br>Qita' Ghazzah<br>רצועת עזה<br>Retzu'at 'Azza'''</big>
+|+ <big>'''قطاع غزة<br />Qita' Ghazzah<br />רצועת עזה<br />Retzu'at 'Azza'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Palestine.svg|150px|Baner Palestinek]]
+|align="center" | [[Restren:Flag of Palestine.svg|150px|Baner Palestinek]]
 |- align="center" width="140px"
 | (Baner Palestinek) 
 |}
@@ -16,7 +16,7 @@
 |-
 |Mona kemmyn || New Israeli sheqel (₪) (ILS)
 |-
-|Amser <br>- Hav (DST) || UTC +2 <br> UTC +3
+|Amser <br />- Hav (DST) || UTC +2 <br /> UTC +3
 |-
 |Kodenn kesroesweyth || [[.ps]]
 |-
@@ -29,7 +29,8 @@
 {{stokk-dor}}
 {{Asi}}
 
-[[Category:Asi]] [[Category:Arabi|Gasa]]
+[[Class:Asi]]
+[[Class:Arabi|Gasa]]
 
 [[af:Gasastrook]]
 [[an:Faxa de Gaza]]
@@ -38,7 +39,7 @@
 [[bn:গাজা ভূখণ্ড]]
 [[bs:Pojas Gaze]]
 [[ca:Franja de Gaza]]
-[[ceb:Gasa]]
+[[ceb:Gaza]]
 [[cs:Pásmo Gazy]]
 [[cy:Llain Gaza]]
 [[da:Gazastriben]]
@@ -93,6 +94,7 @@
 [[sw:Ukanda wa Gaza]]
 [[ta:காசா கரை]]
 [[th:ฉนวนกาซา]]
+[[tl:Piraso ng Gaza]]
 [[tr:Gazze Şeridi]]
 [[uk:Сектор Гази]]
 [[vi:Dải Gaza]]
