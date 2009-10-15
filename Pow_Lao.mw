@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:Flag of Laos.svg|150px|Baner Pow Lao]]}}
-|align="center" width="150px"|[[File:Laos coa.png|100px|Kota Arvow Pow Lao]]
+|align="center" | {{border|[[Restren:Flag of Laos.svg|150px|Baner Pow Lao]]}}
+|align="center" width="150px"|[[Restren:Laos coa.png|100px|Kota Arvow Pow Lao]]
 |- align="center" width="150px"
 | (Baner Pow Lao) 
 | (Kota Arvow Pow Lao)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Peace, Independence, Democracy, Unity and Prosperity''</small>
 |-
-| align="center" colspan="2" | [[File:LocationLaos.png|300px|Desedhans Pow Lao]]
+| align="center" colspan="2" | [[Restren:LocationLaos.png|300px|Desedhans Pow Lao]]
 |-
 |[[Yeth]] soedhogel || [[Lao]] 
 |-
@@ -46,7 +46,7 @@
 {{Asi}}
 {{Link FA|lo}}
 
-[[Category:Asi]]
+[[Class:Asi]]
 
 [[ace:Laos]]
 [[af:Laos]]
@@ -184,6 +184,7 @@
 [[war:Laos]]
 [[wo:Réewum Lawos]]
 [[wuu:老挝]]
+[[yo:Laos]]
 [[zh:老挝]]
 [[zh-classical:老撾]]
 [[zh-min-nan:Lao-kok]]
