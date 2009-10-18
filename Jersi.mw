@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:Flag of Jersey.svg|150px|Baner Jersi]]
-|align="center" width="140px"|[[File:Jersey coa.svg|100px|Kota Arvow Jersi]]
+|align="center" | [[Restren:Flag of Jersey.svg|150px|Baner Jersi]]
+|align="center" width="140px"|[[Restren:Jersey coa.svg|100px|Kota Arvow Jersi]]
 |- align="center" width="140px"
 | (Baner Jersi) 
 | (Kota arvow Jersi)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | {{border|[[File:LocationJersey.png|300px|Desedhans Jersi]]}}
+| align="center" colspan="2" | {{border|[[Restren:LocationJersey.png|300px|Desedhans Jersi]]}}
 |-
 |[[Yeth]] soedhogel || [[Sowsnek]], [[Frynkek]], [[Jersek]]
 |-
@@ -49,11 +49,12 @@
 {{Stokk-europa}}
 {{Europa}}
 
-[[Category:Europa]]
-[[Category:Ynysow]]
+[[Class:Europa]]
+[[Class:Ynysow]]
 
 [[ace:Jersey]]
 [[af:Jersey]]
+[[an:Jèrri]]
 [[ar:بيليفية جيرزي]]
 [[ast:Jersey]]
 [[az:Cersi]]
