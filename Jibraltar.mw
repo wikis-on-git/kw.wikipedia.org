@@ -3,18 +3,18 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Gibraltar.svg|150px|Baner Jibraltar]]
-|align="center" width="140px"|[[Image:Gibraltar-FortressAndKey.png|100px|Kota arvow Jibraltar]]
+|align="center" | [[Restren:Flag of Gibraltar.svg|150px|Baner Jibraltar]]
+|align="center" width="140px"|[[Restren:Gibraltar-FortressAndKey.png|100px|Kota arvow Jibraltar]]
 |- align="center" width="140px"
 | (Baner Jibraltar) 
 | (Kota arvow Jibraltar)
 |}
 |-
-| align="center" colspan="2" | <small>''Lavar kenedhlek: Nulli Expugnabilis Hosti''<br>''([[Latin]]: Conquered By No Enemy)''</small>
+| align="center" colspan="2" | <small>''Lavar kenedhlek: Nulli Expugnabilis Hosti''<br />''([[Latin]]: Conquered By No Enemy)''</small>
 |-
-| align="center" colspan="2" | [[image:LocationGibraltar.png|Desedhans Jibraltar|300px|]]
+| align="center" colspan="2" | [[Restren:LocationGibraltar.png|Desedhans Jibraltar|300px|]]
 |-
-|Kenedhel || [[Image:Flag of the United Kingdom.svg|20px|]]&nbsp;[[Rywvaneth Unys]]
+|Kenedhel || [[Restren:Flag of the United Kingdom.svg|20px|]]&nbsp;[[Rywvaneth Unys]]
 |-
 |[[Yeth]] soedhogel || [[Sowsnek]]
 |-
@@ -34,7 +34,7 @@
 |-
 |Mona kemmyn || Peuns Jibraltar (GIP)
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |-
 |Kan genedhlek || ''Gibraltar Anthem''
 |-
@@ -49,7 +49,7 @@
 {{Stokk-europa}}
 {{Europa}}
 
-[[Category:Europa]]
+[[Class:Europa]]
 
 [[ace:Gibraltar]]
 [[af:Gibraltar]]
@@ -84,6 +84,7 @@
 [[fo:Gibraltar]]
 [[fr:Gibraltar]]
 [[frp:Gibraltar]]
+[[fy:Gibraltar]]
 [[ga:Giobráltar]]
 [[gd:Giobraltair]]
 [[gl:Xibraltar - Gibraltar]]
