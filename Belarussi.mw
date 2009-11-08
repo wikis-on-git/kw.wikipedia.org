@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:flag_of_Belarus.svg|150px|Baner Belarussi]]
-|align="center" width="140px"|[[File:Belarus coa.png|100px|Kota arvow Belarussi]]
+|align="center" | [[Restren:flag_of_Belarus.svg|150px|Baner Belarussi]]
+|align="center" width="140px"|[[Restren:Belarus coa.png|100px|Kota arvow Belarussi]]
 |- align="center" width="140px"
 | (Baner Belarussi) 
 | (Kota arvow Belarussi)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[File:Europe location BLR.png|250px|Desedhans Belarussi yn Europa]]
+| align="center" colspan="2" | [[Restren:Europe location BLR.png|250px|Desedhans Belarussi yn Europa]]
 |-
 |[[Yeth]]ow soedhogel || [[Belarussek]] ha [[Russek]]
 |-
@@ -48,8 +48,8 @@
 {{Europa}}
 {{Link FA|en}}
 
-[[Category:Belarussi]]
-[[Category:Gwlasow yn Europa]]
+[[Class:Belarussi]]
+[[Class:Gwlasow yn Europa]]
 
 [[ace:Bèlarusia]]
 [[af:Wit-Rusland]]
@@ -94,6 +94,7 @@
 [[es:Bielorrusia]]
 [[et:Valgevene]]
 [[eu:Bielorrusia]]
+[[ext:Bielorrússia]]
 [[fa:بلاروس]]
 [[fi:Valko-Venäjä]]
 [[fiu-vro:Valgõvinne]]
