@@ -3,12 +3,12 @@
 ! Baner
 ! Kota arvow
 |- align="center"
-| style="background: #f0f0f0;width: 145px;" | [[Image:Flag of Steiermark (state).svg|150px|Baner Steiermark]]
-| style="background: #ffffff;width: 145px;" | [[Image:Steiermark Wappen.svg|100px|Kota arvow Steiermark]]
+| style="background: #f0f0f0;width: 145px;" | [[Restren:Flag of Steiermark (state).svg|150px|Baner Steiermark]]
+| style="background: #ffffff;width: 145px;" | [[Restren:Steiermark Wappen.svg|100px|Kota arvow Steiermark]]
 |-
 |---- bgcolor="#FFFFFF"
 | '''Gwlaskor'''
-| [[Image:Flag of Austria.svg|20px|]]&nbsp;[[Estrych]]
+| [[Restren:Flag of Austria.svg|20px|]]&nbsp;[[Estrych]]
 |---- bgcolor="#FFFFFF"
 | '''Pennsita'''
 | [[Graz]]
@@ -45,11 +45,11 @@
 |---- bgcolor="#FFFFFF"
 ! colspan="2" align="center" bgcolor="#EFEFEF" | '''Mappa: Desedhans Steiermark yn Estrych'''
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" | [[Image:Austria stmk.svg|250px|Desedhans Steiermark yn Estrych]]
+| colspan="2" align="center" | [[Restren:Austria stmk.svg|250px|Desedhans Steiermark yn Estrych]]
 |---- bgcolor="#FFFFFF"
 ! colspan="2" align="center" bgcolor="#EFEFEF" | '''Mappa: Ranndiryow Steiermark'''
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" | [[Image:Karte Aut Stmk Bezirke.png|250px|Mappa Ranndiryow Steiermark]]
+| colspan="2" align="center" | [[Restren:Karte Aut Stmk Bezirke.png|250px|Mappa Ranndiryow Steiermark]]
 |}
 
 '''Steiermark''' ([[Slovenek]]: ''Štajerska'') yw stat yn [[Estrych]].
@@ -58,7 +58,7 @@
 {{Stokk-estrych}}
 {{Estrych}}
 
-[[Category:Statys a Estrych]]
+[[Class:Statys a Estrych]]
 
 {{Link FA|bs}}
 
@@ -103,6 +103,7 @@
 [[pt:Estíria]]
 [[ro:Stiria]]
 [[ru:Штирия (земля)]]
+[[scn:Stiria]]
 [[sh:Štajerska (austrijska država)]]
 [[sk:Štajersko (spolková krajina)]]
 [[sl:Štajerska (zvezna dežela)]]
