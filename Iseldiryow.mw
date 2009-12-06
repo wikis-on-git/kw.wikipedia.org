@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;" 
-|align="center" | {{border|[[File:flag_of_the_Netherlands.svg|150px|Baner Iseldiryow]]}}
-|align="center" width="140px"|[[File:Nl-arms.gif|100px|Kota Arvow Iseldiryow]]
+|align="center" | {{border|[[Restren:flag_of_the_Netherlands.svg|150px|Baner Iseldiryow]]}}
+|align="center" width="140px"|[[Restren:Nl-arms.gif|100px|Kota Arvow Iseldiryow]]
 |- align="center" width="140px"
 | (Baner Iseldiryow) 
 | (Kota Arvow Iseldiryow)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Je Maintiendrai''</small>
 |-
-| align="center" colspan="2" | [[File:Europe location NED.png|250px|Desedhans Iseldiryow yn an Unyans Europek]]
+| align="center" colspan="2" | [[Restren:Europe location NED.png|250px|Desedhans Iseldiryow yn an Unyans Europek]]
 |-
 |[[Yeth]]ow soedhogel || [[Iseldiryek]] ha [[Frisek]]
 |-
@@ -48,8 +48,8 @@
 
 {{Europa}}
 
-[[Category:Iseldiryow| ]]
-[[Category:Gwlasow yn Europa]]
+[[Class:Iseldiryow| ]]
+[[Class:Gwlasow yn Europa]]
 
 [[ace:Olanda]]
 [[af:Nederland]]
@@ -132,6 +132,7 @@
 [[jbo:nederland]]
 [[jv:Walanda]]
 [[ka:ნიდერლანდი]]
+[[kaa:Niderlandiya]]
 [[kg:Pays-Bas]]
 [[kk:Нидерланд]]
 [[kl:Holland]]
