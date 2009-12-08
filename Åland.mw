@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Landskapet Åland''' <br> '''Ahvenanmaan maakunta'''</big>
+|+ <big>'''Landskapet Åland''' <br /> '''Ahvenanmaan maakunta'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag_of_Åland.svg|150px|Baner Åland]]
-|align="center" width="140px"|[[Image:Aland coat of arms.svg|100px|Kota arvow Åland]]
+|align="center" | [[Restren:Flag_of_Åland.svg|150px|Baner Åland]]
+|align="center" width="140px"|[[Restren:Aland coat of arms.svg|100px|Kota arvow Åland]]
 |- align="center" width="140px"
 | (Baner Åland) 
 | (Kota arvow Åland)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationAland.png|Desedhans Åland yn Europa|]]
+| align="center" colspan="2" | [[Restren:LocationAland.png|Desedhans Åland yn Europa|]]
 |-
-|Kenedhel || [[Image:Flag of Finland.svg|20px|]]&nbsp;[[Pow Finn]]
+|Kenedhel || [[Restren:Flag of Finland.svg|20px|]]&nbsp;[[Pow Finn]]
 |-
 |[[Yeth]] soedhogel || [[Swedek]]
 |-
@@ -32,7 +32,7 @@
 |-
 |Mona kemmyn || [[Euro]] (€ EUR)
 |-
-|Amser <br>- Hav (DST) || UTC +2 <br> UTC +3
+|Amser <br />- Hav (DST) || UTC +2 <br /> UTC +3
 |-
 |Kan genedhlek || ''Ålänningens sång''
 |-
@@ -40,7 +40,7 @@
 |-
 |Kodenn pellgowser || +358-18
 |-
-| align="center" colspan="2" | {{border|[[Image:Location of Åland in Finland.png|150px|Desedhans Åland yn Pow Finn]]}}
+| align="center" colspan="2" | {{border|[[Restren:Location of Åland in Finland.png|150px|Desedhans Åland yn Pow Finn]]}}
 |}
 
 An '''Ynysow Åland''' ('''''Landskapet Åland''''' yn [[Swedek]], '''''Ahvenanmaan maakunta''''' yn [[Finnek]]) yw pow omrewl yn [[Pleg-mor Botni]]. Swedek yw an taves kewsys gans moyha tus ena.
@@ -50,8 +50,8 @@ An '''Ynysow Åland''' ('''''Landskapet Åland''''' yn [[Swedek]], '''''Ahvenanm
 {{Norden}}
 {{Europa}}
 
-[[Category:Pow Finn]]
-[[Category:Ynysow]]
+[[Class:Pow Finn]]
+[[Class:Ynysow]]
 
 {{Link FA|de}}
 
@@ -71,6 +71,7 @@ An '''Ynysow Åland''' ('''''Landskapet Åland''''' yn [[Swedek]], '''''Ahvenanm
 [[cs:Ålandy]]
 [[da:Åland]]
 [[de:Åland]]
+[[dsb:Åland]]
 [[el:Ώλαντ]]
 [[en:Åland Islands]]
 [[eo:Alando]]
