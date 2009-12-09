@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:Flag of Oman.svg|150px|Baner Oman]]
-|align="center" width="140px"|[[File:NationalEmblemOfOman.gif|100px|Kota Arvow Oman]]
+|align="center" | [[Restren:Flag of Oman.svg|150px|Baner Oman]]
+|align="center" width="140px"|[[Restren:NationalEmblemOfOman.gif|100px|Kota Arvow Oman]]
 |- align="center" width="140px"
 | (Baner Oman) 
 | (Kota Arvow Oman)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[File:LocationOman.png|300px|Desedhans Oman]]
+| align="center" colspan="2" | [[Restren:LocationOman.png|300px|Desedhans Oman]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]]
 |-
@@ -44,8 +44,8 @@
 {{stokk-dor}}
 {{Asi}}
 
-[[Category:Asi]]
-[[Category:Arabi]]
+[[Class:Asi]]
+[[Class:Arabi]]
 
 [[ace:Oman]]
 [[af:Oman]]
@@ -163,6 +163,7 @@
 [[simple:Oman]]
 [[sk:Omán]]
 [[sl:Oman]]
+[[so:Cumaan]]
 [[sq:Omani]]
 [[sr:Оман]]
 [[sv:Oman]]
