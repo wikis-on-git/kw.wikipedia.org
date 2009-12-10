@@ -1,15 +1,15 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big>'''Kalaallit Nunaat''' <small>([[Greunlandek]])</small> <br>'''Grønland''' <small>([[Danek]])</small></big>
+|+<big>'''Kalaallit Nunaat''' <small>([[Greunlandek]])</small> <br />'''Grønland''' <small>([[Danek]])</small></big>
 | align="center" colspan="2"|
 {| border=0 cellpadding=2 cellspacing=0 style="background:#f9f9f9; text-align:center;"
-| width="130px"| [[Image:Flag of Greenland.svg|125px|Baner Greunland]] || align=center width=130px| 
+| width="130px"| [[Restren:Flag of Greenland.svg|125px|Baner Greunland]] || align=center width=130px| 
 |-
 | width="130px"| (Baner Greunland) || align=center width=130px| (Kota arvow Greunland)
 |}
 |-
-| align=center colspan=2 style="background:#f9f9f9;" | [[Image:LocationGreenland.png|Desedhans Greunland]]
+| align=center colspan=2 style="background:#f9f9f9;" | [[Restren:LocationGreenland.png|Desedhans Greunland]]
 |-
-|Kenedhel || [[Image:Flag of Denmark.svg|20px|]]&nbsp;[[Danmark|Rywvaneth Danmark]]
+|Kenedhel || [[Restren:Flag of Denmark.svg|20px|]]&nbsp;[[Danmark|Rywvaneth Danmark]]
 |-
 |[[Yeth]]ow soedhogel || [[Greunlandek]], [[Danek]]
 |-
@@ -19,15 +19,15 @@
 |-
 |Kynsa menyster || [[Kuupik Kleist]]
 |-
-|Enep<br/>-En holl <br/>-% dowr
-| <br>2 166 086 km² <br>81,1%
+|Enep<br />-En holl <br />-% dowr
+| <br />2 166 086 km² <br />81,1%
 |-
-|[[Poblans]] ([[2005]])<br> [[Doesedh]]
-|56 375 <br>0,025/km²
+|[[Poblans]] ([[2005]])<br /> [[Doesedh]]
+|56 375 <br />0,025/km²
 |-
 |Mona kemmyn || [[kurun]] dhanek
 |-
-| Kan kenedhlek || ''Nunarput utoqqarsuanngoravit''<br>''Nuna asiilasooq''
+| Kan kenedhlek || ''Nunarput utoqqarsuanngoravit''<br />''Nuna asiilasooq''
 |-
 | Kodenn Kesroesweyth || [[.gl]]
 |-
@@ -70,10 +70,10 @@ Div yezh ofisiel zo er vro : ar [[greunlandeg]] (Kalaallisut), yezh an [[Inuit]]
 {{KK}}
 {{norden}}
 {{AmerikaGledh}}
-[[Category:Gwlasow yn Amerika Gledh]]
-[[Category:Danmark]]
-[[Category:Rannvroyow]]
-[[Category:Ynysow]]
+[[Class:Gwlasow yn Amerika Gledh]]
+[[Class:Danmark]]
+[[Class:Rannvroyow]]
+[[Class:Ynysow]]
 
 [[af:Groenland]]
 [[am:ግሪንላንድ]]
@@ -178,7 +178,7 @@ Div yezh ofisiel zo er vro : ar [[greunlandeg]] (Kalaallisut), yezh an [[Inuit]]
 [[te:గ్రీన్‌లాండ్]]
 [[tg:Гренландия]]
 [[th:กรีนแลนด์]]
-[[tl:Lupanlunti]]
+[[tl:Greenland]]
 [[tpi:Greenland]]
 [[tr:Grönland]]
 [[ug:Grénlandiye]]
