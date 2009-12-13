@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:Flag of Bahrain.svg|150px|Baner Bahreyn]]}}
-|align="center" width="140px"|[[File:Coat_of_arms_of_Bahrain.svg|100px|Kota Arvow Bahreyn]]
+|align="center" | {{border|[[Restren:Flag of Bahrain.svg|150px|Baner Bahreyn]]}}
+|align="center" width="140px"|[[Restren:Coat_of_arms_of_Bahrain.svg|100px|Kota Arvow Bahreyn]]
 |- align="center" width="140px"
 | (Baner Bahreyn) 
 | (Kota Arvow Bahreyn)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Bahrainona''</small>
 |-
-| align="center" colspan="2" | {{border|[[File:LocationBahrain.png|300px|Desedhans Bahreyn]]}}
+| align="center" colspan="2" | {{border|[[Restren:LocationBahrain.png|300px|Desedhans Bahreyn]]}}
 |-
 |[[Yeth]] soedhogel || [[Arabek]] ha [[Sowsnek]]
 |-
@@ -47,9 +47,9 @@
 {{stokk-dor}}
 {{Asi}}
 
-[[Category:Asi]]
-[[Category:Arabi]]
-[[Category:Ynysow]]
+[[Class:Asi]]
+[[Class:Arabi]]
+[[Class:Ynysow]]
 
 [[ace:Bahrain]]
 [[af:Bahrein]]
@@ -68,6 +68,7 @@
 [[be-x-old:Бахрэйн]]
 [[bg:Бахрейн]]
 [[bn:বাহরাইন]]
+[[bo:བྷཧ་རཡིན།]]
 [[bpy:বাহরাইন]]
 [[br:Bahrein]]
 [[bs:Bahrein]]
