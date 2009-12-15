@@ -3,18 +3,18 @@
 ! Baner
 ! Kota arvow
 |- align="center"
-| style="background: #f0f0f0;width: 145px;" | [[File:Flag of Budapest.png|150px|Baner Budapest]]
-| style="background: #ffffff;width: 145px;" | [[File:Coat of arms of Budapest.png|100px|Kota arvow Budapest]]
+| style="background: #f0f0f0;width: 145px;" | [[Restren:Flag of Budapest.png|150px|Baner Budapest]]
+| style="background: #ffffff;width: 145px;" | [[Restren:Coat of arms of Budapest.png|100px|Kota arvow Budapest]]
 |-
 |---- bgcolor="#FFFFFF"
 | '''Gwlaskor'''
-| [[File:Flag of Hungary.svg|20px|]]&nbsp;[[Hungari]]
+| [[Restren:Flag of Hungary.svg|20px|]]&nbsp;[[Hungari]]
 |---- bgcolor="#FFFFFF"
 | '''Rannvro'''
-| [[File:Flag of Hungary.svg|20px|]]&nbsp;[[Hungari Kres]]
+| [[Restren:Flag of Hungary.svg|20px|]]&nbsp;[[Hungari Kres]]
 |---- bgcolor="#FFFFFF"
 | '''Konteth'''
-| [[File:Pest departemento blazono.jpg|20px|]]&nbsp;[[Konteth Pest|Pest]]
+| [[Restren:Pest departemento blazono.jpg|20px|]]&nbsp;[[Konteth Pest|Pest]]
 |---- bgcolor="#FFFFFF"
 | '''Kodenn post'''
 | 1011-1239
@@ -36,7 +36,7 @@
 |---- bgcolor="#FFFFFF"
 ! colspan="2" align="center" bgcolor="#EFEFEF" | '''Mappa: Desedhans Budapest yn Hungari'''
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" | [[File:BudapestMap23.gif|Mappa Hungari (Budapest)]]
+| colspan="2" align="center" | [[Restren:BudapestMap23.gif|Mappa Hungari (Budapest)]]
 |}
 
 '''Budapest''' yw pennsita [[Hungari]].
@@ -44,10 +44,10 @@
 {{stokk-europa}}
 {{Pennsitys Europa}}
 
-{{Link FA|eo}}
+[[Class:Hungari]]
+[[Class:Citys ha trevow yn Europa]]
 
-[[Category:Hungari]]
-[[Category:Citys ha trevow yn Europa]]
+{{Link FA|eo}}
 
 [[af:Boedapest]]
 [[als:Budapest]]
@@ -61,7 +61,7 @@
 [[be-x-old:Будапэшт]]
 [[bg:Будапеща]]
 [[bn:বুদাপেশ্‌ৎ]]
-[[bo:བུ་ད་ཕེ་སིད]]
+[[bo:བུ་ད་ཕེ་སིད།]]
 [[br:Budapest]]
 [[bs:Budimpešta]]
 [[ca:Budapest]]
@@ -168,7 +168,6 @@
 [[vi:Budapest]]
 [[vo:Budapest]]
 [[war:Budapest]]
-[[wuu:布达佩斯]]
 [[yi:בודאפעשט]]
 [[zh:布达佩斯]]
 [[zh-min-nan:Budapest]]
