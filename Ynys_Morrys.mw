@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:Flag of Mauritius.svg|150px|Baner Ynys Morrys]]
-|align="center" width="140px"|[[File:Coat_of_arms_of_Mauritius.svg|130px|Kota arvow Ynys Morrys]]
+|align="center" | [[Restren:Flag of Mauritius.svg|150px|Baner Ynys Morrys]]
+|align="center" width="140px"|[[Restren:Coat_of_arms_of_Mauritius.svg|130px|Kota arvow Ynys Morrys]]
 |- align="center" width="140px"
 | (Baner Ynys Morrys) 
 | (Kota arvow Ynys Morrys)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Stella Clavisque Maris Indici''<br />''([[Latin]]: Star and Key of the Indian Ocean)''</small>
 |-
-| align="center" colspan="2" | [[File:LocationMauritius.png|Desedhans Ynys Morrys]]
+| align="center" colspan="2" | [[Restren:LocationMauritius.png|Desedhans Ynys Morrys]]
 |-
 |[[Yeth]] soedhogel || [[Sowsnek]], [[Frynkek]]
 |-
@@ -47,8 +47,8 @@
 {{stokk-dor}}
 {{afrika}}
 
-[[Category:Gwlasow yn Afrika]]
-[[Category:Ynysow]]
+[[Class:Gwlasow yn Afrika]]
+[[Class:Ynysow]]
 
 [[af:Mauritius]]
 [[als:Mauritius]]
@@ -124,7 +124,6 @@
 [[ml:മൗറീഷ്യസ്]]
 [[mr:मॉरिशस]]
 [[ms:Mauritius]]
-[[mt:Mawrizju]]
 [[nah:Mauricio]]
 [[nds:Mauritius]]
 [[nl:Mauritius (land)]]
