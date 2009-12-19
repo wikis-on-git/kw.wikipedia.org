@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Türkiye Cumhuriyeti'''<br>'''Repoblek Turki'''</big>
+|+ <big>'''Türkiye Cumhuriyeti'''<br />'''Repoblek Turki'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:flag_of_Turkey.svg|150px|Baner Turki]]}}
-|align="center" width="100px"|[[image:Türkiye arması.svg|100px|Kota arvow Turki]]
+|align="center" | {{border|[[Restren:flag_of_Turkey.svg|150px|Baner Turki]]}}
+|align="center" width="100px"|[[Restren:Türkiye arması.svg|100px|Kota arvow Turki]]
 |- 
 |align="center" width="180px"| <font size="-1">(Baner Turki)</font>
 |align="center" width="120px"| <font size="-1">(Kota arvow Turki)</font>
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Yurtta Sulh, Cihanda Sulh''</small>
 |-
-| align="center" colspan="2" | [[image:LocationTurkey.png|300px|Desedhans Turki]]
+| align="center" colspan="2" | [[Restren:LocationTurkey.png|300px|Desedhans Turki]]
 |-
 |[[Yeth]]ow soedhogel || [[Turkek]]
 |-
@@ -32,7 +32,7 @@
 |-
 |Mona kemmyn || [[Lira]] (berrhes YTL po TRY)
 |-
-|Amser <br>- Hav (DST) || UTC +3 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +3 <br /> UTC +2
 |-
 |Kan genedhlek || ''İstiklâl Marşı''
 |-
@@ -47,12 +47,11 @@
 {{Stokk-europa}}
 {{Europa}}
 
-[[Category:Turki| ]]
-
-{{Link FA|ja}}
+[[Class:Turki| ]]
 
 {{Link FA|en}}
 {{Link FA|hu}}
+{{Link FA|ja}}
 {{Link FA|lv}}
 
 [[ace:Tureuki]]
@@ -224,7 +223,7 @@
 [[wo:Tirki]]
 [[wuu:土耳其]]
 [[yi:טערקיי]]
-[[yo:Turkey]]
+[[yo:Túrkì]]
 [[zh:土耳其]]
 [[zh-classical:土耳其]]
 [[zh-min-nan:Türkiye]]
