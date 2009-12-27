@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;" 
-|align="center" | [[File:Flag of Germany.svg|150px|Baner Almayn]]
-|align="center" width="140px"|[[File:Coat of Arms of Germany.svg|100px|Kota Arvow Almayn]]
+|align="center" | [[Restren:Flag of Germany.svg|150px|Baner Almayn]]
+|align="center" width="140px"|[[Restren:Coat of Arms of Germany.svg|100px|Kota Arvow Almayn]]
 |- align="center" width="140px"
 | (Baner Almayn) 
 | (Kota Arvow Almayn)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Einigkeit und Recht und Freiheit''<br />(Unnses hag ewnder ha rydhses)</small>
 |-
-| align="center" colspan="2" | [[File:Europe location GER.png|250px|Desedhans Almayn yn an Unyans Europek]]
+| align="center" colspan="2" | [[Restren:Europe location GER.png|250px|Desedhans Almayn yn an Unyans Europek]]
 |-
 |[[Yeth]] soedhogel || [[Yeth Almaynek|Almaynek]]¹
 |-
@@ -61,19 +61,15 @@ Aswonnys avel [[Taves ranndiryel|tavosow ranndiryel]] yw [[Danek]], [[Sorbek]], 
 {{stokk-europa}}
 {{Europa}}
 
-[[Category:Almayn]]
-[[Category:Gwlasow yn Europa]]
-
-{{Link FA|yi}}
-
-{{Link FA|vi}}
+[[Class:Almayn]]
+[[Class:Gwlasow yn Europa]]
 
 {{Link FA|af}}
-
-{{Link FA|mr}}
-
 {{Link FA|en}}
 {{Link FA|hr}}
+{{Link FA|mr}}
+{{Link FA|vi}}
+{{Link FA|yi}}
 
 [[ace:Jeureuman]]
 [[af:Duitsland]]
@@ -221,6 +217,7 @@ Aswonnys avel [[Taves ranndiryel|tavosow ranndiryel]] yw [[Danek]], [[Sorbek]], 
 [[pag:Germany]]
 [[pam:Alemania]]
 [[pap:Alemania]]
+[[pcd:Alemanne]]
 [[pdc:Deitschland]]
 [[pih:Doichland]]
 [[pl:Niemcy]]
