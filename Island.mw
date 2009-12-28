@@ -3,7 +3,7 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:Flag of Iceland.svg|150px|Baner Island]]}}
+|align="center" | {{border|[[Restren:Flag of Iceland.svg|150px|Baner Island]]}}
 |align="center" width="140px"|[[Restren:Coat of arms of Iceland.svg|100px|Kota arvow Island]]
 |- align="center" width="140px"
 | (Baner Island) 
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[File:Europe location ISL.png|250px|Desedhans Island yn Europa]]
+| align="center" colspan="2" | [[Restren:Europe location ISL.png|250px|Desedhans Island yn Europa]]
 |-
 |[[Yeth]]ow soedhogel || [[Islandek]]
 |-
@@ -47,13 +47,13 @@
 {{Stokk-europa}}
 {{Norden}}
 {{Europa}}
+
+[[Class:Island]]
+[[Class:Gwlasow yn Europa]]
+
 {{Link FA|af}}
-{{Link FA|vi}}
-
 {{Link FA|lmo}}
-
-[[Category:Island]]
-[[Category:Gwlasow yn Europa]]
+{{Link FA|vi}}
 
 [[ace:Islandia]]
 [[af:Ysland]]
@@ -189,7 +189,6 @@
 [[scn:Islandia]]
 [[sco:Iceland]]
 [[se:Islánda]]
-[[sg:Islande]]
 [[sh:Island]]
 [[simple:Iceland]]
 [[sk:Island]]
