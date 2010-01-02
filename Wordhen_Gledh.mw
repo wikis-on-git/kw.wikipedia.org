@@ -1,13 +1,13 @@
 <div>
 {| align="right" border="0" rules="all" width="300px" cellpadding="4" cellspacing="0"  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; background-color: aliceblue"
-! colspan="2" style="background-color: #bbdefd" |<font size="4">'''Northern Ireland'''</font><br><font size="3">'''Tuaisceart na hÉireann'''</font><br><font size="3">'''Norlin Airlann'''</font>
+! colspan="2" style="background-color: #bbdefd" |<font size="4">'''Northern Ireland'''</font><br /><font size="3">'''Tuaisceart na hÉireann'''</font><br /><font size="3">'''Norlin Airlann'''</font>
 |-
-|colspan="2" align=center| <font size="-1">'''''Nyns eus baner soedhogel dhe Iwerdhon&nbsp;Gledh y'n eur ma.''' An baner a-is yw devnydhys nepprys, rag ensompel gans bagasow sport.''</font><br>[[Image:Ulster_banner.svg|120px|center|Kyns baner Iwerdhon Gledh]]
+|colspan="2" align=center| <font size="-1">'''''Nyns eus baner soedhogel dhe Iwerdhon&nbsp;Gledh y'n eur ma.''' An baner a-is yw devnydhys nepprys, rag ensompel gans bagasow sport.''</font><br />[[Restren:Ulster_banner.svg|120px|center|Kyns baner Iwerdhon Gledh]]
 |-
-|colspan="2" align=center| <font size="-1">''Quis separabit?''</font><br><font size="-1">''([[Latin]]: Piw a dhibertha?)''</font>
+|colspan="2" align=center| <font size="-1">''Quis separabit?''</font><br /><font size="-1">''([[Latin]]: Piw a dhibertha?)''</font>
 |-
 |width="150px"| Gwlaskor 
-|width="150px"| [[Image:Flag of the United Kingdom.svg|20px|]]&nbsp;[[Rywvaneth Unys]]
+|width="150px"| [[Restren:Flag of the United Kingdom.svg|20px|]]&nbsp;[[Rywvaneth Unys]]
 |-
 | valign="top"| Pennsita || align=left| [[Béal Feirste]]
 |-
@@ -33,11 +33,11 @@
 |-
 ! colspan="2" bgcolor="#bbdefd" | Desedhans
 |-
-| colspan="2" align=center| [[Image:UK_northern_ireland.png|200px|Iwerdhon Gledh y'n Rywvaneth Unys]]
+| colspan="2" align=center| [[Restren:UK_northern_ireland.png|200px|Iwerdhon Gledh y'n Rywvaneth Unys]]
 |}
 </div>
 
-Pow a'n [[Rywvaneth Unys]] yn [[Ynys Iwerdhon]] yw '''Iwerdhon Gledh''' (po  '''''Northern Ireland''''' yn [[Sowsnek]], '''''Tuaisceart na hÉireann''''' yn [[Iwerdhonek]], ha '''''Norlin Airlan''''' y'n [[Skots]] a [[Ulster]]). Enep an pow yw 14&nbsp;139 km², hag yma ynno poblans a 1&nbsp;710&nbsp;300 a dus (1&nbsp;685&nbsp;000 yn termyn an niveryans yn mis Ebryl [[2001]]).
+Pow a'n [[Rywvaneth Unys]] yn [[Ynys Iwerdhon]] yw '''Iwerdhon Gledh''' (po '''''Northern Ireland''''' yn [[Sowsnek]], '''''Tuaisceart na hÉireann''''' yn [[Iwerdhonek]], ha '''''Norlin Airlan''''' y'n [[Skots]] a [[Ulster]]). Enep an pow yw 14&nbsp;139 km², hag yma ynno poblans a 1&nbsp;710&nbsp;300 a dus (1&nbsp;685&nbsp;000 yn termyn an niveryans yn mis Ebryl [[2001]]).
 
 Wosa anserghogeth "Stat Rydh Iwerdhon" ([[Repoblek Iwerdhon]] a-lemmyn) yn [[1921]], Kledhbarth Iwerdhon a dhewisas gortos y'n Rywvaneth Unys. An brassa niver a'n poblans yw [[unyansydh]], mes yma kemmynieth [[kenedhlogydh]] ow hwilas Iwerdhon unys.
 
@@ -45,10 +45,10 @@ Wosa anserghogeth "Stat Rydh Iwerdhon" ([[Repoblek Iwerdhon]] a-lemmyn) yn [[192
 
 Yn [[2007]], Iwerdhon Gledh a waynyas omrewl wosa keskolonn istorek an [[DUP]], [[Sinn Féin]], partiow erell, ha governansow an [[Rywvaneth Unys|RU]] ha'n [[Repoblek Iwerdhon|Repoblek]]. [[Ian Paisley]] ha [[Martin McGuinness]] yw lemmyn lywydhyon a wovernans nerth-kevranna.
 
-[[Image:Giants Causeway Co. Antrim.jpg|left|thumb|Fordh-veur an Kowr, Konteth Antrim.]]
+[[Restren:Giants Causeway Co. Antrim.jpg|left|thumb|Fordh-veur an Kowr, Konteth Antrim.]]
 
-[[Category:Rywvaneth Unys]]
-[[Category:Iwerdhon]]
+[[Class:Rywvaneth Unys]]
+[[Class:Iwerdhon]]
 
 {{Link FA|sco}}
 
@@ -150,3 +150,4 @@ Yn [[2007]], Iwerdhon Gledh a waynyas omrewl wosa keskolonn istorek an [[DUP]], 
 [[yo:Irẹlandi Apáàríwá]]
 [[zh:北爱尔兰]]
 [[zh-min-nan:Pak Éire]]
+[[zh-yue:北愛爾蘭]]
