@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:flag_of_Slovenia.png|150px|Baner Sloveni]]}}
-|align="center" width="140px"|[[File:Slovenia_Coat_of_Arms.png|100px|Kota arvow Sloveni]]
+|align="center" | {{border|[[Restren:flag_of_Slovenia.png|150px|Baner Sloveni]]}}
+|align="center" width="140px"|[[Restren:Slovenia_Coat_of_Arms.png|100px|Kota arvow Sloveni]]
 |- align="center" width="140px"
 | (Baner Sloveni)
 | (Kota arvow Sloveni)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[File:Europe location SLO.png|250px|Desedhans Sloveni yn an Unyans Europek]]
+| align="center" colspan="2" | [[Restren:Europe location SLO.png|250px|Desedhans Sloveni yn an Unyans Europek]]
 |-
 |[[Yeth]]ow soedhogel || [[Slovenek]]
 |-
@@ -48,8 +48,8 @@
 
 {{Europa}}
 
-[[Category:Sloveni| ]]
-[[Category:Gwlasow yn Europa]]
+[[Class:Sloveni| ]]
+[[Class:Gwlasow yn Europa]]
 
 [[ace:Slovenia]]
 [[af:Slowenië]]
@@ -181,6 +181,7 @@
 [[sa:स्लोवीनिया]]
 [[sah:Словения]]
 [[scn:Slovenia]]
+[[sco:Slovenie]]
 [[se:Slovenia]]
 [[sh:Slovenija]]
 [[simple:Slovenia]]
