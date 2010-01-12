@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag_of_the_United_States.svg|150px|Baner Statys Unys]]}}
-|align="center" width="100px"|[[Image:Great_Seal_of_the_US.png|100px]]
+|align="center" | {{border|[[Restren:Flag_of_the_United_States.svg|150px|Baner Statys Unys]]}}
+|align="center" width="100px"|[[Restren:Great_Seal_of_the_US.png|100px]]
 |- 
 |align="center" width="180px"| <font size="-1">(Baner Statys Unys)</font>
 |align="center" width="120px"| <font size="-1">(Sel Statys Unys)</font>
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: In God We Trust''</small>
 |-
-|Kenedhel || [[Image:Flag of the United States.svg|20px|]]&nbsp;[[Statys Unys|Statys Unys Amerika]]
+|Kenedhel || [[Restren:Flag of the United States.svg|20px|]]&nbsp;[[Statys Unys|Statys Unys Amerika]]
 |-
 |[[Yeth]] soedhogel || [[Sowsnek]]
 |-
@@ -22,20 +22,20 @@
 |-
 |Amser || UTC -5
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:Situation de La Navase.png|300px|Desedhans Ynys Navassa]]
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[Restren:Situation de La Navase.png|300px|Desedhans Ynys Navassa]]
 |}
 
 '''Ynys Navassa''' (yn [[Sowsnek]], '''''Navassa Island'''''; [[Frynkek]], '''''La Navase''''') yw ynys y'n [[Mor Karib]]. War-lergh an [[Statys Unys]], an ynys yw onan a 'diredhow ynysek byghan tramor an SU' ''(US minor outlying islands)''. [[Hayti]] a jallenjy an studh ma, ha disklarya a-dhia leun a amser bos Navassa rann a'y thiredh hy honan. An ynysik usi desedhys ynter Hayti ha [[Jamayka]], fest yn soth a [[Kuba|Guba]] ha [[Baya Guantánamo]]. Nyns eus nebonan ow triga war Navassa, mes yma Servis Puskes ha Goedhviles a wovernans an SU ow lywya golowji ena.
 
 {{stokk-su}}
 
-[[Image:NavassaLighthouse.jpg|left|thumb|250px|Golowji Navassa]]
+[[Restren:NavassaLighthouse.jpg|left|thumb|250px|Golowji Navassa]]
 
 {{USPoliticalDivisions}}
 {{Powyow an Mor Karib}}
 
-[[Category:Ynysow an Mor Karib|Navassa]]
-[[Category:Powyow ynysek an SUA|Navassa]]
+[[Class:Ynysow an Mor Karib|Navassa]]
+[[Class:Powyow ynysek an SUA|Navassa]]
 
 [[ar:جزيرة نافاسا]]
 [[az:Navassa adası]]
@@ -57,6 +57,7 @@
 [[hi:नावासा द्वीप]]
 [[hr:Navassa]]
 [[hu:Navassa-sziget]]
+[[hy:Նավասա կղզի]]
 [[id:Pulau Navassa]]
 [[io:Navassa]]
 [[is:Navassaeyja]]
