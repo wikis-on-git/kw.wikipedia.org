@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:Flag of France.svg|150px|Baner Pow Frynk]]
-|align="center" | [[File:Flag of Saint-Pierre and Miquelon.svg|150px|Baner Sen Peder ha Miquelon]]
+|align="center" | [[Restren:Flag of France.svg|150px|Baner Pow Frynk]]
+|align="center" | [[Restren:Flag of Saint-Pierre and Miquelon.svg|150px|Baner Sen Peder ha Miquelon]]
 |- align="center" width="140px"
 | (Baner Pow Frynk) 
 | (Baner Sen Peder ha Miquelon)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small> ''Lavar kenedhlek: A mare labor''</small>
 |-
-| align="center" colspan="2" | {{border|[[File:North atlantic map - saint pierre and miquelon.png|300px|Desedhans Sen Peder ha Miquelon]]}}
+| align="center" colspan="2" | {{border|[[Restren:North atlantic map - saint pierre and miquelon.png|300px|Desedhans Sen Peder ha Miquelon]]}}
 |-
-|Kenedhel || [[File:Flag of France.svg|20px|]]&nbsp;[[Pow Frynk]]
+|Kenedhel || [[Restren:Flag of France.svg|20px|]]&nbsp;[[Pow Frynk]]
 |-
 |[[Yeth]] soedhogel || [[Frynkek]]
 |-
@@ -49,9 +49,9 @@
 {{franceReg}}
 {{AmerikaGledh}}
 
-[[Category:Gwlasow yn Amerika Gledh]]
-[[Category:Rannvroyow]]
-[[Category:Ynysow]]
+[[Class:Gwlasow yn Amerika Gledh]]
+[[Class:Rannvroyow]]
+[[Class:Ynysow]]
 
 [[af:Saint-Pierre et Miquelon]]
 [[an:Saint-Pierre et Miquelon]]
@@ -84,6 +84,7 @@
 [[hi:साँ-प्येर और मीकेलों]]
 [[hr:Sveti Petar i Mikelon]]
 [[hu:Saint-Pierre és Miquelon]]
+[[hy:Սեն Պյեր և Միքելոն]]
 [[id:Saint Pierre dan Miquelon]]
 [[io:Santo Pierre e Mikelon]]
 [[is:Saint-Pierre og Miquelon]]
