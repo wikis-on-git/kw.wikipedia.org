@@ -3,7 +3,7 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:Flag of Malaysia.svg|150px|Baner Malaysi]]}}
+|align="center" | {{border|[[Restren:Flag of Malaysia.svg|150px|Baner Malaysi]]}}
 |align="center" width="150px"|
 |- align="center" width="150px"
 | (Baner Malaysi) 
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Bersekutu Bertambah Mutu''</small>
 |-
-| align="center" colspan="2" | [[File:LocationMalaysia.png|300px|Desedhans Malaysi]]
+| align="center" colspan="2" | [[Restren:LocationMalaysia.png|300px|Desedhans Malaysi]]
 |-
 |[[Yeth]] soedhogel || [[Malayek]] 
 |-
@@ -44,9 +44,10 @@
 
 {{stokk-dor}}
 {{Asi}}
-{{Link FA|ms}}
 
-[[Category:Asi]]
+[[Class:Asi]]
+
+{{Link FA|ms}}
 
 [[ace:Malaysia]]
 [[af:Maleisië]]
@@ -84,6 +85,7 @@
 [[es:Malasia]]
 [[et:Malaisia]]
 [[eu:Malaysia]]
+[[ext:Malásia]]
 [[fa:مالزی]]
 [[fi:Malesia]]
 [[fiu-vro:Malaisia]]
