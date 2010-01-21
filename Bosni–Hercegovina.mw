@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:Flag of Bosnia and Herzegovina.svg|150px|Baner Bosni–Hercegovina]]
-|align="center" width="140px"|[[File:Bosnia and Herzegovina Coats of Arms.png|100px|Kota arvow Bosni–Hercegovina]]
+|align="center" | [[Restren:Flag of Bosnia and Herzegovina.svg|150px|Baner Bosni–Hercegovina]]
+|align="center" width="140px"|[[Restren:Bosnia and Herzegovina Coats of Arms.png|100px|Kota arvow Bosni–Hercegovina]]
 |- align="center" width="140px"
 | (Baner Bosni–Hercegovina) 
 | (Kota arvow Bosni–Hercegovina)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[File:Europe location BHG.png|250px|Desedhans Bosni–Hercegovina yn Europa]]
+| align="center" colspan="2" | [[Restren:Europe location BHG.png|250px|Desedhans Bosni–Hercegovina yn Europa]]
 |-
 |[[Yeth|Tavosow]] sodhogel || [[Bosnek]], [[Kroatek]], [[Serbek]]
 |-
@@ -46,10 +46,11 @@
 {{unn k}}
 {{Stokk-europa}}
 {{Europa}}
-{{Link FA|bs}}
 
-[[Category:Bosni–Hertsegovina| ]]
-[[Category:Gwlasow yn Europa]]
+[[Class:Bosni–Hertsegovina| ]]
+[[Class:Gwlasow yn Europa]]
+
+{{Link FA|bs}}
 
 [[ace:Bosnia Hèrzègovina]]
 [[af:Bosnië-Herzegowina]]
@@ -115,7 +116,7 @@
 [[hu:Bosznia-Hercegovina]]
 [[hy:Բոսնիա և Հերցեգովինա]]
 [[ia:Bosnia e Herzegovina]]
-[[id:Bosnia-Herzegovina]]
+[[id:Bosnia dan Herzegovina]]
 [[ie:Bosnia e Herzegovina]]
 [[io:Bosnia e Herzegovina]]
 [[is:Bosnía og Hersegóvína]]
