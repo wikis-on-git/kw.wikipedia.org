@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:Flag of Vanuatu.svg|150px|Baner Vanuatu]]
-|align="center" width="140px"| [[File:EscudoVanuatu.PNG|120px|Coat of Arms]]
+|align="center" | [[Restren:Flag of Vanuatu.svg|150px|Baner Vanuatu]]
+|align="center" width="140px"| [[Restren:EscudoVanuatu.PNG|120px|Coat of Arms]]
 |- align="center" width="140px"
 | (Baner Vanuatu) 
 | (Kota arvow Vanuatu)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: [[Sowsnek]]: Let us stand firm in God<br />[[Frynkek]]: nous nous tenons devant Dieu<br />[[Bislama]]: Long God Yumi Stanap''</small>
 |-
-| align="center" colspan="2" | [[File:LocationVanuatu.png|Desedhans Vanuatu|300px|]]
+| align="center" colspan="2" | [[Restren:LocationVanuatu.png|Desedhans Vanuatu|300px|]]
 |-
 |[[Yeth]] soedhogel || [[Sowsnek]], [[Frynkek]], ha [[Bislama]]
 |-
@@ -46,9 +46,10 @@
 
 {{stokk-dor}}
 {{Ostralasi}}
-{{Link FA|ru}}
 
-[[Category:Ostralasi]]
+[[Class:Ostralasi]]
+
+{{Link FA|ru}}
 
 [[ace:Vanuatu]]
 [[af:Vanuatu]]
@@ -136,6 +137,7 @@
 [[qu:Wanwatu]]
 [[ro:Vanuatu]]
 [[ru:Вануату]]
+[[sah:Вануату]]
 [[scn:Vanuatu]]
 [[sco:Vanuatu]]
 [[se:Vanuatu]]
