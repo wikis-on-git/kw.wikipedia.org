@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of the Solomon Islands.svg|150px|Baner Ynysow Salamon]]
-|align="center" width="140px"| [[File:EscudoIslasSalomón.PNG|100px|Kota arvow Ynysow Salamon]]
+|align="center" | [[Restren:Flag of the Solomon Islands.svg|150px|Baner Ynysow Salamon]]
+|align="center" width="140px"| [[Restren:EscudoIslasSalomón.PNG|100px|Kota arvow Ynysow Salamon]]
 |- align="center" width="140px"
 | (Baner Ynysow Salamon) 
 | (Kota arvow Ynysow Salamon)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: To Lead is to Serve''</small>
 |-
-| align="center" colspan="2" | [[image:LocationSolomonIslands.png|Desedhans Ynysow Salamon|300px|]]
+| align="center" colspan="2" | [[Restren:LocationSolomonIslands.png|Desedhans Ynysow Salamon|300px|]]
 |-
 |[[Yeth]] soedhogel || [[Sowsnek]]
 |-
@@ -30,7 +30,7 @@
 |-
 |[[Poblans]] ([[2004]])<br />- [[Doesedh]]|| 538,032 a drigoryon <br /> 17 triger/km²
 |-
-|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br> 7ves a [[Mys Gortheren|vis Gortheren]], [[1978]]
+|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br /> 7ves a [[Mys Gortheren|vis Gortheren]], [[1978]]
 |-
 |Mona kemmyn || Dollar Ynysow Salamon (SBD)
 |-
@@ -48,7 +48,8 @@
 
 {{stokk-dor}}
 {{Ostralasi}}
-[[Category:Ostralasi]]
+
+[[Class:Ostralasi]]
 
 [[ace:Pulo-pulo Solomon]]
 [[af:Solomoneilande]]
@@ -134,6 +135,7 @@
 [[ro:Insulele Solomon]]
 [[ru:Соломоновы Острова]]
 [[sa:सोलोमन-द्वीप]]
+[[sah:Соломон арыылара]]
 [[scn:Ìsuli Salamuni]]
 [[sco:Solomon Islands]]
 [[se:Salomonsullot]]
