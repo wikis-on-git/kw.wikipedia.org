@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''الجمهورية التونسية'''<br>'''al-Jamhuriya at-Tunisia'''<br>'''Repoblek Tunisek'''</big></br>
+|+ <big>'''الجمهورية التونسية'''<br />'''al-Jamhuriya at-Tunisia'''<br />'''Repoblek Tunisek'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Tunisia.svg|150px|Baner Tunisi]]
-|align="center" width="140px"| [[Image:Coat of arms of Tunisia.svg|100px|Kota arvow Tunisi]]
+|align="center" | [[Restren:Flag of Tunisia.svg|150px|Baner Tunisi]]
+|align="center" width="140px"| [[Restren:Coat of arms of Tunisia.svg|100px|Kota arvow Tunisi]]
 |- align="center" width="140px"
 | (Baner Tunisi) 
 | (Kota arvow Tunisi)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Order, Freedom,and Justice''</small>
 |-
-| align="center" colspan="2" | [[image:LocationTunisia.png|Desedhans Tunisi|300px|]]
+| align="center" colspan="2" | [[Restren:LocationTunisia.png|Desedhans Tunisi|300px|]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]]
 |-
@@ -28,7 +28,7 @@
 |-
 |[[Poblans]] ([[2004]])<br />&nbsp;[[Doesedh]]|| 9,974,722 a drigoryon <br /> 60 triger/km²
 |-
-|Anserghogeth || dhiworth [[Pow Frynk]] <br> 20ves a [[Mys Merth|vis Merth]], [[1956]]
+|Anserghogeth || dhiworth [[Pow Frynk]] <br /> 20ves a [[Mys Merth|vis Merth]], [[1956]]
 |-
 |Mona kemmyn || Dinar Tunisek
 |-
@@ -45,13 +45,12 @@
 {{stokk-dor}}
 {{Afrika}}
 
-[[Category:Gwlasow yn Afrika]]
-[[Category:Arabi]]
-
-{{Link FA|ur}}
+[[Class:Gwlasow yn Afrika]]
+[[Class:Arabi]]
 
 {{Link FA|fr}}
 {{Link FA|hr}}
+{{Link FA|ur}}
 
 [[ace:Tunisia]]
 [[af:Tunisië]]
@@ -83,6 +82,7 @@
 [[da:Tunesien]]
 [[de:Tunesien]]
 [[diq:Tunıs]]
+[[dv:ތޫނިސް]]
 [[el:Τυνησία]]
 [[en:Tunisia]]
 [[eo:Tunizio]]
