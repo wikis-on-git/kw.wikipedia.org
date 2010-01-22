@@ -3,7 +3,7 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:Flag of Tuvalu.svg|150px|Baner Tuvalu]]
+|align="center" | [[Restren:Flag of Tuvalu.svg|150px|Baner Tuvalu]]
 |align="center" width="140px"|
 |- align="center" width="140px"
 | (Baner Tuvalu) 
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Tuvalu mo te Atua''</small>
 |-
-| align="center" colspan="2" | [[File:LocationTuvalu.png|Desedhans Tuvalu|300px|]]
+| align="center" colspan="2" | [[Restren:LocationTuvalu.png|Desedhans Tuvalu|300px|]]
 |-
 |[[Yeth]] soedhogel || [[Tuvaluek]] ha [[Sowsnek]]
 |-
@@ -46,9 +46,10 @@
 
 {{stokk-dor}}
 {{Ostralasi}}
-{{Link FA|fi}}
 
-[[Category:Ostralasi]]
+[[Class:Ostralasi]]
+
+{{Link FA|fi}}
 
 [[ace:Tuvalu]]
 [[af:Tuvalu]]
@@ -138,6 +139,7 @@
 [[ro:Tuvalu]]
 [[ru:Тувалу]]
 [[sa:टुवालु]]
+[[sah:Тувалу]]
 [[scn:Tuvalu]]
 [[sco:Tuvalu]]
 [[se:Tuvalu]]
