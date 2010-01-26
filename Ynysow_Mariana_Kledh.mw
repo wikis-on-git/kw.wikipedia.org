@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of the Northern Mariana Islands.svg|150px|Baner Ynysow Mariana Kledh]]}}
-|align="center" width="100px"|[[Image:Northern Mariana Islands seal.png|100px|Sel Ynysow Mariana Kledh]]
+|align="center" | {{border|[[Restren:Flag of the Northern Mariana Islands.svg|150px|Baner Ynysow Mariana Kledh]]}}
+|align="center" width="100px"|[[Restren:Northern Mariana Islands seal.png|100px|Sel Ynysow Mariana Kledh]]
 |- 
 |align="center" width="180px"| <font size="-1">(Baner Ynysow Mariana Kledh)</font>
 |align="center" width="120px"| <font size="-1">(Sel Ynysow Mariana Kledh)</font>
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationNorthernMarianas.png|300px|Desedhans Ynysow Mariana Kledh]]
+| align="center" colspan="2" | [[Restren:LocationNorthernMarianas.png|300px|Desedhans Ynysow Mariana Kledh]]
 |-
-|Kenedhel || [[Image:Flag of the United States.svg|20px|]]&nbsp;[[Statys Unys|Statys Unys Amerika]]
+|Kenedhel || [[Restren:Flag of the United States.svg|20px|]]&nbsp;[[Statys Unys|Statys Unys Amerika]]
 |-
 |[[Yeth]] soedhogel || [[Sowsnek]], [[Chamorro]], [[Carolinian]], [[Tagalog]]
 |-
@@ -42,8 +42,9 @@
 {{stokk-su}}
 {{USPoliticalDivisions}}
 {{Ostralasi}}
-[[Category:Ostralasi]]
-[[Category:Powyow ynysek an SUA]]
+
+[[Class:Ostralasi]]
+[[Class:Powyow ynysek an SUA]]
 
 [[ace:Pulo-pulo Mariana Utara]]
 [[ar:جزر ماريانا الشمالية]]
@@ -112,7 +113,7 @@
 [[ug:Shimaliy Mariana Fédératsiyisi]]
 [[uk:Північні Маріанські острови]]
 [[vi:Quần đảo Bắc Mariana]]
-[[war:Northern Mariana Islands]]
+[[war:Amihanan Kapuropud-an Mariana]]
 [[wo:Northern Mariana Islands]]
 [[yo:Northern Mariana Islands]]
 [[zh:北马里亚纳群岛]]
