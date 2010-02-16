@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:Flag of Iraq.svg|150px|Baner Irak]]}}
-|align="center" width="140px"|[[File:Coat of arms (emblem) of Iraq 2008.svg|100px|Kota arvow Irak]]
+|align="center" | {{border|[[Restren:Flag of Iraq.svg|150px|Baner Irak]]}}
+|align="center" width="140px"|[[Restren:Coat of arms (emblem) of Iraq 2008.svg|100px|Kota arvow Irak]]
 |- align="center" width="140px"
 | (Baner Irak) 
 | (Kota arvow Irak)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Allahu Akbar''</small>
 |-
-| align="center" colspan="2" | [[File:LocationIraq.svg|300px|Desedhans Irak]]
+| align="center" colspan="2" | [[Restren:LocationIraq.svg|300px|Desedhans Irak]]
 |-
 |[[Yeth]]ow soedhogel || [[Arabek]],<br />[[Kurdek]] (yn Kurdistan)
 |-
@@ -45,11 +45,12 @@
 
 {{stokk-dor}}
 {{Asi}}
+
+[[Class:Asi]]
+[[Class:Arabi]]
+
 {{Link FA|ja}}
 {{Link FA|ur}}
-
-[[Category:Asi]]
-[[Category:Arabi]]
 
 [[ace:Irak]]
 [[af:Irak]]
@@ -178,6 +179,7 @@
 [[so:Ciraaq]]
 [[sq:Iraku]]
 [[sr:Ирак]]
+[[stq:Irak]]
 [[su:Irak]]
 [[sv:Irak]]
 [[sw:Iraq]]
