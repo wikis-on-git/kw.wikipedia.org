@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:Flag of Jordan.svg|150px|Baner Jordan]]}}
-|align="center" width="140px"|[[File:Coat of Jordan.png|100px|Kota Arvow Jordan]]
+|align="center" | {{border|[[Restren:Flag of Jordan.svg|150px|Baner Jordan]]}}
+|align="center" width="140px"|[[Restren:Coat of Jordan.png|100px|Kota Arvow Jordan]]
 |- align="center" width="140px"
 | (Baner Jordan) 
 | (Kota Arvow Jordan)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Allah Al-Watan Al-Malek''</small>
 |-
-| align="center" colspan="2" | [[File:LocationJordan.png|300px|Desedhans Jordan]]
+| align="center" colspan="2" | [[Restren:LocationJordan.png|300px|Desedhans Jordan]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]] 
 |-
@@ -44,8 +44,9 @@
 
 {{stokk-dor}}
 {{Asi}}
-[[Category:Asi]]
-[[Category:Arabi]]
+
+[[Class:Asi]]
+[[Class:Arabi]]
 
 [[ace:Yordania]]
 [[af:Jordanië]]
@@ -167,6 +168,7 @@
 [[sl:Jordanija]]
 [[sq:Jordania]]
 [[sr:Јордан]]
+[[stq:Jordanien]]
 [[sv:Jordanien]]
 [[sw:Yordani]]
 [[szl:Jordańijo]]
