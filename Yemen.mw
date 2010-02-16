@@ -3,7 +3,7 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:Flag of Yemen.svg|150px|Baner Yemen]]}}
+|align="center" | {{border|[[Restren:Flag of Yemen.svg|150px|Baner Yemen]]}}
 |align="center" width="140px"|
 |- align="center" width="140px"
 | (Baner Yemen) 
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[File:LocationYemen.png|300px|Desedhans Yemen]]
+| align="center" colspan="2" | [[Restren:LocationYemen.png|300px|Desedhans Yemen]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]] 
 |-
@@ -46,8 +46,9 @@ An '''Repoblek Yemen''' (yn [[Arabek]], الجمهورية اليمنية ''Al-J
 
 {{stokk-dor}}
 {{Asi}}
-[[Category:Asi]]
-[[Category:Arabi]]
+
+[[Class:Asi]]
+[[Class:Arabi]]
 
 [[ace:Yaman]]
 [[af:Jemen]]
@@ -171,6 +172,7 @@ An '''Repoblek Yemen''' (yn [[Arabek]], الجمهورية اليمنية ''Al-J
 [[so:Yamen]]
 [[sq:Jemeni]]
 [[sr:Јемен]]
+[[stq:Jemen]]
 [[sv:Jemen]]
 [[sw:Yemen]]
 [[szl:Jymyn]]
