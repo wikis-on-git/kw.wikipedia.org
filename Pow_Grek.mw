@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:Flag of Greece.svg|150px|Baner Pow Grek]]}}
-|align="center" width="140px"|[[File:Coat_of_arms_of_Greece.svg|100px|Kota arvow Pow Grek]]
+|align="center" | {{border|[[Restren:Flag of Greece.svg|150px|Baner Pow Grek]]}}
+|align="center" width="140px"|[[Restren:Coat_of_arms_of_Greece.svg|100px|Kota arvow Pow Grek]]
 |- align="center" width="140px"
 | (Baner Pow Grek) 
 | (Kota arvow Pow Grek)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Ελευθερία ή θάνατος'' <br /> ''([[Grew]]: Rydhses po mernans)''</small>
 |-
-| align="center" colspan="2" | [[File:Europe location GRE.png|250px|Desedhans Pow Grek yn an Unyans Europek]]
+| align="center" colspan="2" | [[Restren:Europe location GRE.png|250px|Desedhans Pow Grek yn an Unyans Europek]]
 |-
 |[[Yeth]] soedhogel || [[Grew]]
 |-
@@ -47,10 +47,11 @@ An '''Repoblek Grek''' (yn [[Greka]], Ελληνική Δημοκρατία) yw 
 {{Stokk-europa}}
 
 {{Europa}}
-{{Link FA|vi}}
 
-[[Category:Pow Grek| ]]
-[[Category:Gwlasow yn Europa]]
+[[Class:Pow Grek| ]]
+[[Class:Gwlasow yn Europa]]
+
+{{Link FA|vi}}
 
 [[ace:Yunani]]
 [[af:Griekeland]]
@@ -186,6 +187,7 @@ An '''Repoblek Grek''' (yn [[Greka]], Ελληνική Δημοκρατία) yw 
 [[rm:Grezia]]
 [[ro:Grecia]]
 [[roa-rup:Gãrtsia]]
+[[roa-tara:Grecie]]
 [[ru:Греция]]
 [[rw:Ikigereki]]
 [[sa:ग्रीस (यूनान)]]
