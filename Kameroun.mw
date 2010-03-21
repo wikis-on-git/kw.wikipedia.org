@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:Flag of Cameroon.svg|150px|Baner Kameroun]]
-|align="center" width="140px"|[[File:Coat_of_arms_of_Cameroon.png|100px|Kota arvow Kameroun]]
+|align="center" | [[Restren:Flag of Cameroon.svg|150px|Baner Kameroun]]
+|align="center" width="140px"|[[Restren:Coat_of_arms_of_Cameroon.png|100px|Kota arvow Kameroun]]
 |- align="center" width="140px"
 | (Baner Kameroun) 
 | (Kota arvow Kameroun)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Paix, Travail, Patrie''<br />''([[Frynkek]]: Peace, Work, Fatherland)''</small>
 |-
-| align="center" colspan="2" | {{border|[[File:LocationCameroon.png|Desedhans Kameroun]]}}
+| align="center" colspan="2" | {{border|[[Restren:LocationCameroon.png|Desedhans Kameroun]]}}
 |-
 |[[Yeth]] soedhogel || [[Frynkek]] ha [[Sowsnek]]
 |-
@@ -46,9 +46,10 @@
 
 {{stokk-dor}}
 {{afrika}}
-{{Link FA|en}}
 
-[[Category:Gwlasow yn Afrika]]
+[[Class:Gwlasow yn Afrika]]
+
+{{Link FA|en}}
 
 [[af:Kameroen]]
 [[als:Kamerun]]
@@ -108,7 +109,7 @@
 [[ia:Camerun]]
 [[id:Kamerun]]
 [[ie:Cameroon]]
-[[ig:Cameroon]]
+[[ig:Kameroon]]
 [[ilo:Kamerun]]
 [[io:Kamerun]]
 [[is:Kamerún]]
