@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag_of_Madeira.svg|150px|Baner Madeira]]
-|align="center" width="140px"|[[Image:Coat_of_arms_of_Madeira.gif|100px|Kota arvow Madeira]]
+|align="center" | [[Restren:Flag_of_Madeira.svg|150px|Baner Madeira]]
+|align="center" width="140px"|[[Restren:Coat_of_arms_of_Madeira.gif|100px|Kota arvow Madeira]]
 |- align="center" width="140px"
 | (Baner Madeira) 
 | (Kota arvow Madeira)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Das ilhas, as mais belas e livres''</small>
 |-
-| align="center" colspan="2" | [[image:LocationMadeira.png|Desedhans Madeira]]
+| align="center" colspan="2" | [[Restren:LocationMadeira.png|Desedhans Madeira]]
 |-
-|Kenedhel || [[Image:Flag of Portugal.svg|20px|]]&nbsp;[[Portyngal]]
+|Kenedhel || [[Restren:Flag of Portugal.svg|20px|]]&nbsp;[[Portyngal]]
 |-
 |[[Yeth]] soedhogel || [[Portyngalek]]
 |-
@@ -30,7 +30,7 @@
 |-
 |Mona kemmyn || [[Euro]] (EUR)
 |-
-|Amser <br>- Hav (DST) || UTC +0 <br> UTC +1
+|Amser <br />- Hav (DST) || UTC +0 <br /> UTC +1
 |-
 |Kan genedhlek || ''Hino da Região Autónoma da Madeira''
 |-
@@ -39,14 +39,14 @@
 |Kodenn pellgowser || +351
 |}
 
-'''Madeira''' yw tiredh ynysek y'n [[Keynvor Iwerydh]]. Pow omrewlys [[Portyngal|Portyngalek]] yw.
+'''Madeira''' yw tiredh ynysek y'n [[Keynvor Iwerydh]]. Pow omrewlys [[Portyngal]]ek yw.
 
 {{commonscat|Madeira}}
 {{stokk-europa}}
 {{Europa}}
 
-[[Category:Portyngal]]
-[[Category:Ynysow]]
+[[Class:Portyngal]]
+[[Class:Ynysow]]
 
 [[af:Madeiraeilande]]
 [[als:Madeira]]
@@ -70,6 +70,7 @@
 [[eu:Madeira]]
 [[fi:Madeira]]
 [[fr:Madère]]
+[[fy:Madeira]]
 [[gd:Madeira]]
 [[gl:Arquipélago de Madeira]]
 [[he:מדיירה]]
