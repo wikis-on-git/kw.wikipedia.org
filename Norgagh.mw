@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:flag_of_Norway.png|150px|Baner Norgagh]]}}
-|align="center" width="100px"|[[File:Norwegian COA redyellow.250px.png|80px|Kota Arvow Norgagh]]
+|align="center" | {{border|[[Restren:flag_of_Norway.png|150px|Baner Norgagh]]}}
+|align="center" width="100px"|[[Restren:Norwegian COA redyellow.250px.png|80px|Kota Arvow Norgagh]]
 |- align="center" width="140px"
 | (Baner Norgagh) 
 | (Kota arvow Norgagh)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Alt for Norge''</small>
 |-
-| align="center" colspan="2" | [[File:Europe location NOR.png|250px|Desedhans Norgagh yn Europa]]
+| align="center" colspan="2" | [[Restren:Europe location NOR.png|250px|Desedhans Norgagh yn Europa]]
 |-
 |[[Yeth]]ow soedhogel || [[Norgaghek]] (Bokmål ha Nynorsk), [[Sami]]
 |-
@@ -48,10 +48,11 @@
 {{Kontethow Norgagh}}
 {{Norden}}
 {{Europa}}
-{{Link FA|af}}
 
-[[Category:Norgagh]]
-[[Category:Gwlasow yn Europa]]
+[[Class:Norgagh]]
+[[Class:Gwlasow yn Europa]]
+
+{{Link FA|af}}
 
 [[ace:Norwègia]]
 [[af:Noorweë]]
@@ -119,6 +120,7 @@
 [[haw:Nolewai]]
 [[he:נורבגיה]]
 [[hi:नॉर्वे]]
+[[hif:Norway]]
 [[hr:Norveška]]
 [[hsb:Norwegska]]
 [[ht:Nòvèj]]
