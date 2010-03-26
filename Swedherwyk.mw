@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:flag_of_Sweden.svg|150px|Baner Swedherwyk]]
-|align="center" width="140px"|[[File:Coat of Arms of Sweden.svg|150px|Kota Arvow Swedherwyk]]
+|align="center" | [[Restren:flag_of_Sweden.svg|150px|Baner Swedherwyk]]
+|align="center" width="140px"|[[Restren:Coat of Arms of Sweden.svg|150px|Kota Arvow Swedherwyk]]
 |- align="center" width="140px"
 | (Baner Swedherwyk) 
 | (Kota Arvow Swedherwyk)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[File:Europe location SWE.png|250px|Desedhans Swedherwyk yn an Unyans Europek]]
+| align="center" colspan="2" | [[Restren:Europe location SWE.png|250px|Desedhans Swedherwyk yn an Unyans Europek]]
 |-
 |[[Yeth]] soedhogel || [[Swedek]]
 |-
@@ -48,10 +48,11 @@
 {{Kontethow Swedherwyk}}
 {{Norden}}
 {{Europa}}
-{{Link FA|vi}}
 
-[[Category:Swedherwyk| ]]
-[[Category:Gwlasow yn Europa]]
+[[Class:Swedherwyk| ]]
+[[Class:Gwlasow yn Europa]]
+
+{{Link FA|vi}}
 
 [[ace:Swèdia]]
 [[af:Swede]]
@@ -144,6 +145,7 @@
 [[kl:Sverige]]
 [[kn:ಸ್ವೀಡನ್]]
 [[ko:스웨덴]]
+[[krc:Швеция]]
 [[ksh:Shvede (Europa)]]
 [[ku:Swêd]]
 [[kv:Швеция]]
