@@ -3,12 +3,12 @@
 ! Baner
 ! Kota arvow
 |- align="center"
-| style="background: #f0f0f0;width: 145px;" | [[File:Oberösterreich Dienstflagge.svg|150px|Baner Oberösterreich]]
-| style="background: #ffffff;width: 145px;" | [[File:Oberösterreich Wappen.svg|100px|Kota arvow Oberösterreich]]
+| style="background: #f0f0f0;width: 145px;" | [[Restren:Oberösterreich Dienstflagge.svg|150px|Baner Oberösterreich]]
+| style="background: #ffffff;width: 145px;" | [[Restren:Oberösterreich Wappen.svg|100px|Kota arvow Oberösterreich]]
 |-
 |---- bgcolor="#FFFFFF"
 | '''Gwlaskor'''
-| [[File:Flag of Austria.svg|20px|]]&nbsp;[[Estrych]]
+| [[Restren:Flag of Austria.svg|20px|]]&nbsp;[[Estrych]]
 |---- bgcolor="#FFFFFF"
 | '''Pennsita'''
 | [[Linz]]
@@ -39,11 +39,11 @@
 |---- bgcolor="#FFFFFF"
 ! colspan="2" align="center" bgcolor="#EFEFEF" | '''Mappa: Desedhans Oberösterreich yn Estrych'''
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" | [[File:Austria ooe.svg|250px|Desedhans Oberösterreich yn Estrych]]
+| colspan="2" align="center" | [[Restren:Austria ooe.svg|250px|Desedhans Oberösterreich yn Estrych]]
 |---- bgcolor="#FFFFFF"
 ! colspan="2" align="center" bgcolor="#EFEFEF" | '''Mappa: Ranndiryow Oberösterreich'''
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" | [[File:Karte Aut Ooe Bezirke.png|250px|Mappa Ranndiryow Oberösterreich]]
+| colspan="2" align="center" | [[Restren:Karte Aut Ooe Bezirke.png|250px|Mappa Ranndiryow Oberösterreich]]
 |}
 
 '''Oberösterreich''' yw stat yn [[Estrych]].
@@ -52,7 +52,7 @@
 {{Stokk-estrych}}
 {{Estrych}}
 
-[[Category:Statys a Estrych]]
+[[Class:Statys a Estrych]]
 
 [[als:Oberösterreich]]
 [[an:Alta Austria]]
@@ -95,6 +95,7 @@
 [[oc:Nauta Àustria]]
 [[os:Уæллаг Австри]]
 [[pl:Górna Austria]]
+[[pnb:اتلا آسٹریا]]
 [[pt:Alta Áustria]]
 [[ro:Austria Superioară]]
 [[ru:Верхняя Австрия]]
