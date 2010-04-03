@@ -3,12 +3,12 @@
 ! Baner
 ! Kota arvow
 |- align="center"
-| style="background: #f0f0f0;width: 145px;" | [[File:Burgenland Landesflagge.PNG|150px|Baner Burgenland]]
-| style="background: #ffffff;width: 145px;" | [[File:Burgenland Wappen.PNG|100px|Kota arvow Burgenland]]
+| style="background: #f0f0f0;width: 145px;" | [[Restren:Burgenland Landesflagge.PNG|150px|Baner Burgenland]]
+| style="background: #ffffff;width: 145px;" | [[Restren:Burgenland Wappen.PNG|100px|Kota arvow Burgenland]]
 |-
 |---- bgcolor="#FFFFFF"
 | '''Gwlaskor'''
-| [[File:Flag of Austria.svg|20px|]]&nbsp;[[Estrych]]
+| [[Restren:Flag of Austria.svg|20px|]]&nbsp;[[Estrych]]
 |---- bgcolor="#FFFFFF"
 | '''Pennsita'''
 | [[Eisenstadt]]
@@ -45,11 +45,11 @@
 |---- bgcolor="#FFFFFF"
 ! colspan="2" align="center" bgcolor="#EFEFEF" | '''Mappa: Desedhans Burgenland yn Estrych'''
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" | [[File:Austria bgld.svg|250px|Desedhans Burgenland yn Estrych]]
+| colspan="2" align="center" | [[Restren:Austria bgld.svg|250px|Desedhans Burgenland yn Estrych]]
 |---- bgcolor="#FFFFFF"
 ! colspan="2" align="center" bgcolor="#EFEFEF" | '''Mappa: Ranndiryow Burgenland'''
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" | [[File:Karte Aut Bgld.png|250px|Mappa Ranndiryow Burgenland]]
+| colspan="2" align="center" | [[Restren:Karte Aut Bgld.png|250px|Mappa Ranndiryow Burgenland]]
 |}
 
 '''Burgenland''' yw stat yn [[Estrych]].
@@ -58,7 +58,7 @@
 {{Stokk-estrych}}
 {{Estrych}}
 
-[[Category:Statys a Estrych]]
+[[Class:Statys a Estrych]]
 
 [[an:Burgenland]]
 [[ar:بورغنلاند]]
@@ -100,6 +100,7 @@
 [[no:Burgenland]]
 [[oc:Burgenland]]
 [[pl:Burgenland]]
+[[pnb:برگنلینڈ]]
 [[pt:Burgenland]]
 [[ro:Burgenland]]
 [[ru:Бургенланд]]
