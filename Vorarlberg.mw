@@ -3,12 +3,12 @@
 ! Baner
 ! Kota arvow
 |- align="center"
-| style="background: #f0f0f0;width: 145px;" | [[File:Flag of Vorarlberg (state).svg|150px|Baner Vorarlberg]]
-| style="background: #ffffff;width: 145px;" | [[File:Vorarlberg CoA.svg|100px|Kota arvow Vorarlberg]]
+| style="background: #f0f0f0;width: 145px;" | [[Restren:Flag of Vorarlberg (state).svg|150px|Baner Vorarlberg]]
+| style="background: #ffffff;width: 145px;" | [[Restren:Vorarlberg CoA.svg|100px|Kota arvow Vorarlberg]]
 |-
 |---- bgcolor="#FFFFFF"
 | '''Gwlaskor'''
-| [[File:Flag of Austria.svg|20px|]]&nbsp;[[Estrych]]
+| [[Restren:Flag of Austria.svg|20px|]]&nbsp;[[Estrych]]
 |---- bgcolor="#FFFFFF"
 | '''Pennsita'''
 | [[Bregenz]]
@@ -45,11 +45,11 @@
 |---- bgcolor="#FFFFFF"
 ! colspan="2" align="center" bgcolor="#EFEFEF" | '''Mappa: Desedhans Vorarlberg yn Estrych'''
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" | [[File:Austria vbg.svg|250px|Desedhans Vorarlberg yn Estrych]]
+| colspan="2" align="center" | [[Restren:Austria vbg.svg|250px|Desedhans Vorarlberg yn Estrych]]
 |---- bgcolor="#FFFFFF"
 ! colspan="2" align="center" bgcolor="#EFEFEF" | '''Mappa: Ranndiryow Vorarlberg'''
 |---- bgcolor="#FFFFFF"
-| colspan="2" align="center" | [[File:Karte-vorarlberg.png|100px|Mappa Ranndiryow Vorarlberg]]
+| colspan="2" align="center" | [[Restren:Karte-vorarlberg.png|100px|Mappa Ranndiryow Vorarlberg]]
 |}
 
 '''Vorarlberg''' yw stat yn [[Estrych]].
@@ -58,7 +58,7 @@
 {{Stokk-estrych}}
 {{Estrych}}
 
-[[Category:Statys a Estrych]]
+[[Class:Statys a Estrych]]
 
 [[als:Vorarlberg]]
 [[an:Vorarlberg]]
@@ -100,6 +100,7 @@
 [[no:Vorarlberg]]
 [[oc:Vorarlberg]]
 [[pl:Vorarlberg]]
+[[pnb:وورےرلبرگ]]
 [[pt:Vorarlberg]]
 [[ro:Vorarlberg]]
 [[ru:Форарльберг]]
