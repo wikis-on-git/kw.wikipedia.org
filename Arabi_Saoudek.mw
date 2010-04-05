@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:Flag of Saudi Arabia.svg|150px|Baner Arabi Saoudek]]}}
-|align="center" width="140px"|[[File:Coat_of_arms_of_Saudi_Arabia.svg|100px|Kota Arvow Arabi Saoudek]]
+|align="center" | {{border|[[Restren:Flag of Saudi Arabia.svg|150px|Baner Arabi Saoudek]]}}
+|align="center" width="140px"|[[Restren:Coat_of_arms_of_Saudi_Arabia.svg|100px|Kota Arvow Arabi Saoudek]]
 |- align="center" width="140px"
 | (Baner Arabi Saoudek) 
 | (Kota Arvow Arabi Saoudek)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[File:SaudiArabiaWorldMap.png|300px|Desedhans Arabi Saoudek]]
+| align="center" colspan="2" | [[Restren:SaudiArabiaWorldMap.png|300px|Desedhans Arabi Saoudek]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]]
 |-
@@ -44,10 +44,11 @@
 
 {{stokk-dor}}
 {{Asi}}
-{{Link FA|ar}}
 
-[[Category:Asi]]
-[[Category:Arabi]]
+[[Class:Asi]]
+[[Class:Arabi]]
+
+{{Link FA|ar}}
 
 [[ace:Arab Saudi]]
 [[af:Saoedi-Arabië]]
@@ -90,6 +91,7 @@
 [[es:Arabia Saudita]]
 [[et:Saudi Araabia]]
 [[eu:Saudi Arabia]]
+[[ext:Arabia Saudita]]
 [[fa:عربستان سعودی]]
 [[fi:Saudi-Arabia]]
 [[fiu-vro:Saudi Araabia]]
