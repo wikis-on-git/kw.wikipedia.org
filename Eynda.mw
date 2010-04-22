@@ -1,12 +1,12 @@
 {| border="1" cellpadding="2" cellspacing="0" align="right" width="280px" style="margin-left:1em"
-|+ <font size="+1">'''भारत गणराज्य''' <br /> '''Bhārat Ganarājya'''<br/>
+|+ <font size="+1">'''भारत गणराज्य''' <br /> '''Bhārat Ganarājya'''<br />
 '''Republic of India'''</font>
 |-
 | style="background:#efefef;" align="center" colspan="2" | 
 {| border="0" cellpadding="2" cellspacing="0" style="background:#efefef;"
 |- align="center" width="140px"
-| [[File:Flag of India.svg|125px|Baner Eynda]] 
-| height="115px" | [[File:Emblem of India.svg|125px|Arwoedh Eynda]]
+| [[Restren:Flag of India.svg|125px|Baner Eynda]] 
+| height="115px" | [[Restren:Emblem of India.svg|125px|Arwoedh Eynda]]
 |- align="center" width="140px"
 | (Baner Eynda) 
 | (Arwoedh Eynda)
@@ -43,7 +43,7 @@
 | 26es a vis [[Genver]], [[1950]]
 |-
 | Mona Kemmyn <br />Kodenn ([[ISO 4217]]) 
-| ''Rupee'' eyndek (₨)<br/>INR<br/>
+| ''Rupee'' eyndek (₨)<br />INR<br />
 |-
 | Antemna Kenedhlek
 | ''Jana Gana Mana''
@@ -74,16 +74,15 @@ An taves chyf a Eynda Gledh yw [[Hindi]], mes yma [[Yeth ranndiryel|yethow rannd
 
 
 {{Asi}}
-{{Link FA|ta}}
 
-{{Link FA|dv}}
-{{Link FA|km}}
+[[Klass:Eynda]]
 
 {{Link FA|de}}
+{{Link FA|dv}}
 {{Link FA|en}}
+{{Link FA|km}}
 {{Link FA|sk}}
-
-[[Category:Eynda]]
+{{Link FA|ta}}
 
 [[ace:India]]
 [[af:Indië]]
@@ -235,7 +234,6 @@ An taves chyf a Eynda Gledh yw [[Hindi]], mes yma [[Yeth ranndiryel|yethow rannd
 [[qu:Indya]]
 [[rm:India]]
 [[rmy:Bharat]]
-[[rn:Ubuhindi]]
 [[ro:India]]
 [[roa-rup:India]]
 [[ru:Индия]]
