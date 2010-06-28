@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Türkmenistan Jumhuriyäti'''<br>'''Repoblek Pow Turkmen'''</big></br>
+|+ <big>'''Türkmenistan Jumhuriyäti'''<br />'''Repoblek Pow Turkmen'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Turkmenistan.svg|150px|Baner Pow Turkmen]]
-|align="center" width="140px"|[[Image:Turkmenistan coa.gif|100px|Kota arvow Pow Turkmen]]
+|align="center" | [[Restren:Flag of Turkmenistan.svg|150px|Baner Pow Turkmen]]
+|align="center" width="140px"|[[Restren:Turkmenistan coa.gif|100px|Kota arvow Pow Turkmen]]
 |- align="center" width="140px"
 | (Baner Pow Turkmen) 
 | (Kota arvow Pow Turkmen)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationTurkmenistan.png|Desedhans Pow Turkmen|300px|]]
+| align="center" colspan="2" | [[Restren:LocationTurkmenistan.png|Desedhans Pow Turkmen|300px|]]
 |-
 |[[Yeth]] soedhogel || [[Turkmen]]
 |-
@@ -30,7 +30,7 @@
 |-
 |Mona kemmyn || Turkmen Manat (TMM)
 |-
-|Amser <br>- Hav (DST) || UTC +5 <br> UTC +6
+|Amser <br />- Hav (DST) || UTC +5 <br /> UTC +6
 |-
 |Kan genedhlek || ''Independent, Neutral, Turkmenistan State Anthem''
 |-
@@ -44,7 +44,7 @@
 {{stokk-dor}}
 {{Asi}}
 
-[[Category:Asi]]
+[[Klass:Asi]]
 
 [[ace:Turkmènistan]]
 [[af:Turkmenistan]]
@@ -85,6 +85,7 @@
 [[es:Turkmenistán]]
 [[et:Türkmenistan]]
 [[eu:Turkmenistan]]
+[[ext:Turkmenistán]]
 [[fa:ترکمنستان]]
 [[fi:Turkmenistan]]
 [[fiu-vro:Türkmenistan]]
