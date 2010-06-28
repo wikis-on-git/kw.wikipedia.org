@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Ҷумҳурии Тоҷикистон'''<br>'''جمهوری تاجکستان'''<br>'''Repoblek Pow Tajik'''</big></br>
+|+ <big>'''Ҷумҳурии Тоҷикистон'''<br />'''جمهوری تاجکستان'''<br />'''Repoblek Pow Tajik'''</big></br>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Tajikistan.svg|150px|Baner Pow Tajik]]
-|align="center" width="140px"|[[Image:Tajikistan coa.png|100px|Kota arvow Pow Tajik]]
+|align="center" | [[Restren:Flag of Tajikistan.svg|150px|Baner Pow Tajik]]
+|align="center" width="140px"|[[Restren:Tajikistan coa.png|100px|Kota arvow Pow Tajik]]
 |- align="center" width="140px"
 | (Baner Pow Tajik) 
 | (Kota arvow Pow Tajik)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationTajikistan.png|Desedhans Pow Tajik|300px|]]
+| align="center" colspan="2" | [[Restren:LocationTajikistan.png|Desedhans Pow Tajik|300px|]]
 |-
 |[[Yeth]] soedhogel || [[Tajik]]
 |-
@@ -46,7 +46,7 @@
 {{stokk-dor}}
 {{Asi}}
 
-[[Category:Asi]]
+[[Klass:Asi]]
 
 [[ace:Tajikistan]]
 [[af:Tadjikistan]]
@@ -86,6 +86,7 @@
 [[es:Tayikistán]]
 [[et:Tadžikistan]]
 [[eu:Tajikistan]]
+[[ext:Tayiquistán]]
 [[fa:تاجیکستان]]
 [[fi:Tadžikistan]]
 [[fiu-vro:Tadžikistan]]
