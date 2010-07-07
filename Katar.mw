@@ -1,10 +1,10 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''دولة قطر<br>Dawlat Qatar<br>Stat Katar'''</big>
+|+ <big>'''دولة قطر<br />Dawlat Qatar<br />Stat Katar'''</big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag of Qatar.svg|150px|Baner Katar]]}}
-|align="center" width="140px"|[[Image:Coat_of_arms_of_Qatar.svg|100px|Kota Arvow Katar]]
+|align="center" | {{border|[[Restren:Flag of Qatar.svg|150px|Baner Katar]]}}
+|align="center" width="140px"|[[Restren:Coat_of_arms_of_Qatar.svg|100px|Kota Arvow Katar]]
 |- align="center" width="140px"
 | (Baner Katar) 
 | (Kota Arvow Katar)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | [[image:LocationQatar.png|300px|Desedhans Katar]]
+| align="center" colspan="2" | [[Restren:LocationQatar.png|300px|Desedhans Katar]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]] 
 |-
@@ -28,7 +28,7 @@
 |-
 |[[Poblans]] ([[2005]])<br />- [[Doesedh]]|| 863,051 a drigoryon <br /> 79 triger/km²
 |-
-|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br> 3sa a [[Mys Gwyngala|vis Gwyngala]], [[1971]]
+|Anserghogeth || dhiworth [[Rywvaneth Unys]] <br /> 3sa a [[Mys Gwyngala|vis Gwyngala]], [[1971]]
 |-
 |Mona kemmyn || Riyal (QR)
 |-
@@ -46,8 +46,9 @@
 
 {{stokk-dor}}
 {{Asi}}
-[[Category:Asi]]
-[[Category:Arabi]]
+
+[[Klass:Asi]]
+[[Klass:Arabi]]
 
 [[ace:Qatar]]
 [[af:Katar]]
@@ -90,6 +91,7 @@
 [[es:Qatar]]
 [[et:Katar]]
 [[eu:Qatar]]
+[[ext:Catal]]
 [[fa:قطر (کشور)]]
 [[fi:Qatar]]
 [[fiu-vro:Katar]]
