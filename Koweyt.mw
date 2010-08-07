@@ -3,7 +3,7 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[File:Flag of Kuwait.svg|150px|Baner Koweyt]]}}
+|align="center" | {{border|[[Restren:Flag of Kuwait.svg|150px|Baner Koweyt]]}}
 |align="center" width="140px"|
 |- align="center" width="140px"
 | (Baner Koweyt) 
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: For Kuwait''</small>
 |-
-| align="center" colspan="2" | [[File:LocationKuwait.png|300px|Desedhans Koweyt]]
+| align="center" colspan="2" | [[Restren:LocationKuwait.png|300px|Desedhans Koweyt]]
 |-
 |[[Yeth]] soedhogel || [[Arabek]] 
 |-
@@ -47,8 +47,8 @@
 {{stokk-dor}}
 {{Asi}}
 
-[[Category:Asi]]
-[[Category:Arabi]]
+[[Klass:Asi]]
+[[Klass:Arabi]]
 
 [[ace:Kuwait]]
 [[af:Koeweit]]
@@ -88,6 +88,7 @@
 [[es:Kuwait]]
 [[et:Kuveit]]
 [[eu:Kuwait]]
+[[ext:Kuwait]]
 [[fa:کویت]]
 [[fi:Kuwait]]
 [[fiu-vro:Kuveit]]
