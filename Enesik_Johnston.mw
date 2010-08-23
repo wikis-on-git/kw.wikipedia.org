@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | {{border|[[Image:Flag_of_the_United_States.svg|125px|Baner Statys Unys]]}}
-|align="center" width="100px"|[[Image:Flag of Johnston Atoll (local).svg|125px|Baner soedhogel]]
+|align="center" | {{border|[[Restren:Flag_of_the_United_States.svg|125px|Baner Statys Unys]]}}
+|align="center" width="100px"|[[Restren:Flag of Johnston Atoll (local).svg|125px|Baner soedhogel]]
 |- 
 |align="center" width="125px"| <font size="-1">(Baner Statys Unys)</font>
 |align="center" width="125px"| <font size="-1">(Baner soedhogel)</font>
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: In God We Trust''</small>
 |-
-|Kenedhel || [[Image:Flag of the United States.svg|20px|]]&nbsp;[[Statys Unys|Statys Unys Amerika]]
+|Kenedhel || [[Restren:Flag of the United States.svg|20px|]]&nbsp;[[Statys Unys|Statys Unys Amerika]]
 |-
 |[[Yeth]] soedhogel || [[Sowsnek]]
 |-
@@ -24,7 +24,7 @@
 |-
 |Amser || UTC -10
 |-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[image:LocationJohnstonAtoll.png|300px|Desedhans Enesik Johnston]]
+| align="center" colspan="2" style="border-bottom:3px solid gray;" | [[Restren:LocationJohnstonAtoll.png|300px|Desedhans Enesik Johnston]]
 |}
 '''Enesik Johnston''' (yn [[Sowsnek]], '''''Johnston Atoll''''') yw enesik y'n [[Keynvor Hebask]]. War-lergh an [[Statys Unys]], an ynys yw onan a 'diredhow ynysek byghan tramor an SU' ''(US minor outlying islands)''. 
 
@@ -34,7 +34,7 @@
 
 {{USPoliticalDivisions}}
 
-[[Category:Powyow ynysek an SUA|Johnston]]
+[[Klass:Powyow ynysek an SUA|Johnston]]
 
 [[az:Conston rifi]]
 [[be:Атол Джонстан]]
@@ -56,6 +56,7 @@
 [[he:אטול ג'ונסטון]]
 [[hr:Atol Johnston]]
 [[hu:Johnston-atoll]]
+[[hy:Ջոնստոն (օղակակղզի)]]
 [[id:Atol Johnston]]
 [[is:Johnstoneyja]]
 [[it:Atollo Johnston]]
