@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:Flag of Lesotho.svg|125px|Baner Lesotho]]
-|align="center" width="140px"|[[File:Coat_of_arms_of_Lesotho_(1966-2006).svg|125px|Kota arvow Lesotho]]
+|align="center" | [[Restren:Flag of Lesotho.svg|125px|Baner Lesotho]]
+|align="center" width="140px"|[[Restren:Coat_of_arms_of_Lesotho_(1966-2006).svg|125px|Kota arvow Lesotho]]
 |- align="center" width="140px"
 | (Baner Lesotho) 
 | (Kota arvow Lesotho)
@@ -12,7 +12,7 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Khotso, Pula, Nala; Peace, Rain, Prosperity''</small>
 |-
-| align="center" colspan="2" | [[File:LocationLesotho.png|Desedhans Lesotho]]
+| align="center" colspan="2" | [[Restren:LocationLesotho.png|Desedhans Lesotho]]
 |-
 |[[Yeth]] soedhogel || [[Sesotho]], [[Sowsnek]], [[Zoulou]], [[Xhosa]]
 |-
@@ -46,9 +46,10 @@
 
 {{stokk-dor}}
 {{afrika}}
-{{Link FA|de}}
 
-[[Category:Gwlasow yn Afrika]]
+[[Klass:Gwlasow yn Afrika]]
+
+{{Link FA|de}}
 
 [[ace:Lesotho]]
 [[af:Lesotho]]
@@ -109,7 +110,7 @@
 [[id:Lesotho]]
 [[ie:Lesotho]]
 [[ilo:Lesoto]]
-[[io:Lesoto]]
+[[io:Lesotho]]
 [[is:Lesótó]]
 [[it:Lesotho]]
 [[ja:レソト]]
