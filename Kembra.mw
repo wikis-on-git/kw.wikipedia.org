@@ -15,7 +15,7 @@ Yma 22 "ranndir jyf" yn Kembra a-dhia [[1996]]: 3 tre, 9 konteth, ha 10 burjestr
 
 {| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #FFDEAD; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
 |-
-|rowspan="4" valign="center"| '''Clwyd''' <br> [[Kloes]] || Conwy || Conwy || [[Konwy]]
+|rowspan="4" valign="center"| '''Clwyd''' <br /> [[Kloes]] || Conwy || Conwy || [[Konwy]]
 |-
 | Sir Ddinbych || Denbighshire || [[Konteth Dinbygh]] 
 |-
@@ -23,13 +23,13 @@ Yma 22 "ranndir jyf" yn Kembra a-dhia [[1996]]: 3 tre, 9 konteth, ha 10 burjestr
 |-
 | Wrecsam || Wrexham || [[Wreksam]]
 |-
-|rowspan="3" valign="center"| '''Dyfed''' <br> [[Dyves]] || Sir Gaerfyrddin || Carmarthenshire || [[Konteth Karvyrdhin]] 
+|rowspan="3" valign="center"| '''Dyfed''' <br /> [[Dyves]] || Sir Gaerfyrddin || Carmarthenshire || [[Konteth Karvyrdhin]] 
 |-
 | Ceredigion || Ceredigion || [[Keredigyon]]
 |-
 | Sir Benfro || Pembrokeshire || [[Konteth Pennvro]]
 |-
-|rowspan="5" valign="center"| '''Gwent''' <br> [[Gwens]] || Blaenau Gwent || Blaenau Gwent || [[Bleynow Gwens]]
+|rowspan="5" valign="center"| '''Gwent''' <br /> [[Gwens]] || Blaenau Gwent || Blaenau Gwent || [[Bleynow Gwens]]
 |-
 | Caerffili || Caerphilly || [[Karfili]]
 |-
@@ -39,11 +39,11 @@ Yma 22 "ranndir jyf" yn Kembra a-dhia [[1996]]: 3 tre, 9 konteth, ha 10 burjestr
 |- 
 | Casnewydd || Newport || [[Kasnowydh]]
 |-
-|rowspan="2" valign="center"| '''Gwynedd'''<br>[[Gwynedh]] || Ynys Môn || Anglesey || [[Ynys Mon]]
+|rowspan="2" valign="center"| '''Gwynedd'''<br />[[Gwynedh]] || Ynys Môn || Anglesey || [[Ynys Mon]]
 |-
 | Gwynedd || Gwynedd || [[Gwynedh]]
 |-
-|rowspan="3" valign="center"| '''Morgannwg Ganol'''<br>[[Glamour Gres]] || Pen-y-Bont ar Ogwr || Bridgend || [[Penn-an-Bons war Ogour]] 
+|rowspan="3" valign="center"| '''Morgannwg Ganol'''<br />[[Glamour Gres]] || Pen-y-Bont ar Ogwr || Bridgend || [[Penn-an-Bons war Ogour]] 
 |-
 | Merthyr Tudful || Merthyr Tydfil || [[Merthyr Tusvil]]
 |-
@@ -51,17 +51,18 @@ Yma 22 "ranndir jyf" yn Kembra a-dhia [[1996]]: 3 tre, 9 konteth, ha 10 burjestr
 |-
 |rowspan="1" valign="center"| '''[[Powys]]''' || Powys || Powys || [[Powys]]
 |-
-|rowspan="2" valign="center"| '''De Morgannwg'''<br>[[Glamour Soth]] || Caerdydd || Cardiff || [[Kardydh]]
+|rowspan="2" valign="center"| '''De Morgannwg'''<br />[[Glamour Soth]] || Caerdydd || Cardiff || [[Kardydh]]
 |-
 | Bro Morgannwg || Vale of Glamorgan || [[Bro Glamour]]
 |-
-|rowspan="2" valign="center"| '''Gorllewin Morgannwg'''<br>[[Glamour West]] || Castell-nedd Port Talbot || Neath Port Talbot || [[Kastell-nedh Porth Talbot]]
+|rowspan="2" valign="center"| '''Gorllewin Morgannwg'''<br />[[Glamour West]] || Castell-nedd Port Talbot || Neath Port Talbot || [[Kastell-nedh Porth Talbot]]
 |- 
 | Abertawe || Swansea || [[Abertawa]]
 |}
 
 {{Keltia}}
-[[Category:Kembra| ]]
+
+[[Klass:Kembra| ]]
 
 [[af:Wallis]]
 [[als:Wales]]
@@ -150,6 +151,7 @@ Yma 22 "ranndir jyf" yn Kembra a-dhia [[1996]]: 3 tre, 9 konteth, ha 10 burjestr
 [[ro:Țara Galilor]]
 [[roa-rup:Wales]]
 [[ru:Уэльс]]
+[[sc:Galles]]
 [[scn:Galles]]
 [[sco:Wales]]
 [[sh:Wales]]
