@@ -1,9 +1,9 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ <big>'''Norfolk Island'''<br>'''Norfuk Ailen'''</br></big>
+|+ <big>'''Norfolk Island'''<br />'''Norfuk Ailen'''</br></big>
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Norfolk Island.svg|150px|Baner Ynys Norfolk]]
+|align="center" | [[Restren:Flag of Norfolk Island.svg|150px|Baner Ynys Norfolk]]
 |align="center" width="140px"|
 |- align="center" width="140px"
 | (Baner Ynys Norfolk) 
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small>''Lavar kenedhlek: Inasmuch''</small>
 |-
-| align="center" colspan="2" | [[image:LocationNorfolkIsland.png|Desedhans Ynys Norfolk|300px|]]
+| align="center" colspan="2" | [[Restren:LocationNorfolkIsland.png|Desedhans Ynys Norfolk|300px|]]
 |-
-|Kenedhel || [[Image:Flag of Australia.svg|20px|]]&nbsp;[[Ostrali]]
+|Kenedhel || [[Restren:Flag of Australia.svg|20px|]]&nbsp;[[Ostrali]]
 |-
 |[[Yeth]] soedhogel || [[Sowsnek]] ha [[Norfuk]]
 |-
@@ -49,7 +49,7 @@
 {{stokk-dor}}
 {{Ostralasi}}
 
-[[Category:Ostralasi]]
+[[Class:Ostralasi]]
 
 [[ace:Pulo Norfolk]]
 [[af:Norfolk (eiland)]]
@@ -73,7 +73,7 @@
 [[eu:Norfolk uhartea]]
 [[fa:جزیره نورفولک]]
 [[fi:Norfolkinsaari]]
-[[fiu-vro:Norfolk]]
+[[fiu-vro:Norfolki saar]]
 [[fr:Île Norfolk]]
 [[frp:Ila Norfolk]]
 [[gl:Illa Norfolk]]
