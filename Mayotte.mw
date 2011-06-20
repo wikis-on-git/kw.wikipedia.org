@@ -3,8 +3,8 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[File:Flag of France.svg|150px|Baner Pow Frynk]]
-|align="center" | [[File:Flag of Mayotte (local).svg|150px|Baner Mayotte]]
+|align="center" | [[Restren:Flag of France.svg|150px|Baner Pow Frynk]]
+|align="center" | [[Restren:Flag of Mayotte (local).svg|150px|Baner Mayotte]]
 |- align="center" width="140px"
 | (Baner Pow Frynk) 
 | (Baner ha Kota Arvow Mayotte)
@@ -12,9 +12,9 @@
 |-
 | align="center" colspan="2" | <small> ''Lavar kenedhlek: nagonan''</small>
 |-
-| align="center" colspan="2" | {{border|[[File:LocationMayotte.png|Desedhans Mayotte]]}}
+| align="center" colspan="2" | {{border|[[Restren:LocationMayotte.png|Desedhans Mayotte]]}}
 |-
-|Kenedhel || [[File:Flag of France.svg|20px|]]&nbsp;[[Pow Frynk]]
+|Kenedhel || [[Restren:Flag of France.svg|20px|]]&nbsp;[[Pow Frynk]]
 |-
 |[[Yeth]] soedhogel || [[Frynkek]]
 |-
@@ -49,9 +49,9 @@
 {{franceReg}}
 {{Afrika}}
 
-[[Category:Afrika]]
-[[Category:Rannvroyow]]
-[[Category:Ynysow]]
+[[Class:Afrika]]
+[[Class:Rannvroyow]]
+[[Class:Ynysow]]
 
 [[af:Mayotte]]
 [[als:Mayotte]]
@@ -123,6 +123,7 @@
 [[simple:Mayotte]]
 [[sk:Mayotte]]
 [[sl:Mayotte]]
+[[so:Mayotte]]
 [[sr:Мајот]]
 [[sv:Mayotte]]
 [[sw:Mayotte]]
