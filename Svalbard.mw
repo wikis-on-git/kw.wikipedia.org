@@ -3,14 +3,14 @@
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Flag of Norway.svg|125px|Baner Norgagh]]
+|align="center" | [[Restren:Flag of Norway.svg|125px|Baner Norgagh]]
 |- align="center" width="140px"
 | (Baner Norgagh) 
 |}
 |-
-| align="center" colspan="2" | [[image:LocationSvalbard.png|Desedhans Svalbard]]
+| align="center" colspan="2" | [[Restren:LocationSvalbard.png|Desedhans Svalbard]]
 |-
-|Kenedhel || [[Image:Flag of Norway.svg|20px|]]&nbsp;[[Norgagh|Rywvaneth Norgagh]]
+|Kenedhel || [[Restren:Flag of Norway.svg|20px|]]&nbsp;[[Norgagh|Rywvaneth Norgagh]]
 |-
 |[[Yeth]] soedhogel || [[Norgaghek]] (Bokmål ha Nynorsk)
 |-
@@ -28,7 +28,7 @@
 |-
 |Mona kemmyn || Krone Norgaghek
 |-
-|Amser <br>- Hav (DST) || UTC +1 <br> UTC +2
+|Amser <br />- Hav (DST) || UTC +1 <br /> UTC +2
 |-
 |Kan genedhlek || ''Ja, vi elsker dette landet''
 |-
@@ -43,8 +43,8 @@
 {{Stokk-europa}}
 {{Europa}}
 
-[[Category:Europa]]
-[[Category:Ynysow]]
+[[Class:Europa]]
+[[Class:Ynysow]]
 
 [[ace:Svalbard]]
 [[af:Svalbard]]
@@ -118,6 +118,7 @@
 [[ro:Svalbard]]
 [[ru:Шпицберген]]
 [[scn:Svalbard]]
+[[se:Svalbárda]]
 [[sh:Svalbard]]
 [[simple:Svalbard]]
 [[sk:Svalbard]]
