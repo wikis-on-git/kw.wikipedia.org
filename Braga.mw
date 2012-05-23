@@ -1,20 +1,20 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Braga'''</big>
 |-
-| align="center" colspan="2" | [[Image:Vista braga.jpg|250px|Braga]]
+| align="center" colspan="2" | [[Restren:Vista braga.jpg|250px|Braga]]
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Pt-brg1.png|120px|Baner Braga]]
-|align="center" width="100px"| [[Image:BRG.png|100px|Kota arvow Braga]]
+|align="center" | [[Restren:Pt-brg1.png|120px|Baner Braga]]
+|align="center" width="100px"| [[Restren:BRG.png|100px|Kota arvow Braga]]
 |- 
 |align="center" width="140px"| <font size="-1">(Baner Braga)</font>
 |align="center" width="140px"| <font size="-1">(Kota arvow Braga)</font>
 |}
 |-
-| align="center" colspan="2" | [[image:LocalBraga.svg|200px|Desedhans Braga yn Portyngal]]
+| align="center" colspan="2" | [[Restren:LocalBraga.svg|200px|Desedhans Braga yn Portyngal]]
 |-
-|Kenedhel || [[Image:Flag of Portugal.svg|20px|]]&nbsp;[[Portyngal]]
+|Kenedhel || [[Restren:Flag of Portugal.svg|20px|]]&nbsp;[[Portyngal]]
 |-
 |Rannvro || [[Rannvro Norte|Norte]]
 |-
@@ -28,15 +28,15 @@
 |-
 |Hanow an drigoryon || ''Bracarense, Bracaraugustano, Brácaro, Braguês''
 |-
-|Amser <br>- Hav (DST) || UTC +0 <br> UTC +1
+|Amser <br />- Hav (DST) || UTC +0 <br /> UTC +1
 |}
 '''Braga''' yw sita yn [[Portyngal]].
 
 
 {{stokk-Portyngal}}
 
-[[Category:Citys ha trevow yn Europa]]
-[[Category:Portyngal]]
+[[Class:Citys ha trevow yn Europa]]
+[[Class:Portyngal]]
 
 {{Link FA|pt}}
 
@@ -91,6 +91,7 @@
 [[sr:Брага]]
 [[sv:Braga]]
 [[tet:Braga]]
+[[th:บรากา]]
 [[tr:Braga]]
 [[uk:Брага (Португалія)]]
 [[vo:Braga]]
