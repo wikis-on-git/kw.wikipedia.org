@@ -1,20 +1,20 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
 |+ <big>'''Coimbra'''</big>
 |-
-| align="center" colspan="2" | [[Image:CoimbraView-CC1.jpg|250px|Coimbra]]
+| align="center" colspan="2" | [[Restren:CoimbraView-CC1.jpg|250px|Coimbra]]
 |-
 | colspan="2" style="background:#efefef;" align="center" |
 {| style="background:#efefef;"
-|align="center" | [[Image:Pt-cbr1.png|120px|Baner Coimbra]]
-|align="center" width="100px"| [[Image:CBR.png|100px|Kota arvow Coimbra]]
+|align="center" | [[Restren:Pt-cbr1.png|120px|Baner Coimbra]]
+|align="center" width="100px"| [[Restren:CBR.png|100px|Kota arvow Coimbra]]
 |- 
 |align="center" width="140px"| <font size="-1">(Baner Coimbra)</font>
 |align="center" width="140px"| <font size="-1">(Kota arvow Coimbra)</font>
 |}
 |-
-| align="center" colspan="2" | [[image:LocalCoimbra.svg|200px|Desedhans Coimbra yn Portyngal]]
+| align="center" colspan="2" | [[Restren:LocalCoimbra.svg|200px|Desedhans Coimbra yn Portyngal]]
 |-
-|Kenedhel || [[Image:Flag of Portugal.svg|20px|]]&nbsp;[[Portyngal]]
+|Kenedhel || [[Restren:Flag of Portugal.svg|20px|]]&nbsp;[[Portyngal]]
 |-
 |Rannvro || [[Rannvro Centro|Centro]]
 |-
@@ -28,15 +28,15 @@
 |-
 |Hanow an drigoryon || ''Conimbricense''
 |-
-|Amser <br>- Hav (DST) || UTC +0 <br> UTC +1
+|Amser <br />- Hav (DST) || UTC +0 <br /> UTC +1
 |}
 '''Coimbra''' yw sita yn [[Portyngal]].
 
 
 {{stokk-Portyngal}}
 
-[[Category:Citys ha trevow yn Europa]]
-[[Category:Portyngal]]
+[[Class:Citys ha trevow yn Europa]]
+[[Class:Portyngal]]
 
 [[an:Coimbra]]
 [[ar:قلمرية]]
@@ -57,6 +57,7 @@
 [[ext:Coimbra]]
 [[fa:کویمبرا]]
 [[fi:Coimbra]]
+[[fiu-vro:Coimbra]]
 [[fr:Coimbra]]
 [[gl:Coímbra - Coimbra]]
 [[he:קוימברה]]
