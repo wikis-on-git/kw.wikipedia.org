@@ -1,153 +1,111 @@
-__NOTOC____NOEDITSECTION__
-{| class="folendretable" style="width:100%; border:2px solid #C7D0F8; -moz-border-radius:1em; -webkit-border-radius:1em;border-radius:1em; margin-bottom: 1em;"
-| valign="top" style="padding:1em;" |
+__NOTOC__ __NOEDITSECTION__
+<!-- global wrapper -->
+<div id="mp-2012">
+<!-- banner -->
+<noinclude>
+<div id="mp-2012">
+</noinclude><div id="mp-2012-banner" class="nomobile">
+    <div id="mp-2012-banner-title"><div>
+        <h1>[[Wikipedya|Wikipedya a'gas dynnergh]]</h1>
+        <p>An godhoniador rydh rag onan hag oll<br />[[Special:Statistics|{{NUMBEROFARTICLES}}]] erthygel yn [[Kernewek]]</p>
+    </div></div>
 
-<!--An dhiw goloven-->
-{| style="width: 100%;" cellspacing="0"
-|- 
-| style="background:transparent; width: 44%; vertical-align: top;" | 
-<!--Dalleth coloven onan-->
+    <div id="mp-2012-banner-intro"><div>
+[[File:Flag of Cornwall.svg|border|100px]]
+    </div></div>
+</div><noinclude>
+</div>
+</noinclude>
+<!-- Dalleth an dalgh -->
+<div id="mp-2012-body">
+<!-- ================Dalleth an goloven gledh================-->
+<div id="mp-2012-column-left"><div>
+<!-- ======A-dro dhe Wikipedya======= -->
+<div id="mp-2012-column-feature-block" class="mp-2012-column-left-block">
+<h2>A-dro dhe Wikipedya</h2>
+<div id="mf-tfa" title="A-dro dhe Wikipedya">
+<div style="float: right; margin-right: 0.5em; margin-left: 0.5em;">[[File:W-circle.svg|60px|]]</div>
+[[Wikipedya]] yw godhoniador warlinen heb kost, ygor ha liesyethek, a yll bos skrifys gans onan hag oll. Gelwys yw pub den dhe weres dhyn yn unn wellhe erthyglow hag yn unn ynkressya an myns a Gernewek war an kesrosweyth.
+</div></div>
+<!-- =====Peuri erthyglow==== -->
+<div id="mp-2012-column-dyk-block" class="mp-2012-column-left-block">
+<h2>Peuri erthyglow</h2>
+<div id="mf-dyk" title="Peuri erthyglow">
+Mar mynnowgh peuri an guntel a erthyglow a'n jeves an wiasva, hwi a yll hwilas testen dre dhevnydhya an [[Special:Search|gisten hwilas]] orth penn pub folen. Ynwedh, y sortir keniver folen herwydh klassys, may hyllir gweles rol dien [[Wikipedia:Klassys|omma]], po klyckyewgh an kevrennow orth goles folennow rag gweles rol a erthyglow y'n keth klass.
+</div></div>
+<!-- =====Kemeres rann===== -->
+<div id="mp-2012-column-good-block" class="mp-2012-column-left-block">
+<h2>Kemeres rann</h2>
+<div id="mf-good" title="Kemeres rann">
+<div style="float: right; margin-right: 0.5em; margin-left: 0.5em;">[[File:Applications-office.svg|55px|]]</div>
+Yma an kemeneth Kernewek pub prys ow hwilas kevrysysi nowyth. Hwi a yll dalleth skrifa a-dhistowgh, a-dro dhe desten vyth oll yw dhe les dhywgh. Mara'gas beus hwans dhe dhyski moy a-dro dhe gemeres rann, kewgh dhe [[Wikipedia:Porth an gemeneth|borth an gemeneth]], po gesewgh govyn y'[[Wikipedia:An tavern|n tavern]]. 
+</div></div>
+<!-- ================Diwedh an goloven gledh================-->
+</div></div>
+<!-- ================Dalleth an goloven dhyhow================ -->
+<div id="mp-2012-column-right"><div>
+<div id="mp-2012-column-right-block-a" class="mp-2012-column-right-block">
+<!-- ======Erthyglow chonsus====== -->
+<div id="mp-2012-column-itn-block" class="mp-2012-column-right-subblock">
+<h2>Erthyglow chonsus</h2>
+<div id="mf-itn" title="Erthyglow chonsus">
+<div style="float: right; margin-right: 1em; margin-left: 1em;">[[Restren:Truro lowerlemonst.jpg|80px|Stret Lemon Isel yn kres Truru]]</div>
+*'''[[Truru]]''' yw penncita hag unn cita [[Kernow]], 20,920 y boblans. Geryes da yw rag hy fenneglos ha'y stretow kawnsys, hag an gresen rag menystrans ha kenwerth yn Kernow yw. ''[[Truru|Moy...]]''
 
-{| style="padding: 1em;"
-| <span style="font-size: 32px; line-height: 32px; color: #ffcc00; text-shadow: 0.1em 0.1em 0.2em black;">'''Lowena dhywgh!'''</span>
+<div style="float: right; margin-right: 1em; margin-left: 1em;">[[Restren:St Martins - aerial photo.jpg|80px|Breghyek, en Syllan]]</div>
+*'''[[Syllan]]''' yw enesek 28 mildir soth-west a [[Kernow|Gernow]]. Yma pymp enys poblys gans 2,100 a dus: [[Ennor|Enor]], [[Ynys Skaw|Enys Skaw]], [[Brechiek|Breghyek]], [[Aganas]] ha [[Bryher|Breyer]], ha lies enys vyhan aral. ''[[Syllan|Moy...]]''
 
-<span style="font-size: 24px; color: #ffcc00; text-shadow: 0.1em 0.1em 0.2em black;">'''Kernowpedia a'gas dynnargh'''</span>
+<div style="float: right; margin-right: 1em; margin-left: 1em;">[[File:Henjenner.jpg|50px|Henry Jenner]]</div>
+*'''[[Can an Pescador Kernûak|Kan an Pyskador Kernewek]]''' yw kan skrifys gans [[Henry Jenner]], tas dasserghyans [[Kernewek]]. Kenys yw yn unn sewya ton an hymna ''The Pilgrim of the Night''. ''[[Can an Pescador Kernûak|Moy...]]''
 
-&nbsp;
+<div style="float: right; margin-right: 1em; margin-left: 1em;">[[Restren:New County Hall.jpg|80px|Lys Kernow yn Truru]]</div>
+*'''[[Consel Kernow|Konsel Kernow]]''' yw an awtorita unnik rag [[Kernow]]. Wosa chanjyow yn 2009, y'n jeves 123 konseler, owth esedha yn Lys Kernow yn [[Truru]]. ''[[Consel Kernow|Moy...]]''
 
-<span style="color: #ffffff; text-shadow: 0.1em 0.1em 0.2em black;">
-===Pandr'yw Kernowpedia?===
-</span>
-<span style="color: #ffffff; text-shadow: 0.1em 0.1em 0.2em black;">Kernowpedia yw godhoniador warlinen a ell bos scrifys gans '''onen hag oll'''. Obma, y hellowgh whi redya erthyglow a-dro dhe Gernow po a-dro dhe neppeth aral, po whi a ell keworra erthyglow der aga scrifa. Yma {{NUMBEROFARTICLES}} erthygel dhyn y'n eur-ma.</span>
+<div style="float: right; margin-right: 1em; margin-left: 1em;">[[File:Steve Jobs with the Apple iPad no logo (cropped).jpg|50px|border|Steve Jobs war-barth hag iPad]]</div>
+*'''[[iPad]]''' yw [[jynn amontya legh]] a veu desinyes ha marhasys gans Apple avel toul rag gweles media klewwelyek, kepar ha lyvrow, fylmow, ilow, gwariow, ha dalgh an wias. ''[[iPad|Moy...]]''
 
-<span style="color: #ffffff; text-shadow: 0.1em 0.1em 0.2em black;">
-===Fatl'a wrav vy redya erthyglow?===
-</span>
-<span style="color: #ffffff; text-shadow: 0.1em 0.1em 0.2em black;">Whi a ell cavos erthyglow dre glyckya war ditlys an kistednow a-dhyhow, po war an classys a-woles. Po mar codhowgh whi hanow an erthygel a garsowgh redya, whi a ell y whilas dre usya an gisten a-wartha.</span>
-
-<span style="color: #ffffff; text-shadow: 0.1em 0.1em 0.2em black;">
-===Fatla dalleth scrifa?===
-</span>
-<span style="color: #ffffff; text-shadow: 0.1em 0.1em 0.2em black;">Mars yw whans dhywgh scrifa erthygel rag Kernowpedia, whi a ell dalleth lebmyn! Es yw scrifa folednow, ha whi a ell scrifa a-dro dhe Gernow po a-dro dhe neb testen aral y'n bys. Gwrewgh whilas agas erthygel, ha mar nyns yw scrifys solabres, dallethowgh e agas honen!</span>
-
-<span style="color: #ffffff; text-shadow: 0.1em 0.1em 0.2em black;">
-===Ha fatla gans gweres?===
-</span>
-<span style="color: #ffffff; text-shadow: 0.1em 0.1em 0.2em black;">Mars yw odhom dhywgh a weres, whi a ell mos dhe'n [[Wikipedia:Gweres|<span style="color: #ffcc00;">folednow gweres</span>]], po dhe [[Wikipedia:Porth an gemeneth|<span style="color: #ffcc00;">borth an gemeneth</span>]]. Mars eus govydnow dhywgh, whi a ell aga govyn y'n [[Wikipedia:An tavern|<span style="color: #ffcc00;">tavern</span>]].</span>
-|}
-
-| style="width: 1%;" | &nbsp;
-| style="background:transparent; width: 55%; vertical-align: top;" |
-<!--Dalleth coloven diw-->
-
-{| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em; margin-top: 1em;"
-| style="background: #ffd700; text-align: left; font-size: 12pt; padding: 5px 8px;" |'''[[:Klass:Doronieth Kernewek|<span style="color: #000;">Doronieth Kernow ></span>]]'''
-|-
-| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88;" | 
-{{DreJons |folen=DoroniethKernow |niver=2 }}
-|}
-
-{| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em;"
-| style="background: #ffd700; text-align: left; font-size: 12pt; padding: 5px 8px;" |'''[[:Klass:Ystory Kernow|<span style="color: #000;">Istory Kernow ></span>]]'''
-|-
-| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88;" | 
-{{DreJons |folen=IstoryKernow |niver=1 }}
-|}
-
-{| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em;"
-| style="background: #ffd700; text-align: left; font-size: 12pt; padding: 5px 8px;" |'''[[:Klass:Kernow|<span style="color: #000;">Cowethas Kernow ></span>]]'''
-|-
-| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88;" | 
-{{DreJons |folen=CowethasKernow |niver=1 }}
-|}
-
-{| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em;"
-| style="background: #ffd700; text-align: left; font-size: 12pt; padding: 5px 8px;" |'''[[:Klass:Kernowek|<span style="color: #000;">Agan tavas ></span>]]'''
-|-
-| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88;" | 
-{{DreJons |folen=AganYeth |niver=1 }}
-|}
-
-{| cellpadding="0" cellspacing="0" style="width: 100%; background: transparent; margin-bottom: 2em;"
-| style="background: #000000; text-align: left; font-size: 12pt; color: #ffffff; padding: 5px 8px;" |'''[[:Klass:Oll|<span style="color: #fff;">Testednow erel ></span>]]'''
-|-
-| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88;" | 
-{{DreJons |folen=TestednowErel |niver=4 }}
-|}
-
-<!--Diwedh an colovednow-->
-|}
-
-<!--Diwedh folendretable-->
-|}
-
-==Classys==
-{| style="text-align: left;" |
-|-
-|width="50%" valign="middle" |
-{|width="100%" border="0" cellspacing="0" cellpadding="5"
-|-
-<!---------------------------------------------->
-|width="10%"|[[File:Nuvola_apps_kcoloredit.png|40px|center]]
-|width="90%" style="font-size:95%;"|'''[[:Category:Gonisogeth|Gonisogeth]] hag [[:Category:Art|an artys]]'''<br />
-[[:Category:Artys da weles|Artys dhe weles]]&nbsp;- [[:Category:Golyow|Golyow]]&nbsp;- [[:Category:Boos ha diwes|Boos ha diwes]]&nbsp;- [[:Category:Didhan|Didhan]]&nbsp;- [[:Category:Sport|Sportow]]&nbsp;- [[:Category:Lyenn|Lien]]&nbsp;- [[:Category:Sinema|Cinema]]&nbsp;- [[:Category:Ylow|Ilow]]&nbsp;- [[:Category:Gwariva|Gwariva]] 
-<!---------------------------------------------->
-|-
-<!---------------------------------------------->
-|width="10%"|[[File:Gnome-globe.svg|40px|center]]
-|width="90%" style="font-size:95%;border-top:1px dashed #AAAAAA;"|'''[[:Category:Dorydhyeth|Doronieth]]'''<br />
-[[:Category:Gwlasow|Gwlasow]]&nbsp;- [[:Category:Citys ha trevow|Citys ha trevow]]&nbsp;- [[:Category:Moryow ha keynvoryow|Keynvoryow]]&nbsp;- [[:Category:Avonyow|Avonyow]]&nbsp;- [[:Category:Ynysow|Enesow]]&nbsp;- [[:Category:Menedhyow|Menydhyow]]&nbsp;- [[:Category:Loskvenydhyow|Loskvenydhyow]]&nbsp;- [[:Category:Kyrghynnedh|Kerhydnedh]]
-<!---------------------------------------------->
-|-
-<!---------------------------------------------->
-|width="10%"|[[File:Nuvola apps kworldclock.png|40px|center]]
-|width="90%" style="font-size:95%;border-top:1px dashed #AAAAAA;"|'''[[:Category:Ystory|Istory]]'''<br />
-[[:Category:Blydhynyow|Bledhydnyow]]&nbsp;- [[:Category:Tus yn istori|Tus en istory]]&nbsp;- [[:Category:Breselyow|Casow]]&nbsp;- [[:Category:Terrosow naturel|Terosedhow naturel]]&nbsp;- [[:Category:Statys marow|Statys marow]]&nbsp;- [[:Category:Hendhyskans|Hendhescans]]&nbsp;- [[:Category:Tylleryow istorek|Teleryow istorek]]
-<!---------------------------------------------->
-|-
-<!---------------------------------------------->
-|width="42" align="left"|[[File:Baner Kernow.png|40px|center]]
-|style="font-size:95%;border-top:1px dashed #AAAAAA;"|'''[[:Category:Kernow|Kernow]]'''<br />
-[[:Category:Kernowek|Kernowek]]&nbsp;- [[:Category:Kernowyon|Kernowyon]]&nbsp;- [[:Category:Skriforyon yn Kernewek|Scriforyon en Kernowek]]&nbsp;- [[:Category:Doronieth Kernewek|Doronieth]]&nbsp;- [[:Category:Ranndiryow Kernow|Radndiryow]]&nbsp;- [[:Category:Trevow yn Kernow|Trevow]]&nbsp;- [[:Category:Gwlasegeth Kernow|Gwlasegeth]]&nbsp;- [[:Category:Ystory Kernow|Istory]]
-<!---------------------------------------------->
-|}
-|width="50%" valign="top"|
-{|width="100%" border="0" cellspacing="0" cellpadding="5"
-|width="10%"|[[File:Nuvola apps kalzium.svg|40px|center]]
-|width="90%" style="font-size:95%;"|'''[[:Category:Scyens|Skiens]]'''<br />
-[[:Category:Bewonyeth|Bewonieth]]&nbsp;- [[:Category:Ecologyl|Ecologieth]]&nbsp;- [[:Category:Medhygneth|Medhegieth]]&nbsp;- [[:Category:Enyvales|Bestes]]&nbsp;- [[:Category:Losonieth|Losonieth]]&nbsp;- [[:Category:Astronymyl|Steronieth]]&nbsp;- [[:Category:Kymystry|Kemegieth]]&nbsp;- [[:Category:Dororyeth|Dororieth]]&nbsp;- [[:Category:Kewer|An awel]]&nbsp;- [[:Category:Fisegieth|Fysegieth]] 
-<!---------------------------------------------->
-|-
-<!---------------------------------------------->
-|width="10%"|[[File:Socrates blue version2.png|40px|center]]
-|width="90%" style="font-size:95%;border-top:1px dashed #AAAAAA;"|'''[[:Category:Filosofi|Filosofieth]] ha [[:Category:Cryjyans|crejyans]]'''<br />
-[[:Category:Filosofi|Filosofieth]]&nbsp;- [[:Category:Ewnhynsegieth|Ethek]]&nbsp;- [[:Category:Relijyon|Crejyans]]&nbsp;- [[:Category:Tus yn relijyon|Tus en crejyans]]&nbsp;- [[:Category:Spyrysekter|Spyrysekter]]&nbsp;- [[:Category:Mytholoji|Mythologieth]]&nbsp;- [[:Category:Tyllerow kryjyk|Teleryow crejyek]]
-<!---------------------------------------------->
-|-
-<!---------------------------------------------->
-|width="10%"|[[File:Nuvola apps kuser.svg|40px|center]]
-|width="90%" style="font-size:95%;border-top:1px dashed #AAAAAA;"|'''[[:Category:Pobel|Pobel]] ha [[:Category:Cowethas|cowethas]]'''<br />
-[[:Category:Kenedhlogeth|Kenedhlogeth]]&nbsp;- [[:Category:Ethnogeth|Hil]]&nbsp;- [[:Category:Sodhow|Sodhow]]&nbsp;- [[:Category:Negydgeth|Negysieth]]&nbsp;- [[:Category:Adhyskans|Adhescans]]&nbsp;- [[:Category:Gwlasegeth|Politegieth]]&nbsp;- [[:Category:Lagha|Laha]]&nbsp;- [[:Category:Yeth|Yethonieth]]&nbsp;- [[:Category:Brysonieth|Bresonieth]]&nbsp;- [[:Category:Stedhians|Socyologieth]]&nbsp;- [[:Category:Erbysieth|Erbysieth]]
-<!---------------------------------------------->
-|-
-<!---------------------------------------------->
-|width="10%"|[[File:Nuvola apps display.png|40px|center]]
-|width="90%" style="font-size:95%;border-top:1px dashed #AAAAAA;"|'''[[:Category:Teknoloji|Teknegieth]]'''<br />
-[[:Category:Ammeth|Abmeth]]&nbsp;- [[:Category:Pennserneth|Pennserneth]]&nbsp;- [[:Category:Amontieth|Amontieth]]&nbsp;- [[:Category:Tredan|Elektronek]]&nbsp;- [[:Category:Ynjinorieth|Jynnorieth]]&nbsp;- [[:Category:Armi|Lu]]&nbsp;- [[:Category:Karyans|Caryans]]
-<!---------------------------------------------->
-|}
-|}
-
-==Ragdresow whor Wikipedia==
-<div style="font-size: 90%;">
-{|width="100%" align="center" cellpadding="2" style="text-align:left;"
-|[[File:Commons-logo.svg|35px|Wikimedia Commons]]
-|[[commons:Main Page|'''Wikimedia Commons''']]<br />Ughcarga imajys ha restrednow rag devnydh a-dreus pub Wikipedia oll
-|[[File:Wiktionary-logo-en.png|35px|Wiktionary]]
-|[[wikt:en:Main Page|'''Wiktionary''']]<br />Keworra geryow Kernowek ha'ga styryow dhe erlyver warlinen
-|[[File:Wikisource-logo.png|35px|Wikisource]]
-|[http://wikisource.org/wiki/Main_Page:Kernewek '''Wikisource''']<br />Keworra textow ha mabmscrifow Kernowek, ha treylya re erel
+</div>
+</div>
+</div>
+<!-- ================Diwedh an goloven dhyhow================-->
+</div></div>
+<!-- =======Kevrennow====== -->
+<div id="mp-2012-links" class="nomobile">
+<table><tr>
+<td>
+<h3>Kevrennow</h3>
+*[[Wikipedia:Porth an gemeneth|Porth an gemeneth]]
+*[[Wikipedia:An tavern|An tavern]]
+*[[Wikipedya|A-dro dhe Wikipedya]]
+*[[Wikipedia:Gerva|Gerva deknogel]]
+</td>
+<td>
+<h3>Kedhlow</h3>
+*[[Wikipedia:Gweres|Gweres gans chanjya]]
+*[[Wikipedia:Policiow|Policiow an wiasva]]
+*[[Wikipedia:Menystroryon|Menystroryon]]
+*[[Arbennek:DevnydhyoryonByw|Devnydhyoryon byw]]
+</td>
+<td>
+<h3>Lewya</h3>
+*[[Arbennek:FolennowNowyth|Folennow nowyth]]
+*[[Arbennek:Chanjyow_a-dhiwedhes|Chanjyow a-dhiwedhes]]
+*[[Wikipedia:Klassys|Klassys]]
+</td>
+</tr></table>
+</div>
+<!--  =======Ragdresow hwor========   -->
+<div id="mp-2012-sisters" class="nomobile">
+<div>[[File:Wikimedia-logo.svg|45px|center|link=]]</div>
+<p style="text-align:center;">Ostyes yw '''Wikipedya''' gans an [[:wikimedia:|Fondyans Wikimedia]], kowethas heb profit. An Fondyans a ost ynwedh an ragdresow wiki Kernewek erel a syw：</p>
+{| class="plainlinks" align="center" cellpadding="2" style="width:90%; background-color:transparent; color:#777; font-size:95%;"
+| style="text-align:center; padding:4px;" |[[File:Commons-logo.svg|center|37px|link=commons:|Wikimedia Commons]]
+| style="width:35%;padding:4px;" | [[commons:|'''Wikimedia Commons''']]<br /><span style="font-size:85%;">Ughkarga imajys ha restrennow rag devnydh dres keniver ragdres Wikimedia</span>
+| style="text-align:center; padding:4px;" |[[File:Wiktprintable without text.svg|center|35px|link=wikt:|Wiktionary]]
+| style="width:35%;padding:4px;" | [[wikt:|'''Wiktionary''']]<br /><span style="font-size:85%;">Keworra geryow Kernewek ha'ga styryow dhe erlyver warlinen</span>
+| style="text-align:center; padding:4px;" |[[File:Wikisource-logo.svg|center|35px|link=s:Main Page/Kernewek|Wikisource]]
+| style="width:30%; padding:4px;" | [[s:Main Page/Kernewek|'''Wikisource''']]<br /><span style="font-size:85%;">Keworra tekstow ha mammskrifow Kernewek, ha treylya re erel</span>
 |}
 </div>
-
-{{Interwiki}}
+<!-- global wrapper end -->
+</div>
