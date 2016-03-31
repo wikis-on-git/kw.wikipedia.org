@@ -1,21 +1,66 @@
-<div class="thumb tright">
-<div style="width:300px;">
-{|  
-|valign="top"|[[Restren:Common snail.jpg|90px|Bulhorn]]
-|valign="top"|[[Restren:Nerr0328.jpg|90px|Pryvenn goes (Glycera)]]
-|valign="top"|[[Restren:Nerr0878.jpg|90px|Pympbysyes]]
-|-
-|[[Restren:Nephila inaurata dsc07682.jpg|70px|Gwiader]]
-|[[Restren:Grey Nurse Shark at Fish Rock Cave, NSW.jpg|120px|]]
-|[[Restren:Taenia saginataD.JPG|80px|Pryvenn blatt (Taenia saginata)]]
-|-
-|valign="bottom"|[[Restren:Ascaris lumbricoides.jpeg|90px|Nematoda]]
-|valign="bottom"|[[Restren:Anemone.bristol.750pix.jpg|90px|Anthozoa (anemone an mor)]]
-|valign="bottom"|[[Restren:Woda-1 ubt.jpeg|90px|Spong]]
-|}
-</div>
-<div class="thumbcaption" style="width:300px;">Naw eghenn enyval, pub huni dhiworth ''phylum'' dihaval.</div>
-</div>
+{{Taxobox
+| name = Enyvales
+| fossil_range = [[Cryogenian]] – [[Holocene]]
+| image = Animal diversity.png
+| image_width = 350px
+| taxon = Animalia
+| regnum = '''Animalia'''
+| regnum_authority = [[Carolus Linnaeus|Linnaeus]], [[Systema Naturae|1758]]
+| subdivision_ranks = [[Phylum|Phyla]]
+| subdivision =
+* '''Subkingdom [[Parazoa]]'''
+** [[Sponge|Porifera]]
+** [[Placozoa]]
+* '''Subkingdom [[Eumetazoa]]'''
+** '''[[Radiata]] (unranked)'''
+*** [[Ctenophora]]
+*** [[Cnidaria]]
+*** [[Trilobozoa]] [[extinction|†]]
+** '''[[Bilateria]] (unranked)'''
+*** [[Tullimonstrum]] [[extinction|†]]
+*** [[Proarticulata]] [[extinction|†]]
+*** '''[[Mesozoa]] (unranked)'''
+**** [[Orthonectida]]
+**** [[Rhombozoa]]
+**** [[Monoblastozoa]]
+*** '''[[Nephrozoa]] (unranked)'''
+**** [[Chaetognatha]]
+**** '''Superphylum [[Deuterostomia]]'''
+***** [[Chordata]]
+***** [[Hemichordata]]
+***** [[Echinoderm]]ata
+***** [[Xenacoelomorpha]]
+***** [[Vetulicolia]] [[extinction|†]]
+**** '''[[Protostomia]] (unranked)'''
+***** '''Superphylum [[Ecdysozoa]]'''
+****** [[Kinorhyncha]]
+****** [[Loricifera]]
+****** [[Priapulida]]
+****** [[Nematoda]]
+****** [[Nematomorpha]]
+****** [[Onychophora]]
+****** [[Tardigrada]]
+****** [[Arthropoda]]
+***** '''Superphylum [[Platyzoa]]'''
+****** [[Platyhelminthes]]
+****** [[Gastrotricha]]
+****** [[Rotifera]]
+****** [[Acanthocephala]]
+****** [[Gnathostomulida]]
+****** [[Micrognathozoa]]
+****** [[Cycliophora]]
+***** '''Superphylum [[Lophotrochozoa]]'''
+****** [[Sipuncula]]
+****** [[Hyolitha]] [[extinction|†]]
+****** [[Nemertea]]
+****** [[Phoronida]]
+****** [[Bryozoa]]
+****** [[Entoprocta]]
+****** [[Brachiopoda]]
+****** [[Mollusca]]
+****** [[Annelida]]
+| synonyms = * Metazoa <small>[[Haeckel]], 1874</small>
+}}
 
 '''Enyvales''' po '''miles''' yw eseli an wlaskor [[Bywonieth|vywoniethek]] ''Animalia''. Y fywons i y'n [[mor]] ha'n [[nor]]; lies eghenn a yll nija y'n ayr ynwedh. Lies kell a'n jeves, ha galloes gwaya ha gorthybi dhe'n kyrghynnedh. I a dyber kreatoryon byw erell (enyvales, [[plans]]ow, [[korrbryv]]es, h.e.). War-lergh savonow bywonieth, [[tus]] a wra rann a'n wlaskor ''Animalia'' (h.y. y'n urdh ''Primates'' a'n ''Mammalia'', po [[bronnviles]]).
 
