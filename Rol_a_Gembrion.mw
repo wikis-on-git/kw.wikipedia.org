@@ -1,0 +1,15 @@
+{{Wikidata list
+|sparql=SELECT ?item ?yob ?yod WHERE {
+?item wdt:P19 ?pob .
+?pob wdt:P131* ?parts . 
+wd:Q25 wdt:P527 ?parts . 
+OPTIONAL { ?item wdt:P569 ?dob . BIND(YEAR(?dob) as ?yob) }
+OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
+. } 
+|wdq=.
+|sort=569
+|section=31
+|columns=number:#,P18:Imach,label:Hanow,?yob:Dedhyas genesigeth,?yod:Dedhyas mernans,P19:Tyller genesigeth
+}}
+
+{{Wikidata list end}}
