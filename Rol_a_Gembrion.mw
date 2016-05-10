@@ -1,7 +1,7 @@
 {{Wikidata list
 |sparql=SELECT ?item ?yob ?yod WHERE {
 { ?item wdt:P19 ?pob . 
-?pob wdt:P131* wd:Q23148 }
+?pob wdt:P131* wd:Q25 }
 UNION { ?item wdt:P19 wd:Q23148 }
 OPTIONAL { ?item wdt:P569 ?dob . BIND(YEAR(?dob) as ?yob) }
 OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
