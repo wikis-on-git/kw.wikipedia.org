@@ -80,6 +80,23 @@ Notenn: Yma an rol ma ow synsi ynni '''tus''' aga genesigeth, kerens po trigas s
 * [[Wagon Christ|Luke Vibert]]: ilewydh "tredanek"
 * [[Brenda Wootton]]: bardhes ha kenyades
 
+==Tabl==
+{{Wikidata list
+|sparql=SELECT ?item ?yob ?yod WHERE {
+{ ?item wdt:P19 ?pob . 
+?pob wdt:P131* wd:Q23148 }
+UNION { ?item wdt:P19 wd:Q23148 }
+OPTIONAL { ?item wdt:P569 ?dob . BIND(YEAR(?dob) as ?yob) }
+OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
+} 
+|wdq=.
+|sort=569
+|section=31
+|columns=number:#,P18:Imach,label:Hanow,?yob:Dedhyas genesigeth,?yod:Dedhyas mernans,P19:Tyller genesigeth
+}}
+
+{{Wikidata list end}}
+
 {{Porth Kernow}}
 
 [[Category:Kernowyon| ]]
