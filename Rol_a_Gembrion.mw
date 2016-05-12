@@ -18767,7 +18767,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Aberystwyth]]
 |-
 |style='text-align:right'| 2679
-| [[Restren:Iwan Rheon.jpg|center|128px]]
+| 
 | ''[[:d:Q1148937|Iwan Rheon]]''
 | 1985
 | 
