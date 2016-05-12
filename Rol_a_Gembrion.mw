@@ -44,7 +44,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |style='text-align:right'| 4
 | [[Restren:015 Plonivel Saint Brieuc.JPG|center|128px]]
 | ''[[:d:Q2476943|Brioc]]''
-| 401
+| 460
 | 
 | ''[[:d:Q217829|Q217829]]''
 |-
@@ -20286,7 +20286,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Bangor]]
 |-
 |style='text-align:right'| 2896
-| 
+| [[Restren:Jamie Lucas at Bristol Rovers in 2015.jpg|center|128px]]
 | ''[[:d:Q17403531|Jamie Lucas]]''
 | 1995
 | 
@@ -21126,258 +21126,265 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kembra]]
 |-
 |style='text-align:right'| 3016
+| [[Restren:Eglwys Sant Cynhaiarn St Cynhaearn's Church, Ynyscynhaearn, Gwynedd North Wales 05.JPG|center|128px]]
+| ''[[:d:Q18535539|Cynhaiarn]]''
+| 
+| 
+| ''[[:d:Q19871789|Q19871789]]''
+|-
+|style='text-align:right'| 3017
 | 
 | ''[[:d:Q18535617|Meirion Evans]]''
 | 
 | 
 | ''[[:d:Q5441898|Q5441898]]''
 |-
-|style='text-align:right'| 3017
+|style='text-align:right'| 3018
 | [[Restren:Eglwys Fihangel Sant Saint Michaels Church Betws-y-Coed Conwy Gwynedd Cymru Wales 42.JPG|center|128px]]
 | ''[[:d:Q18535647|Gruffudd ap Dafydd Goch]]''
 | 
 | 
 | ''[[:d:Q109128|Q109128]]''
 |-
-|style='text-align:right'| 3018
+|style='text-align:right'| 3019
 | [[Restren:St. Gwenfaen's Well, Rhoscolyn Head, Ynys Gybi. - geograph.org.uk - 108900.jpg|center|128px]]
 | ''[[:d:Q18535665|Gwenfaen]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 3019
+|style='text-align:right'| 3020
 | 
 | ''[[:d:Q18535925|Rhuddlad]]''
 | 
 | 
 | ''[[:d:Q4657278|Q4657278]]''
 |-
-|style='text-align:right'| 3020
+|style='text-align:right'| 3021
 | 
 | ''[[:d:Q18589182|Adwen]]''
 | 
 | 
 | ''[[:d:Q954585|Q954585]]''
 |-
-|style='text-align:right'| 3021
+|style='text-align:right'| 3022
 | [[Restren:Saint Aelhaiarn.png|center|128px]]
 | ''[[:d:Q18593818|Aelhaearn]]''
 | 
 | 
 | [[Powys]]
 |-
-|style='text-align:right'| 3022
+|style='text-align:right'| 3023
 | [[Restren:Sant Ilar (st ilar) ('St Hilary's Church' is NEVER used), Llanilar, Aberystwyth, Ceredigion, Cymru 68.JPG|center|128px]]
 | ''[[:d:Q18691847|Saint Ilar]]''
 | 
 | 
 | ''[[:d:Q217829|Q217829]]''
 |-
-|style='text-align:right'| 3023
+|style='text-align:right'| 3024
 | 
 | ''[[:d:Q18730245|Efa ferch Maredudd]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 3024
+|style='text-align:right'| 3025
 | 
 | ''[[:d:Q18762129|William Price]]''
 | 
 | 1596
 | ''[[:d:Q650682|Q650682]]''
 |-
-|style='text-align:right'| 3025
+|style='text-align:right'| 3026
 | 
 | ''[[:d:Q19325211|Richard Hughes]]''
 | 
 | 1619
 | [[Llanbedrog]]
 |-
-|style='text-align:right'| 3026
+|style='text-align:right'| 3027
 | 
 | ''[[:d:Q19560780|Harold Hughes]]''
 | 
 | 
 | ''[[:d:Q752762|Q752762]]''
 |-
-|style='text-align:right'| 3027
+|style='text-align:right'| 3028
 | 
 | ''[[:d:Q19829084|Arthur Lewis]]''
 | 
 | 1952
 | [[Aberystwyth]]
 |-
-|style='text-align:right'| 3028
+|style='text-align:right'| 3029
 | 
 | ''[[:d:Q19958045|Janet Haworth]]''
 | 
 | 
 | [[Llandudno]]
 |-
-|style='text-align:right'| 3029
+|style='text-align:right'| 3030
 | 
 | ''[[:d:Q20558584|Allgo]]''
 | 
 | 
 | ''[[:d:Q6661065|Q6661065]]''
 |-
-|style='text-align:right'| 3030
+|style='text-align:right'| 3031
 | 
 | ''[[:d:Q20638154|Rhisiart Iorwerth]]''
 | 
 | 
 | ''[[:d:Q6661579|Q6661579]]''
 |-
-|style='text-align:right'| 3031
+|style='text-align:right'| 3032
 | 
 | ''[[:d:Q20732632|Arthur Jones]]''
 | 
 | 
 | ''[[:d:Q6661405|Q6661405]]''
 |-
-|style='text-align:right'| 3032
+|style='text-align:right'| 3033
 | 
 | ''[[:d:Q20732683|Cadwgan Delynor]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 3033
+|style='text-align:right'| 3034
 | 
 | ''[[:d:Q20732689|Caradog Fynach]]''
 | 
 | 1124
 | ''[[:d:Q954585|Q954585]]''
 |-
-|style='text-align:right'| 3034
+|style='text-align:right'| 3035
 | 
 | ''[[:d:Q20732748|Dafydd Llwyd]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 3035
+|style='text-align:right'| 3036
 | 
 | ''[[:d:Q20732773|Daniel Jones]]''
 | 
 | 1821
 | [[Llanboidy]]
 |-
-|style='text-align:right'| 3036
+|style='text-align:right'| 3037
 | 
 | ''[[:d:Q20733217|Huw ap Dafydd]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 3037
+|style='text-align:right'| 3038
 | 
 | ''[[:d:Q20733219|Huw ap Morus]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 3038
+|style='text-align:right'| 3039
 | 
 | ''[[:d:Q20733220|Huw ap Rhisiart ap Dafydd]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 3039
+|style='text-align:right'| 3040
 | 
 | ''[[:d:Q20733752|Judith Godwin]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 3040
+|style='text-align:right'| 3041
 | 
 | ''[[:d:Q20738132|Margaret Jones]]''
 | 
 | 
 | [[Rhosllannerchrugog]]
 |-
-|style='text-align:right'| 3041
+|style='text-align:right'| 3042
 | 
 | ''[[:d:Q20746780|Laura Evans-Williams]]''
 | 
-| 
+| 1944
 | [[Henllan]]
 |-
-|style='text-align:right'| 3042
+|style='text-align:right'| 3043
 | 
 | ''[[:d:Q20748859|Margaret Thomas]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 3043
+|style='text-align:right'| 3044
 | 
 | ''[[:d:Q20804657|Mary Jane Evans]]''
 | 
 | 
 | ''[[:d:Q7653726|Q7653726]]''
 |-
-|style='text-align:right'| 3044
+|style='text-align:right'| 3045
 | 
 | ''[[:d:Q20804739|Mary Owen]]''
 | 
 | 
 | [[Llansawel]]
 |-
-|style='text-align:right'| 3045
+|style='text-align:right'| 3046
 | 
 | ''[[:d:Q20955871|Huw M.]]''
 | 
 | 
 | [[Bangor]]
 |-
-|style='text-align:right'| 3046
+|style='text-align:right'| 3047
 | 
 | ''[[:d:Q21481534|John Williams]]''
 | 
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 3047
+|style='text-align:right'| 3048
 | 
 | ''[[:d:Q21544278|Thomas Howell]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 3048
+|style='text-align:right'| 3049
 | 
 | ''[[:d:Q22704062|Rebecca Harries]]''
 | 
 | 
 | [[Llandybïe]]
 |-
-|style='text-align:right'| 3049
+|style='text-align:right'| 3050
 | 
 | ''[[:d:Q23047441|Hugh Morgan-Owen]]''
 | 
 | 1953
 | [[Y Rhyl]]
 |-
-|style='text-align:right'| 3050
+|style='text-align:right'| 3051
 | 
 | ''[[:d:Q23812726|Rhian Edwards]]''
 | 
 | 
 | [[Pen-y-bont ar Ogwr]]
 |-
-|style='text-align:right'| 3051
+|style='text-align:right'| 3052
 | 
 | ''[[:d:Q23892568|Aelrhiw]]''
 | 
 | 
 | ''[[:d:Q3395308|Q3395308]]''
 |-
-|style='text-align:right'| 3052
+|style='text-align:right'| 3053
 | 
 | ''[[:d:Q24020880|Cywair]]''
 | 
