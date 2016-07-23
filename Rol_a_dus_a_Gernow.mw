@@ -2344,7 +2344,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Cambron]]
 |-
 |style='text-align:right'| 321
-| [[Restren:Scot Bennett 28-02-2015 1.JPG|center|128px]]
+| [[Restren:Scot Bennett 28-02-2015 1.jpg|center|128px]]
 | ''[[:d:Q7435458|Scot Bennett]]''
 | 1990
 | 
