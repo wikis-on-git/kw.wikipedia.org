@@ -504,7 +504,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q650682|Q650682]]''
 |-
 |style='text-align:right'| 70
-| [[Restren:Richard Gwyn.jpg|center|128px]]
+|
 | ''[[:d:Q3397314|Richard Gwyn]]''
 | 1537
 | 1584
