@@ -1000,7 +1000,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Lyskerrys]]
 |-
 |style='text-align:right'| 129
-| [[Restren:Samuel Pollard.jpg|center|128px]]
+|
 | ''[[:d:Q601973|Sam Pollard]]''
 | 1864
 | 1915
