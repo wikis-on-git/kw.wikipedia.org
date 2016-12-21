@@ -2260,7 +2260,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Truru]]
 |-
 |style='text-align:right'| 309
-| [[Restren:Helen Glover with 2012 Olypic Gold medal.jpg|center|128px]]
+| [[Restren:Helen Glover with 2012 Olympic Gold medal.jpg|center|128px]]
 | ''[[:d:Q2040115|Helen Glover]]''
 | 1986
 | 
