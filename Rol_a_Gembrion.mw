@@ -1060,7 +1060,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q320344|Francis Tregian the Younger]]''
 | 1574
-| 1617
+| 1619
 | [[Kernow]]
 |-
 |style='text-align:right'| 150
