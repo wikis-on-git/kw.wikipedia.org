@@ -219,7 +219,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q16931629|John Read]]''
 | 1633
-| 
+| 1730
 | ''[[:d:Q7982562|Q7982562]]''
 |-
 |style='text-align:right'| 18
