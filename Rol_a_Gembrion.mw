@@ -1767,7 +1767,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Restren:Jane Cave from her book.jpg|center|128px]]
 | ''[[:d:Q13129300|Jane Cave]]''
 | 1750
-| 1812
+| 1813
 | [[Kembra]]
 |-
 |style='text-align:right'| 251
@@ -13189,7 +13189,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 1882
 | 
-| ''[[:d:Q28752872|Doreen Cranch]]''
+| ''[[:d:Q28752872|Doreen Vermeulen-Cranch]]''
 | 1915
 | 2011
 | [[Abertyleri]]
@@ -32179,7 +32179,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q6661223|Q6661223]]''<br/>[[Kembra]]
 |-
 |style='text-align:right'| 4595
-| 
+| [[Restren:Eliot Richards 2014-01-18 1.jpg|center|128px]]
 | ''[[:d:Q5361252|Eliot Richards]]''
 | 1991
 | 
