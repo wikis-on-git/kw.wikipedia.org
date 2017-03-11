@@ -21763,7 +21763,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Pen-y-bont ar Ogwr]]
 |-
 |style='text-align:right'| 3107
-| [[Restren:44050172 sinclair203.jpg|center|128px]]
+|
 | ''[[:d:Q6370035|Karen Sinclair]]''
 | 1952
 | 
