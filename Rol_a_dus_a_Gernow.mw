@@ -4104,7 +4104,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q24845830|Samuel Mitchell]]''
 | 
-| 
+| 1912
 | [[Kernow]]
 |-
 |style='text-align:right'| 573
