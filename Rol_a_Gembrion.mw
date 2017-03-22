@@ -21714,7 +21714,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q1021164|Q1021164]]''
 |-
 |style='text-align:right'| 3100
-| [[Restren:MichaelJones.jpg|center|128px]]
+| [[Restren:Michael Jones (Fête de la musique, Vitrolles, Bouches-du-Rhône, France).jpg|center|128px]]
 | ''[[:d:Q438832|Michael Jones]]''
 | 1952
 | 
