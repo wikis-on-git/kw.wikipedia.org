@@ -434,7 +434,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kembra]]
 |-
 |style='text-align:right'| 60
-| 
+| [[Restren:Yr Eglwys Wen Dinbych St Marcella 06.JPG|center|128px]]
 | ''[[:d:Q27924032|Marchell]]''
 | 700
 | 
@@ -13958,7 +13958,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Prestatyn]]
 |-
 |style='text-align:right'| 1992
-| [[Restren:Dr Meredydd Evans ar Ddiwylliant Cymru WE on Welsh music.webmsd.webm|center|128px]]
+| 
 | ''[[:d:Q6819009|Meredydd Evans]]''
 | 1919
 | 2015
@@ -19561,7 +19561,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q713489|David Kelly]]''
 | 1944
-| 2003
+| 2012
 | ''[[:d:Q1859627|Q1859627]]''
 |-
 |style='text-align:right'| 2793
