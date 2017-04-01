@@ -2724,108 +2724,108 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 387
 | 
-| ''[[:d:Q1407390|John Thomas]]''
-| 1810
-| 1862
-| [[Aberhonddu]]
-|-
-|style='text-align:right'| 388
-| 
 | ''[[:d:Q7791382|Thomas Jones]]''
 | 1810
 | 1849
 | ''[[:d:Q38825|Q38825]]''
 |-
-|style='text-align:right'| 389
+|style='text-align:right'| 388
 | [[Restren:Johndillwyn thoughful.jpg|center|128px]]
 | ''[[:d:Q3403542|John Dillwyn Llewelyn]]''
 | 1810
 | 1882
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 390
+|style='text-align:right'| 389
 | 
 | ''[[:d:Q6231972|John Evan Thomas]]''
 | 1810
 | 1873
 | [[Aberhonddu]]
 |-
-|style='text-align:right'| 391
+|style='text-align:right'| 390
 | [[Restren:C A Duval.jpg|center|128px]]
 | ''[[:d:Q5075082|Charles Allen Duval]]''
 | 1810
 | 1872
 | [[Biwmares|Biwmaris]]
 |-
-|style='text-align:right'| 392
+|style='text-align:right'| 391
 | 
 | ''[[:d:Q13129299|Jane Hughes]]''
 | 1811
 | 1878
 | ''[[:d:Q3403463|Q3403463]]''
 |-
-|style='text-align:right'| 393
+|style='text-align:right'| 392
 | 
 | ''[[:d:Q18529229|Mary Catherine Pendrill Llewelyn]]''
 | 1811
 | 1874
 | ''[[:d:Q2145305|Q2145305]]''
 |-
-|style='text-align:right'| 394
+|style='text-align:right'| 393
 | 
 | ''[[:d:Q13129361|John Williams]]''
 | 1811
 | 1862
 | [[Llangynhafal]]
 |-
-|style='text-align:right'| 395
+|style='text-align:right'| 394
 | [[Restren:William Robert Grove 2.jpg|center|128px]]
 | ''[[:d:Q561117|William Robert Grove]]''
 | 1811
 | 1896
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 396
+|style='text-align:right'| 395
 | 
 | ''[[:d:Q5724046|Henry Jones]]''
 | 1812
 | 1891
 | [[Trefynwy]]
 |-
-|style='text-align:right'| 397
+|style='text-align:right'| 396
 | [[Restren:John Lort Stokes.jpg|center|128px]]
 | ''[[:d:Q1700884|John Lort Stokes]]''
 | 1812
 | 1885
 | [[Hwlffordd]]
 |-
-|style='text-align:right'| 398
+|style='text-align:right'| 397
 | 
 | ''[[:d:Q5052698|Catherine Gladstone]]''
 | 1812
 | 1900
 | ''[[:d:Q370127|Q370127]]''
 |-
-|style='text-align:right'| 399
+|style='text-align:right'| 398
 | [[Restren:Dr Owen Thomas (1812-91) NLW3362711.jpg|center|128px]]
 | ''[[:d:Q18880154|Owen Thomas]]''
 | 1812
 | 1891
 | [[Caergybi]]
 |-
-|style='text-align:right'| 400
+|style='text-align:right'| 399
 | 
 | ''[[:d:Q13129342|John Parry]]''
 | 1812
 | 1874
 | ''[[:d:Q4894927|Q4894927]]''
 |-
-|style='text-align:right'| 401
+|style='text-align:right'| 400
 | [[Restren:Henry Richard, Vanity Fair, 1880-09-04.jpg|center|128px]]
 | ''[[:d:Q5727523|Henry Richard]]''
 | 1812
 | 1888
 | [[Tregaron]]
+|-
+|style='text-align:right'| 401
+| 
+| ''[[:d:Q1407390|John Thomas]]''
+| 1813
+| 1862
+| [[Aberhonddu]]
 |-
 |style='text-align:right'| 402
 | [[Restren:Meiriadog at the Powys Eisteddfod (1892) NLW3362573.jpg|center|128px]]
