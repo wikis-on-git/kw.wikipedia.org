@@ -1246,7 +1246,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Trefynwy]]
 |-
 |style='text-align:right'| 176
-| [[Restren:George Jeffreys.jpg|center|128px]]
+| [[Restren:George, 1st Baron Jeffreys of Wem, by John Riley.jpg|center|128px]]
 | ''[[:d:Q336556|George Jeffreys, 1st Baron Jeffreys]]''
 | 1645
 | 1689
@@ -2905,39 +2905,39 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Bangor]]
 |-
 |style='text-align:right'| 413
-| 
-| ''[[:d:Q21480955|John Pughe]]''
-| 1814
-| 1874
-| ''[[:d:Q6661152|Q6661152]]''
-|-
-|style='text-align:right'| 414
 | [[Restren:John James Hughes.jpg|center|128px]]
 | ''[[:d:Q328225|John Hughes]]''
 | 1814
 | 1889
 | ''[[:d:Q752762|Q752762]]''
 |-
-|style='text-align:right'| 415
+|style='text-align:right'| 414
 | 
 | ''[[:d:Q5236568|David Lewis]]''
 | 1814
 | 1884
 | ''[[:d:Q217829|Keredigyon]]''
 |-
-|style='text-align:right'| 416
+|style='text-align:right'| 415
 | 
 | ''[[:d:Q15994396|William Davies]]''
 | 1814
 | 1891
 | [[Treffynnon]]
 |-
-|style='text-align:right'| 417
+|style='text-align:right'| 416
 | [[Restren:Revd John Evans (I D Ffraid or Adda Jones, 1814-75) NLW3364082.jpg|center|128px]]
 | ''[[:d:Q5967953|John Evans]]''
 | 1814
 | 1875
 | ''[[:d:Q817971|Konwy]]''
+|-
+|style='text-align:right'| 417
+| 
+| ''[[:d:Q21480955|John Pughe]]''
+| 1814
+| 1874
+| ''[[:d:Q6661152|Q6661152]]''
 |-
 |style='text-align:right'| 418
 | 
@@ -3249,7 +3249,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 462
 | [[Restren:Alfred-Russel-Wallace-c1895.jpg|center|128px]]
-| ''[[:d:Q160627|Alfred Russel Wallace]]''
+| ''[[:d:Q160627|Wallace don alberto]]''
 | 1823
 | 1913
 | [[Brynbuga]]
