@@ -3249,7 +3249,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 462
 | [[Restren:Alfred-Russel-Wallace-c1895.jpg|center|128px]]
-| ''[[:d:Q160627|Wallace don alberto]]''
+| ''[[:d:Q160627|Alfred Russel Wallace]]''
 | 1823
 | 1913
 | [[Brynbuga]]
