@@ -503,18 +503,18 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Pennsans]]
 |-
 |style='text-align:right'| 58
-| [[Restren:Charles incledon.jpg|center|128px]]
-| ''[[:d:Q4201127|Charles Incledon]]''
-| 1763
-| 1826
-| [[Kernow]]
-|-
-|style='text-align:right'| 59
 | 
 | ''[[:d:Q6290490|Josiah Fox]]''
 | 1763
 | 1847
 | [[Aberfala]]
+|-
+|style='text-align:right'| 59
+| [[Restren:Charles incledon.jpg|center|128px]]
+| ''[[:d:Q4201127|Charles Incledon]]''
+| 1763
+| 1826
+| [[Kernow]]
 |-
 |style='text-align:right'| 60
 | 
