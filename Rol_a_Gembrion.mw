@@ -528,7 +528,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Restren:St.David's Cathedral - Dreieinigkeitskapelle 5 Giraldus Cambrensis.jpg|center|128px]]
 | ''[[:d:Q357824|Gerald of Wales]]''
 | 1146
-| 1223
+| 1220
 | ''[[:d:Q1508342|Q1508342]]''
 |-
 |style='text-align:right'| 74
@@ -1498,7 +1498,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Llandaf]]
 |-
 |style='text-align:right'| 212
-| [[Restren:Mengs - Richard Wilson.jpg|center|128px]]
+| [[Restren:Richard Wilson (1714-1782), by Anton Raphael Mengs.jpg|center|128px]]
 | ''[[:d:Q471387|Richard Wilson]]''
 | 1713
 | 1782
@@ -12356,129 +12356,129 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 1763
 | 
-| ''[[:d:Q5337227|Edgar Evans]]''
-| 1912
-| 2007
-| ''[[:d:Q217829|Keredigyon]]''
-|-
-|style='text-align:right'| 1764
-| 
 | ''[[:d:Q6113680|Jack Lewis]]''
 | 1912
 | 
 | [[Porthcawl]]
 |-
-|style='text-align:right'| 1765
+|style='text-align:right'| 1764
 | 
 | ''[[:d:Q16012333|Wynne Samuel]]''
 | 1912
 | 1989
 | [[Ystalyfera]]
 |-
-|style='text-align:right'| 1766
+|style='text-align:right'| 1765
 | 
 | ''[[:d:Q5372690|Emlyn Williams]]''
 | 1912
 | 1989
 | [[Maesteg]]
 |-
-|style='text-align:right'| 1767
+|style='text-align:right'| 1766
 | 
 | ''[[:d:Q13157452|J. E. Caerwyn Williams]]''
 | 1912
 | 1999
 | [[Gwauncaegurwen]]
 |-
-|style='text-align:right'| 1768
+|style='text-align:right'| 1767
 | 
 | ''[[:d:Q1586685|Harry Parry]]''
 | 1912
 | 1956
 | [[Bangor]]
 |-
-|style='text-align:right'| 1769
+|style='text-align:right'| 1768
 | 
 | ''[[:d:Q5623783|Gwyn Jones]]''
 | 1912
 | 
 | ''[[:d:Q7844935|Q7844935]]''
 |-
-|style='text-align:right'| 1770
+|style='text-align:right'| 1769
 | 
 | ''[[:d:Q24007359|Dai Lewis]]''
 | 1912
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 1771
+|style='text-align:right'| 1770
 | 
 | ''[[:d:Q4980880|Bryn Jones]]''
 | 1912
 | 1985
 | ''[[:d:Q752762|Q752762]]''
 |-
-|style='text-align:right'| 1772
+|style='text-align:right'| 1771
 | [[Restren:Clifford Evans.png|center|128px]]
 | ''[[:d:Q5132938|Clifford Evans]]''
 | 1912
 | 1985
 | [[Caerffili]]
 |-
-|style='text-align:right'| 1773
+|style='text-align:right'| 1772
 | 
 | ''[[:d:Q6535944|Lew Booth]]''
 | 1912
 | 1984
 | ''[[:d:Q752762|Q752762]]''
 |-
-|style='text-align:right'| 1774
+|style='text-align:right'| 1773
 | 
 | ''[[:d:Q6084453|Islwyn Davies]]''
 | 1912
 | 1997
 | ''[[:d:Q752762|Q752762]]''
 |-
-|style='text-align:right'| 1775
+|style='text-align:right'| 1774
 | 
 | ''[[:d:Q5236710|David Lloyd]]''
 | 1912
 | 1969
 | ''[[:d:Q7838021|Q7838021]]''
 |-
-|style='text-align:right'| 1776
+|style='text-align:right'| 1775
 | 
 | ''[[:d:Q5686444|Haydn Davies]]''
 | 1912
 | 1993
 | [[Llanelli]]
 |-
-|style='text-align:right'| 1777
+|style='text-align:right'| 1776
 | 
 | ''[[:d:Q6521680|Len Beynon]]''
 | 1912
 | 1992
 | ''[[:d:Q809009|Q809009]]''
 |-
-|style='text-align:right'| 1778
+|style='text-align:right'| 1777
 | 
 | ''[[:d:Q5235616|David Jenkins]]''
 | 1912
 | 2002
 | [[Cwm Clydach]]
 |-
-|style='text-align:right'| 1779
+|style='text-align:right'| 1778
 | [[Restren:Hugh Griffith in Ben Hur (2).jpg|center|128px]]
 | ''[[:d:Q310934|Hugh Griffith]]''
 | 1912
 | 1980
 | [[Ynys Mon]]
 |-
-|style='text-align:right'| 1780
+|style='text-align:right'| 1779
 | 
 | ''[[:d:Q4912156|Billy Bassett]]''
 | 1912
 | 1977
 | ''[[:d:Q10970286|Q10970286]]''
+|-
+|style='text-align:right'| 1780
+| 
+| ''[[:d:Q5337227|Edgar Evans]]''
+| 1912
+| 2007
+| ''[[:d:Q217829|Keredigyon]]''
 |-
 |style='text-align:right'| 1781
 | 
