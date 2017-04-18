@@ -958,7 +958,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Porthpyra]]
 |-
 |style='text-align:right'| 123
-| 
+| [[Restren:JohnCoode.jpg|center|128px]]
 | ''[[:d:Q6226989|John Coode]]''
 | 1816
 | 1892
