@@ -33614,7 +33614,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q1021164|Q1021164]]''
 |-
 |style='text-align:right'| 4800
-| 
+| [[Restren:Lisa Palfrey, Tanjimei.jpg|center|128px]]
 | ''[[:d:Q1827777|Lisa Palfrey]]''
 | 2000
 | 
