@@ -2382,7 +2382,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q15921159|Stella Turk]]''
 | 1925
-| 
+| 2017
 | [[Syllan]]
 |-
 |style='text-align:right'| 327
