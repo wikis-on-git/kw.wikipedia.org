@@ -4676,7 +4676,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Talsarnau]]
 |-
 |style='text-align:right'| 666
-| 
+| [[Restren:Ceridwen Peris.jpg|center|128px]]
 | ''[[:d:Q18756580|Alice Jones]]''
 | 1852
 | 1943
