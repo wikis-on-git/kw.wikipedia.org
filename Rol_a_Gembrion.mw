@@ -3689,7 +3689,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q3398974|Q3398974]]''
 |-
 |style='text-align:right'| 525
-| 
+| [[Restren:Anthony Howells.JPG|center|128px]]
 | ''[[:d:Q4772751|Anthony Howells]]''
 | 1832
 | 1915
