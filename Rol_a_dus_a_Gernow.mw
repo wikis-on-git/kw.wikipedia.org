@@ -881,7 +881,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7593884|Q7593884]]''
 |-
 |style='text-align:right'| 112
-| 
+| [[Restren:Colonel John Whitehead Peard- Commonly Known as Garibaldi's Englishman WDL2952.png|center|128px]]
 | ''[[:d:Q6263841|John Whitehead Peard]]''
 | 1811
 | 1880
