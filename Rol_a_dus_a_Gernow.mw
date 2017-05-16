@@ -356,7 +356,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Ryskammel]]
 |-
 |style='text-align:right'| 37
-| 
+| [[Restren:JosephFox1.jpg|center|128px]]
 | ''[[:d:Q6283182|Joseph Fox]]''
 | 1729
 | 1785
