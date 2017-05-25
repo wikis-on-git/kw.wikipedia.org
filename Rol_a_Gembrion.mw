@@ -10199,7 +10199,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kardydh]]
 |-
 |style='text-align:right'| 1455
-| 
+| [[Restren:Eric Linklater by Stephen C Dickson.jpg|center|128px]]
 | ''[[:d:Q919835|Eric Linklater]]''
 | 1899
 | 1974
@@ -12670,7 +12670,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kembra]]
 |-
 |style='text-align:right'| 1808
-| [[Restren:BBC debate between Iorwerth Thomas (Rhondda MP) and Gwynfor Evans (15171981727) (cropped).jpg|center|128px]]
+| [[Restren:Gwynfor Evans.jpg|center|128px]]
 | ''[[:d:Q333132|Gwynfor Evans]]''
 | 1912
 | 2005
@@ -15207,7 +15207,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q977667|Noel Kinsey]]''
 | 1925
-| 
+| 2017
 | [[Treorci]]
 |-
 |style='text-align:right'| 2171
@@ -19420,7 +19420,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |style='text-align:right'| 2772
 | [[Restren:Timothy Dalton 1987.jpg|center|128px]]
 | ''[[:d:Q41233|Timothy Dalton]]''
-| 1946
+| 1944
 | 
 | [[Bae Colwyn]]
 |-
