@@ -14133,7 +14133,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kembra]]
 |-
 |style='text-align:right'| 2017
-| [[Restren:AAT Confer 3 (cropped).jpg|center|128px]]
+| [[Restren:Elaine Morgan 1987.jpg|center|128px]]
 | ''[[:d:Q449734|Elaine Morgan]]''
 | 1920
 | 2013
@@ -26334,7 +26334,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Pen-y-bont ar Ogwr]]
 |-
 |style='text-align:right'| 3760
-| 
+| [[Restren:Julien Macdonald Portrait.jpg|center|128px]]
 | ''[[:d:Q3404358|Julien Macdonald]]''
 | 1971
 | 
