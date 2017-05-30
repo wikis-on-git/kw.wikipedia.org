@@ -577,7 +577,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Richard Trevithick]]
 | 1771
 | 1833
-| [[Cambron]]
+| ''[[:d:Q7837824|Q7837824]]''
 |-
 |style='text-align:right'| 69
 | [[Restren:Henry Trengrouse.jpg|center|128px]]
