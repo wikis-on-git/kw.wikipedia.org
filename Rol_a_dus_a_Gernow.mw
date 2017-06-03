@@ -623,7 +623,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 75
 | [[Restren:Humphry davy.jpg|center|128px]]
-| ''[[:d:Q131761|Humphy Davy]]''
+| ''[[:d:Q131761|Humphry Davy]]''
 | 1778
 | 1829
 | [[Pennsans]]
@@ -4102,61 +4102,68 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 572
 | 
+| ''[[:d:Q7177916|Peter of Cornwall]]''
+| 
+| 1221
+| [[Lannstefan]]
+|-
+|style='text-align:right'| 573
+| 
 | ''[[:d:Q3048472|Edward Byllynge]]''
 | 
 | 1687
 | [[Kernow]]
 |-
-|style='text-align:right'| 573
+|style='text-align:right'| 574
 | 
 | ''[[:d:Q5240165|David Sturzaker]]''
 | 
 | 
 | [[Resrudh]]
 |-
-|style='text-align:right'| 574
+|style='text-align:right'| 575
 | 
 | ''[[:d:Q6770144|Mark Versallion]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 575
+|style='text-align:right'| 576
 | 
 | ''[[:d:Q7325480|Richard Eliot]]''
 | 
 | 
 | ''[[:d:Q7230603|Q7230603]]''
 |-
-|style='text-align:right'| 576
+|style='text-align:right'| 577
 | 
 | ''[[:d:Q19412412|Tim Saunders]]''
 | 
 | 
 | [[Bosvenegh]]
 |-
-|style='text-align:right'| 577
+|style='text-align:right'| 578
 | 
 | ''[[:d:Q21535216|John Arscott]]''
 | 
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 578
+|style='text-align:right'| 579
 | 
 | ''[[:d:Q24845830|Samuel Mitchell]]''
 | 
 | 1912
 | [[Kernow]]
 |-
-|style='text-align:right'| 579
+|style='text-align:right'| 580
 | 
 | ''[[:d:Q24845850|Henry Cotton]]''
 | 
 | 
 | [[Austol]]
 |-
-|style='text-align:right'| 580
+|style='text-align:right'| 581
 | 
 | ''[[:d:Q28036733|Порфирий (Плант)]]''
 | 
