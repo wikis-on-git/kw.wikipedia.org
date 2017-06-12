@@ -25572,7 +25572,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 3651
 | [[Restren:Susanelanjones.jpg|center|128px]]
-| ''[[:d:Q750381|Susan Jones]]''
+| ''[[:d:Q750381|Susan Elan Jones]]''
 | 1968
 | 
 | ''[[:d:Q7227631|Q7227631]]''
