@@ -5135,7 +5135,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q4888470|Benjamin Davies]]''
 | 1858
 | 1943
-| ''[[:d:Q23051|Q23051]]''
+| ''[[:d:Q23051|Q23051]]''<br/>[[Pontardawe]]
 |-
 |style='text-align:right'| 732
 | 
