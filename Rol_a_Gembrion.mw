@@ -886,7 +886,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q318192|Robert Recorde]]''
 | 1512
 | 1558
-| [[Kembra]]
+| [[Dinbych-y-pysgod]]
 |-
 |style='text-align:right'| 125
 | 
@@ -9517,7 +9517,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q710460|Arthur Loveridge]]''
 | 1891
 | 1980
-| [[Kembra]]
+| [[Penarth]]
 |-
 |style='text-align:right'| 1358
 | 
@@ -16335,7 +16335,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q707734|Bernard Fox]]''
 | 1927
 | 2016
-| [[Kembra]]
+| [[Port Talbot]]
 |-
 |style='text-align:right'| 2332
 | 
