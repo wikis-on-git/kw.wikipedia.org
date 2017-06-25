@@ -146,8 +146,8 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q3245937|Q3245937]]''
 |-
 |style='text-align:right'| 7
-| [[Restren:Anthony Van Dyck - Portrait of Mary Hill, Lady Killigrew - Google Art Project.jpg|center|128px]]
-| ''[[:d:Q4983334|Elizabeth Trewinnard]]''
+| 
+| ''[[:d:Q4983334|Mary Wolverston]]''
 | 1525
 | 1582
 | [[Kernow]]
