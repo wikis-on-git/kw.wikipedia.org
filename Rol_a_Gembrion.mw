@@ -1617,7 +1617,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Trefynwy]]
 |-
 |style='text-align:right'| 229
-| 
+| [[Restren:St Mary's Llanfair Mathafarn Eithaf south side.jpg|center|128px]]
 | ''[[:d:Q3773585|Goronwy Owen]]''
 | 1723
 | 1769
