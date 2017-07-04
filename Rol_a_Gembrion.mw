@@ -9310,7 +9310,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q23051|Q23051]]''
 |-
 |style='text-align:right'| 1328
-|
+| 
 | ''[[:d:Q2707044|Christopher Dawson]]''
 | 1889
 | 1970
