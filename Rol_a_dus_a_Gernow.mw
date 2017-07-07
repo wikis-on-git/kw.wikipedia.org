@@ -531,7 +531,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Fowy (tre)|Fowy]]
 |-
 |style='text-align:right'| 62
-| 
+| [[Restren:Woolfsche Balanciermaschine 1858.JPG|center|128px]]
 | ''[[:d:Q1995519|Arthur Woolf]]''
 | 1766
 | 1837
