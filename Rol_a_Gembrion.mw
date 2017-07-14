@@ -8807,87 +8807,87 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 1256
 | 
-| ''[[:d:Q7087219|Olive Wheeler]]''
-| 1886
-| 1963
-| [[Aberhonddu]]
-|-
-|style='text-align:right'| 1257
-| 
 | ''[[:d:Q7306970|Rees Richards]]''
 | 1886
 | 
 | [[Cwmafan]]
 |-
-|style='text-align:right'| 1258
+|style='text-align:right'| 1257
 | [[Restren:S.O. Davies portrait 1490010.jpg|center|128px]]
 | ''[[:d:Q7387725|S. O. Davies]]''
 | 1886
 | 1972
 | ''[[:d:Q4666838|Q4666838]]''
 |-
-|style='text-align:right'| 1259
+|style='text-align:right'| 1258
 | 
 | ''[[:d:Q24004673|Jeffrey Jones]]''
 | 1886
 | 1976
 | [[Kembra]]
 |-
-|style='text-align:right'| 1260
+|style='text-align:right'| 1259
 | 
 | ''[[:d:Q3157222|Jack Jones]]''
 | 1886
 | 1951
 | ''[[:d:Q1021164|Q1021164]]''
 |-
-|style='text-align:right'| 1261
+|style='text-align:right'| 1260
 | 
 | ''[[:d:Q3445577|Rowland Griffiths]]''
 | 1886
 | 1914
 | [[Kembra]]
 |-
-|style='text-align:right'| 1262
+|style='text-align:right'| 1261
 | [[Restren:Paul Radmilovic 1909.jpg|center|128px]]
 | ''[[:d:Q551257|Paulo Radmilovic]]''
 | 1886
 | 1968
 | [[Kardydh]]
 |-
-|style='text-align:right'| 1263
+|style='text-align:right'| 1262
 | [[Restren:Freddie Welsh 1920s.jpg|center|128px]]
 | ''[[:d:Q942249|Freddie Welsh]]''
 | 1886
 | 1927
 | [[Pontypridd]]
 |-
-|style='text-align:right'| 1264
+|style='text-align:right'| 1263
 | 
 | ''[[:d:Q6138128|James Llewellyn Davies]]''
 | 1886
 | 1917
 | ''[[:d:Q7080139|Q7080139]]''
 |-
-|style='text-align:right'| 1265
+|style='text-align:right'| 1264
 | 
 | ''[[:d:Q6251352|John Osborn Williams]]''
 | 1886
 | 1963
 | [[Kardydh]]
 |-
-|style='text-align:right'| 1266
+|style='text-align:right'| 1265
 | 
 | ''[[:d:Q22582946|John Thomas]]''
 | 1886
 | 1933
 | ''[[:d:Q3404644|Q3404644]]''
 |-
-|style='text-align:right'| 1267
+|style='text-align:right'| 1266
 | 
 | ''[[:d:Q18535692|Hywel Hughes]]''
 | 1886
 | 1970
 | ''[[:d:Q1191195|Q1191195]]''
+|-
+|style='text-align:right'| 1267
+| 
+| ''[[:d:Q7087219|Olive Wheeler]]''
+| 1886
+| 1963
+| [[Aberhonddu]]
 |-
 |style='text-align:right'| 1268
 | 
@@ -17416,7 +17416,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kembra]]
 |-
 |style='text-align:right'| 2486
-| 
+| [[Restren:JohnLewis01.jpg|center|128px]]
 | ''[[:d:Q13616740|John T. Lewis]]''
 | 1932
 | 2004
