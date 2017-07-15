@@ -1126,7 +1126,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q1828666|Q1828666]]''
 |-
 |style='text-align:right'| 147
-| 
+| [[Restren:Thomas Hodge oval picture-c. 1858.png|center|128px]]
 | ''[[:d:Q21664535|Thomas Hodge]]''
 | 1827
 | 1907
