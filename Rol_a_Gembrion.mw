@@ -1148,7 +1148,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q1311946|Q1311946]]''
 |-
 |style='text-align:right'| 162
-| 
+| [[Restren:Captain Lewis Roberts.jpg|center|128px]]
 | ''[[:d:Q6536139|Lewes Roberts]]''
 | 1596
 | 1640
@@ -3682,7 +3682,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q669171|Q669171]]''
 |-
 |style='text-align:right'| 524
-| 
+| [[Restren:Thomas Hodge oval picture-c. 1858.png|center|128px]]
 | ''[[:d:Q21664535|Thomas Hodge]]''
 | 1827
 | 1907
@@ -24556,7 +24556,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q23051|Q23051]]''
 |-
 |style='text-align:right'| 3506
-| 
+| [[Restren:Leigh jones hong kong rugby head coach 20170506.jpg|center|128px]]
 | ''[[:d:Q18340098|Leigh Jones]]''
 | 1959
 | 
@@ -35063,7 +35063,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Caerllion]]
 |-
 |style='text-align:right'| 5007
-| 
+| [[Restren:DanielGossetBangorFC2.jpg|center|128px]]
 | ''[[:d:Q16236166|Danny Gosset]]''
 | 1994
 | 
