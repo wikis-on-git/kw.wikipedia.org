@@ -1946,17 +1946,17 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 264
 | 
-| ''[[:d:Q8005650|William Bloye]]''
-| 1890
-| 1975
-| [[Kernow]]
-|-
-|style='text-align:right'| 265
-| 
 | ''[[:d:Q4965856|Brice Mutton]]''
 | 1890
 | 1949
 | ''[[:d:Q6529082|Q6529082]]''
+|-
+|style='text-align:right'| 265
+| 
+| ''[[:d:Q8005650|William Bloye]]''
+| 1890
+| 1975
+| [[Kernow]]
 |-
 |style='text-align:right'| 266
 | [[Restren:Horace Augustus Curtis IWM Q114045.jpg|center|128px]]
