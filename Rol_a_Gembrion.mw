@@ -9367,80 +9367,80 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 1336
 | 
-| ''[[:d:Q8005650|William Bloye]]''
-| 1890
-| 1975
-| [[Kernow]]
-|-
-|style='text-align:right'| 1337
-| 
 | ''[[:d:Q6728347|Madoline Thomas]]''
 | 1890
 | 1989
 | [[Y Fenni]]
 |-
-|style='text-align:right'| 1338
+|style='text-align:right'| 1337
 | [[Restren:Nina Hamnett.jpg|center|128px]]
 | ''[[:d:Q449054|Nina Hamnett]]''
 | 1890
 | 1956
 | [[Dinbych-y-pysgod]]
 |-
-|style='text-align:right'| 1339
+|style='text-align:right'| 1338
 | 
 | ''[[:d:Q3026625|Dick Richards]]''
 | 1890
 | 1934
 | [[Llansantffraid Glyn Ceiriog]]
 |-
-|style='text-align:right'| 1340
+|style='text-align:right'| 1339
 | 
 | ''[[:d:Q7668315|T. Ifor Rees]]''
 | 1890
 | 1977
 | ''[[:d:Q7321618|Q7321618]]''
 |-
-|style='text-align:right'| 1341
+|style='text-align:right'| 1340
 | 
 | ''[[:d:Q6111207|Jack Beames]]''
 | 1890
 | 1970
 | ''[[:d:Q4666790|Q4666790]]''
 |-
-|style='text-align:right'| 1342
+|style='text-align:right'| 1341
 | [[Restren:Anne Griffith-Jones01.jpg|center|128px]]
 | ''[[:d:Q4768405|Anne Griffith-Jones]]''
 | 1890
 | 1973
 | ''[[:d:Q213361|Konteth Pennvro]]''
 |-
-|style='text-align:right'| 1343
+|style='text-align:right'| 1342
 | 
 | ''[[:d:Q2523705|Richard Maldwyn Price]]''
 | 1890
 | 1952
 | [[Y Trallwng]]
 |-
-|style='text-align:right'| 1344
+|style='text-align:right'| 1343
 | 
 | ''[[:d:Q5541768|George Littlewood Hirst]]''
 | 1890
 | 1967
 | [[Dowlais]]
 |-
-|style='text-align:right'| 1345
+|style='text-align:right'| 1344
 | 
 | ''[[:d:Q3017152|W. J. A. Davies]]''
 | 1890
 | 1967
 | ''[[:d:Q1762242|Q1762242]]''
 |-
-|style='text-align:right'| 1346
+|style='text-align:right'| 1345
 | 
 | ''[[:d:Q7955445|WR Parry]]''
 | 1890
 | 1955
 | [[Bangor]]
+|-
+|style='text-align:right'| 1346
+| 
+| ''[[:d:Q8005650|William Bloye]]''
+| 1890
+| 1975
+| [[Kernow]]
 |-
 |style='text-align:right'| 1347
 | 
