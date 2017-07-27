@@ -3338,7 +3338,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Pennsans]]
 |-
 |style='text-align:right'| 463
-| 
+| [[Restren:Official portrait of Mr Steve Baker crop 2.jpg|center|128px]]
 | ''[[:d:Q260111|Steve Baker]]''
 | 1971
 | 
@@ -4157,34 +4157,41 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7230603|Q7230603]]''
 |-
 |style='text-align:right'| 580
+| [[Restren:Llen Natur Conference May 2017 30.jpg|center|128px]]
+| ''[[:d:Q18535443|Andrew Hawke]]''
+| 
+| 
+| [[Kernow]]
+|-
+|style='text-align:right'| 581
 | 
 | ''[[:d:Q19412412|Tim Saunders]]''
 | 
 | 
 | [[Bosvenegh]]
 |-
-|style='text-align:right'| 581
+|style='text-align:right'| 582
 | 
 | ''[[:d:Q21535216|John Arscott]]''
 | 
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 582
+|style='text-align:right'| 583
 | 
 | ''[[:d:Q24845830|Samuel Mitchell]]''
 | 
 | 1912
 | [[Kernow]]
 |-
-|style='text-align:right'| 583
+|style='text-align:right'| 584
 | 
 | ''[[:d:Q24845850|Henry Cotton]]''
 | 
 | 
 | [[Austol]]
 |-
-|style='text-align:right'| 584
+|style='text-align:right'| 585
 | 
 | ''[[:d:Q28036733|Порфирий (Плант)]]''
 | 
