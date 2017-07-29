@@ -220,7 +220,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q1851558|Richard Lower]]''
 | 1631
 | 1691
-| [[Bosvenegh]]
+| ''[[:d:Q2182179|Eglostudi]]''
 |-
 |style='text-align:right'| 18
 | 
