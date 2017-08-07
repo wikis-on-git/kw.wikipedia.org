@@ -20660,7 +20660,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q5962726|Hywel Bennett]]''
 | 1944
-| 
+| 2017
 | ''[[:d:Q3405497|Q3405497]]''
 |-
 |style='text-align:right'| 2950
@@ -35350,7 +35350,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q213361|Konteth Pennvro]]''
 |-
 |style='text-align:right'| 5048
-| [[Restren:Theo Wharton.jpg|center|128px]]
+| [[Restren:Theo Wharton 2017-08-05 1.jpg|center|128px]]
 | ''[[:d:Q7781507|Theo Wharton]]''
 | 1994
 | 
