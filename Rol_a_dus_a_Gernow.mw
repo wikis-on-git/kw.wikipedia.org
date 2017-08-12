@@ -1092,7 +1092,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 142
 | [[Restren:George Marsden Waterhouse.jpg|center|128px]]
-| ''[[:d:Q328286|George Marsden Waterhouse]]''
+| ''[[:d:Q328286|George Waterhouse]]''
 | 1824
 | 1906
 | [[Pennsans]]
