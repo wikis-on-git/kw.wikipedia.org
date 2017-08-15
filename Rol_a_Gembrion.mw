@@ -1522,7 +1522,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Restren:Thomas Pellow.png|center|128px]]
 | ''[[:d:Q2426461|Thomas Pellow]]''
 | 1704
-| 1747
+| 1800
 | [[Kernow]]
 |-
 |style='text-align:right'| 216
