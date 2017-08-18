@@ -36613,7 +36613,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q5593171|Graham Rees]]''
 | 
-| 
+| 1987
 | [[Maesteg]]
 |-
 |style='text-align:right'| 5229
