@@ -4186,26 +4186,33 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 584
 | 
+| ''[[:d:Q21209155|Craig Weatherhill]]''
+| 
+| 
+| [[Pennsans]]
+|-
+|style='text-align:right'| 585
+| 
 | ''[[:d:Q21535216|John Arscott]]''
 | 
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 585
+|style='text-align:right'| 586
 | 
 | ''[[:d:Q24845830|Samuel Mitchell]]''
 | 
 | 1912
 | [[Kernow]]
 |-
-|style='text-align:right'| 586
+|style='text-align:right'| 587
 | 
 | ''[[:d:Q24845850|Henry Cotton]]''
 | 
 | 
 | [[Austol]]
 |-
-|style='text-align:right'| 587
+|style='text-align:right'| 588
 | 
 | ''[[:d:Q28036733|Порфирий (Плант)]]''
 | 
