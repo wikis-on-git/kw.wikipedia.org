@@ -21483,7 +21483,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q6723489|Q6723489]]''
 |-
 |style='text-align:right'| 3067
-| 
+| [[Restren:Peterkarrie.gif|center|128px]]
 | ''[[:d:Q3900874|Peter Karrie]]''
 | 1946
 | 
