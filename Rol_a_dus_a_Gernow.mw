@@ -2096,7 +2096,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q462110|Ethelwynn Trewavas]]''
 | 1900
 | 1993
-| [[Kernow]]
+| [[Pennsans]]
 |-
 |style='text-align:right'| 286
 | 
