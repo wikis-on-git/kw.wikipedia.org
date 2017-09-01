@@ -248,7 +248,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q947776|Sidney Godolphin, 1st Earl of Godolphin]]''
 | 1645
 | 1712
-| ''[[:d:Q2050215|Q2050215]]''
+| ''[[:d:Q2050215|Eglosbrek]]''
 |-
 |style='text-align:right'| 22
 | 
@@ -598,7 +598,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7793179|Thomas Pitt, 2nd Baron Camelford]]''
 | 1775
 | 1804
-| ''[[:d:Q1969237|Q1969237]]''
+| ''[[:d:Q1969237|Boskennek]]''
 |-
 |style='text-align:right'| 72
 | [[Restren:Richard Hussey Vivian, 1st Baron Vivian by William Salter.jpg|center|128px]]
@@ -1043,7 +1043,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 135
 | [[Restren:John Couch Adams.jpg|center|128px]]
-| ''[[:d:Q20015|John Couch Adams]]''
+| [[John Couch Adams]]
 | 1819
 | 1892
 | ''[[:d:Q2901467|Q2901467]]''
@@ -1697,7 +1697,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7328410|Richard Phillimore]]''
 | 1864
 | 1940
-| ''[[:d:Q1969237|Q1969237]]''
+| ''[[:d:Q1969237|Boskennek]]''
 |-
 |style='text-align:right'| 229
 | 
