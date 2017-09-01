@@ -2601,7 +2601,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q217119|George Everest]]''
 | 1790
 | 1866
-| [[Kembra]]<br/>[[Crughywel]]
+| [[Crughywel]]
 |-
 |style='text-align:right'| 370
 | 
