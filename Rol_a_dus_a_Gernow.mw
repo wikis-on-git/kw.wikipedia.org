@@ -423,7 +423,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q920078|Jonathan Hornblower]]''
 | 1753
 | 1815
-| [[Chasewater]]
+| [[Chasewater|Chacewater]]
 |-
 |style='text-align:right'| 47
 | [[Restren:Henry Bone, (1755-1834), the artist's father by Henry Pierce Bone.jpg|center|128px]]
@@ -1018,7 +1018,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q16062737|John Robarts]]''
 | 1818
 | 1888
-| [[Chasewater]]
+| [[Chasewater|Chacewater]]
 |-
 |style='text-align:right'| 132
 | [[Restren:Joseph Brennan VC IWM Q 80482.jpg|center|128px]]
@@ -1501,7 +1501,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q4757607|Andrew Ketcham Barnett]]''
 | 1852
 | 1914
-| [[Chasewater]]
+| [[Chasewater|Chacewater]]
 |-
 |style='text-align:right'| 201
 | [[Restren:John Quick.jpg|center|128px]]
@@ -1550,7 +1550,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7149621|Paul Bush]]''
 | 1855
 | 1930
-| ''[[:d:Q2689534|Q2689534]]''
+| ''[[:d:Q2689534|Dewlogh]]''
 |-
 |style='text-align:right'| 208
 | [[Restren:Thomas Henry Davey.jpeg|center|128px]]
@@ -3083,7 +3083,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Andrew George]]
 | 1958
 | 
-| ''[[:d:Q2699015|Q2699015]]''
+| ''[[:d:Q2699015|Eglosvelyan]]''
 |-
 |style='text-align:right'| 427
 | 
@@ -3223,7 +3223,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q16196672|Martin Roberts]]''
 | 1966
 | 
-| ''[[:d:Q2699015|Q2699015]]''
+| ''[[:d:Q2699015|Eglosvelyan]]''
 |-
 |style='text-align:right'| 447
 | 
