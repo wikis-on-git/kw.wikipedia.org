@@ -318,7 +318,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q8016342|William Oliver]]''
 | 1695
 | 1764
-| ''[[:d:Q114530|Q114530]]''
+| ''[[:d:Q114530|Lujuan]]''
 |-
 |style='text-align:right'| 32
 | [[Restren:William Borlase (1695–1772) cropped.jpg|center|128px]]
@@ -584,7 +584,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q5112126|Christopher Cole]]''
 | 1770
 | 1836
-| [[Marghasyow]]
+| [[Marghasyow|Marhasyow]]
 |-
 |style='text-align:right'| 70
 | [[Restren:Trevithick Richard Linnell.jpg|center|128px]]
@@ -626,7 +626,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q8016224|William O'Bryan]]''
 | 1778
 | 1868
-| ''[[:d:Q1913013|Q1913013]]''
+| ''[[:d:Q1913013|Logsulyan]]''
 |-
 |style='text-align:right'| 76
 | 
@@ -654,7 +654,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q6255315|John Robyns]]''
 | 1780
 | 1857
-| ''[[:d:Q12061434|Q12061434]]''
+| ''[[:d:Q12061434|Eglosmadern]]''
 |-
 |style='text-align:right'| 80
 | [[Restren:Henry Martyn.jpg|center|128px]]
@@ -794,7 +794,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q6832276|Michael Loam]]''
 | 1797
 | 1871
-| ''[[:d:Q114530|Q114530]]''
+| ''[[:d:Q114530|Lujuan]]''
 |-
 |style='text-align:right'| 100
 | 
@@ -1487,7 +1487,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7515730|Silvanus Trevail]]''
 | 1851
 | 1903
-| ''[[:d:Q1913013|Q1913013]]''
+| ''[[:d:Q1913013|Logsulyan]]''
 |-
 |style='text-align:right'| 199
 | 
@@ -1739,7 +1739,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q5056169|Cecil Kaye]]''
 | 1868
 | 1935
-| ''[[:d:Q12061434|Q12061434]]''
+| ''[[:d:Q12061434|Eglosmadern]]''
 |-
 |style='text-align:right'| 235
 | [[Restren:T H Holland.jpg|center|128px]]
@@ -2404,7 +2404,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q5128639|Claud Morris]]''
 | 1920
 | 2000
-| ''[[:d:Q114530|Q114530]]''
+| ''[[:d:Q114530|Lujuan]]''
 |-
 |style='text-align:right'| 330
 | [[Restren:Albert Edward Sloman (1974).jpg|center|128px]]
