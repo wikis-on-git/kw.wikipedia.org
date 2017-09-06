@@ -143,7 +143,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7326072|Richard Grenville]]''
 | 1524
 | 1578
-| ''[[:d:Q3245937|Q3245937]]''
+| ''[[:d:Q3245937|Kylgh]]''
 |-
 |style='text-align:right'| 7
 | 
@@ -164,7 +164,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q3021251|Degory Wheare]]''
 | 1573
 | 1647
-| ''[[:d:Q1976224|Q1976224]]''
+| ''[[:d:Q1976224|Lannjago]]''
 |-
 |style='text-align:right'| 10
 | 
@@ -1053,7 +1053,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[John Couch Adams]]
 | 1819
 | 1892
-| ''[[:d:Q2901467|Q2901467]]''
+| ''[[:d:Q2901467|Lanneyst]]''
 |-
 |style='text-align:right'| 137
 | 
@@ -1277,7 +1277,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7329390|Richard Tangye]]''
 | 1833
 | 1906
-| ''[[:d:Q681695|Q681695]]''
+| ''[[:d:Q681695|Egloshalow]]''
 |-
 |style='text-align:right'| 169
 | 
@@ -1326,7 +1326,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q8010250|William Grylls Adams]]''
 | 1836
 | 1915
-| ''[[:d:Q2901467|Q2901467]]''
+| ''[[:d:Q2901467|Lanneyst]]''
 |-
 |style='text-align:right'| 176
 | [[Restren:PSM V08 D008 Henry Charlton Bastian.jpg|center|128px]]
@@ -1347,7 +1347,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q2424330|Thomas Greenway]]''
 | 1838
 | 1908
-| ''[[:d:Q3245937|Q3245937]]''
+| ''[[:d:Q3245937|Kylgh]]''
 |-
 |style='text-align:right'| 179
 | 
@@ -1543,7 +1543,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q5339855|Edmund Taylor]]''
 | 1855
 | 1927
-| ''[[:d:Q2901467|Q2901467]]''
+| ''[[:d:Q2901467|Lanneyst]]''
 |-
 |style='text-align:right'| 207
 | 
@@ -1571,7 +1571,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q6261964|John Verran]]''
 | 1856
 | 1932
-| ''[[:d:Q1144196|Q1144196]]''
+| ''[[:d:Q1144196|Pluwwenep]]''
 |-
 |style='text-align:right'| 211
 | 
@@ -1921,7 +1921,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q23683817|Minnie Pallister]]''
 | 1885
 | 1960
-| ''[[:d:Q3245937|Q3245937]]''
+| ''[[:d:Q3245937|Kylgh]]''
 |-
 |style='text-align:right'| 261
 | 
