@@ -1617,7 +1617,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Llandaf]]
 |-
 |style='text-align:right'| 229
-| [[Restren:Richard Wilson (1714-1782), by Anton Raphael Mengs.jpg|center|128px]]
+| [[Restren:Mengs - Richard Wilson.jpg|center|128px]]
 | ''[[:d:Q471387|Richard Wilson]]''
 | 1713
 | 1782
