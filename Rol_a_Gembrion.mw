@@ -12642,7 +12642,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7417111|Q7417111]]''
 |-
 |style='text-align:right'| 1804
-| 
+| [[Restren:The Wynford Vaughan-Thomas Memorial (5665468287).jpg|center|128px]]
 | ''[[:d:Q8040155|Wynford Vaughan-Thomas]]''
 | 1908
 | 1987
