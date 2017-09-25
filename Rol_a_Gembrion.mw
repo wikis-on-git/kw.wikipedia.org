@@ -23849,7 +23849,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kardydh]]
 |-
 |style='text-align:right'| 3405
-| 
+| [[Restren:Official portrait of Hywel Williams crop 3.jpg|center|128px]]
 | ''[[:d:Q266189|Hywel Williams]]''
 | 1953
 | 
@@ -36421,7 +36421,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kardydh]]
 |-
 |style='text-align:right'| 5201
-| 
+| [[Restren:Ellis warming up for Bristol Rovers in 2015.PNG|center|128px]]
 | ''[[:d:Q5365899|Ellis Harrison]]''
 | 1994
 | 
