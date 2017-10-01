@@ -828,7 +828,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Restren:William Harris Rule.jpg|center|128px]]
 | ''[[:d:Q16062573|William Harris Rule]]''
 | 1802
-| 
+| 1890
 | [[Penrynn]]
 |-
 |style='text-align:right'| 105
@@ -870,7 +870,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q26702269|Henry Roach]]''
 | 1808
-| 
+| 1889
 | [[Resrudh]]
 |-
 |style='text-align:right'| 111
