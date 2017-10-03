@@ -4305,6 +4305,13 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 601
 | 
+| [[Bert Biscoe]]
+| 
+| 
+| [[Kernow]]
+|-
+|style='text-align:right'| 602
+| 
 | ''[[:d:Q28036733|Порфирий (Плант)]]''
 | 
 | 
