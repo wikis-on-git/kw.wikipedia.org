@@ -24388,18 +24388,18 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q752762|Q752762]]''
 |-
 |style='text-align:right'| 3482
-| [[Restren:Steve Jones.jpg|center|128px]]
-| ''[[:d:Q720491|Steve Jones]]''
-| 1955
-| 
-| [[Tredegar]]
-|-
-|style='text-align:right'| 3483
 | 
 | ''[[:d:Q4963005|Brian Attley]]''
 | 1955
 | 
 | [[Kardydh]]
+|-
+|style='text-align:right'| 3483
+| [[Restren:Camp Freddy - Steve Jones - 2008.jpg|center|128px]]
+| ''[[:d:Q347986|Steve Jones]]''
+| 1955
+| 
+| ''[[:d:Q1026182|Q1026182]]''<br/>[[Tredegar]]
 |-
 |style='text-align:right'| 3484
 | [[Restren:Eirian Williams at Snooker German Masters (DerHexer) 2013-01-30 02.jpg|center|128px]]
