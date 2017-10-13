@@ -1197,24 +1197,24 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 157
 | 
-| ''[[:d:Q14945582|Henry Furneaux]]''
-| 1829
-| 1900
-| [[Lannales]]
-|-
-|style='text-align:right'| 158
-| 
 | ''[[:d:Q19663653|John McCrea]]''
 | 1829
 | 
 | [[Penntorr]]
 |-
-|style='text-align:right'| 159
+|style='text-align:right'| 158
 | [[Restren:Edwardbraddon.jpg|center|128px]]
 | ''[[:d:Q5341989|Edward Braddon]]''
 | 1829
 | 1904
 | ''[[:d:Q732519|Q732519]]''
+|-
+|style='text-align:right'| 159
+| 
+| ''[[:d:Q14945582|Henry Furneaux]]''
+| 1829
+| 1900
+| [[Lannales]]
 |-
 |style='text-align:right'| 160
 | [[Restren:Thomas Rowe.jpg|center|128px]]
@@ -2746,7 +2746,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q4962909|Brian 'Stack' Stevens]]''
 | 1941
-| 
+| 2017
 | ''[[:d:Q5576779|Q5576779]]''
 |-
 |style='text-align:right'| 379
