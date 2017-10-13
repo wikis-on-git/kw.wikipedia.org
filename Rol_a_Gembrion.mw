@@ -8464,7 +8464,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 1207
 | [[Restren:Edward V Robinson.jpg|center|128px]]
-| ''[[:d:Q1293950|Edward V. Robertson]]''
+| ''[[:d:Q1293950|Edward Vivian Robertson]]''
 | 1881
 | 1963
 | [[Kardydh]]
@@ -8695,7 +8695,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 1240
 | [[Restren:NoahMMason.jpg|center|128px]]
-| ''[[:d:Q7002124|Noah M. Mason]]''
+| ''[[:d:Q7002124|Noah Morgan Mason]]''
 | 1882
 | 1965
 | ''[[:d:Q870815|Q870815]]''
