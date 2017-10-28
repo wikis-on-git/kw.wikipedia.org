@@ -637,7 +637,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 77
 | [[Restren:Humphry davy.jpg|center|128px]]
-| ''[[:d:Q131761|Humphry Davy]]''
+| ''[[:d:Q131761|tu eres un crack]]''
 | 1778
 | 1829
 | [[Pennsans]]
@@ -2529,7 +2529,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q254240|Rosamunde Pilcher]]''
 | 1924
-| 
+| 1924
 | ''[[:d:Q431799|Q431799]]''
 |-
 |style='text-align:right'| 348
