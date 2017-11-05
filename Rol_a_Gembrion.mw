@@ -22400,7 +22400,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kembra]]
 |-
 |style='text-align:right'| 3198
-| [[Restren:Peteham.jpg|center|128px]]
+|
 | ''[[:d:Q1493339|Pete Ham]]''
 | 1947
 | 1975
