@@ -108,7 +108,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q3399340|Cybi]]''
 | 483
 | 555
-| [[Kernow]]
+| [[Kernow]]<br/>''[[:d:Q7163120|Q7163120]]''
 |-
 |style='text-align:right'| 2
 | 
