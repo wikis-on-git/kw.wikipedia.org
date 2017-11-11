@@ -2334,7 +2334,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q17353645|Catherine Davies]]''
 | 1773
-| 1840
+| 1841
 | [[Biwmares|Biwmaris]]
 |-
 |style='text-align:right'| 332
