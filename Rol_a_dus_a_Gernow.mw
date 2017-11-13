@@ -727,7 +727,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Aberfala]]
 |-
 |style='text-align:right'| 90
-| 
+| [[Restren:Letters from Switzerland and Italy.tif|center|128px]]
 | ''[[:d:Q4215496|John Carne]]''
 | 1789
 | 1844
@@ -864,7 +864,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q42304408|Robert Peter]]''
 | 1805
 | 1894
-| [[Kernow]]
+| [[Lannstefan]]
 |-
 |style='text-align:right'| 110
 | [[Restren:Williampuckey2.jpg|center|128px]]
