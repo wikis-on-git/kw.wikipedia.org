@@ -1420,7 +1420,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q2510569|Q2510569]]''
 |-
 |style='text-align:right'| 189
-| 
+| [[Restren:Peach and Horne.jpg|center|128px]]
 | ''[[:d:Q553677|Ben Peach]]''
 | 1842
 | 1926
