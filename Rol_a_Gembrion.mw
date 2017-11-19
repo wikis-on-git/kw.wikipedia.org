@@ -4621,31 +4621,31 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 658
 | 
+| ''[[:d:Q18756845|John Oliver]]''
+| 1838
+| 1866
+| [[Llanfynydd]]
+|-
+|style='text-align:right'| 659
+| 
 | ''[[:d:Q20734641|William Hughes]]''
 | 1838
 | 1921
 | ''[[:d:Q1191195|Q1191195]]''
 |-
-|style='text-align:right'| 659
+|style='text-align:right'| 660
 | [[Restren:John Thomas (Photographer).jpg|center|128px]]
 | ''[[:d:Q3403561|John Thomas]]''
 | 1838
 | 1905
 | [[Llanbedr Pont Steffan]]
 |-
-|style='text-align:right'| 660
+|style='text-align:right'| 661
 | 
 | ''[[:d:Q15378641|Joseph Davis]]''
 | 1838
 | 
 | [[Trefynwy]]
-|-
-|style='text-align:right'| 661
-| 
-| ''[[:d:Q20733575|John Oliver]]''
-| 1838
-| 1866
-| [[Llanfynydd]]
 |-
 |style='text-align:right'| 662
 | 
