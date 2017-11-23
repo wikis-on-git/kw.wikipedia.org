@@ -17685,7 +17685,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q4935805|Bobi Jones]]''
 | 1929
-| 
+| 2017
 | [[Kardydh]]
 |-
 |style='text-align:right'| 2525
