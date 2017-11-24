@@ -36771,7 +36771,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kardydh]]
 |-
 |style='text-align:right'| 5251
-| [[Restren:Sophie Evans Over The Rainbow.jpg|center|128px]]
+|
 | ''[[:d:Q7562994|Sophie Evans]]''
 | 1993
 | 
