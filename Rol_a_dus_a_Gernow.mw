@@ -902,7 +902,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Pennsans]]
 |-
 |style='text-align:right'| 115
-| 
+| [[Restren:Paul Rapsey Hodge circa 1855.jpg|center|128px]]
 | ''[[:d:Q28970631|Paul Rapsey Hodge]]''
 | 1808
 | 1871
@@ -3521,17 +3521,17 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 489
 | 
-| ''[[:d:Q6681336|Lorna Dunkley]]''
-| 1972
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 490
-| 
 | ''[[:d:Q548170|Nick Nieland]]''
 | 1972
 | 
 | [[Truru]]
+|-
+|style='text-align:right'| 490
+| 
+| ''[[:d:Q6681336|Lorna Dunkley]]''
+| 1972
+| 
+| [[Kernow]]
 |-
 |style='text-align:right'| 491
 | 
@@ -4297,76 +4297,83 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Lannstefan]]
 |-
 |style='text-align:right'| 600
+| [[Restren:Notre-Dame de Rouen.JPG|center|128px]]
+| ''[[:d:Q783357|Walter de Coutances]]''
+| 
+| 1207
+| [[Kernow]]
+|-
+|style='text-align:right'| 601
 | 
 | ''[[:d:Q3048472|Edward Byllynge]]''
 | 
 | 1687
 | [[Kernow]]
 |-
-|style='text-align:right'| 601
+|style='text-align:right'| 602
 | 
 | ''[[:d:Q5240165|David Sturzaker]]''
 | 
 | 
 | [[Resrudh]]
 |-
-|style='text-align:right'| 602
+|style='text-align:right'| 603
 | 
 | ''[[:d:Q6770144|Mark Versallion]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 603
+|style='text-align:right'| 604
 | 
 | ''[[:d:Q7325480|Richard Eliot]]''
 | 
 | 
 | ''[[:d:Q7230603|Q7230603]]''
 |-
-|style='text-align:right'| 604
+|style='text-align:right'| 605
 | [[Restren:Llen Natur Conference May 2017 30.jpg|center|128px]]
 | ''[[:d:Q18535443|Andrew Hawke]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 605
+|style='text-align:right'| 606
 | 
 | ''[[:d:Q19412412|Tim Saunders]]''
 | 
 | 
 | [[Bosvenegh]]
 |-
-|style='text-align:right'| 606
+|style='text-align:right'| 607
 | 
 | ''[[:d:Q21209155|Craig Weatherhill]]''
 | 
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 607
+|style='text-align:right'| 608
 | 
 | ''[[:d:Q21535216|John Arscott]]''
 | 
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 608
+|style='text-align:right'| 609
 | [[Restren:Samuel Mitchell HOFWA.jpg|center|128px]]
 | ''[[:d:Q24845830|Samuel Mitchell]]''
 | 
 | 1912
 | [[Kernow]]
 |-
-|style='text-align:right'| 609
+|style='text-align:right'| 610
 | 
 | ''[[:d:Q24845850|Henry Cotton]]''
 | 
 | 
 | [[Austol]]
 |-
-|style='text-align:right'| 610
+|style='text-align:right'| 611
 | 
 | ''[[:d:Q28036733|Порфирий (Плант)]]''
 | 
