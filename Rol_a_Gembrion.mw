@@ -17979,7 +17979,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q16091496|Les Jones]]''
 | 1930
-| 
+| 2016
 | [[Aberpennar]]
 |-
 |style='text-align:right'| 2567
