@@ -16915,7 +16915,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q1585788|Harold Carter]]''
 | 1925
-| 
+| 2017
 | [[Castell-nedd]]
 |-
 |style='text-align:right'| 2415
@@ -17867,7 +17867,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q6112306|Jack Edwards]]''
 | 1929
-| 
+| 2014
 | ''[[:d:Q1814569|Q1814569]]''
 |-
 |style='text-align:right'| 2551
@@ -19807,7 +19807,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q65932|Anthony Hopkins]]''
 | 1937
 | 
-| [[Port Talbot]]
+| [[Margam]]
 |-
 |style='text-align:right'| 2828
 | [[Restren:Barry Hughes.jpg|center|128px]]
