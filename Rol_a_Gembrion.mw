@@ -15558,7 +15558,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q3406160|Emyr Humphreys]]''
 | 1919
 | 
-| [[Prestatyn]]
+| ''[[:d:Q7837982|Q7837982]]''
 |-
 |style='text-align:right'| 2221
 | 
@@ -22541,45 +22541,45 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 3218
 | 
-| ''[[:d:Q28710231|Dewi Humphreys]]''
-| 1947
-| 
-| [[Bangor]]
-|-
-|style='text-align:right'| 3219
-| 
 | ''[[:d:Q5273112|Dick Krzywicki]]''
 | 1947
 | 
 | ''[[:d:Q3402867|Q3402867]]''
 |-
-|style='text-align:right'| 3220
+|style='text-align:right'| 3219
 | 
 | ''[[:d:Q6742541|Malcolm Page]]''
 | 1947
 | 
 | ''[[:d:Q6423716|Q6423716]]''
 |-
-|style='text-align:right'| 3221
+|style='text-align:right'| 3220
 | [[Restren:John Weathers.jpg|center|128px]]
 | ''[[:d:Q322031|John Weathers]]''
 | 1947
 | 
 | [[Karvyrdhin]]
 |-
-|style='text-align:right'| 3222
+|style='text-align:right'| 3221
 | 
 | ''[[:d:Q6777642|Martyn Jones]]''
 | 1947
 | 
 | [[Wreksam]]
 |-
-|style='text-align:right'| 3223
+|style='text-align:right'| 3222
 | 
 | ''[[:d:Q7173980|Peter Finch]]''
 | 1947
 | 
 | [[Kardydh]]
+|-
+|style='text-align:right'| 3223
+| 
+| ''[[:d:Q28710231|Dewi Humphreys]]''
+| 1947
+| 
+| [[Bangor]]
 |-
 |style='text-align:right'| 3224
 | [[Restren:BlueWiki.jpg|center|128px]]
