@@ -19908,7 +19908,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kernow]]
 |-
 |style='text-align:right'| 2842
-| [[Restren:Andrew Vicari at the Celtic Manor.jpg|center|128px]]
+| [[Restren:Andrew Vicari at the Celtic Manor (cropped).jpg|center|128px]]
 | ''[[:d:Q4758799|Andrew Vicari]]''
 | 1938
 | 2016
@@ -24640,7 +24640,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kembra]]
 |-
 |style='text-align:right'| 3518
-| 
+| [[Restren:Paul Chapman playing a gig with Dave Currey and Blake Foster.jpg|center|128px]]
 | ''[[:d:Q3497115|Paul Chapman]]''
 | 1954
 | 
