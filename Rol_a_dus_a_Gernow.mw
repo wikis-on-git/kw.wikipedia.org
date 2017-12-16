@@ -141,7 +141,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |style='text-align:right'| 6
 | 
 | ''[[:d:Q16844007|Reginald Mohun]]''
-| 1507
+| 1508
 | 1567
 | [[Kernow]]
 |-
