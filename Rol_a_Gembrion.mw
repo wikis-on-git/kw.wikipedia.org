@@ -18847,7 +18847,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q16092619|Hugh Davies]]''
 | 1932
-| 
+| 2017
 | ''[[:d:Q7161927|Q7161927]]''
 |-
 |style='text-align:right'| 2691
