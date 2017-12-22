@@ -805,17 +805,17 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q731439|Q731439]]''
 |-
 |style='text-align:right'| 113
+| [[Restren:Dafydd ap Gwilym at Cardiff City Hall.jpg|center|128px]]
+| ''[[:d:Q517287|Dafydd ap Gwilym]]''
+| 1320
+| 1350
+| ''[[:d:Q217829|Keredigyon]]''
+|-
+|style='text-align:right'| 114
 | 
 | ''[[:d:Q22815213|Marged ferch Tomos]]''
 | 1340
 | 
-| ''[[:d:Q217829|Keredigyon]]''
-|-
-|style='text-align:right'| 114
-| [[Restren:Dafydd ap Gwilym at Cardiff City Hall.jpg|center|128px]]
-| ''[[:d:Q517287|Dafydd ap Gwilym]]''
-| 1340
-| 1350
 | ''[[:d:Q217829|Keredigyon]]''
 |-
 |style='text-align:right'| 115
