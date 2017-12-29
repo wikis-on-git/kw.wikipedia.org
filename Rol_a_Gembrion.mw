@@ -1729,7 +1729,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Ynys Mon]]
 |-
 |style='text-align:right'| 245
-| 
+| [[Restren:Anna Williams by Frances Reynolds.jpg|center|128px]]
 | ''[[:d:Q772966|Anna Williams]]''
 | 1706
 | 1783
@@ -39838,96 +39838,89 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 5689
 | 
-| ''[[:d:Q24088786|James Richard Skinner]]''
-| 
-| 
-| [[Kardydh]]
-|-
-|style='text-align:right'| 5690
-| 
 | ''[[:d:Q24735292|Judith Tucker]]''
 | 
 | 
 | [[Bangor]]
 |-
-|style='text-align:right'| 5691
+|style='text-align:right'| 5690
 | [[Restren:Samuel Mitchell HOFWA.jpg|center|128px]]
 | ''[[:d:Q24845830|Samuel Mitchell]]''
 | 
 | 1912
 | [[Kernow]]
 |-
-|style='text-align:right'| 5692
+|style='text-align:right'| 5691
 | 
 | ''[[:d:Q25207017|Thomas Lewis]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5693
+|style='text-align:right'| 5692
 | [[Restren:P1040167 crop.jpg|center|128px]]
 | ''[[:d:Q25824295|John S. Davies]]''
 | 
 | 2016
 | [[Tre-lech]]
 |-
-|style='text-align:right'| 5694
+|style='text-align:right'| 5693
 | 
 | ''[[:d:Q25927690|Chris Barber]]''
 | 
 | 
 | [[Trefdraeth]]
 |-
-|style='text-align:right'| 5695
+|style='text-align:right'| 5694
 | 
 | ''[[:d:Q27036912|Cwyfan]]''
 | 
 | 
 | [[Ynys Mon]]
 |-
-|style='text-align:right'| 5696
+|style='text-align:right'| 5695
 | [[Restren:St Hychan's Church, Eglwys Llanychan, Rhuthun, Sir Ddinbych, Cymru, Wales 09.jpg|center|128px]]
 | ''[[:d:Q27067380|Hychan]]''
 | 
 | 
 | ''[[:d:Q650682|Konteth Dinbygh]]''
 |-
-|style='text-align:right'| 5697
+|style='text-align:right'| 5696
 | 
 | ''[[:d:Q27661910|Harry Toft]]''
 | 
 | 1951
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 5698
+|style='text-align:right'| 5697
 | 
 | ''[[:d:Q27734045|Finlay Wood]]''
 | 
 | 
 | [[Trefdraeth]]
 |-
-|style='text-align:right'| 5699
+|style='text-align:right'| 5698
 | [[Restren:St. James' Church, Llangua - geograph.org.uk - 1286109.jpg|center|128px]]
 | ''[[:d:Q28681406|Kew]]''
 | 
 | 
 | ''[[:d:Q1376956|Q1376956]]''
 |-
-|style='text-align:right'| 5700
+|style='text-align:right'| 5699
 | [[Restren:Sion Trefor (m. 1589) Gresffordd. John Trevor (d. 1589) Gresford Church, Cymru Wales.jpg|center|128px]]
 | ''[[:d:Q28731295|Sion Trevor]]''
 | 
 | 
 | [[Yr Orsedd]]
 |-
-|style='text-align:right'| 5701
+|style='text-align:right'| 5700
 | 
 | ''[[:d:Q39078938|Sam Jones]]''
 | 
 | 
 | [[Trefdraeth]]
 |-
-|style='text-align:right'| 5702
+|style='text-align:right'| 5701
 | 
 | ''[[:d:Q40294587|John Salusbury (d. 1566)]]''
 | 
