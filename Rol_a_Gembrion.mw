@@ -2667,7 +2667,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q217829|Keredigyon]]''
 |-
 |style='text-align:right'| 379
-| [[Restren:Revd Lot Hughes (W) NLW3362908.jpg|center|128px]]
+| [[Restren:Revd Lot Hughes (W) NLW3362907.jpg|center|128px]]
 | ''[[:d:Q20685186|Lot Hughes]]''
 | 1787
 | 1873
