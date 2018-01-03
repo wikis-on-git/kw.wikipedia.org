@@ -6083,7 +6083,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7678779|Q7678779]]''
 |-
 |style='text-align:right'| 867
-| 
+| [[Restren:Evan-William-Evans.jpg|center|128px]]
 | ''[[:d:Q20733046|Evan William Evans]]''
 | 1860
 | 1925
@@ -17363,7 +17363,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q441467|Peggy Cummins]]''
 | 1925
-| 
+| 2017
 | [[Prestatyn]]
 |-
 |style='text-align:right'| 2479
