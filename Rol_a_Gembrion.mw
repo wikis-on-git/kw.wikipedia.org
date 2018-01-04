@@ -851,7 +851,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q131581|Henry V of England]]''
 | 1386
 | 1422
-| [[Trefynwy]]
+| ''[[:d:Q525635|Q525635]]''
 |-
 |style='text-align:right'| 120
 | 
@@ -30101,157 +30101,157 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 4298
 | 
-| ''[[:d:Q16215062|Nicola Reynolds]]''
-| 1972
-| 
-| [[Pontypridd]]
-|-
-|style='text-align:right'| 4299
-| 
 | ''[[:d:Q5181147|Craig Lawton]]''
 | 1972
 | 
 | ''[[:d:Q3405295|Q3405295]]''
 |-
-|style='text-align:right'| 4300
+|style='text-align:right'| 4299
 | 
 | ''[[:d:Q16213945|Steve Evans]]''
 | 1972
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 4301
+|style='text-align:right'| 4300
 | 
 | ''[[:d:Q5225192|Darren Thomas]]''
 | 1972
 | 
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 4302
+|style='text-align:right'| 4301
 | 
 | ''[[:d:Q6968912|Nathan Blake]]''
 | 1972
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 4303
+|style='text-align:right'| 4302
 | [[Restren:A Song In My Heart.jpg|center|128px]]
 | ''[[:d:Q8040207|Wynne Evans]]''
 | 1972
 | 
 | [[Karvyrdhin]]
 |-
-|style='text-align:right'| 4304
+|style='text-align:right'| 4303
 | 
 | ''[[:d:Q7326900|Richard Johnson]]''
 | 1972
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 4305
+|style='text-align:right'| 4304
 | [[Restren:OIFF 2015-07-17 143447 - Nia Roberts.jpg|center|128px]]
 | ''[[:d:Q7023504|Nia Roberts]]''
 | 1972
 | 
 | [[Aberhonddu]]
 |-
-|style='text-align:right'| 4306
+|style='text-align:right'| 4305
 | 
 | ''[[:d:Q4685352|Adrian Shaw]]''
 | 1972
 | 
 | [[Castell-nedd]]
 |-
-|style='text-align:right'| 4307
+|style='text-align:right'| 4306
 | 
 | ''[[:d:Q6681336|Lorna Dunkley]]''
 | 1972
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 4308
+|style='text-align:right'| 4307
 | 
 | ''[[:d:Q6273277|Jonathan Griffiths]]''
 | 1972
 | 
 | [[Karvyrdhin]]
 |-
-|style='text-align:right'| 4309
+|style='text-align:right'| 4308
 | 
 | ''[[:d:Q7441351|Sean Parrish]]''
 | 1972
 | 
 | [[Wreksam]]
 |-
-|style='text-align:right'| 4310
+|style='text-align:right'| 4309
 | [[Restren:Jyninejamesbw001.jpg|center|128px]]
 | ''[[:d:Q6319360|Jynine James]]''
 | 1972
 | 
 | [[Wreksam]]
 |-
-|style='text-align:right'| 4311
+|style='text-align:right'| 4310
 | 
 | ''[[:d:Q6437879|Kristian Bell]]''
 | 1972
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 4312
+|style='text-align:right'| 4311
 | 
 | ''[[:d:Q5522787|Gareth Baber]]''
 | 1972
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 4313
+|style='text-align:right'| 4312
 | 
 | ''[[:d:Q7933278|Violet Storm]]''
 | 1972
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 4314
+|style='text-align:right'| 4313
 | 
 | ''[[:d:Q3566853|Wayne Proctor]]''
 | 1972
 | 
 | [[Pen-y-bont ar Ogwr]]
 |-
-|style='text-align:right'| 4315
+|style='text-align:right'| 4314
 | 
 | ''[[:d:Q6769232|Mark Peters]]''
 | 1972
 | 
 | ''[[:d:Q548248|Q548248]]''
 |-
-|style='text-align:right'| 4316
+|style='text-align:right'| 4315
 | 
 | ''[[:d:Q3498965|Steve Jenkins]]''
 | 1972
 | 
 | ''[[:d:Q752762|Q752762]]''
 |-
-|style='text-align:right'| 4317
+|style='text-align:right'| 4316
 | [[Restren:Official portrait of Derek Thomas crop 2.jpg|center|128px]]
 | ''[[:d:Q20177497|Derek Thomas]]''
 | 1972
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 4318
+|style='text-align:right'| 4317
 | 
 | ''[[:d:Q4482653|Mark Fenton]]''
 | 1972
 | 
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 4319
+|style='text-align:right'| 4318
 | [[Restren:Spencer Wilding at the Pan Premiere.jpg|center|128px]]
 | ''[[:d:Q7576224|Spencer Wilding]]''
 | 1972
 | 
 | ''[[:d:Q548248|Q548248]]''
+|-
+|style='text-align:right'| 4319
+| 
+| ''[[:d:Q16215062|Nicola Reynolds]]''
+| 1972
+| 
+| [[Pontypridd]]
 |-
 |style='text-align:right'| 4320
 | 
@@ -39972,6 +39972,13 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | 
 | ''[[:d:Q2369922|Q2369922]]''
+|-
+|style='text-align:right'| 3
+| 
+| ''[[:d:Q2560424|Pixie]]''
+| 
+| 
+| [[Kembra]]
 |}
 
 {{Wikidata list end}}
