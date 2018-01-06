@@ -22066,7 +22066,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |style='text-align:right'| 3150
 | [[Restren:Timothy Dalton 1987.jpg|center|128px]]
 | ''[[:d:Q41233|Timothy Dalton]]''
-| 1944
+| 1946
 | 
 | [[Bae Colwyn]]
 |-
