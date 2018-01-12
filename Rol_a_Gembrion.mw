@@ -4224,7 +4224,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q7324011|Richard Bates]]''
 | 1829
-| 
+| 1889
 | [[Kembra]]
 |-
 |style='text-align:right'| 602
@@ -4928,10 +4928,10 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q38825|Q38825]]''
 |-
 |style='text-align:right'| 702
-| 
+| [[Restren:Henry M Stanley 1872.jpg|center|128px]]
 | ''[[:d:Q171421|Henry Morton Stanley]]''
 | 1841
-| 1998
+| 1904
 | [[Dinbych]]
 |-
 |style='text-align:right'| 703
@@ -8897,7 +8897,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q1021164|Q1021164]]''
 |-
 |style='text-align:right'| 1269
-| 
+| [[Restren:It's a Joke, Son! (1947) still 1.jpg|center|128px]]
 | ''[[:d:Q20109574|Sarah Edwards]]''
 | 1881
 | 1965
@@ -19131,7 +19131,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kardydh]]
 |-
 |style='text-align:right'| 2731
-| 
+| [[Restren:Paul Rogers-Keith Baxter in Sleuth.jpg|center|128px]]
 | ''[[:d:Q6384037|Keith Baxter]]''
 | 1933
 | 
