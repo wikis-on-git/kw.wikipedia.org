@@ -8284,7 +8284,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q6142239|James Roberts]]''
 | 1878
-| 
+| 2000
 | [[Kembra]]
 |-
 |style='text-align:right'| 1182
@@ -8494,7 +8494,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q5273702|Dickie Morris]]''
 | 1879
-| 
+| 2000
 | ''[[:d:Q669171|Q669171]]''
 |-
 |style='text-align:right'| 1212
