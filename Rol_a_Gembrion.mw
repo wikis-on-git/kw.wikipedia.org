@@ -4943,7 +4943,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 704
 | [[Restren:Henry M Stanley 1872.jpg|center|128px]]
-| ''[[:d:Q171421|Henry Marvel Stanley]]''
+| ''[[:d:Q171421|Henry Morton Stanley]]''
 | 1841
 | 1904
 | [[Dinbych]]
