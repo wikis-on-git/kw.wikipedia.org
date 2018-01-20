@@ -3149,7 +3149,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kernow]]
 |-
 |style='text-align:right'| 436
-|
+| 
 | ''[[:d:Q578272|Sheryll Murray]]''
 | 1956
 | 
