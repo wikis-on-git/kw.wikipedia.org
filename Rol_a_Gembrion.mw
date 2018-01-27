@@ -15327,7 +15327,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q25161|Roald Dahl]]''
 | 1916
 | 1990
-| [[Llandaf]]
+| [[Llandaf]]<br/>''[[:d:Q1801934|Q1801934]]''
 |-
 |style='text-align:right'| 2188
 | 
