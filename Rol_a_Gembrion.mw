@@ -568,9 +568,9 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 79
 | 
-| ''[[:d:Q3780160|Gwgon]]''
+| ''[[:d:Q3330999|Gwgon ap Meurig]]''
 | 808
-| 872
+| 871
 | ''[[:d:Q2578706|Q2578706]]''
 |-
 |style='text-align:right'| 80
