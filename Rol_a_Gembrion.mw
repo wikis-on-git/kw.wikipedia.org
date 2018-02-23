@@ -38823,1342 +38823,1356 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 5544
 | 
+| ''[[:d:Q47542236|Nicola Tustain]]''
+| 1997
+| 
+| [[Corwen]]
+|-
+|style='text-align:right'| 5545
+| 
 | ''[[:d:Q47073063|Megan Chard]]''
 | 1998
 | 
 | ''[[:d:Q990153|Q990153]]''
 |-
-|style='text-align:right'| 5545
+|style='text-align:right'| 5546
 | 
 | ''[[:d:Q27048999|Keelan Giles]]''
 | 1998
 | 
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 5546
+|style='text-align:right'| 5547
 | 
 | ''[[:d:Q38383577|Reuben Morgan-Williams]]''
 | 1998
 | 
 | [[Castell-nedd]]
 |-
-|style='text-align:right'| 5547
+|style='text-align:right'| 5548
 | 
 | ''[[:d:Q21622199|Ioan Nicholas]]''
 | 1998
 | 
 | [[Pontyberem]]
 |-
-|style='text-align:right'| 5548
+|style='text-align:right'| 5549
 | 
 | ''[[:d:Q26132127|Kiran Carlson]]''
 | 1998
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5549
+|style='text-align:right'| 5550
 | 
 | ''[[:d:Q20878155|Dafydd Jones]]''
 | 1998
 | 
 | [[Y Fenni]]
 |-
-|style='text-align:right'| 5550
+|style='text-align:right'| 5551
 | 
 | ''[[:d:Q18169400|Regan Poole]]''
 | 1998
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5551
+|style='text-align:right'| 5552
 | 
 | ''[[:d:Q37763071|Cameron Coxe]]''
 | 1998
 | 
 | ''[[:d:Q752762|Q752762]]''
 |-
-|style='text-align:right'| 5552
+|style='text-align:right'| 5553
 | 
 | ''[[:d:Q28861574|Ryan Conbeer]]''
 | 1999
 | 
 | [[Saundersfoot]]
 |-
-|style='text-align:right'| 5553
+|style='text-align:right'| 5554
 | 
 | ''[[:d:Q4720591|Alexandra Boyd]]''
 | 2000
 | 
 | [[Bangor]]
 |-
-|style='text-align:right'| 5554
+|style='text-align:right'| 5555
 | 
 | ''[[:d:Q5107913|Chris Rodon]]''
 | 2000
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5555
+|style='text-align:right'| 5556
 | 
 | ''[[:d:Q5248233|Deborah Drew]]''
 | 2000
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5556
+|style='text-align:right'| 5557
 | 
 | ''[[:d:Q5496251|Fred Sheldon]]''
 | 2000
 | 
 | ''[[:d:Q809009|Q809009]]''
 |-
-|style='text-align:right'| 5557
+|style='text-align:right'| 5558
 | 
 | ''[[:d:Q5522855|Gareth Gwynn]]''
 | 2000
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5558
+|style='text-align:right'| 5559
 | 
 | ''[[:d:Q5526232|Garyn Lucas]]''
 | 2000
 | 
 | ''[[:d:Q7321615|Q7321615]]''
 |-
-|style='text-align:right'| 5559
+|style='text-align:right'| 5560
 | 
 | ''[[:d:Q6097409|Ivan Sansom]]''
 | 2000
 | 
 | [[Prestatyn]]
 |-
-|style='text-align:right'| 5560
+|style='text-align:right'| 5561
 | 
 | ''[[:d:Q6116226|Jackie Benyon]]''
 | 2000
 | 1937
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5561
+|style='text-align:right'| 5562
 | 
 | ''[[:d:Q6197427|Jim Pearce]]''
 | 2000
 | 
 | [[Y Waun]]
 |-
-|style='text-align:right'| 5562
+|style='text-align:right'| 5563
 | 
 | ''[[:d:Q6271440|Jon Raven]]''
 | 2000
 | 2015
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5563
+|style='text-align:right'| 5564
 | 
 | ''[[:d:Q6369945|Karen Paullada]]''
 | 2000
 | 
 | ''[[:d:Q7054913|Q7054913]]''<br/>[[Kembra]]
 |-
-|style='text-align:right'| 5564
+|style='text-align:right'| 5565
 | 
 | ''[[:d:Q6393868|Keri Davies]]''
 | 2000
 | 
 | [[Treherbert]]
 |-
-|style='text-align:right'| 5565
+|style='text-align:right'| 5566
 | 
 | ''[[:d:Q6708773|Lyndsay Hugh Morgan]]''
 | 2000
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5566
+|style='text-align:right'| 5567
 | 
 | ''[[:d:Q6767116|Mark Collicott]]''
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 5567
+|style='text-align:right'| 5568
 | 
 | ''[[:d:Q6819012|Meredydd Hughes]]''
 | 2000
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5568
+|style='text-align:right'| 5569
 | 
 | ''[[:d:Q7051658|Norma Curtis]]''
 | 2000
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5569
+|style='text-align:right'| 5570
 | 
 | ''[[:d:Q7177186|Peter Sunman]]''
 | 2000
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5570
+|style='text-align:right'| 5571
 | 
 | ''[[:d:Q7177481|Peter Vaughan]]''
 | 2000
 | 
 | ''[[:d:Q3244565|Q3244565]]''
 |-
-|style='text-align:right'| 5571
+|style='text-align:right'| 5572
 | 
 | [[Rod Lyon]]
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 5572
+|style='text-align:right'| 5573
 | 
 | ''[[:d:Q7366973|Ros Atkins]]''
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 5573
+|style='text-align:right'| 5574
 | 
 | ''[[:d:Q7500411|Shoni Jones]]''
 | 2000
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5574
+|style='text-align:right'| 5575
 | 
 | ''[[:d:Q7659721|Syd Reid]]''
 | 2000
 | 
 | ''[[:d:Q7844935|Q7844935]]''
 |-
-|style='text-align:right'| 5575
+|style='text-align:right'| 5576
 | 
 | ''[[:d:Q8005289|William Beck]]''
 | 2000
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5576
+|style='text-align:right'| 5577
 | 
 | ''[[:d:Q10521309|David Summerhayes]]''
 | 2000
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5577
+|style='text-align:right'| 5578
 | 
 | ''[[:d:Q10538955|Percy Roberts]]''
 | 2000
 | 
 | [[Wreksam]]
 |-
-|style='text-align:right'| 5578
+|style='text-align:right'| 5579
 | 
 | ''[[:d:Q13132177|Vernon Jones]]''
 | 2000
 | 
 | ''[[:d:Q3401604|Q3401604]]''
 |-
-|style='text-align:right'| 5579
+|style='text-align:right'| 5580
 | 
 | ''[[:d:Q16190509|Helen Griffin]]''
 | 2000
 | 
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 5580
+|style='text-align:right'| 5581
 | 
 | ''[[:d:Q16197935|Albert Bumford]]''
 | 2000
 | 
 | ''[[:d:Q3399891|Q3399891]]''
 |-
-|style='text-align:right'| 5581
+|style='text-align:right'| 5582
 | 
 | ''[[:d:Q16199536|Osian Roberts]]''
 | 2000
 | 
 | [[Ynys Mon]]
 |-
-|style='text-align:right'| 5582
+|style='text-align:right'| 5583
 | 
 | ''[[:d:Q16931125|Emma Manners, Duchess of Rutland]]''
 | 2000
 | 
 | ''[[:d:Q2254730|Q2254730]]''
 |-
-|style='text-align:right'| 5583
+|style='text-align:right'| 5584
 | 
 | ''[[:d:Q1181577|Deborah Kay Davies]]''
 | 2000
 | 
 | ''[[:d:Q1021164|Q1021164]]''
 |-
-|style='text-align:right'| 5584
+|style='text-align:right'| 5585
 | 
 | ''[[:d:Q1807932|Lauren Francis]]''
 | 2000
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5585
+|style='text-align:right'| 5586
 | [[Restren:Lisa Palfrey, Tanjimei.jpg|center|128px]]
 | ''[[:d:Q1827777|Lisa Palfrey]]''
 | 2000
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5586
+|style='text-align:right'| 5587
 | [[Restren:Nick Reilly 2010.JPG|center|128px]]
 | ''[[:d:Q1985492|Nick Reilly]]''
 | 2000
 | 
 | [[Ynys Mon]]
 |-
-|style='text-align:right'| 5587
+|style='text-align:right'| 5588
 | [[Restren:Jeffrey Thomas.jpg|center|128px]]
 | ''[[:d:Q2120207|Jeffrey Thomas]]''
 | 2000
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5588
+|style='text-align:right'| 5589
+| 
+| ''[[:d:Q2149093|Richard Bond]]''
+| 2000
+| 2011
+| [[Kardydh]]
+|-
+|style='text-align:right'| 5590
 | 
 | ''[[:d:Q2857635|Paul Amos]]''
 | 2000
 | 
 | [[Pen-coed]]
 |-
-|style='text-align:right'| 5589
+|style='text-align:right'| 5591
 | 
 | ''[[:d:Q11891034|Robert Prys-Jones]]''
 | 2000
 | 
 | [[Dinbych]]
 |-
-|style='text-align:right'| 5590
+|style='text-align:right'| 5592
 | 
 | ''[[:d:Q19629034|Simon Armstrong]]''
 | 2000
 | 
 | [[Llanelli]]
 |-
-|style='text-align:right'| 5591
+|style='text-align:right'| 5593
 | 
 | ''[[:d:Q20007832|Leondre Devries]]''
 | 2000
 | 
 | [[Port Talbot]]
 |-
-|style='text-align:right'| 5592
+|style='text-align:right'| 5594
 | 
 | ''[[:d:Q22279195|Maisie Methuen]]''
 | 2001
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5593
+|style='text-align:right'| 5595
 | 
 | ''[[:d:Q3399200|April Jones]]''
 | 2007
 | 2012
 | [[Machynlleth]]
 |-
-|style='text-align:right'| 5594
+|style='text-align:right'| 5596
 | 
 | ''[[:d:Q3299663|Matthew Bancroft]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5595
+|style='text-align:right'| 5597
 | 
 | ''[[:d:Q3401261|John Jones]]''
 | 
 | 1598
 | [[Clynnog]]
 |-
-|style='text-align:right'| 5596
+|style='text-align:right'| 5598
 | 
 | ''[[:d:Q6232012|John Evans]]''
 | 
 | 1723
 | [[Kembra]]
 |-
-|style='text-align:right'| 5597
+|style='text-align:right'| 5599
 | 
 | ''[[:d:Q6236409|John Griffiths]]''
 | 
 | 1916
 | [[Cydweli]]
 |-
-|style='text-align:right'| 5598
+|style='text-align:right'| 5600
 | 
 | ''[[:d:Q6248845|John Mills]]''
 | 
 | 1982
 | [[Bagillt]]
 |-
-|style='text-align:right'| 5599
+|style='text-align:right'| 5601
 | 
 | ''[[:d:Q6260494|John Thomas]]''
 | 
 | 1920
 | [[Kembra]]
 |-
-|style='text-align:right'| 5600
+|style='text-align:right'| 5602
 | 
 | ''[[:d:Q8013687|William Johnson]]''
 | 
 | 1997
 | [[Kembra]]
 |-
-|style='text-align:right'| 5601
+|style='text-align:right'| 5603
 | 
 | ''[[:d:Q8019295|William Thomas]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5602
+|style='text-align:right'| 5604
 | 
 | ''[[:d:Q13129276|Isaac Carter]]''
 | 
 | 1741
 | ''[[:d:Q217840|Konteth Karvyrdhin]]''
 |-
-|style='text-align:right'| 5603
+|style='text-align:right'| 5605
 | 
 | ''[[:d:Q17053434|Every Maclean]]''
 | 
 | 1901
 | [[Kernow]]
 |-
-|style='text-align:right'| 5604
+|style='text-align:right'| 5606
 | 
 | ''[[:d:Q20734338|Robert Humphreys]]''
 | 
 | 
 | ''[[:d:Q29493306|Q29493306]]''
 |-
-|style='text-align:right'| 5605
+|style='text-align:right'| 5607
 | 
 | ''[[:d:Q20734633|William Hope]]''
 | 
 | 
 | [[Mostyn]]
 |-
-|style='text-align:right'| 5606
+|style='text-align:right'| 5608
 | 
 | ''[[:d:Q390440|Jacut de Landoac]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5607
+|style='text-align:right'| 5609
 | 
 | ''[[:d:Q533591|Hue de Rotelande]]''
 | 
 | 
 | ''[[:d:Q650682|Konteth Dinbygh]]''
 |-
-|style='text-align:right'| 5608
+|style='text-align:right'| 5610
 | [[Restren:Petroc.png|center|128px]]
 | [[Petrek]]
 | 
 | 564
 | [[Kembra]]
 |-
-|style='text-align:right'| 5609
+|style='text-align:right'| 5611
 | 
 | ''[[:d:Q746440|Saint Guéthénoc]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5610
+|style='text-align:right'| 5612
 | [[Restren:Notre-Dame de Rouen.JPG|center|128px]]
 | ''[[:d:Q783357|Walter de Coutances]]''
 | 
 | 1207
 | [[Kernow]]
 |-
-|style='text-align:right'| 5611
+|style='text-align:right'| 5613
 | 
 | ''[[:d:Q944974|William Parry]]''
 | 
 | 1585
 | [[Llaneurgain]]
 |-
-|style='text-align:right'| 5612
+|style='text-align:right'| 5614
 | [[Restren:Llandaf, yr eglwys gadeiriol Llandaf Cathedral De Cymru South Wales 157.JPG|center|128px]]
 | ''[[:d:Q1088014|Tewdrig]]''
 | 
 | 
 | ''[[:d:Q2253783|Q2253783]]''<br/>[[Kembra]]
 |-
-|style='text-align:right'| 5613
+|style='text-align:right'| 5615
 | [[Restren:Buste reliquaire de saint Suliac, Sizun, France.jpg|center|128px]]
 | ''[[:d:Q1293017|Tysilio]]''
 | 
 | 640
 | ''[[:d:Q769782|Q769782]]''
 |-
-|style='text-align:right'| 5614
+|style='text-align:right'| 5616
 | 
 | ''[[:d:Q1601789|Heledd ferch Cyndrwyn]]''
 | 
 | 
 | ''[[:d:Q837136|Q837136]]''
 |-
-|style='text-align:right'| 5615
+|style='text-align:right'| 5617
 | [[Restren:Llandaf, yr eglwys gadeiriol Llandaf Cathedral De Cymru South Wales 98.png|center|128px]]
 | ''[[:d:Q2062366|Tydfil]]''
 | 
 | 480
 | [[Kembra]]
 |-
-|style='text-align:right'| 5616
+|style='text-align:right'| 5618
 | [[Restren:Saint Aaron.jpg|center|128px]]
 | ''[[:d:Q2501319|Aaron of Aleth]]''
 | 
 | 552
 | [[Kembra]]
 |-
-|style='text-align:right'| 5617
+|style='text-align:right'| 5619
 | [[Restren:Quimper 12 Cathédrale Saint Conogan.jpg|center|128px]]
 | ''[[:d:Q2993516|Conogan]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5618
+|style='text-align:right'| 5620
 | 
 | ''[[:d:Q3048472|Edward Byllynge]]''
 | 
 | 1687
 | [[Kernow]]
 |-
-|style='text-align:right'| 5619
+|style='text-align:right'| 5621
 | 
 | ''[[:d:Q3399895|Dafydd ab Edmwnd]]''
 | 
 | 1497
 | [[Hanmer]]
 |-
-|style='text-align:right'| 5620
+|style='text-align:right'| 5622
 | [[Restren:Llanberis Eglwys Sant Padarn - Church of St Padarn, Llanberis, Gwynedd, Wales 16.jpg|center|128px]]
 | ''[[:d:Q3401988|Saint Peris]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5621
+|style='text-align:right'| 5623
 | 
 | ''[[:d:Q3463769|Saint Enéour]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5622
+|style='text-align:right'| 5624
 | 
 | ''[[:d:Q3463819|Saint Guirec]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5623
+|style='text-align:right'| 5625
 | [[Restren:San-Maglorio di Dol.JPG|center|128px]]
 | ''[[:d:Q3463964|Magloire]]''
 | 
 | 575
 | ''[[:d:Q870815|Q870815]]''
 |-
-|style='text-align:right'| 5624
+|style='text-align:right'| 5626
 | [[Restren:Ninnoc.jpg|center|128px]]
 | ''[[:d:Q3464537|Sainte Ninnoc]]''
 | 
 | 467
 | [[Kembra]]
 |-
-|style='text-align:right'| 5625
+|style='text-align:right'| 5627
 | 
 | ''[[:d:Q3814797|Kevin Bowring]]''
 | 
 | 
 | [[Castell-nedd]]
 |-
-|style='text-align:right'| 5626
+|style='text-align:right'| 5628
 | 
 | ''[[:d:Q4161903|Dingad]]''
 | 
 | 
 | ''[[:d:Q769782|Q769782]]''
 |-
-|style='text-align:right'| 5627
+|style='text-align:right'| 5629
 | 
 | ''[[:d:Q4709005|Alban Hill]]''
 | 
 | 1559
 | [[Kembra]]
 |-
-|style='text-align:right'| 5628
+|style='text-align:right'| 5630
 | 
 | ''[[:d:Q4710021|Albert Day]]''
 | 
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5629
+|style='text-align:right'| 5631
 | 
 | ''[[:d:Q4711432|Albert Wardell]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5630
+|style='text-align:right'| 5632
 | 
 | ''[[:d:Q4737505|Alun Owen]]''
 | 
 | 
 | [[Y Fenni]]
 |-
-|style='text-align:right'| 5631
+|style='text-align:right'| 5633
 | 
 | ''[[:d:Q4763163|Angharad ferch Meurig]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5632
+|style='text-align:right'| 5634
 | 
 | ''[[:d:Q4885193|Ben Addis]]''
 | 
 | 
 | [[Blaenafon]]
 |-
-|style='text-align:right'| 5633
+|style='text-align:right'| 5635
 | 
 | ''[[:d:Q4886643|Ben Watts-Jones]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5634
+|style='text-align:right'| 5636
 | 
 | ''[[:d:Q4933698|Bob Pugh]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5635
+|style='text-align:right'| 5637
 | 
 | ''[[:d:Q5106346|Chris Dale]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5636
+|style='text-align:right'| 5638
 | 
 | ''[[:d:Q5107007|Chris Jenkins]]''
 | 
 | 
 | [[Castell-nedd]]
 |-
-|style='text-align:right'| 5637
+|style='text-align:right'| 5639
 | [[Restren:Claire Summers.jpg|center|128px]]
 | ''[[:d:Q5125320|Claire Summers]]''
 | 
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5638
+|style='text-align:right'| 5640
 | 
 | ''[[:d:Q5232856|David Davies]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5639
+|style='text-align:right'| 5641
 | [[Restren:David-ryder-prangley.jpg|center|128px]]
 | ''[[:d:Q5239330|David Ryder Prangley]]''
 | 
 | 
 | [[Dinas Powys]]
 |-
-|style='text-align:right'| 5640
+|style='text-align:right'| 5642
 | 
 | ''[[:d:Q5241167|David Willicombe]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5641
+|style='text-align:right'| 5643
 | 
 | ''[[:d:Q5242467|Dawn McCafferty]]''
 | 
 | 
 | ''[[:d:Q1859627|Q1859627]]''
 |-
-|style='text-align:right'| 5642
+|style='text-align:right'| 5644
 | 
 | ''[[:d:Q5259851|Denys Graham]]''
 | 
 | 
 | [[Trefdraeth]]
 |-
-|style='text-align:right'| 5643
+|style='text-align:right'| 5645
 | 
 | ''[[:d:Q5296340|Donna Edwards]]''
 | 
 | 
 | ''[[:d:Q752762|Q752762]]''
 |-
-|style='text-align:right'| 5644
+|style='text-align:right'| 5646
 | 
 | ''[[:d:Q5318618|Dyfodwg]]''
 | 
 | 
 | ''[[:d:Q817960|Rondha Kynon Tav]]''
 |-
-|style='text-align:right'| 5645
+|style='text-align:right'| 5647
 | 
 | ''[[:d:Q5345705|Edward Vaughan]]''
 | 
 | 1683
 | ''[[:d:Q217829|Keredigyon]]''
 |-
-|style='text-align:right'| 5646
+|style='text-align:right'| 5648
 | [[Restren:Democracy Day in Ysgol Dyffryn Nantlle, Penygroes, Gwynedd (cropped).jpg|center|128px]]
 | ''[[:d:Q5354231|Eleanor Burnham]]''
 | 
 | 
 | [[Wreksam]]
 |-
-|style='text-align:right'| 5647
+|style='text-align:right'| 5649
 | 
 | ''[[:d:Q5361092|Elin Phillips]]''
 | 
 | 
 | [[Pen-y-bont ar Ogwr]]
 |-
-|style='text-align:right'| 5648
+|style='text-align:right'| 5650
 | 
 | ''[[:d:Q5374087|Empire ISIS]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5649
+|style='text-align:right'| 5651
 | 
 | ''[[:d:Q5522948|Gareth Pierce]]''
 | 
 | 
 | [[Pwllheli]]
 |-
-|style='text-align:right'| 5650
+|style='text-align:right'| 5652
 | 
 | ''[[:d:Q5554440|Gethin ap Gruffydd]]''
 | 
 | 
 | ''[[:d:Q752762|Q752762]]''
 |-
-|style='text-align:right'| 5651
+|style='text-align:right'| 5653
 | 
 | ''[[:d:Q5672058|Harry Royal]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5652
+|style='text-align:right'| 5654
 | 
 | ''[[:d:Q6141939|James Regan]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5653
+|style='text-align:right'| 5655
 | [[Restren:Janet Finch-Saunders.jpg|center|128px]]
 | ''[[:d:Q6153343|Janet Finch-Saunders]]''
 | 
 | 
 | [[Llandudno]]
 |-
-|style='text-align:right'| 5654
+|style='text-align:right'| 5656
 | 
 | ''[[:d:Q6275834|Jonny Vaughton]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5655
+|style='text-align:right'| 5657
 | [[Restren:Keith Davies - National Assembly for Wales.jpg|center|128px]]
 | ''[[:d:Q6384255|Keith Davies]]''
 | 
 | 
 | [[Gwauncaegurwen]]
 |-
-|style='text-align:right'| 5656
+|style='text-align:right'| 5658
 | 
 | ''[[:d:Q6398588|Kezia Burrows]]''
 | 
 | 
 | [[Castell-nedd]]
 |-
-|style='text-align:right'| 5657
+|style='text-align:right'| 5659
 | 
 | ''[[:d:Q6498889|Laura Evans]]''
 | 
 | 
 | ''[[:d:Q752762|Q752762]]''
 |-
-|style='text-align:right'| 5658
+|style='text-align:right'| 5660
 | [[Restren:Lindsay Whittle 2011.jpg|center|128px]]
 | ''[[:d:Q6552839|Lindsay Whittle]]''
 | 
 | 
 | [[Caerffili]]
 |-
-|style='text-align:right'| 5659
+|style='text-align:right'| 5661
 | 
 | ''[[:d:Q6770144|Mark Versallion]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 5660
+|style='text-align:right'| 5662
 | 
 | ''[[:d:Q6789223|Matt Rees]]''
 | 
 | 
 | [[Maesteg]]
 |-
-|style='text-align:right'| 5661
+|style='text-align:right'| 5663
 | [[Restren:Nic Parry Tachwedd 2014.JPG|center|128px]]
 | ''[[:d:Q7024310|Nic Parry]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5662
+|style='text-align:right'| 5664
 | 
 | ''[[:d:Q7128230|Palmer Griffiths]]''
 | 
 | 
 | [[Pontypridd]]
 |-
-|style='text-align:right'| 5663
+|style='text-align:right'| 5665
 | 
 | ''[[:d:Q7228389|Ponty Davies]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5664
+|style='text-align:right'| 5666
 | 
 | ''[[:d:Q7298291|Ray Wilcox]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5665
+|style='text-align:right'| 5667
 | [[Restren:Rhys Meirion 2011 llai.jpg|center|128px]]
 | ''[[:d:Q7321814|Rhys Meirion]]''
 | 
 | 
 | ''[[:d:Q2035368|Q2035368]]''
 |-
-|style='text-align:right'| 5666
+|style='text-align:right'| 5668
 | 
 | ''[[:d:Q7342182|Robert Blythe]]''
 | 
 | 
 | [[Port Talbot]]
 |-
-|style='text-align:right'| 5667
+|style='text-align:right'| 5669
 | 
 | ''[[:d:Q7347796|Robert Morgan]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5668
+|style='text-align:right'| 5670
 | 
 | ''[[:d:Q7357782|Roger Addison]]''
 | 
 | 2010
 | [[Kembra]]
 |-
-|style='text-align:right'| 5669
+|style='text-align:right'| 5671
 | 
 | ''[[:d:Q7364983|Ronald James]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5670
+|style='text-align:right'| 5672
 | 
 | ''[[:d:Q7369277|Ross Davies]]''
 | 
 | 
 | ''[[:d:Q17317956|Q17317956]]''
 |-
-|style='text-align:right'| 5671
+|style='text-align:right'| 5673
 | 
 | ''[[:d:Q7401077|Saint Caradoc]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5672
+|style='text-align:right'| 5674
 | [[Restren:St Eigon, Llanigon - geograph.org.uk - 714248.jpg|center|128px]]
 | ''[[:d:Q7401197|Saint Eigen]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5673
+|style='text-align:right'| 5675
 | 
 | ''[[:d:Q7401288|Saint Gelert]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5674
+|style='text-align:right'| 5676
 | 
 | ''[[:d:Q7493819|Shelley Rees]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5675
+|style='text-align:right'| 5677
 | [[Restren:Suzy Davies.jpg|center|128px]]
 | ''[[:d:Q7651414|Suzy Davies]]''
 | 
 | 
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 5676
+|style='text-align:right'| 5678
 | 
 | ''[[:d:Q7655213|Sweet Baboo]]''
 | 
 | 
 | [[Trefriw]]
 |-
-|style='text-align:right'| 5677
+|style='text-align:right'| 5679
 | 
 | ''[[:d:Q7795299|Thomas Woods]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5678
+|style='text-align:right'| 5680
 | 
 | ''[[:d:Q7817808|Tom Thomas]]''
 | 
 | 
 | [[Aberafan]]
 |-
-|style='text-align:right'| 5679
+|style='text-align:right'| 5681
 | [[Restren:WilliamCross.png|center|128px]]
 | ''[[:d:Q8007318|William Cross]]''
 | 
 | 1890
 | [[Pen-y-bont ar Ogwr]]
 |-
-|style='text-align:right'| 5680
+|style='text-align:right'| 5682
 | [[Restren:William Powell - National Assembly for Wales.jpg|center|128px]]
 | ''[[:d:Q8017036|William Powell]]''
 | 
 | 
 | [[Talgarth]]
 |-
-|style='text-align:right'| 5681
+|style='text-align:right'| 5683
 | 
 | ''[[:d:Q10965002|Gwladus ferch Senana]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5682
+|style='text-align:right'| 5684
 | 
 | ''[[:d:Q10969182|Gwyn Griffiths]]''
 | 
 | 
 | ''[[:d:Q15963881|Q15963881]]''
 |-
-|style='text-align:right'| 5683
+|style='text-align:right'| 5685
 | 
 | ''[[:d:Q13129962|Martin Davis]]''
 | 
 | 
 | [[Llanrwst]]
 |-
-|style='text-align:right'| 5684
+|style='text-align:right'| 5686
 | 
 | ''[[:d:Q13405416|Einir Dafydd]]''
 | 
 | 
 | ''[[:d:Q213361|Konteth Pennvro]]''
 |-
-|style='text-align:right'| 5685
+|style='text-align:right'| 5687
 | 
 | ''[[:d:Q13637417|Ian Jeremiah]]''
 | 
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5686
+|style='text-align:right'| 5688
 | 
 | ''[[:d:Q14946841|Mark Evans]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5687
+|style='text-align:right'| 5689
 | 
 | ''[[:d:Q16208797|Russell Gomer]]''
 | 
 | 
 | ''[[:d:Q478218|Q478218]]''
 |-
-|style='text-align:right'| 5688
+|style='text-align:right'| 5690
 | 
 | ''[[:d:Q16735285|Beth Robert]]''
 | 
 | 
 | ''[[:d:Q3397975|Q3397975]]''
 |-
-|style='text-align:right'| 5689
+|style='text-align:right'| 5691
 | 
 | ''[[:d:Q18164639|Charles Davies]]''
 | 
 | 1888
 | [[Kembra]]
 |-
-|style='text-align:right'| 5690
+|style='text-align:right'| 5692
 | 
 | ''[[:d:Q18535440|Alistair James]]''
 | 
 | 
 | [[Bangor]]
 |-
-|style='text-align:right'| 5691
+|style='text-align:right'| 5693
 | [[Restren:Llen Natur Conference May 2017 30.jpg|center|128px]]
 | ''[[:d:Q18535443|Andrew Hawke]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 5692
+|style='text-align:right'| 5694
 | 
 | ''[[:d:Q18535453|Aled ap Dafydd]]''
 | 
 | 
 | [[Bangor]]
 |-
-|style='text-align:right'| 5693
+|style='text-align:right'| 5695
 | 
 | ''[[:d:Q18535617|Meirion Evans]]''
 | 
 | 
 | ''[[:d:Q5441898|Q5441898]]''
 |-
-|style='text-align:right'| 5694
+|style='text-align:right'| 5696
 | 
 | ''[[:d:Q18535819|Lowri Morgan]]''
 | 
 | 
 | [[Tre-gŵyr]]
 |-
-|style='text-align:right'| 5695
+|style='text-align:right'| 5697
 | 
 | ''[[:d:Q18730245|Efa ferch Maredudd]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5696
+|style='text-align:right'| 5698
 | 
 | ''[[:d:Q18762129|William Price]]''
 | 
 | 1596
 | ''[[:d:Q650682|Konteth Dinbygh]]''
 |-
-|style='text-align:right'| 5697
+|style='text-align:right'| 5699
 | 
 | ''[[:d:Q19518803|Bethan Witcomb]]''
 | 
 | 
 | ''[[:d:Q2297559|Q2297559]]''
 |-
-|style='text-align:right'| 5698
+|style='text-align:right'| 5700
 | [[Restren:Frances Donovan 2011.jpg|center|128px]]
 | ''[[:d:Q19650365|Frances Donovan]]''
 | 
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5699
+|style='text-align:right'| 5701
 | 
 | ''[[:d:Q19958045|Janet Haworth]]''
 | 
 | 
 | [[Llandudno]]
 |-
-|style='text-align:right'| 5700
+|style='text-align:right'| 5702
 | 
 | ''[[:d:Q20559469|Dyfnwal ap Arthwyr]]''
 | 
 | 807
 | ''[[:d:Q217829|Keredigyon]]''
 |-
-|style='text-align:right'| 5701
+|style='text-align:right'| 5703
 | [[Restren:Siân Gwenllian AM (28092344141).jpg|center|128px]]
 | ''[[:d:Q20570139|Sian Gwenllian]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5702
+|style='text-align:right'| 5704
 | 
 | ''[[:d:Q20638154|Rhisiart Iorwerth]]''
 | 
 | 
 | ''[[:d:Q6661579|Q6661579]]''
 |-
-|style='text-align:right'| 5703
+|style='text-align:right'| 5705
 | 
 | ''[[:d:Q20732632|Arthur Jones]]''
 | 
 | 
 | ''[[:d:Q6661405|Q6661405]]''
 |-
-|style='text-align:right'| 5704
+|style='text-align:right'| 5706
 | 
 | ''[[:d:Q20732748|Dafydd Llwyd]]''
 | 
 | 1469
 | [[Kembra]]
 |-
-|style='text-align:right'| 5705
+|style='text-align:right'| 5707
 | 
 | ''[[:d:Q20733217|Huw ap Dafydd]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5706
+|style='text-align:right'| 5708
 | 
 | ''[[:d:Q20733219|Huw ap Morus]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5707
+|style='text-align:right'| 5709
 | 
 | ''[[:d:Q20733220|Huw ap Rhisiart ap Dafydd]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5708
+|style='text-align:right'| 5710
 | 
 | ''[[:d:Q20733752|Judith Godwin]]''
 | 
 | 1746
 | [[Kembra]]
 |-
-|style='text-align:right'| 5709
+|style='text-align:right'| 5711
 | 
 | ''[[:d:Q20738132|Margaret Jones]]''
 | 
 | 1902
 | [[Rhosllannerchrugog]]
 |-
-|style='text-align:right'| 5710
+|style='text-align:right'| 5712
 | 
 | ''[[:d:Q21481534|John Williams]]''
 | 
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5711
+|style='text-align:right'| 5713
 | 
 | ''[[:d:Q21544278|Thomas Howell]]''
 | 
 | 1540
 | [[Kembra]]
 |-
-|style='text-align:right'| 5712
+|style='text-align:right'| 5714
 | 
 | ''[[:d:Q22277003|Remy Beasley]]''
 | 
 | 
 | [[Cas-gwent]]
 |-
-|style='text-align:right'| 5713
+|style='text-align:right'| 5715
 | 
 | ''[[:d:Q22277869|Daniel Gammond]]''
 | 
 | 
 | [[Port Talbot]]
 |-
-|style='text-align:right'| 5714
+|style='text-align:right'| 5716
 | 
 | ''[[:d:Q22704062|Rebecca Harries]]''
 | 
 | 
 | [[Llandybïe]]
 |-
-|style='text-align:right'| 5715
+|style='text-align:right'| 5717
 | 
 | ''[[:d:Q23721875|Shelley Miranda Barrett]]''
 | 
 | 
 | [[Penarth]]
 |-
-|style='text-align:right'| 5716
+|style='text-align:right'| 5718
 | 
 | ''[[:d:Q23812726|Rhian Edwards]]''
 | 
 | 
 | [[Pen-y-bont ar Ogwr]]
 |-
-|style='text-align:right'| 5717
+|style='text-align:right'| 5719
 | [[Restren:Hefin David AM (28170811245).jpg|center|128px]]
 | ''[[:d:Q24040034|Hefin David]]''
 | 
 | 
 | ''[[:d:Q748065|Karfili]]''
 |-
-|style='text-align:right'| 5718
+|style='text-align:right'| 5720
 | [[Restren:Neil McEvoy AM (28092346611).jpg|center|128px]]
 | ''[[:d:Q24041564|Neil McEvoy]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5719
+|style='text-align:right'| 5721
 | [[Restren:Vikki Howells AM (27555188583).jpg|center|128px]]
 | ''[[:d:Q24045680|Vikki Howells]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5720
+|style='text-align:right'| 5722
 | [[Restren:Jayne Bryant AM (28092339351).jpg|center|128px]]
 | ''[[:d:Q24050178|Jayne Bryant]]''
 | 
 | 
 | ''[[:d:Q7374246|Q7374246]]''
 |-
-|style='text-align:right'| 5721
+|style='text-align:right'| 5723
 | 
 | ''[[:d:Q24735292|Judith Tucker]]''
 | 
 | 
 | [[Bangor]]
 |-
-|style='text-align:right'| 5722
+|style='text-align:right'| 5724
 | [[Restren:Samuel Mitchell HOFWA.jpg|center|128px]]
 | ''[[:d:Q24845830|Samuel Mitchell]]''
 | 
 | 1912
 | [[Kernow]]
 |-
-|style='text-align:right'| 5723
+|style='text-align:right'| 5725
 | 
 | ''[[:d:Q25207017|Thomas Lewis]]''
 | 
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5724
+|style='text-align:right'| 5726
 | [[Restren:P1040167 crop.jpg|center|128px]]
 | ''[[:d:Q25824295|John S. Davies]]''
 | 
 | 2016
 | [[Tre-lech]]
 |-
-|style='text-align:right'| 5725
+|style='text-align:right'| 5727
 | 
 | ''[[:d:Q25927690|Chris Barber]]''
 | 
 | 
 | [[Trefdraeth]]
 |-
-|style='text-align:right'| 5726
+|style='text-align:right'| 5728
 | 
 | ''[[:d:Q27036912|Cwyfan]]''
 | 
 | 
 | [[Ynys Mon]]
 |-
-|style='text-align:right'| 5727
+|style='text-align:right'| 5729
 | [[Restren:St Hychan's Church, Eglwys Llanychan, Rhuthun, Sir Ddinbych, Cymru, Wales 09.jpg|center|128px]]
 | ''[[:d:Q27067380|Hychan]]''
 | 
 | 
 | ''[[:d:Q650682|Konteth Dinbygh]]''
 |-
-|style='text-align:right'| 5728
+|style='text-align:right'| 5730
 | 
 | ''[[:d:Q27661910|Harry Toft]]''
 | 
 | 1951
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 5729
+|style='text-align:right'| 5731
 | 
 | ''[[:d:Q27734045|Finlay Wood]]''
 | 
 | 
 | [[Trefdraeth]]
 |-
-|style='text-align:right'| 5730
+|style='text-align:right'| 5732
 | [[Restren:St. James' Church, Llangua - geograph.org.uk - 1286109.jpg|center|128px]]
 | ''[[:d:Q28681406|Kew]]''
 | 
 | 
 | ''[[:d:Q1376956|Q1376956]]''
 |-
-|style='text-align:right'| 5731
+|style='text-align:right'| 5733
 | [[Restren:Sion Trefor (m. 1589) Gresffordd. John Trevor (d. 1589) Gresford Church, Cymru Wales.jpg|center|128px]]
 | ''[[:d:Q28731295|Sion Trevor]]''
 | 
 | 
 | [[Yr Orsedd]]
 |-
-|style='text-align:right'| 5732
+|style='text-align:right'| 5734
 | 
 | ''[[:d:Q31358792|Wil Tân]]''
 | 
 | 
 | [[Ynys Mon]]
 |-
-|style='text-align:right'| 5733
+|style='text-align:right'| 5735
 | 
 | ''[[:d:Q39078938|Sam Jones]]''
 | 
 | 
 | [[Trefdraeth]]
 |-
-|style='text-align:right'| 5734
+|style='text-align:right'| 5736
 | 
 | ''[[:d:Q40294587|John Salusbury (d. 1566)]]''
 | 
 | 
 | ''[[:d:Q6662131|Q6662131]]''
 |-
-|style='text-align:right'| 5735
+|style='text-align:right'| 5737
 | 
 | ''[[:d:Q47656094|Alan Phillips]]''
 | 
