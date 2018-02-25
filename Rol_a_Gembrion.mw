@@ -40199,12 +40199,19 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 2
 | 
+| ''[[:d:Q50131942|Trefor Selway]]''
+| 1931
+| 2018
+| ''[[:d:Q3406258|Q3406258]]''
+|-
+|style='text-align:right'| 3
+| 
 | ''[[:d:Q1883439|Madoc ab Owain Gwynedd]]''
 | 
 | 
 | ''[[:d:Q2369922|Q2369922]]''
 |-
-|style='text-align:right'| 3
+|style='text-align:right'| 4
 | 
 | ''[[:d:Q2560424|Pixie]]''
 | 
