@@ -4409,6 +4409,24 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Austol]]
 |}
 
+
+== Misc ==
+{| class='wikitable sortable' style='width:100%'
+!#
+!Imach
+!Hanow
+!Dedhyas genesigeth
+!Dedhyas mernans
+!Tyller genesigeth
+|-
+|style='text-align:right'| 1
+| 
+| ''[[:d:Q3621261|Aramone di Cornovaglia]]''
+| 
+| 
+| [[Kernow]]
+|}
+
 {{Wikidata list end}}
 
 {{Porth Kernow}}
