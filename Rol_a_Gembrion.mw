@@ -13594,88 +13594,88 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7228399|Q7228399]]''
 |-
 |style='text-align:right'| 1940
-| [[Restren:Geoff Charles self portrait, 1945.jpg|center|128px]]
-| ''[[:d:Q5534081|Geoff Charles]]''
-| 1909
-| 2002
-| [[Brymbo]]
-|-
-|style='text-align:right'| 1941
 | [[Restren:Cecil williams ubrax library collection.png|center|128px]]
 | ''[[:d:Q183409|Cecil Williams]]''
 | 1909
 | 1979
 | [[Kernow]]
 |-
-|style='text-align:right'| 1942
+|style='text-align:right'| 1941
 | [[Restren:Burnett Bolloten 1980.tif|center|128px]]
 | ''[[:d:Q2928553|Burnett Bolloten]]''
 | 1909
 | 1987
 | [[Bangor]]
 |-
-|style='text-align:right'| 1943
+|style='text-align:right'| 1942
 | 
 | ''[[:d:Q4819086|Aubrey Casewell]]''
 | 1909
 | 1974
 | [[Llanfyllin]]
 |-
-|style='text-align:right'| 1944
+|style='text-align:right'| 1943
 | 
 | ''[[:d:Q5567906|Glen Moody]]''
 | 1909
 | 1989
 | [[Pontypridd]]
 |-
-|style='text-align:right'| 1945
+|style='text-align:right'| 1944
 | 
 | ''[[:d:Q7599810|Stanley Mountain]]''
 | 1909
 | 
 | [[Trefdraeth]]
 |-
-|style='text-align:right'| 1946
+|style='text-align:right'| 1945
 | 
 | ''[[:d:Q7819839|Tommy Scourfield]]''
 | 1909
 | 1976
 | [[Pontypridd]]
 |-
-|style='text-align:right'| 1947
+|style='text-align:right'| 1946
 | 
 | ''[[:d:Q3404928|Glyndwr Michael]]''
 | 1909
 | 1943
 | ''[[:d:Q2564732|Q2564732]]''
 |-
-|style='text-align:right'| 1948
+|style='text-align:right'| 1947
 | 
 | ''[[:d:Q465029|Sandy Griffiths]]''
 | 1909
 | 1974
 | [[Abertyleri]]
 |-
-|style='text-align:right'| 1949
+|style='text-align:right'| 1948
 | 
 | ''[[:d:Q18528756|Enid Wyn Jones]]''
 | 1909
 | 1967
 | [[Wreksam]]
 |-
-|style='text-align:right'| 1950
+|style='text-align:right'| 1949
 | 
 | ''[[:d:Q4913355|Billy Tabram]]''
 | 1909
 | 1992
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 1951
+|style='text-align:right'| 1950
 | 
 | ''[[:d:Q19668413|Glyn Owen]]''
 | 1909
 | 1978
 | [[Llanelli]]
+|-
+|style='text-align:right'| 1951
+| [[Restren:Geoff Charles self portrait, 1945.jpg|center|128px]]
+| ''[[:d:Q5534081|Geoff Charles]]''
+| 1909
+| 2002
+| [[Brymbo]]
 |-
 |style='text-align:right'| 1952
 | 
@@ -14647,7 +14647,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q24007303|George Green]]''
 | 1912
-| 
+| 1995
 | [[Kembra]]
 |-
 |style='text-align:right'| 2091
@@ -34987,199 +34987,199 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 4996
 | 
-| ''[[:d:Q7421643|Sara Gregory]]''
-| 1986
-| 
-| [[Rhydaman]]
-|-
-|style='text-align:right'| 4997
-| 
 | ''[[:d:Q6112960|Jack Harris]]''
 | 1986
 | 
 | [[Llanfair-ym-Muallt]]
 |-
-|style='text-align:right'| 4998
+|style='text-align:right'| 4997
 | 
 | ''[[:d:Q6377553|Katie Sherwood]]''
 | 1986
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 4999
+|style='text-align:right'| 4998
 | 
 | ''[[:d:Q21642411|Hannah Daniel]]''
 | 1986
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5000
+|style='text-align:right'| 4999
 | 
 | ''[[:d:Q5389230|Erin Vaughan]]''
 | 1986
 | 
 | [[Trefdraeth]]
 |-
-|style='text-align:right'| 5001
+|style='text-align:right'| 5000
 | [[Restren:Charlotte Church cropped.jpg|center|128px]]
 | ''[[:d:Q231207|Charlotte Church]]''
 | 1986
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5002
+|style='text-align:right'| 5001
 | 
 | ''[[:d:Q6100562|Iwan Brown]]''
 | 1986
 | 
 | [[Wreksam]]
 |-
-|style='text-align:right'| 5003
+|style='text-align:right'| 5002
 | 
 | ''[[:d:Q10314880|Kyle Redmond-Jones]]''
 | 1986
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5004
+|style='text-align:right'| 5003
 | [[Restren:Geraint Davies.JPG|center|128px]]
 | ''[[:d:Q5548803|Geraint Davies]]''
 | 1986
 | 
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 5005
+|style='text-align:right'| 5004
 | 
 | ''[[:d:Q7408625|Samantha Bowen]]''
 | 1986
 | 
 | [[Aberpennar]]
 |-
-|style='text-align:right'| 5006
+|style='text-align:right'| 5005
 | 
 | ''[[:d:Q7815265|Tom Cheeseman]]''
 | 1986
 | 
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 5007
+|style='text-align:right'| 5006
 | 
 | ''[[:d:Q7369438|Ross Johnson]]''
 | 1986
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5008
+|style='text-align:right'| 5007
 | 
 | ''[[:d:Q6790320|Matthew Collins]]''
 | 1986
 | 
 | ''[[:d:Q752762|Q752762]]''
 |-
-|style='text-align:right'| 5009
+|style='text-align:right'| 5008
 | 
 | ''[[:d:Q16231561|Hywel Stoddart]]''
 | 1986
 | 
 | [[Pontypridd]]
 |-
-|style='text-align:right'| 5010
+|style='text-align:right'| 5009
 | [[Restren:David Greene Barcelona 2010.jpg|center|128px]]
 | ''[[:d:Q460929|Dai Greene]]''
 | 1986
 | 
 | [[Llanelli]]
 |-
-|style='text-align:right'| 5011
+|style='text-align:right'| 5010
 | 
 | ''[[:d:Q6848419|Mike Poole]]''
 | 1986
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5012
+|style='text-align:right'| 5011
 | 
 | ''[[:d:Q16231553|Jonathan Spratt]]''
 | 1986
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5013
+|style='text-align:right'| 5012
 | 
 | ''[[:d:Q1138615|Craig Mitchell]]''
 | 1986
 | 
 | [[Castell-nedd]]
 |-
-|style='text-align:right'| 5014
+|style='text-align:right'| 5013
 | 
 | ''[[:d:Q6539548|Liam Davies]]''
 | 1986
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 5015
+|style='text-align:right'| 5014
 | [[Restren:Erin Richards filming on Penarth Pier January 2016 (cropped).JPG|center|128px]]
 | ''[[:d:Q4539315|Erin Richards]]''
 | 1986
 | 
 | [[Penarth]]
 |-
-|style='text-align:right'| 5016
+|style='text-align:right'| 5015
 | [[Restren:Geraint Thomas CD 2011.jpg|center|128px]]
 | ''[[:d:Q356327|Geraint Thomas]]''
 | 1986
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5017
+|style='text-align:right'| 5016
 | 
 | ''[[:d:Q1904830|Martin Roberts]]''
 | 1986
 | 
 | [[Aberdâr]]
 |-
-|style='text-align:right'| 5018
+|style='text-align:right'| 5017
 | 
 | ''[[:d:Q6136198|James Honeyben]]''
 | 1986
 | 
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 5019
+|style='text-align:right'| 5018
 | 
 | ''[[:d:Q5524777|Gary Buckland]]''
 | 1986
 | 
 | ''[[:d:Q7379326|Q7379326]]''
 |-
-|style='text-align:right'| 5020
+|style='text-align:right'| 5019
 | 
 | ''[[:d:Q4717948|Alex Walker]]''
 | 1986
 | 
 | [[Trefdraeth]]
 |-
-|style='text-align:right'| 5021
+|style='text-align:right'| 5020
 | [[Restren:Miss Wales 08 Chloe Morgan.jpg|center|128px]]
 | ''[[:d:Q787209|Chloe-Beth Morgan]]''
 | 1986
 | 
 | ''[[:d:Q990153|Q990153]]''
 |-
-|style='text-align:right'| 5022
+|style='text-align:right'| 5021
 | [[Restren:Aled Brew 02.jpg|center|128px]]
 | ''[[:d:Q2832399|Aled Brew]]''
 | 1986
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 5023
+|style='text-align:right'| 5022
 | 
 | ''[[:d:Q5213554|Dan George]]''
 | 1986
 | 
 | [[Kembra]]
+|-
+|style='text-align:right'| 5023
+| 
+| ''[[:d:Q7421643|Sara Gregory]]''
+| 1986
+| 
+| [[Rhydaman]]
 |-
 |style='text-align:right'| 5024
 | 
