@@ -211,51 +211,51 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 28
 | 
-| ''[[:d:Q2575137|Cynan Garwyn]]''
-| 501
-| 700
-| [[Kembra]]
-|-
-|style='text-align:right'| 29
-| 
 | ''[[:d:Q2563910|Saint Lunaire]]''
 | 509
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 30
+|style='text-align:right'| 29
 | [[Restren:Eglwys Dewi Sant - St David's Church, Blaenporth, Ceredigion, Wales 20.jpg|center|128px]]
 | ''[[:d:Q331697|Saint David]]''
 | 512
 | 601
 | ''[[:d:Q213361|Konteth Pennvro]]''
 |-
-|style='text-align:right'| 31
+|style='text-align:right'| 30
 | 
 | ''[[:d:Q3463997|Melor]]''
 | 524
 | 544
 | [[Kernow]]
 |-
-|style='text-align:right'| 32
+|style='text-align:right'| 31
 | [[Restren:Deiniol Sant Cadeirlan Bangor Cathedral St Deiniol - geograph.org.uk - 593071.jpg|center|128px]]
 | ''[[:d:Q1183310|Deiniol]]''
 | 530
 | 584
 | [[Kembra]]
 |-
-|style='text-align:right'| 33
+|style='text-align:right'| 32
 | [[Restren:Hen Gapel, Blaenpennal - Old Chapel at Blaenpennal - geograph.org.uk - 408684.jpg|center|128px]]
 | ''[[:d:Q23927301|Gwenfyl]]''
 | 530
 | 
 | ''[[:d:Q954585|Q954585]]''
 |-
-|style='text-align:right'| 34
+|style='text-align:right'| 33
 | [[Restren:Cadfan.JPG|center|128px]]
 | ''[[:d:Q581537|Saint Cadfan]]''
 | 530
 | 590
+| [[Kembra]]
+|-
+|style='text-align:right'| 34
+| 
+| ''[[:d:Q2575137|Cynan Garwyn]]''
+| 545
+| 613
 | [[Kembra]]
 |-
 |style='text-align:right'| 35
@@ -23600,7 +23600,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Restren:Jim Burns 2005.JPG|center|128px]]
 | ''[[:d:Q2745954|Jim Burns]]''
 | 1948
-| 2016
+| 
 | [[Kardydh]]
 |-
 |style='text-align:right'| 3370
