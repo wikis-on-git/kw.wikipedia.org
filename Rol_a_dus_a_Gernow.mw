@@ -2388,7 +2388,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |style='text-align:right'| 327
 | [[Restren:William Golding 1983.jpg|center|128px]]
 | ''[[:d:Q44183|William Golding]]''
-| 1945
+| 1911
 | 1993
 | ''[[:d:Q3997404|Q3997404]]''
 |-
