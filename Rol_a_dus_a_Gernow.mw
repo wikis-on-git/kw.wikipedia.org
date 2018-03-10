@@ -895,7 +895,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Syllan]]
 |-
 |style='text-align:right'| 114
-| 
+| [[Restren:Henry Roach circa 1890.jpg|center|128px]]
 | ''[[:d:Q26702269|Henry Roach]]''
 | 1808
 | 1889
