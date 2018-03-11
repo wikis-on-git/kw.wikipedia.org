@@ -31959,7 +31959,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q18535553|Siân Melangell Dafydd]]''
 | 1977
 | 
-| [[Wreksam]]
+| [[Dolgellau]]
 |-
 |style='text-align:right'| 4564
 | 
@@ -38311,7 +38311,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kardydh]]
 |-
 |style='text-align:right'| 5471
-| 
+| [[Restren:CINvBST 2017-05-20 - Josh Heard (33997230723) (cropped).jpg|center|128px]]
 | ''[[:d:Q23883851|Josh Heard]]''
 | 1994
 | 
