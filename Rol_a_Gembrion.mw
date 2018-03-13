@@ -15051,7 +15051,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 2148
 | [[Restren:Dylan Thomas portrait.jpg|center|128px]]
-| ''[[:d:Q191023|Dylan Thomas]]''
+| ''[[:d:Q191023|Pollaz]]''
 | 1914
 | 1953
 | ''[[:d:Q23051|Q23051]]''
