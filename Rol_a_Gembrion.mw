@@ -5089,7 +5089,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q16247317|Q16247317]]''
 |-
 |style='text-align:right'| 725
-| [[Restren:Rees G Richards.png|center|128px]]
+| [[Restren:Rees G Richards.jpg|center|128px]]
 | ''[[:d:Q7306965|Rees G. Richards]]''
 | 1842
 | 1917
@@ -15051,7 +15051,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 2148
 | [[Restren:Dylan Thomas portrait.jpg|center|128px]]
-| ''[[:d:Q191023|Pollaz]]''
+| ''[[:d:Q191023|Dylan Thomas]]''
 | 1914
 | 1953
 | ''[[:d:Q23051|Q23051]]''
