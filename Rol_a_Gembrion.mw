@@ -6917,66 +6917,66 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 986
 | 
-| ''[[:d:Q16211336|Jack Owen]]''
-| 1866
-| 
-| [[Y Waun]]
-|-
-|style='text-align:right'| 987
-| 
 | ''[[:d:Q20732882|David Pugh Evans]]''
 | 1866
 | 1897
 | ''[[:d:Q19461248|Q19461248]]''
 |-
-|style='text-align:right'| 988
+|style='text-align:right'| 987
 | 
 | ''[[:d:Q23991172|Abel Hayes]]''
 | 1866
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 989
+|style='text-align:right'| 988
 | 
 | ''[[:d:Q23991430|Reuben Humphreys]]''
 | 1866
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 990
+|style='text-align:right'| 989
 | 
 | ''[[:d:Q25206997|Samuel Jones]]''
 | 1866
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 991
+|style='text-align:right'| 990
 | 
 | ''[[:d:Q25207076|Dick Turner]]''
 | 1866
 | 
 | [[Kembra]]
 |-
-|style='text-align:right'| 992
+|style='text-align:right'| 991
 | 
 | ''[[:d:Q5234669|David Hamer]]''
 | 1866
 | 
 | [[Rhaeadr Gwy]]
 |-
-|style='text-align:right'| 993
+|style='text-align:right'| 992
 | [[Restren:David James, rugby player.JPG|center|128px]]
 | ''[[:d:Q5235561|David James]]''
 | 1866
 | 1929
 | ''[[:d:Q23051|Q23051]]''
 |-
-|style='text-align:right'| 994
+|style='text-align:right'| 993
 | 
 | ''[[:d:Q5616240|Ormonde Maddock Dalton]]''
 | 1866
 | 1945
 | [[Kardydh]]
+|-
+|style='text-align:right'| 994
+| 
+| ''[[:d:Q6114479|Jack Owen]]''
+| 1866
+| 
+| [[Y Waun]]
 |-
 |style='text-align:right'| 995
 | 
