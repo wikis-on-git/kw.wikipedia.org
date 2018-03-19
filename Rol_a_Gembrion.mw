@@ -19211,7 +19211,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q333309|Ivor Richard, Baron Richard]]''
 | 1932
-| 
+| 2018
 | ''[[:d:Q217840|Konteth Karvyrdhin]]''
 |-
 |style='text-align:right'| 2743
