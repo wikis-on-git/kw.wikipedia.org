@@ -36582,7 +36582,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q697126|Penn-an-Bons war Ogour]]''
 |-
 |style='text-align:right'| 5224
-| [[Restren:Andrew Isidoro.jpg|center|128px]]
+|
 | ''[[:d:Q18780030|Andrew Isidoro]]''
 | 1989
 | 
