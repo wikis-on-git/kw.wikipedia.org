@@ -407,7 +407,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |style='text-align:right'| 44
 | 
 | ''[[:d:Q18592962|Charles Fox]]''
-| 1749
+| 1740
 | 1809
 | [[Aberfala]]
 |-
@@ -4414,6 +4414,13 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | 
 | [[Austol]]
+|-
+|style='text-align:right'| 617
+| [[Restren:Nnenne Iwuji-Eme.jpg|center|128px]]
+| ''[[:d:Q50886550|NneNne Iwuji-Eme]]''
+| 
+| 
+| [[Truru]]
 |}
 
 
