@@ -1,7 +1,5 @@
 __NOTOC__ __NOEDITSECTION__
-{{#if:{{Main Page banner}}|
-{{Main Page banner}}
-}}
+{{#if:{{Main Page banner}}| {{Main Page banner}} }}
 <div id="mp-topbanner" style="clear:both; position:relative; box-sizing:border-box; width:100%; margin:1.2em 0 6px; min-width:47em; border:1px solid #ddd; background-color:#f9f9f9; color:#000; white-space:nowrap;">
 <div style="margin:0.4em; width:22em; text-align:center;">
 <div style="font-size:162%; padding:.1em;">[[Wikipedya|Wikipedya]] a'gas dynnergh</div>
