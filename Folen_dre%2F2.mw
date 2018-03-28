@@ -1,7 +1,7 @@
 __NOTOC__ __NOEDITSECTION__
 <!-- header -->
 <div style="margin:0.5em;>
-<div style="margin:0.5em; float:right" class="plainlinks">{{Clickable button 2|:en:Wikipedia:IRC help disclaimer|{{font color|white|Live Help Chat}}|class=mw-ui-progressive}}</div>
+<div style="margin:0.5em; float:right" class="plainlinks">{{Clickable button 2|Wikipedia:An tavern|{{font color|white|Community noticeboard}}|class=mw-ui-progressive}}</div>
 <div style="margin:0.5em; float:right" class="plainlinks">{{Clickable button 2|Wikipedia:Advanced users portal (Multilingual)|Multilingual portal}}</div>
 </div>
 <div style="margin:0.5em; float:left" class="plainlinks">
@@ -14,16 +14,16 @@ __NOTOC__ __NOEDITSECTION__
 |}</div>{{clear}}
 ----
 {{clear}}
-
-<div style="display: inline-block;margin-left:0.5em>
+<br>
+<br>
+[[File:Flag of Cornwall.svg|border|text-top|center|250px]]
+<center>
 <big><big><big>[[Wikipedya|Wikipedya a'gas dynnergh]]</big></big></big>
 <p>An godhoniador rydh rag onan hag oll<br />[[Special:Statistics|{{NUMBEROFARTICLES}}]] erthygel yn [[Kernewek]]</p>
-</div>
-<div style="display: inline-block;float:right;margin-top:1em;>
-[[File:Flag of Cornwall.svg|frameless|text-top|none|145px]]
-</div>
-
-<!--  =======Ragdresow hwor========   -->
+</center>
+<br>
+<br>
+{{clear}}
 <div id="mp-2012-sisters" class="nomobile">
 <div>[[File:Wikimedia-logo.svg|45px|center|link=]]</div>
 <p style="text-align:center;">Ostyes yw '''Wikipedya''' gans an [[:wikimedia:|Fondyans Wikimedia]], kowethas heb budh. An Fondyans a ost ynwedh an ragdresow wiki Kernewek erel a syw：</p>
@@ -36,9 +36,7 @@ __NOTOC__ __NOEDITSECTION__
 | style="width:30%; padding:4px;" | [[s:Main Page/Kernewek|'''Wikisource''']]<br /><span style="font-size:85%;">Keworra tekstow ha mammskrifow Kernewek, ha treylya re erel</span>
 |}
 </div></div>
-
-
-
+<h2 style="margin:0.5em; background:#ffcccb; font-family:inherit; text-align:center; font-size:120%; border:1px solid #bfa3af; padding:0.2em 0.4em">'''This Wikipedia is written entirely in Kernewek, if you want an English language introduction to this project, [[Advanced users portal (Multilingual)|click here]].'''</h2>{{clear}}
 <!-- =======Kevrennow====== -->
 <div id="mp-2012-links" class="nomobile">
 <table><tr>
@@ -64,4 +62,3 @@ __NOTOC__ __NOEDITSECTION__
 </td>
 </tr></table>
 </div>
-<h2 style="margin:0.5em; background:#ffcccb; font-family:inherit; text-align:center; font-size:120%; border:1px solid #bfa3af; padding:0.2em 0.4em">'''This Wikipedia is written entirely in Kernewek, if you want an English language introduction to this project, [[Advanced users portal (Multilingual)|click here]].'''</h2>{{clear}}
