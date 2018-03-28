@@ -1,4 +1,5 @@
 __NOTOC__ __NOEDITSECTION__
+<!-- header -->
 <div style="margin:0.5em;>
 <div style="margin:0.5em; float:right" class="plainlinks">{{Clickable button 2|:en:Wikipedia:IRC help disclaimer|{{font color|white|Live Help Chat}}|class=mw-ui-progressive}}</div>
 <div style="margin:0.5em; float:right" class="plainlinks">{{Clickable button 2|Wikipedia:Advanced users portal (Multilingual)|Multilingual portal}}</div>
@@ -10,61 +11,34 @@ __NOTOC__ __NOEDITSECTION__
 |-
 |  style="vertical-align:top" | <div style="padding-right: 5px; padding-top:3px;">[[File:Flag of Cornwall.svg|30px|right]]</div>
 | {{font|size=140%|Kernewek Wikipedya / Cornish Language Wikipedia}}
-|}
-</div>{{clear}}
+|}</div>{{clear}}
 ----
-<h2 style="margin:0.5em; background:#ffcccb; font-family:inherit; text-align:center; font-size:120%; border:1px solid #bfa3af; padding:0.2em 0.4em">'''This Wikipedia is written entirely in Kernewek, if you want an English language introduction to this project, [[Advanced users portal (Multilingual)|click here]].'''</h2>{{clear}}
-<div style="margin:0.5em;>
-<div style="display: inline-block;margin:0.5em>
-<h1>[[Wikipedya|Wikipedya a'gas dynnergh]]</h1>
+{{clear}}
+
+<div style="display: inline-block;margin-left:0.5em>
+<big><big><big>[[Wikipedya|Wikipedya a'gas dynnergh]]</big></big></big>
 <p>An godhoniador rydh rag onan hag oll<br />[[Special:Statistics|{{NUMBEROFARTICLES}}]] erthygel yn [[Kernewek]]</p>
 </div>
-
-<div style="display: inline-block;margin:0.5em>
-[[File:Flag of Cornwall.svg|border|100px]]
+<div style="display: inline-block;float:right;margin-top:1em;>
+[[File:Flag of Cornwall.svg|frameless|text-top|none|145px]]
 </div>
 
-</div>
+<!--  =======Ragdresow hwor========   -->
+<div id="mp-2012-sisters" class="nomobile">
+<div>[[File:Wikimedia-logo.svg|45px|center|link=]]</div>
+<p style="text-align:center;">Ostyes yw '''Wikipedya''' gans an [[:wikimedia:|Fondyans Wikimedia]], kowethas heb budh. An Fondyans a ost ynwedh an ragdresow wiki Kernewek erel a syw：</p>
+{| class="plainlinks" align="center" cellpadding="2" style="width:90%; background-color:transparent; color:#777; font-size:95%;"
+| style="text-align:center; padding:4px;" |[[File:Commons-logo.svg|center|37px|link=commons:|Wikimedia Commons]]
+| style="width:35%;padding:4px;" | [[commons:|'''Wikimedia Commons''']]<br /><span style="font-size:85%;">Ughkarga imajys ha restrennow rag devnydh dres keniver ragdres Wikimedia</span>
+| style="text-align:center; padding:4px;" |[[File:Wiktprintable without text.svg|center|35px|link=wikt:|Wiktionary]]
+| style="width:35%;padding:4px;" | [[wikt:|'''Wiktionary''']]<br /><span style="font-size:85%;">Keworra geryow Kernewek ha'ga styryow dhe erlyver warlinen</span>
+| style="text-align:center; padding:4px;" |[[File:Wikisource-logo.svg|center|35px|link=s:Main Page/Kernewek|Wikisource]]
+| style="width:30%; padding:4px;" | [[s:Main Page/Kernewek|'''Wikisource''']]<br /><span style="font-size:85%;">Keworra tekstow ha mammskrifow Kernewek, ha treylya re erel</span>
+|}
+</div></div>
 
-<div id="mp-2012-body">
-<!-- ================Dalleth an goloven gledh================-->
-<div id="mp-2012-column-left"><div>
-<!-- ======A-dro dhe Wikipedya======= -->
-<div id="mp-2012-column-feature-block" class="mp-2012-column-left-block">
-<h2>A-dro dhe Wikipedya</h2>
-<div id="mf-tfa" title="A-dro dhe Wikipedya">
-<div style="float: right; margin-right: 0.5em; margin-left: 0.5em;">[[File:W-circle.svg|60px|]]</div>
-[[Wikipedya]] yw godhoniador warlinen heb kost, ygor ha liesyethek, a yll bos skrifys gans onan hag oll. Gelwys yw pub den dhe'gan gweres dre wellhe erthyglow ha der ynkressya an myns a Gernewek war an kesrosweyth.
-</div></div>
-<!-- =====Peuri erthyglow==== -->
-<div id="mp-2012-column-dyk-block" class="mp-2012-column-left-block">
-<h2>Peuri erthyglow</h2>
-<div id="mf-dyk" title="Peuri erthyglow">
-Mar mynnowgh peuri an kuntel a erthyglow a's teves an wiasva, hwi a yll hwilas testen dre dhevnydhya an [[Special:Search|gisten hwilas]] orth penn pub folen. Ynwedh, y sortir keniver folen herwydh klassys, may hyllir gweles rol dhien [[Wikipedia:Klassys|omma]], po klyckyewgh an kevrennow orth goles folennow rag gweles rol a erthyglow y'n keth klass.
-</div></div>
-<!-- =====Kemeres rann===== -->
-<div id="mp-2012-column-good-block" class="mp-2012-column-left-block">
-<h2>Kemeres rann</h2>
-<div id="mf-good" title="Kemeres rann">
-<div style="float: right; margin-right: 0.5em; margin-left: 0.5em;">[[File:Applications-office.svg|55px|]]</div>
-Yma an gemeneth Kernewek pub prys ow hwilas kevriysi nowyth. Hwi a yll dalleth skrifa a-dhistowgh, a-dro dhe desten vyth oll a'gas deur. Mara'gas beus hwans a dhyski moy a-dro dhe gemeres rann, kewgh dhe [[Wikipedia:Porth an gemeneth|borth an gemeneth]], po gesewgh govyn y'[[Wikipedia:An tavern|n tavern]]. 
-</div></div>
-<!-- ================Diwedh an goloven gledh================-->
-</div></div>
-<!-- ================Dalleth an goloven dhyhow================ -->
-<div id="mp-2012-column-right"><div>
-<div id="mp-2012-column-right-block-a" class="mp-2012-column-right-block">
-<!-- ======Erthyglow chonsus====== -->
-<div id="mp-2012-column-itn-block" class="mp-2012-column-right-subblock">
-<h2>Erthyglow chonsus</h2>
-<div id="mf-itn" title="Erthyglow chonsus">
-{{Erthyglow chonsus}}
 
-</div>
-</div>
-</div>
-<!-- ================Diwedh an goloven dhyhow================-->
-</div></div>
+
 <!-- =======Kevrennow====== -->
 <div id="mp-2012-links" class="nomobile">
 <table><tr>
@@ -90,20 +64,4 @@ Yma an gemeneth Kernewek pub prys ow hwilas kevriysi nowyth. Hwi a yll dalleth s
 </td>
 </tr></table>
 </div>
-<!--  =======Ragdresow hwor========   -->
-<div id="mp-2012-sisters" class="nomobile">
-<div>[[File:Wikimedia-logo.svg|45px|center|link=]]</div>
-<p style="text-align:center;">Ostyes yw '''Wikipedya''' gans an [[:wikimedia:|Fondyans Wikimedia]], kowethas heb budh. An Fondyans a ost ynwedh an ragdresow wiki Kernewek erel a syw：</p>
-{| class="plainlinks" align="center" cellpadding="2" style="width:90%; background-color:transparent; color:#777; font-size:95%;"
-| style="text-align:center; padding:4px;" |[[File:Commons-logo.svg|center|37px|link=commons:|Wikimedia Commons]]
-| style="width:35%;padding:4px;" | [[commons:|'''Wikimedia Commons''']]<br /><span style="font-size:85%;">Ughkarga imajys ha restrennow rag devnydh dres keniver ragdres Wikimedia</span>
-| style="text-align:center; padding:4px;" |[[File:Wiktprintable without text.svg|center|35px|link=wikt:|Wiktionary]]
-| style="width:35%;padding:4px;" | [[wikt:|'''Wiktionary''']]<br /><span style="font-size:85%;">Keworra geryow Kernewek ha'ga styryow dhe erlyver warlinen</span>
-| style="text-align:center; padding:4px;" |[[File:Wikisource-logo.svg|center|35px|link=s:Main Page/Kernewek|Wikisource]]
-| style="width:30%; padding:4px;" | [[s:Main Page/Kernewek|'''Wikisource''']]<br /><span style="font-size:85%;">Keworra tekstow ha mammskrifow Kernewek, ha treylya re erel</span>
-|}
-</div>
-<!-- global wrapper end -->
-</div>
-{{interwiki}}
-{{noexternallanglinks}}
+<h2 style="margin:0.5em; background:#ffcccb; font-family:inherit; text-align:center; font-size:120%; border:1px solid #bfa3af; padding:0.2em 0.4em">'''This Wikipedia is written entirely in Kernewek, if you want an English language introduction to this project, [[Advanced users portal (Multilingual)|click here]].'''</h2>{{clear}}
