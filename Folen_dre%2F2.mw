@@ -41,6 +41,24 @@ __NOTOC__ __NOEDITSECTION__
 | style="width:30%; padding:4px;" | [[s:Main Page/Kernewek|'''Wikisource''']]<br /><span style="font-size:85%;">Keworra tekstow ha mammskrifow Kernewek, ha treylya re erel</span>
 |}
 </div></div>
+<!--        TODAY'S FEATURED CONTENT        -->
+{| role="presentation" id="mp-upper" style="width: 100%; margin-top:4px; border-spacing: 0px;"
+<!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
+| id="mp-left" class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;" |
+<h2 id="mp-tfa-h2" style="margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|From today's featured article|Featured article <span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
+<div id="mp-tfa" style="padding:0.1em 0.6em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|{{Wikipedia:Today's featured article/{{#time:F j, Y}}}}|{{Wikipedia:Today's featured article/{{#time:F j, Y|-1 day}}}}}}</div>
+<h2 id="mp-dyk-h2" style="clear:both; margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">Did you know...</h2>
+<div id="mp-dyk" style="padding:0.1em 0.6em 0.5em;">{{Did you know}}</div>
+| style="border:1px solid transparent;" |
+<!--        IN THE NEWS and ON THIS DAY        -->
+| id="mp-right" class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
+<h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">Erthyglow chonsus</h2>
+<div id="mp-itn" style="padding:0.1em 0.6em;">{{Erthyglow chonsus}}</div>
+<h2 id="mp-otd-h2" style="clear:both; margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">Kernow Gazetteer</h2>
+<div id="mp-otd" style="padding:0.1em 0.6em 0.5em;">{{Wikipedia:Kernow/pedn}}</div>
+|}
+</div>
+</div>
 <br>
 <br>
 <h2 style="margin:0.5em; background:#ffcccb; font-family:inherit; text-align:center; font-size:120%; border:1px solid #bfa3af; padding:0.2em 0.4em">'''This Wikipedia is written entirely in Kernewek, for an English language introduction to this project, [[Wikipedia:English editor portal|click here]].'''</h2>{{clear}}
@@ -68,25 +86,6 @@ __NOTOC__ __NOEDITSECTION__
 *[[Wikipedia:Klassys|Klassys]]
 </td>
 </tr></table>
-</div>
-
-<!--        TODAY'S FEATURED CONTENT        -->
-{| role="presentation" id="mp-upper" style="width: 100%; margin-top:4px; border-spacing: 0px;"
-<!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
-| id="mp-left" class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;" |
-<h2 id="mp-tfa-h2" style="margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|From today's featured article|Featured article <span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
-<div id="mp-tfa" style="padding:0.1em 0.6em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|{{Wikipedia:Today's featured article/{{#time:F j, Y}}}}|{{Wikipedia:Today's featured article/{{#time:F j, Y|-1 day}}}}}}</div>
-<h2 id="mp-dyk-h2" style="clear:both; margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">Did you know...</h2>
-<div id="mp-dyk" style="padding:0.1em 0.6em 0.5em;">{{Did you know}}</div>
-| style="border:1px solid transparent;" |
-<!--        IN THE NEWS and ON THIS DAY        -->
-| id="mp-right" class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
-<h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">Erthyglow chonsus</h2>
-<div id="mp-itn" style="padding:0.1em 0.6em;">{{Erthyglow chonsus}}</div>
-<h2 id="mp-otd-h2" style="clear:both; margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">On this day...</h2>
-<div id="mp-otd" style="padding:0.1em 0.6em 0.5em;">{{Wikipedia:Selected anniversaries/{{#time:F j}}}}</div>
-|}
-</div>
 </div>
 <br>
 <br>
