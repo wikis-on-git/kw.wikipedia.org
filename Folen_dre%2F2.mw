@@ -14,25 +14,18 @@ __NOTOC__ __NOEDITSECTION__
 </div>{{clear}}
 ----
 <h2 style="margin:0.5em; background:#ffcccb; font-family:inherit; text-align:center; font-size:120%; border:1px solid #bfa3af; padding:0.2em 0.4em">'''This Wikipedia is written entirely in Kernewek, if you want an English language introduction to this project, [[Advanced users portal (Multilingual)|click here]].'''</h2>{{clear}}
-
-<!-- global wrapper -->
-<div id="mp-2012">
-<!-- banner -->
-<noinclude>
-<div id="mp-2012">
-</noinclude><div id="mp-2012-banner" class="nomobile">
-    <div id="mp-2012-banner-title"><div>
-        <h1>[[Wikipedya|Wikipedya a'gas dynnergh]]</h1>
-        <p>An godhoniador rydh rag onan hag oll<br />[[Special:Statistics|{{NUMBEROFARTICLES}}]] erthygel yn [[Kernewek]]</p>
-    </div></div>
-
-    <div id="mp-2012-banner-intro"><div>
-[[File:Flag of Cornwall.svg|border|100px]]
-    </div></div>
-</div><noinclude>
+<div style="margin:0.5em;>
+<div style="display: inline-block;margin:0.5em>
+<h1>[[Wikipedya|Wikipedya a'gas dynnergh]]</h1>
+<p>An godhoniador rydh rag onan hag oll<br />[[Special:Statistics|{{NUMBEROFARTICLES}}]] erthygel yn [[Kernewek]]</p>
 </div>
-</noinclude>
-<!-- Dalleth an dalgh -->
+
+<div style="display: inline-block;margin:0.5em>
+[[File:Flag of Cornwall.svg|border|100px]]
+</div>
+
+</div>
+
 <div id="mp-2012-body">
 <!-- ================Dalleth an goloven gledh================-->
 <div id="mp-2012-column-left"><div>
