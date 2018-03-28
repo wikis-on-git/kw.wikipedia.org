@@ -26,9 +26,9 @@ __NOTOC__ __NOEDITSECTION__
 <!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
 | id="mp-left" class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;" |
 <h2 id="mp-tfa-h2" style="margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|From today's featured article|Featured article <span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
-<div id="mp-tfa" style="padding:0.1em 0.6em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|{{Wikipedia:Today's featured article/{{#time:F j, Y}}}}|{{Wikipedia:Today's featured article/{{#time:F j, Y|-1 day}}}}}}</div>
-<h2 id="mp-dyk-h2" style="clear:both; margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">Did you know...</h2>
-<div id="mp-dyk" style="padding:0.1em 0.6em 0.5em;">{{Did you know}}</div>
+<div id="mp-tfa" style="padding:0.1em 0.6em;">{{Sidelinks-mainpage}}</div>
+<h2 id="mp-dyk-h2" style="clear:both; margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">Other projects</h2>
+<div id="mp-dyk" style="padding:0.1em 0.6em 0.5em;"><div id="metalink" style="text-align:center;" class="plainlinks"><strong>[[meta:List of Wikipedias|Complete list of Wikipedias]]</strong>'''</div></div>
 | style="border:1px solid transparent;" |
 <!--        IN THE NEWS and ON THIS DAY        -->
 | id="mp-right" class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
@@ -52,29 +52,6 @@ __NOTOC__ __NOEDITSECTION__
 |}
 </div></div>
 {{clear}}
-<div id="mp-2012-links" class="nomobile">
-<table><tr>
-<td>
-<h3>Kevrennow</h3>
-*[[Wikipedia:Porth an gemeneth|Porth an gemeneth]]
-*[[Wikipedia:An tavern|An tavern]]
-*[[Wikipedya|A-dro dhe Wikipedya]]
-*[[Wikipedia:Kanaseth|Kanaseth (Cornish Embassy)]]
-</td>
-<td>
-<h3>Kedhlow</h3>
-*[[Wikipedia:Gweres|Gweres gans chanjya]]
-*[[Wikipedia:Policiow|Policiow an wiasva]]
-*[[Wikipedia:Menystroryon|Menystroryon]]
-*[[Arbennek:DevnydhyoryonVyw|Devnydhyoryon vyw]]
-</td>
-<td>
-<h3>Lewya</h3>
-*[[Arbennek:FolennowNowyth|Folennow nowyth]]
-*[[Arbennek:Chanjyow_a-dhiwedhes|Chanjyow a-dhiwedhes]]
-*[[Wikipedia:Klassys|Klassys]]
-</td>
-</tr></table>
-</div>
-<div id="metalink" style="text-align:center;" class="plainlinks"><strong>[[meta:List of Wikipedias|Complete list of Wikipedias]]</strong>'''</div>
-<h2 style="margin:0.5em; background:#ffcccb; font-family:inherit; text-align:center; font-size:120%; border:1px solid #bfa3af; padding:0.2em 0.4em">'''This Wikipedia is written entirely in Kernewek, for an English language introduction to this project, [[Wikipedia:English editor portal|click here]].'''</h2>
+<br>
+<br>
+<h2 style="margin:0.5em; background:#ffcccb; font-family:inherit; text-align:center; font-size:120%; border:1px solid #bfa3af; padding:0.2em 0.4em">'''This Wikipedia is written entirely in [[Kernewek]], for an English language introduction to this project, [[Wikipedia:English editor portal|click here]].'''</h2>
