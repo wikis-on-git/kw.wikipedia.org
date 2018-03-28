@@ -1,18 +1,7 @@
 __NOTOC__ __NOEDITSECTION__
-<!-- header is in English to allow non-Cornish speaking visitors to find the Tavern and Embassy and easier understand what the project is -->
-<div style="margin:0.5em;>
-<div style="margin:0.5em; float:right" class="plainlinks">{{Clickable button 2|Wikipedia:An tavern|{{font color|white|Community noticeboard}}|class=mw-ui-progressive}}</div>
-<div style="margin:0.5em; float:right" class="plainlinks">{{Clickable button 2|Wikipedia:Kanaseth|Multilingual portal}}</div>
-</div>
-<div style="margin:0.5em; float:left" class="plainlinks">
-{|
-! style="width:4em" |
-! style="width:90%" |
-|-
-|  style="vertical-align:top" | <div style="padding-right: 5px; padding-top:3px;">[[File:Flag of Cornwall.svg|30px|right]]</div>
-| {{font|size=140%|Kernewek Wikipedya / Cornish Language Wikipedia}}
-|}</div>{{clear}}
-----
+{{#if:{{Main Page banner}}|
+{{Main Page banner}}
+}}
 <div id="mp-topbanner" style="clear:both; position:relative; box-sizing:border-box; width:100%; margin:1.2em 0 6px; min-width:47em; border:1px solid #ddd; background-color:#f9f9f9; color:#000; white-space:nowrap;">
 <div style="margin:0.4em; width:22em; text-align:center;">
 <div style="font-size:162%; padding:.1em;">[[Wikipedya|Wikipedya]] a'gas dynnergh</div>
@@ -80,3 +69,37 @@ __NOTOC__ __NOEDITSECTION__
 </td>
 </tr></table>
 </div>
+
+<!--        TODAY'S FEATURED CONTENT        -->
+{| role="presentation" id="mp-upper" style="width: 100%; margin-top:4px; border-spacing: 0px;"
+<!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
+| id="mp-left" class="MainPageBG" style="width:55%; border:1px solid #cef2e0; padding:0; background:#f5fffa; vertical-align:top; color:#000;" |
+<h2 id="mp-tfa-h2" style="margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|From today's featured article|Featured article <span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
+<div id="mp-tfa" style="padding:0.1em 0.6em;">{{#ifexpr:{{formatnum:{{PAGESIZE:Wikipedia:Today's featured article/{{#time:F j, Y}}}}|R}}>150|{{Wikipedia:Today's featured article/{{#time:F j, Y}}}}|{{Wikipedia:Today's featured article/{{#time:F j, Y|-1 day}}}}}}</div>
+<h2 id="mp-dyk-h2" style="clear:both; margin:0.5em; background:#cef2e0; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; color:#000; padding:0.2em 0.4em;">Did you know...</h2>
+<div id="mp-dyk" style="padding:0.1em 0.6em 0.5em;">{{Did you know}}</div>
+| style="border:1px solid transparent;" |
+<!--        IN THE NEWS and ON THIS DAY        -->
+| id="mp-right" class="MainPageBG" style="width:45%; border:1px solid #cedff2; padding:0; background:#f5faff; vertical-align:top;"|
+<h2 id="mp-itn-h2" style="margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">In the news</h2>
+<div id="mp-itn" style="padding:0.1em 0.6em;">{{In the news}}</div>
+<h2 id="mp-otd-h2" style="clear:both; margin:0.5em; background:#cedff2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; color:#000; padding:0.2em 0.4em;">On this day...</h2>
+<div id="mp-otd" style="padding:0.1em 0.6em 0.5em;">{{Wikipedia:Selected anniversaries/{{#time:F j}}}}</div>
+|}
+<!--        TODAY'S FEATURED LIST        --><!-- CONDITIONAL SHOW -->{{#switch:{{CURRENTDAYNAME}}|Monday|Friday=
+<div id="mp-middle" class="MainPageBG" style="margin-top:4px; border:1px solid #f2cedd; background:#fff5fa; overflow:auto;">
+<div id="mp-center">
+<h2 id="mp-tfl-h2" style="margin:0.5em; background:#f2cedd; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #bfa3af; color:#000; padding:0.2em 0.4em">From today's featured list</h2>
+<div id="mp-tfl" style="padding:0.3em 0.7em;">{{#ifexist:Wikipedia:Today's featured list/{{#time:F j, Y}}|{{Wikipedia:Today's featured list/{{#time:F j, Y}}}}|{{TFLempty}}}}</div>
+</div>
+</div>|}}<!-- END CONDITIONAL SHOW -->
+<!--        TODAY'S FEATURED PICTURE        -->
+<div id="mp-lower" class="MainPageBG" style="margin-top:4px; border:1px solid #ddcef2; background:#faf5ff; overflow:auto;">
+<div id="mp-bottom">
+<h2 id="mp-tfp-h2" style="margin:0.5em; background:#ddcef2; font-family:inherit; font-size:120%; font-weight:bold; border:1px solid #afa3bf; color:#000; padding:0.2em 0.4em">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|Today's featured picture | Featured picture&ensp;<span style="font-size:85%; font-weight:normal;">(Check back later for today's.)</span>}}</h2>
+<div id="mp-tfp" style="margin:0.1em 0.4em 0.6em;">{{#ifexist:Template:POTD protected/{{#time:Y-m-d}}|{{POTD protected/{{#time:Y-m-d}}}}|{{POTD protected/{{#time:Y-m-d|-1 day}}}}}}</div>
+</div>
+</div>
+<br>
+<br>
+<div id="metalink" style="text-align:center;" class="plainlinks"><strong>[[meta:List of Wikipedias|Complete list of Wikipedias]]</strong>'''</div>
