@@ -21,26 +21,6 @@ __NOTOC__ __NOEDITSECTION__
 </ul>
 </div>
 {{clear}}
-<br>
-<br>
-<center>
-[[File:Flag of Cornwall.svg|border|text-top|center|300px]]
-</center>
-<br>
-<br>
-{{clear}}
-<div id="mp-2012-sisters" class="nomobile">
-<div>[[File:Wikimedia-logo.svg|45px|center|link=]]</div>
-<p style="text-align:center;">Ostyes yw '''Wikipedya''' gans an [[:wikimedia:|Fondyans Wikimedia]], kowethas heb budh. An Fondyans a ost ynwedh an ragdresow wiki Kernewek erel a syw：</p>
-{| class="plainlinks" align="center" cellpadding="2" style="width:90%; background-color:transparent; color:#777; font-size:95%;"
-| style="text-align:center; padding:4px;" |[[File:Commons-logo.svg|center|37px|link=commons:|Wikimedia Commons]]
-| style="width:35%;padding:4px;" | [[commons:|'''Wikimedia Commons''']]<br /><span style="font-size:85%;">Ughkarga imajys ha restrennow rag devnydh dres keniver ragdres Wikimedia</span>
-| style="text-align:center; padding:4px;" |[[File:Wiktprintable without text.svg|center|35px|link=wikt:|Wiktionary]]
-| style="width:35%;padding:4px;" | [[wikt:|'''Wiktionary''']]<br /><span style="font-size:85%;">Keworra geryow Kernewek ha'ga styryow dhe erlyver warlinen</span>
-| style="text-align:center; padding:4px;" |[[File:Wikisource-logo.svg|center|35px|link=s:Main Page/Kernewek|Wikisource]]
-| style="width:30%; padding:4px;" | [[s:Main Page/Kernewek|'''Wikisource''']]<br /><span style="font-size:85%;">Keworra tekstow ha mammskrifow Kernewek, ha treylya re erel</span>
-|}
-</div></div>
 <!--        TODAY'S FEATURED CONTENT        -->
 {| role="presentation" id="mp-upper" style="width: 100%; margin-top:4px; border-spacing: 0px;"
 <!--        TODAY'S FEATURED ARTICLE; DID YOU KNOW        -->
@@ -59,10 +39,19 @@ __NOTOC__ __NOEDITSECTION__
 |}
 </div>
 </div>
-<br>
-<br>
-<h2 style="margin:0.5em; background:#ffcccb; font-family:inherit; text-align:center; font-size:120%; border:1px solid #bfa3af; padding:0.2em 0.4em">'''This Wikipedia is written entirely in Kernewek, for an English language introduction to this project, [[Wikipedia:English editor portal|click here]].'''</h2>{{clear}}
-<!-- =======Kevrennow====== -->
+<div id="mp-2012-sisters" class="nomobile">
+<div>[[File:Wikimedia-logo.svg|45px|center|link=]]</div>
+<p style="text-align:center;">Ostyes yw '''Wikipedya''' gans an [[:wikimedia:|Fondyans Wikimedia]], kowethas heb budh. An Fondyans a ost ynwedh an ragdresow wiki Kernewek erel a syw：</p>
+{| class="plainlinks" align="center" cellpadding="2" style="width:90%; background-color:transparent; color:#777; font-size:95%;"
+| style="text-align:center; padding:4px;" |[[File:Commons-logo.svg|center|37px|link=commons:|Wikimedia Commons]]
+| style="width:35%;padding:4px;" | [[commons:|'''Wikimedia Commons''']]<br /><span style="font-size:85%;">Ughkarga imajys ha restrennow rag devnydh dres keniver ragdres Wikimedia</span>
+| style="text-align:center; padding:4px;" |[[File:Wiktprintable without text.svg|center|35px|link=wikt:|Wiktionary]]
+| style="width:35%;padding:4px;" | [[wikt:|'''Wiktionary''']]<br /><span style="font-size:85%;">Keworra geryow Kernewek ha'ga styryow dhe erlyver warlinen</span>
+| style="text-align:center; padding:4px;" |[[File:Wikisource-logo.svg|center|35px|link=s:Main Page/Kernewek|Wikisource]]
+| style="width:30%; padding:4px;" | [[s:Main Page/Kernewek|'''Wikisource''']]<br /><span style="font-size:85%;">Keworra tekstow ha mammskrifow Kernewek, ha treylya re erel</span>
+|}
+</div></div>
+{{clear}}
 <div id="mp-2012-links" class="nomobile">
 <table><tr>
 <td>
@@ -87,6 +76,5 @@ __NOTOC__ __NOEDITSECTION__
 </td>
 </tr></table>
 </div>
-<br>
-<br>
 <div id="metalink" style="text-align:center;" class="plainlinks"><strong>[[meta:List of Wikipedias|Complete list of Wikipedias]]</strong>'''</div>
+<h2 style="margin:0.5em; background:#ffcccb; font-family:inherit; text-align:center; font-size:120%; border:1px solid #bfa3af; padding:0.2em 0.4em">'''This Wikipedia is written entirely in Kernewek, for an English language introduction to this project, [[Wikipedia:English editor portal|click here]].'''</h2>
