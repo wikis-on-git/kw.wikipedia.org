@@ -609,25 +609,25 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Powys]]
 |-
 |style='text-align:right'| 85
+| [[Restren:Cotton Claudius B VII f.224 Merlin Vortigern.jpg|center|128px]]
+| [[Jeffri a Venow]]
+| 1095
+| 1155
+| [[Trefynwy]]
+|-
+|style='text-align:right'| 86
 | 
 | ''[[:d:Q450826|Gwenllian ferch Gruffydd]]''
 | 1097
 | 1136
 | [[Aberffraw]]
 |-
-|style='text-align:right'| 86
+|style='text-align:right'| 87
 | 
 | ''[[:d:Q20732689|Caradog Fynach]]''
 | 1100
 | 1124
 | ''[[:d:Q954585|Q954585]]''
-|-
-|style='text-align:right'| 87
-| [[Restren:Cotton Claudius B VII f.224 Merlin Vortigern.jpg|center|128px]]
-| [[Jeffri a Venow]]
-| 1100
-| 1155
-| [[Trefynwy]]
 |-
 |style='text-align:right'| 88
 | 
