@@ -17056,7 +17056,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q5259321|Densey Clyne]]''
 | 1922
 | 
-| [[Kembra]]
+| ''[[:d:Q1814569|Q1814569]]''
 |-
 |style='text-align:right'| 2435
 | 
