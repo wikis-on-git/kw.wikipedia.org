@@ -23859,7 +23859,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Restren:Jim Burns 2005.JPG|center|128px]]
 | ''[[:d:Q2745954|Jim Burns]]''
 | 1948
-| 
+| 2016
 | [[Kardydh]]
 |-
 |style='text-align:right'| 3407
@@ -28329,7 +28329,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q23051|Q23051]]''
 |-
 |style='text-align:right'| 4045
-| 
+| [[Restren:Tony Williams, ACS Spring, 2018.jpg|center|128px]]
 | ''[[:d:Q4777220|Antony John Williams]]''
 | 1964
 | 
