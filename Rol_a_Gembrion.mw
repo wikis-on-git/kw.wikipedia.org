@@ -36547,7 +36547,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Trefdraeth]]
 |-
 |style='text-align:right'| 5219
-| [[Restren:Rachel K Collier Press Image 2.jpg|center|128px]]
+|
 | ''[[:d:Q16728146|Rachel K Collier]]''
 | 1989
 | 
