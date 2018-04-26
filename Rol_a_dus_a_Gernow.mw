@@ -2557,7 +2557,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q5372956|Emma Smith]]''
 | 1923
-| 
+| 2018
 | [[Tewyn Plustry]]
 |-
 |style='text-align:right'| 352
