@@ -444,14 +444,25 @@
 |- {{party shading (SUA)/Republican}}
 | align=center | 55
 |- {{party shading (SUA)/Democratic}}
-| '''44'''
-| [[Barack Obama]]
-| [[Restren:Official portrait of Barack Obama.jpg|100px]]
+| rowspan=2 | '''44'''
+| rowspan=2 | [[Barack Obama]]
+| rowspan=2 | [[Restren:Official portrait of Barack Obama.jpg|100px]]
 | rowspan=2 | 20 [[Mys Genver|Genver]] [[2009]]
-| rowspan=2 | hwath y'n soedh
-| &nbsp; [[Democratic Party (Statys Unys)|Democratic]] &nbsp;
-| [[Joe Biden]]
+| rowspan=2 | 20 [[Mys Genver|Genver]] [[2017]]
+| rowspan=2 | &nbsp; [[Democratic Party (Statys Unys)|Democratic]] &nbsp;
+| rowspan=2 | [[Joe Biden]]
 | align=center | 56
+|- {{party shading (SUA)/Democratic}}
+| align=center | 57
+|- {{party shading (SUA)/Republican}}
+| '''45'''
+| [[Donald Trump]]
+| [[Restren:Donald Trump official portrait.jpg|100px]]
+| 20 [[Mys Genver|Genver]] [[2017]]
+| hwath y'n soedh
+| &nbsp; [[Republican Party (Statys Unys)|Republican]] &nbsp;
+| [[Mike Pence]]
+| align=center | 58
 |}
 
 [[Class:SUA]]
