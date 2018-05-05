@@ -3147,7 +3147,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q217119|George Everest]]''
 | 1790
 | 1866
-| [[Crughywel]]
+| [[Crughywel]]<br/>''[[:d:Q179385|Q179385]]''
 |-
 |style='text-align:right'| 448
 | 
@@ -26453,81 +26453,81 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Pwllheli]]
 |-
 |style='text-align:right'| 3777
-| [[Restren:KeithAllen2009.jpg|center|128px]]
-| ''[[:d:Q725519|Keith Allen]]''
-| 1953
-| 
-| ''[[:d:Q2741540|Q2741540]]''
-|-
-|style='text-align:right'| 3778
 | 
 | ''[[:d:Q7861631|Tyrone Powell]]''
 | 1953
 | 
 | [[Bargod]]
 |-
-|style='text-align:right'| 3779
+|style='text-align:right'| 3778
 | 
 | ''[[:d:Q5553517|Gerwyn Edwards]]''
 | 1953
 | 
 | ''[[:d:Q2079042|Q2079042]]''
 |-
-|style='text-align:right'| 3780
+|style='text-align:right'| 3779
 | 
 | ''[[:d:Q7032608|Nigel Rees]]''
 | 1953
 | 
 | [[Pen-y-bont ar Ogwr]]
 |-
-|style='text-align:right'| 3781
+|style='text-align:right'| 3780
 | 
 | ''[[:d:Q5113212|Christopher Seldon]]''
 | 1953
 | 
 | ''[[:d:Q5572913|Q5572913]]''
 |-
-|style='text-align:right'| 3782
+|style='text-align:right'| 3781
 | 
 | ''[[:d:Q2250384|Nick Deacy]]''
 | 1953
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 3783
+|style='text-align:right'| 3782
 | [[Restren:Dave evans & rohan moran.jpg|center|128px]]
 | ''[[:d:Q346480|Dave Evans]]''
 | 1953
 | 
 | [[Karvyrdhin]]
 |-
-|style='text-align:right'| 3784
+|style='text-align:right'| 3783
 | 
 | ''[[:d:Q15447289|Christopher Hann]]''
 | 1953
 | 
 | [[Kardydh]]
 |-
-|style='text-align:right'| 3785
+|style='text-align:right'| 3784
 | 
 | ''[[:d:Q5562229|Gillian Elisa]]''
 | 1953
 | 
 | [[Karvyrdhin]]
 |-
-|style='text-align:right'| 3786
+|style='text-align:right'| 3785
 | 
 | ''[[:d:Q4708055|Alan Wilkins]]''
 | 1953
 | 
 | [[Rhiwbeina]]
 |-
-|style='text-align:right'| 3787
+|style='text-align:right'| 3786
 | 
 | ''[[:d:Q7032258|Nigel Boulton]]''
 | 1953
 | 
 | [[Kardydh]]
+|-
+|style='text-align:right'| 3787
+| [[Restren:KeithAllen2009.jpg|center|128px]]
+| ''[[:d:Q725519|Keith Allen]]''
+| 1953
+| 
+| [[Llanelli]]
 |-
 |style='text-align:right'| 3788
 | 
