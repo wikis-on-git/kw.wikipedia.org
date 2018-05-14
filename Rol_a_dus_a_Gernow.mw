@@ -4354,66 +4354,66 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 608
 | 
-| [[Rod Lyon]]
+| ''[[:d:Q6770144|Mark Versallion]]''
 | 2000
 | 
 | [[Kernow]]
 |-
 |style='text-align:right'| 609
 | 
-| ''[[:d:Q7366973|Ros Atkins]]''
+| [[Rod Lyon]]
 | 2000
 | 
 | [[Kernow]]
 |-
 |style='text-align:right'| 610
 | 
+| ''[[:d:Q7366973|Ros Atkins]]''
+| 2000
+| 
+| [[Kernow]]
+|-
+|style='text-align:right'| 611
+| 
 | ''[[:d:Q24851434|Alex Quinn]]''
 | 2000
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 611
+|style='text-align:right'| 612
 | 
 | ''[[:d:Q7177916|Peter of Cornwall]]''
 | 
 | 1221
 | [[Lannstefan]]
 |-
-|style='text-align:right'| 612
+|style='text-align:right'| 613
 | 
 | ''[[:d:Q17053434|Every Maclean]]''
 | 
 | 1901
 | [[Kernow]]
 |-
-|style='text-align:right'| 613
+|style='text-align:right'| 614
 | [[Restren:Notre-Dame de Rouen.JPG|center|128px]]
 | ''[[:d:Q783357|Walter de Coutances]]''
 | 
 | 1207
 | [[Kernow]]
 |-
-|style='text-align:right'| 614
+|style='text-align:right'| 615
 | 
 | ''[[:d:Q3048472|Edward Byllynge]]''
 | 
 | 1687
 | [[Kernow]]
 |-
-|style='text-align:right'| 615
+|style='text-align:right'| 616
 | 
 | ''[[:d:Q5240165|David Sturzaker]]''
 | 
 | 
 | [[Resrudh]]
-|-
-|style='text-align:right'| 616
-| 
-| ''[[:d:Q6770144|Mark Versallion]]''
-| 
-| 
-| [[Kernow]]
 |-
 |style='text-align:right'| 617
 | 
