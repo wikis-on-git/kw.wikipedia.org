@@ -83,8 +83,8 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |style='text-align:right'| 6
 | 
 | ''[[:d:Q1258743|Gwenna]]''
-| 470
-| 544
+| 463
+| 600
 | ''[[:d:Q954585|Q954585]]''
 |-
 |style='text-align:right'| 7
