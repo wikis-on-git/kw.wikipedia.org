@@ -2162,7 +2162,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Lulynn]]
 |-
 |style='text-align:right'| 295
-| [[Restren:Hutchison Dix & Barnes 1922.jpg|center|128px]]
+| [[Restren:Jim Barnes golf.jpg|center|128px]]
 | ''[[:d:Q15785964|Jim Barnes]]''
 | 1886
 | 1966
@@ -4597,7 +4597,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |style='text-align:right'| 1
 | 
 | ''[[:d:Q645718|Morgan le Fay]]''
-| 
+| 600
 | 
 | ''[[:d:Q934922|Q934922]]''
 |-
