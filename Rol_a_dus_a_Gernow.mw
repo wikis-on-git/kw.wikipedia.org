@@ -4486,7 +4486,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kernow]]
 |-
 |style='text-align:right'| 627
-| [[Restren:Notre-Dame de Rouen.JPG|center|128px]]
+| 
 | ''[[:d:Q783357|Walter de Coutances]]''
 | 
 | 1207
