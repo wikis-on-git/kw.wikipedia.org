@@ -13503,7 +13503,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kardydh]]
 |-
 |style='text-align:right'| 1927
-| [[Restren:Eric Linklater by Stephen C Dickson.jpg|center|128px]]
+|
 | ''[[:d:Q919835|Eric Linklater]]''
 | 1899
 | 1974
