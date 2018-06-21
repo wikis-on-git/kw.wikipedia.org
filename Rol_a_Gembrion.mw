@@ -630,7 +630,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q648732|Q648732]]''
 |-
 |style='text-align:right'| 88
-| [[Restren:Geoffrey monmouth.jpg|center|128px]]
+|
 | [[Jeffri a Venow]]
 | 1090
 | 1155
