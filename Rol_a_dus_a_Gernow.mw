@@ -3429,18 +3429,18 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kernow]]
 |-
 |style='text-align:right'| 476
-| [[Restren:Colin J. Podmore.jpg|center|128px]]
-| ''[[:d:Q9195371|Colin Podmore]]''
-| 1960
-| 
-| [[Resrudh]]
-|-
-|style='text-align:right'| 477
 | 
 | ''[[:d:Q1293722|Edward St Aubyn]]''
 | 1960
 | 
 | [[Kernow]]
+|-
+|style='text-align:right'| 477
+| [[Restren:Colin J. Podmore.jpg|center|128px]]
+| ''[[:d:Q9195371|Colin Podmore]]''
+| 1960
+| 
+| [[Resrudh]]
 |-
 |style='text-align:right'| 478
 | [[Restren:Kristin Scott Thomas Cannes.jpg|center|128px]]
