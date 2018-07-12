@@ -1833,7 +1833,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Aberfala]]
 |-
 |style='text-align:right'| 248
-| 
+| [[Restren:Nun budge.gif|center|128px]]
 | ''[[:d:Q2316289|E. A. Wallis Budge]]''
 | 1857
 | 1934
