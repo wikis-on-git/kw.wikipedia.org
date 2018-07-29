@@ -4297,7 +4297,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Aberfala]]
 |-
 |style='text-align:right'| 600
-| [[Restren:Helen Glover with 2012 Olympic Gold medal.jpg|center|128px]]
+| [[Restren:Helen Glover with 2012 Olympic Gold medal (cropped).jpg|center|128px]]
 | ''[[:d:Q2040115|Helen Glover]]''
 | 1986
 | 
