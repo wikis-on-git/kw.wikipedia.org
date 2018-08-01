@@ -1736,7 +1736,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 234
 | 
-| ''[[:d:Q18385337|John George Bice]]''
+| ''[[:d:Q18385337|John Bice]]''
 | 1853
 | 1923
 | [[Kelliwik]]
@@ -4690,7 +4690,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 656
 | [[Restren:Ciudad de lyonesse.jpg|center|128px]]
-| ''[[:d:Q21209155|Craig Weatherhill]]''
+| [[Craig Weatherhill]]
 | 
 | 
 | [[Pennsans]]
