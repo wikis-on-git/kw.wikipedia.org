@@ -4813,6 +4813,13 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | 
 | ''[[:d:Q22338583|Q22338583]]''
+|-
+|style='text-align:right'| 674
+| 
+| ''[[:d:Q55979310|Hugh Martell]]''
+| 
+| 
+| [[Pennsans]]
 |}
 
 
