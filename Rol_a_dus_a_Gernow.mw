@@ -5070,7 +5070,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q55979310|Hugh Martell]]''
 | 
-| 
+| 1998
 | [[Pennsans]]
 |}
 
