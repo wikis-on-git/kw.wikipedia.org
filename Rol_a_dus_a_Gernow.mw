@@ -5021,7 +5021,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q7794545|Thomas Tregosse]]''
 | 
-| 
+| 1670
 | [[Porth Ia]]
 |-
 |style='text-align:right'| 704
