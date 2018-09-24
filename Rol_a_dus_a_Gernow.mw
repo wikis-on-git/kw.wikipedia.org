@@ -5114,6 +5114,13 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | 
 | ''[[:d:Q22338583|Q22338583]]''
+|-
+|style='text-align:right'| 717
+| 
+| ''[[:d:Q56247738|Rhys Enoch]]''
+| 
+| 
+| [[Truru]]
 |}
 
 
