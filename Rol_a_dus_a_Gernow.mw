@@ -4200,922 +4200,929 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 586
 | 
+| ''[[:d:Q47482415|Alison Trickey]]''
+| 1975
+| 
+| [[Aberfala]]
+|-
+|style='text-align:right'| 587
+| 
 | ''[[:d:Q4758610|Andrew Snell]]''
 | 1975
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 587
+|style='text-align:right'| 588
 | 
 | ''[[:d:Q7352350|Robin Davey]]''
 | 1975
 | 
 | [[Austol]]
 |-
-|style='text-align:right'| 588
+|style='text-align:right'| 589
 | 
 | ''[[:d:Q24809206|Lee Drew]]''
 | 1976
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 589
+|style='text-align:right'| 590
 | [[Restren:Åcon IX 19 (cropped).jpg|center|128px]]
 | ''[[:d:Q42754694|Emma Newman]]''
 | 1976
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 590
+|style='text-align:right'| 591
 | [[Restren:Steve Gilbert Mugshot.JPG|center|128px]]
 | ''[[:d:Q391328|Steve Gilbert]]''
 | 1976
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 591
+|style='text-align:right'| 592
 | 
 | ''[[:d:Q7976545|Wayne Quinn]]''
 | 1976
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 592
+|style='text-align:right'| 593
 | 
 | ''[[:d:Q7644144|Joanna Thomas]]''
 | 1976
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 593
+|style='text-align:right'| 594
 | 
 | ''[[:d:Q5239111|David Roberts]]''
 | 1976
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 594
+|style='text-align:right'| 595
 | 
 | ''[[:d:Q18044422|Julie Kitchen]]''
 | 1977
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 595
+|style='text-align:right'| 596
 | [[Restren:Official portrait of Scott Mann crop 2.jpg|center|128px]]
 | ''[[:d:Q20647692|Scott Mann]]''
 | 1977
 | 
 | [[Ponsrys]]
 |-
-|style='text-align:right'| 596
+|style='text-align:right'| 597
 | 
 | ''[[:d:Q6162063|Jason Blunt]]''
 | 1977
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 597
+|style='text-align:right'| 598
 | [[Restren:Zoie Palmer, Lost Girl Panel at FanExpo crop.jpg|center|128px]]
 | ''[[:d:Q2451052|Zoie Palmer]]''
 | 1977
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 598
+|style='text-align:right'| 599
 | 
 | ''[[:d:Q7817543|Tom Sharp]]''
 | 1977
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 599
+|style='text-align:right'| 600
 | 
 | ''[[:d:Q4332510|Leon Ockenden]]''
 | 1978
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 600
+|style='text-align:right'| 601
 | 
 | ''[[:d:Q5085509|Charlie Shreck]]''
 | 1978
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 601
+|style='text-align:right'| 602
 | 
 | ''[[:d:Q7025183|Nicholas Carter]]''
 | 1978
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 602
+|style='text-align:right'| 603
 | [[Restren:Julia Goldsworthy, MP.JPG|center|128px]]
 | ''[[:d:Q728176|Julia Goldsworthy]]''
 | 1978
 | 
 | [[Cambron]]
 |-
-|style='text-align:right'| 603
+|style='text-align:right'| 604
 | [[Restren:Charlie Winston - Festival Chorus des Hauts de Seine 2012.JPG|center|128px]]
 | ''[[:d:Q1067045|Charlie Winston]]''
 | 1978
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 604
+|style='text-align:right'| 605
 | 
 | ''[[:d:Q6135485|James Hands]]''
 | 1978
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 605
+|style='text-align:right'| 606
 | [[Restren:Portrait of Sam Bleakley, Barbados.jpg|center|128px]]
 | ''[[:d:Q7407190|Sam Bleakley]]''
 | 1978
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 606
+|style='text-align:right'| 607
 | 
 | ''[[:d:Q5181312|Craig Pellowe]]''
 | 1978
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 607
+|style='text-align:right'| 608
 | 
 | ''[[:d:Q7340601|Rob Thirlby]]''
 | 1979
 | 
 | [[Resrudh]]
 |-
-|style='text-align:right'| 608
+|style='text-align:right'| 609
 | 
 | ''[[:d:Q3371239|Paul Fox]]''
 | 1979
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 609
+|style='text-align:right'| 610
 | 
 | ''[[:d:Q5528133|Gavin Edwards]]''
 | 1979
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 610
+|style='text-align:right'| 611
 | 
 | ''[[:d:Q7384027|Ryan Driver]]''
 | 1979
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 611
+|style='text-align:right'| 612
 | 
 | ''[[:d:Q7082990|Olaf Schmid]]''
 | 1979
 | 2009
 | [[Truru]]
 |-
-|style='text-align:right'| 612
+|style='text-align:right'| 613
 | 
 | ''[[:d:Q6318180|Justin Stephens]]''
 | 1979
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 613
+|style='text-align:right'| 614
 | 
 | ''[[:d:Q29960572|Luke Simmonds]]''
 | 1979
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 614
+|style='text-align:right'| 615
 | [[Restren:Anthony Tonkin 04-10-2008 1.jpg|center|128px]]
 | ''[[:d:Q4773592|Anthony Tonkin]]''
 | 1980
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 615
+|style='text-align:right'| 616
 | [[Restren:Ben Gollings 2013.jpg|center|128px]]
 | ''[[:d:Q4885721|Ben Gollings]]''
 | 1980
 | 
 | [[Lannstefan]]
 |-
-|style='text-align:right'| 616
+|style='text-align:right'| 617
 | 
 | ''[[:d:Q6514722|Lee Phillips]]''
 | 1980
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 617
+|style='text-align:right'| 618
 | 
 | ''[[:d:Q5106944|Chris Hunkin]]''
 | 1980
 | 
 | [[Austol]]
 |-
-|style='text-align:right'| 618
+|style='text-align:right'| 619
 | 
 | ''[[:d:Q437038|Alex Reid]]''
 | 1980
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 619
+|style='text-align:right'| 620
 | [[Restren:File-ST vs Gloucester - Match - 8753.JPG|center|128px]]
 | ''[[:d:Q3530910|Tom Voyce]]''
 | 1981
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 620
+|style='text-align:right'| 621
 | 
 | ''[[:d:Q5238461|David Paynter]]''
 | 1981
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 621
+|style='text-align:right'| 622
 | 
 | ''[[:d:Q5702971|Helen Pearson]]''
 | 1981
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 622
+|style='text-align:right'| 623
 | 
 | ''[[:d:Q4885682|Ben Frazer]]''
 | 1981
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 623
+|style='text-align:right'| 624
 | 
 | ''[[:d:Q343239|Tom Southam]]''
 | 1981
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 624
+|style='text-align:right'| 625
 | [[Restren:Matthew Etherington.jpg|center|128px]]
 | ''[[:d:Q334619|Matthew Etherington]]''
 | 1981
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 625
+|style='text-align:right'| 626
 | 
 | ''[[:d:Q4889138|Benjamin Price]]''
 | 1981
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 626
+|style='text-align:right'| 627
 | 
 | ''[[:d:Q6790575|Matthew Gitsham]]''
 | 1982
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 627
+|style='text-align:right'| 628
 | [[Restren:ST vs Ospreys 08-12-120068.JPG|center|128px]]
 | ''[[:d:Q6208537|Joe Bearman]]''
 | 1982
 | 
 | [[Tewyn Plustry]]
 |-
-|style='text-align:right'| 628
+|style='text-align:right'| 629
 | 
 | ''[[:d:Q5040206|Carl Gazzard]]''
 | 1982
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 629
+|style='text-align:right'| 630
 | 
 | ''[[:d:Q6988444|Neil Curnow]]''
 | 1982
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 630
+|style='text-align:right'| 631
 | 
 | ''[[:d:Q452883|Annabel Vernon]]''
 | 1982
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 631
+|style='text-align:right'| 632
 | [[Restren:Chris Harris.jpg|center|128px]]
 | ''[[:d:Q5106803|Chris Harris]]''
 | 1982
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 632
+|style='text-align:right'| 633
 | [[Restren:Jim Hart Kongsberg Jazzfestival 2017 (190735).jpg|center|128px]]
 | ''[[:d:Q1689108|Jim Hart]]''
 | 1983
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 633
+|style='text-align:right'| 634
 | [[Restren:Luke Charteris. Wales Grand Slam Celebration, Senedd 19 March 2012.jpg|center|128px]]
 | ''[[:d:Q449131|Luke Charteris]]''
 | 1983
 | 
 | [[Cambron]]
 |-
-|style='text-align:right'| 634
+|style='text-align:right'| 635
 | 
 | ''[[:d:Q3179411|Joanna McGilchrist]]''
 | 1983
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 635
+|style='text-align:right'| 636
 | 
 | ''[[:d:Q7384598|Ryan Trudgian]]''
 | 1983
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 636
+|style='text-align:right'| 637
 | 
 | ''[[:d:Q5530727|Gemma Prescott]]''
 | 1983
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 637
+|style='text-align:right'| 638
 | 
 | ''[[:d:Q6988499|Neil Edwards]]''
 | 1983
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 638
+|style='text-align:right'| 639
 | 
 | ''[[:d:Q6776352|Martin Pearce]]''
 | 1983
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 639
+|style='text-align:right'| 640
 | 
 | ''[[:d:Q21067240|Issa Schultz]]''
 | 1984
 | 
 | [[Austol]]
 |-
-|style='text-align:right'| 640
+|style='text-align:right'| 641
 | [[Restren:ToB 2014 stage 8a - Steve Lampier 08.jpg|center|128px]]
 | ''[[:d:Q18044530|Steven Lampier]]''
 | 1984
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 641
+|style='text-align:right'| 642
 | 
 | ''[[:d:Q2911007|Alex Parks]]''
 | 1984
 | 
 | ''[[:d:Q6921088|Q6921088]]''
 |-
-|style='text-align:right'| 642
+|style='text-align:right'| 643
 | [[Restren:Matt Woosey (ZMF 2017) jm36159.jpg|center|128px]]
 | ''[[:d:Q17198907|Matt Woosey]]''
 | 1984
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 643
+|style='text-align:right'| 644
 | 
 | ''[[:d:Q42382844|Ryan Westren]]''
 | 1984
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 644
+|style='text-align:right'| 645
 | 
 | ''[[:d:Q5024374|Calvin Dean]]''
 | 1985
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 645
+|style='text-align:right'| 646
 | 
 | ''[[:d:Q6146807|Jamie Day]]''
 | 1986
 | 
 | [[Aberfala]]
 |-
-|style='text-align:right'| 646
+|style='text-align:right'| 647
 | [[Restren:Helen Glover with 2012 Olympic Gold medal (cropped).jpg|center|128px]]
 | ''[[:d:Q2040115|Helen Glover]]''
 | 1986
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 647
+|style='text-align:right'| 648
 | 
 | ''[[:d:Q26844718|Peter Monks]]''
 | 1986
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 648
+|style='text-align:right'| 649
 | 
 | ''[[:d:Q3453767|Ryan Dickson]]''
 | 1986
 | 
 | [[Essa]]
 |-
-|style='text-align:right'| 649
+|style='text-align:right'| 650
 | 
 | ''[[:d:Q6147141|Jamie Lowry]]''
 | 1987
 | 
 | [[Tewyn Plustry]]
 |-
-|style='text-align:right'| 650
+|style='text-align:right'| 651
 | 
 | ''[[:d:Q7612938|Steve Jehu]]''
 | 1987
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 651
+|style='text-align:right'| 652
 | [[Restren:ToB 2014 stage 8a - Chris Opie 04.jpg|center|128px]]
 | ''[[:d:Q16231861|Chris Opie]]''
 | 1987
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 652
+|style='text-align:right'| 653
 | 
 | ''[[:d:Q9368643|Victoria Bryant]]''
 | 1987
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 653
+|style='text-align:right'| 654
 | [[Restren:USO-Gloucester Rugby - 20141025 - Darren Dawidiuk.jpg|center|128px]]
 | ''[[:d:Q5224875|Darren Dawidiuk]]''
 | 1987
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 654
+|style='text-align:right'| 655
 | [[Restren:Craig Alcock.jpg|center|128px]]
 | ''[[:d:Q3696433|Craig Alcock]]''
 | 1987
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 655
+|style='text-align:right'| 656
 | 
 | ''[[:d:Q3603086|Aaron Renfree]]''
 | 1987
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 656
+|style='text-align:right'| 657
 | 
 | ''[[:d:Q23978188|Amy Roberts]]''
 | 1988
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 657
+|style='text-align:right'| 658
 | 
 | ''[[:d:Q7436507|Scott Hobson]]''
 | 1988
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 658
+|style='text-align:right'| 659
 | [[Restren:Ben barker in Ipswich coulers 2014-06-20 21-46.jpg|center|128px]]
 | ''[[:d:Q4885269|Ben Barker]]''
 | 1988
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 659
+|style='text-align:right'| 660
 | 
 | ''[[:d:Q18921532|Sam Chapman]]''
 | 1989
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 660
+|style='text-align:right'| 661
 | [[Restren:Joshua Jenkins - Zomboy a.p.u.d.jpg|center|128px]]
 | ''[[:d:Q14546605|Zomboy]]''
 | 1989
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 661
+|style='text-align:right'| 662
 | [[Restren:Rosie Roff 2013.jpg|center|128px]]
 | ''[[:d:Q7368911|Rosie Roff]]''
 | 1989
 | 
 | [[Austol]]
 |-
-|style='text-align:right'| 662
+|style='text-align:right'| 663
 | 
 | ''[[:d:Q5214401|Dan Smith]]''
 | 1989
 | 
 | [[Essa]]
 |-
-|style='text-align:right'| 663
+|style='text-align:right'| 664
 | 
 | ''[[:d:Q6791425|Matthew Whorwood]]''
 | 1989
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 664
+|style='text-align:right'| 665
 | 
 | ''[[:d:Q28805569|Matthew Shepherd]]''
 | 1990
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 665
+|style='text-align:right'| 666
 | 
 | ''[[:d:Q23007932|Tom Kessell]]''
 | 1990
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 666
+|style='text-align:right'| 667
 | 
 | ''[[:d:Q8063711|Zac Fox]]''
 | 1990
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 667
+|style='text-align:right'| 668
 | [[Restren:Matavesi.jpg|center|128px]]
 | ''[[:d:Q3185989|Josh Matavesi]]''
 | 1990
 | 
 | [[Cambron]]
 |-
-|style='text-align:right'| 668
+|style='text-align:right'| 669
 | 
 | ''[[:d:Q30325428|Melissa Reid]]''
 | 1990
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 669
+|style='text-align:right'| 670
 | [[Restren:Scot Bennett 30-04-2016 1.jpg|center|128px]]
 | ''[[:d:Q7435458|Scot Bennett]]''
 | 1990
 | 
 | [[Tewyn Plustry]]
 |-
-|style='text-align:right'| 670
+|style='text-align:right'| 671
 | [[Restren:James Honeybone 2014 European Championships SMS-EQ t102656.jpg|center|128px]]
 | ''[[:d:Q6136200|James Honeybone]]''
 | 1991
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 671
+|style='text-align:right'| 672
 | 
 | ''[[:d:Q12070067|Jimmy Stevens]]''
 | 1991
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 672
+|style='text-align:right'| 673
 | 
 | ''[[:d:Q7427303|Saul Halpin]]''
 | 1991
 | 
 | [[Bosvenegh]]
 |-
-|style='text-align:right'| 673
+|style='text-align:right'| 674
 | 
 | ''[[:d:Q18125623|Lloyd Fairbrother]]''
 | 1991
 | 
 | [[Penntorr]]
 |-
-|style='text-align:right'| 674
+|style='text-align:right'| 675
 | 
 | ''[[:d:Q5111964|Christopher Bond]]''
 | 1992
 | 
 | [[Cambron]]
 |-
-|style='text-align:right'| 675
+|style='text-align:right'| 676
 | 
 | ''[[:d:Q22957641|Lucy Payne]]''
 | 1992
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 676
+|style='text-align:right'| 677
 | 
 | ''[[:d:Q19538820|Will Skuse]]''
 | 1992
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 677
+|style='text-align:right'| 678
 | 
 | ''[[:d:Q7088321|Ollie Chenoweth]]''
 | 1992
 | 
 | [[Lyskerrys]]
 |-
-|style='text-align:right'| 678
+|style='text-align:right'| 679
 | 
 | ''[[:d:Q27541516|Jasmine Matthews]]''
 | 1993
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 679
+|style='text-align:right'| 680
 | [[Restren:Jack Nowell 2013 (cropped).jpg|center|128px]]
 | ''[[:d:Q15731077|Jack Nowell]]''
 | 1993
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 680
+|style='text-align:right'| 681
 | 
 | ''[[:d:Q6701893|Luke Cowan-Dickie]]''
 | 1993
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 681
+|style='text-align:right'| 682
 | 
 | ''[[:d:Q6077258|Isaac Vassell]]''
 | 1993
 | 
 | [[Tewyn Plustry]]
 |-
-|style='text-align:right'| 682
+|style='text-align:right'| 683
 | 
 | ''[[:d:Q6276447|Jordan Copp]]''
 | 1993
 | 
 | [[Essa]]
 |-
-|style='text-align:right'| 683
+|style='text-align:right'| 684
 | 
 | ''[[:d:Q6160092|Jared Sims]]''
 | 1993
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 684
+|style='text-align:right'| 685
 | 
 | ''[[:d:Q23772172|Lewis Hilton]]''
 | 1993
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 685
+|style='text-align:right'| 686
 | [[Restren:Stephens vs Sevilla 2017.jpg|center|128px]]
 | ''[[:d:Q6115352|Jack Stephens]]''
 | 1994
 | 
 | [[Penntorr]]
 |-
-|style='text-align:right'| 686
+|style='text-align:right'| 687
 | 
 | ''[[:d:Q6289796|Joshua Fedrick]]''
 | 1994
 | 
 | [[Essa]]
 |-
-|style='text-align:right'| 687
+|style='text-align:right'| 688
 | 
 | ''[[:d:Q26837868|Oliver Bryant]]''
 | 1995
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 688
+|style='text-align:right'| 689
 | 
 | ''[[:d:Q18387424|Christian Walton]]''
 | 1995
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 689
+|style='text-align:right'| 690
 | 
 | ''[[:d:Q27915137|James Turpin]]''
 | 1997
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 690
+|style='text-align:right'| 691
 | 
 | ''[[:d:Q42263606|Max Smallcombe]]''
 | 1999
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 691
+|style='text-align:right'| 692
 | 
 | ''[[:d:Q26209496|Nick Laws]]''
 | 1999
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 692
+|style='text-align:right'| 693
 | 
 | ''[[:d:Q6767116|Mark Collicott]]''
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 693
+|style='text-align:right'| 694
 | 
 | ''[[:d:Q6770144|Mark Versallion]]''
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 694
+|style='text-align:right'| 695
 | 
 | [[Rod Lyon]]
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 695
+|style='text-align:right'| 696
 | 
 | ''[[:d:Q7366973|Ros Atkins]]''
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 696
+|style='text-align:right'| 697
 | 
 | ''[[:d:Q24851434|Alex Quinn]]''
 | 2000
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 697
+|style='text-align:right'| 698
 | 
 | ''[[:d:Q7177916|Peter of Cornwall]]''
 | 
 | 1221
 | [[Lannstefan]]
 |-
-|style='text-align:right'| 698
+|style='text-align:right'| 699
 | 
 | ''[[:d:Q17053434|Every Maclean]]''
 | 
 | 1901
 | [[Kernow]]
 |-
-|style='text-align:right'| 699
+|style='text-align:right'| 700
 | 
 | ''[[:d:Q3048472|Edward Byllynge]]''
 | 
 | 1687
 | [[Kernow]]
 |-
-|style='text-align:right'| 700
+|style='text-align:right'| 701
 | 
 | ''[[:d:Q3332419|Chesten Marchant]]''
 | 
 | 1676
 | [[Kernow]]
 |-
-|style='text-align:right'| 701
+|style='text-align:right'| 702
 | 
 | ''[[:d:Q5240165|David Sturzaker]]''
 | 
 | 
 | [[Resrudh]]
 |-
-|style='text-align:right'| 702
+|style='text-align:right'| 703
 | 
 | ''[[:d:Q6767493|Mark Edwards]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 703
+|style='text-align:right'| 704
 | 
 | ''[[:d:Q6905566|Montfort Browne]]''
 | 
 | 
 | ''[[:d:Q7230603|Q7230603]]''
 |-
-|style='text-align:right'| 704
+|style='text-align:right'| 705
 | 
 | ''[[:d:Q7325480|Richard Eliot]]''
 | 
 | 
 | ''[[:d:Q7230603|Q7230603]]''
 |-
-|style='text-align:right'| 705
+|style='text-align:right'| 706
 | 
 | ''[[:d:Q7794545|Thomas Tregosse]]''
 | 
 | 1670
 | [[Porth Ia]]
 |-
-|style='text-align:right'| 706
+|style='text-align:right'| 707
 | 
 | ''[[:d:Q7823705|Tony Wright]]''
 | 
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 707
+|style='text-align:right'| 708
 | [[Restren:Llen Natur Conference May 2017 30.jpg|center|128px]]
 | ''[[:d:Q18535443|Andrew Hawke]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 708
+|style='text-align:right'| 709
 | 
 | ''[[:d:Q19412412|Tim Saunders]]''
 | 
 | 
 | [[Bosvenegh]]
 |-
-|style='text-align:right'| 709
+|style='text-align:right'| 710
 | [[Restren:Ciudad de lyonesse.jpg|center|128px]]
 | [[Craig Weatherhill]]
 | 
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 710
+|style='text-align:right'| 711
 | 
 | ''[[:d:Q21535216|John Arscott]]''
 | 
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 711
+|style='text-align:right'| 712
 | [[Restren:Samuel Mitchell HOFWA.jpg|center|128px]]
 | ''[[:d:Q24845830|Samuel Mitchell]]''
 | 
 | 1912
 | [[Kernow]]
 |-
-|style='text-align:right'| 712
+|style='text-align:right'| 713
 | 
 | ''[[:d:Q25352000|Helen Nash]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 713
+|style='text-align:right'| 714
 | [[Restren:Captain William Kitto.png|center|128px]]
 | ''[[:d:Q35135917|William Kitto]]''
 | 
 | 1930
 | ''[[:d:Q2364410|Q2364410]]''
 |-
-|style='text-align:right'| 714
+|style='text-align:right'| 715
 | 
 | ''[[:d:Q45026957|Sir John Arundell IV]]''
 | 
 | 
 | ''[[:d:Q7593041|Q7593041]]''
 |-
-|style='text-align:right'| 715
+|style='text-align:right'| 716
 | [[Restren:Nnenne Iwuji-Eme.jpg|center|128px]]
 | ''[[:d:Q50886550|NneNne Iwuji-Eme]]''
 | 
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 716
+|style='text-align:right'| 717
 | 
 | ''[[:d:Q53196467|Mynfer ach Brynach]]''
 | 
 | 
 | ''[[:d:Q22338583|Q22338583]]''
 |-
-|style='text-align:right'| 717
+|style='text-align:right'| 718
 | 
 | ''[[:d:Q56247738|Rhys Enoch]]''
 | 
