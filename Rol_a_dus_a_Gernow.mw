@@ -2967,7 +2967,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Fowy (tre)|Fowy]]
 |-
 |style='text-align:right'| 410
-| 
+| [[Restren:Vic Roberts 1950.jpg|center|128px]]
 | ''[[:d:Q3556850|Vic Roberts]]''
 | 1924
 | 2004
@@ -4871,7 +4871,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Truru]]
 |-
 |style='text-align:right'| 682
-| 
+| [[Restren:Isaac Vassell October 2017.jpg|center|128px]]
 | ''[[:d:Q6077258|Isaac Vassell]]''
 | 1993
 | 
