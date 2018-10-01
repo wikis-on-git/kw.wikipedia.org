@@ -2814,7 +2814,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 388
 | 
-| ''[[:d:Q5163587|Constance Stuart Larrabee]]''
+| ''[[:d:Q5163587|Constance Stuart-Larrabee]]''
 | 1914
 | 2000
 | [[Kernow]]
