@@ -3325,17 +3325,17 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 461
 | 
-| ''[[:d:Q5217906|Jon Mark]]''
-| 1944
-| 
-| [[Aberfala]]
-|-
-|style='text-align:right'| 462
-| 
 | ''[[:d:Q4706427|Alan Cowland]]''
 | 1944
 | 2005
 | [[Austol]]
+|-
+|style='text-align:right'| 462
+| 
+| ''[[:d:Q5217906|Jon Mark]]''
+| 1944
+| 
+| [[Aberfala]]
 |-
 |style='text-align:right'| 463
 | 
@@ -3485,32 +3485,32 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q652930|Q652930]]''
 |-
 |style='text-align:right'| 484
-| [[Restren:Mick Paynter.jpg|center|128px]]
-| ''[[:d:Q6838397|Mick Paynter]]''
-| 1948
-| 
-| [[Resrudh]]
-|-
-|style='text-align:right'| 485
 | 
 | ''[[:d:Q7613226|Steve Madge]]''
 | 1948
 | 
 | [[Penntorr]]
 |-
-|style='text-align:right'| 486
+|style='text-align:right'| 485
 | 
 | ''[[:d:Q7330566|Richie Reynolds]]''
 | 1948
 | 
 | [[Logh]]
 |-
-|style='text-align:right'| 487
+|style='text-align:right'| 486
 | 
 | ''[[:d:Q5262066|Derek Hussey]]''
 | 1948
 | 
 | [[Lannwedhenek]]
+|-
+|style='text-align:right'| 487
+| [[Restren:Mick Paynter.jpg|center|128px]]
+| ''[[:d:Q6838397|Mick Paynter]]''
+| 1948
+| 
+| [[Resrudh]]
 |-
 |style='text-align:right'| 488
 | [[Restren:Marion Shoard.jpg|center|128px]]
