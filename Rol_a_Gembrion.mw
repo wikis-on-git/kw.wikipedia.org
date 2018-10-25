@@ -36113,7 +36113,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kardydh]]
 |-
 |style='text-align:right'| 5157
-| [[Restren:Jamie Jones 2015.jpg|center|128px]]
+|
 | ''[[:d:Q13581065|Jamie Jones]]''
 | 1980
 | 
