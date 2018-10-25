@@ -4312,17 +4312,17 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 602
 | 
-| ''[[:d:Q4332510|Leon Ockenden]]''
-| 1978
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 603
-| 
 | ''[[:d:Q5085509|Charlie Shreck]]''
 | 1978
 | 
 | [[Truru]]
+|-
+|style='text-align:right'| 603
+| 
+| ''[[:d:Q4332510|Leon Ockenden]]''
+| 1978
+| 
+| [[Kernow]]
 |-
 |style='text-align:right'| 604
 | 
