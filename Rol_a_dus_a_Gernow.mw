@@ -461,7 +461,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Bosvenegh]]
 |-
 |style='text-align:right'| 52
-| 
+| [[Restren:Boconnoc Estate3.jpg|center|128px]]
 | ''[[:d:Q7793177|Thomas Pitt, 1st Baron Camelford]]''
 | 1737
 | 1793
@@ -2814,7 +2814,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 388
 | [[Restren:William Golding 1983.jpg|center|128px]]
-| ''[[:d:Q44183|William Golding el choro bellako]]''
+| ''[[:d:Q44183|William Golding]]''
 | 1911
 | 1993
 | ''[[:d:Q3997404|Q3997404]]''
@@ -4129,7 +4129,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Austol]]
 |-
 |style='text-align:right'| 576
-| [[Restren:George Eustice MP.jpg|center|128px]]
+| [[Restren:Official portrait of George Eustice crop 2.jpg|center|128px]]
 | ''[[:d:Q303510|George Eustice]]''
 | 1971
 | 
