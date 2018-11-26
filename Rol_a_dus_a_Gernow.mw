@@ -1945,7 +1945,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7982562|Gwendron]]''
 |-
 |style='text-align:right'| 264
-| 
+| [[Restren:Edmund Harvey Taylor.jpg|center|128px]]
 | ''[[:d:Q5339855|Edmund Taylor]]''
 | 1855
 | 1927
@@ -3919,7 +3919,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Hellys]]
 |-
 |style='text-align:right'| 546
-| [[Restren:Mark Prisk.jpg|center|128px]]
+| [[Restren:Official portrait of Mr Mark Prisk crop 2.jpg|center|128px]]
 | ''[[:d:Q575205|Mark Prisk]]''
 | 1962
 | 
