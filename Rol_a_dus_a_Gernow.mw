@@ -114,7 +114,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Restren:The Collegiate Church of St Endellion - geograph.org.uk - 216898.jpg|center|128px]]
 | ''[[:d:Q936150|Sen Endelyn]]''
 | 500
-| 
+| 501
 | ''[[:d:Q22338583|Q22338583]]''
 |-
 |style='text-align:right'| 3
@@ -135,7 +135,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q45026957|Sir John Arundell IV]]''
 | 1336
-| 
+| 1376
 | ''[[:d:Q7593041|Q7593041]]''
 |-
 |style='text-align:right'| 6
