@@ -1735,7 +1735,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q2510569|Q2510569]]''
 |-
 |style='text-align:right'| 234
-| [[Restren:Peach and Horne.jpg|center|128px]]
+| [[Restren:Peach 2 (cropped) at Inchnadamph Inn, 1912.jpg|center|128px]]
 | ''[[:d:Q553677|Ben Peach]]''
 | 1842
 | 1926
