@@ -2534,17 +2534,17 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 348
 | 
-| ''[[:d:Q20746835|Frederick John Pascoe]]''
-| 1893
-| 1963
-| [[Truru]]
-|-
-|style='text-align:right'| 349
-| 
 | ''[[:d:Q6236423|John Grigson]]''
 | 1893
 | 1943
 | ''[[:d:Q7161819|Q7161819]]''
+|-
+|style='text-align:right'| 349
+| 
+| ''[[:d:Q20746835|Frederick John Pascoe]]''
+| 1893
+| 1963
+| [[Truru]]
 |-
 |style='text-align:right'| 350
 | [[Restren:FBCargeeginhisworkshop(fromCountrymanSpring1951).jpg|center|128px]]
