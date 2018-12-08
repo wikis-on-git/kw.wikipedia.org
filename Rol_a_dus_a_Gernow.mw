@@ -1413,7 +1413,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q5462909|Q5462909]]''
 |-
 |style='text-align:right'| 188
-| [[Restren:Inkermann.jpg|center|128px]]
+| 
 | ''[[:d:Q5545007|George Symons]]''
 | 1826
 | 1871
