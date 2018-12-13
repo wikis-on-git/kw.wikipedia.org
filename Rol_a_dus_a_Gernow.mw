@@ -1626,7 +1626,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Restren:WilliamGryllisAdams.jpg|center|128px]]
 | ''[[:d:Q8010250|William Grylls Adams]]''
 | 1836
-| 1915
+| 1913
 | ''[[:d:Q2901467|Lanneyst]]''
 |-
 |style='text-align:right'| 219
