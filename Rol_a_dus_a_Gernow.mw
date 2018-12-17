@@ -650,7 +650,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Cambron]]
 |-
 |style='text-align:right'| 79
-| [[Restren:Pears-Soap-barbox.jpg|center|128px]]
+|
 | ''[[:d:Q4758229|Andrew Pears]]''
 | 1766
 | 1845
