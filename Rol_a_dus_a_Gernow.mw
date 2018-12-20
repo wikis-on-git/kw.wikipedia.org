@@ -1472,7 +1472,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q19663653|John McCrea]]''
 | 1829
-| 
+| 1883
 | [[Penntorr]]
 |-
 |style='text-align:right'| 197
