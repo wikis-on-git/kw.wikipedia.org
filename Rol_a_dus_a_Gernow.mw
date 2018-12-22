@@ -2429,38 +2429,38 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 333
 | 
-| ''[[:d:Q12785157|Arthur Gordon Barry]]''
-| 1885
-| 1942
-| [[Penntorr]]
-|-
-|style='text-align:right'| 334
-| 
 | ''[[:d:Q16067201|Charles Provis]]''
 | 1885
 | 
 | [[Cambron]]
 |-
-|style='text-align:right'| 335
+|style='text-align:right'| 334
 | 
 | ''[[:d:Q18507221|Gladys Gordon Trenery]]''
 | 1885
 | 1938
 | [[Kernow]]
 |-
-|style='text-align:right'| 336
+|style='text-align:right'| 335
 | 
 | ''[[:d:Q2068219|Bert Solomon]]''
 | 1885
 | 1961
 | [[Resrudh]]
 |-
-|style='text-align:right'| 337
+|style='text-align:right'| 336
 | 
 | ''[[:d:Q23683817|Minnie Pallister]]''
 | 1885
 | 1960
 | ''[[:d:Q3245937|Kylgh]]''
+|-
+|style='text-align:right'| 337
+| 
+| ''[[:d:Q12785157|Arthur Gordon Barry]]''
+| 1885
+| 1942
+| [[Penntorr]]
 |-
 |style='text-align:right'| 338
 | 
@@ -3436,39 +3436,39 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kelliwik]]
 |-
 |style='text-align:right'| 477
-| 
-| ''[[:d:Q52098758|Michael Holman]]''
-| 1945
-| 
-| [[Pennsans]]
-|-
-|style='text-align:right'| 478
 | [[Restren:Richard Dearlove1.JPG|center|128px]]
 | ''[[:d:Q3430698|Richard Dearlove]]''
 | 1945
 | 
 | ''[[:d:Q5586852|Q5586852]]''
 |-
-|style='text-align:right'| 479
+|style='text-align:right'| 478
 | 
 | ''[[:d:Q6834954|Michael Trenwith]]''
 | 1945
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 480
+|style='text-align:right'| 479
 | 
 | ''[[:d:Q4707459|Alan Opie]]''
 | 1945
 | 
 | [[Resrudh]]
 |-
-|style='text-align:right'| 481
+|style='text-align:right'| 480
 | 
 | ''[[:d:Q7177323|Peter Tilbury]]''
 | 1945
 | 
 | [[Resrudh]]
+|-
+|style='text-align:right'| 481
+| 
+| ''[[:d:Q52098758|Michael Holman]]''
+| 1945
+| 
+| [[Pennsans]]
 |-
 |style='text-align:right'| 482
 | 
@@ -3730,17 +3730,17 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Resrudh]]
 |-
 |style='text-align:right'| 519
-| 
-| ''[[:d:Q6835400|Michael Winter]]''
-| 1955
-| 
-| [[Lannstefan]]
-|-
-|style='text-align:right'| 520
 | [[Restren:Pery Burge.jpg|center|128px]]
 | ''[[:d:Q7171285|Pery Burge]]''
 | 1955
 | 2013
+| [[Lannstefan]]
+|-
+|style='text-align:right'| 520
+| 
+| ''[[:d:Q6835400|Michael Winter]]''
+| 1955
+| 
 | [[Lannstefan]]
 |-
 |style='text-align:right'| 521
