@@ -2029,7 +2029,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kernow]]
 |-
 |style='text-align:right'| 276
-| [[Restren:John-Pearce Luke (cropped).jpg|center|128px]]
+| [[Restren:John Luke.jpg|center|128px]]
 | ''[[:d:Q6245506|John Luke]]''
 | 1858
 | 1931
