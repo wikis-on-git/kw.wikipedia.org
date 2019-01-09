@@ -3010,31 +3010,31 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 416
 | 
-| ''[[:d:Q5372956|Emma Smith]]''
-| 1923
-| 2018
-| [[Tewyn Plustry]]
-|-
-|style='text-align:right'| 417
-| 
 | ''[[:d:Q5085477|Charlie Rundle]]''
 | 1923
 | 1997
 | [[Fowy (tre)|Fowy]]
 |-
-|style='text-align:right'| 418
+|style='text-align:right'| 417
 | 
 | ''[[:d:Q32784393|William Frank Harding Ansell]]''
 | 1923
 | 1996
 | ''[[:d:Q5267900|Q5267900]]''
 |-
-|style='text-align:right'| 419
+|style='text-align:right'| 418
 | [[Restren:Architect E.T. Spashett ARIBA in 1964.jpg|center|128px]]
 | ''[[:d:Q56810880|Ernest Trevor Spashett]]''
 | 1923
 | 1994
 | [[Pennsans]]
+|-
+|style='text-align:right'| 419
+| 
+| ''[[:d:Q5372956|Emma Smith]]''
+| 1923
+| 2018
+| [[Tewyn Plustry]]
 |-
 |style='text-align:right'| 420
 | 
@@ -3485,18 +3485,18 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Pennsans]]
 |-
 |style='text-align:right'| 484
-| 
-| ''[[:d:Q7705053|Terry Stringer]]''
-| 1946
-| 
-| [[Resrudh]]
-|-
-|style='text-align:right'| 485
 | [[Restren:Roxy Music.jpg|center|128px]]
 | ''[[:d:Q526625|Andy Mackay]]''
 | 1946
 | 
 | [[Lostwydhyel]]
+|-
+|style='text-align:right'| 485
+| 
+| ''[[:d:Q7705053|Terry Stringer]]''
+| 1946
+| 
+| [[Resrudh]]
 |-
 |style='text-align:right'| 486
 | 
