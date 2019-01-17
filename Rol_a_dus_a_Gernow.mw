@@ -4956,250 +4956,257 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 694
 | 
-| ''[[:d:Q27541516|Jasmine Matthews]]''
+| ''[[:d:Q55759612|Cody Cooke]]''
 | 1993
 | 
 | [[Truru]]
 |-
 |style='text-align:right'| 695
+| 
+| ''[[:d:Q27541516|Jasmine Matthews]]''
+| 1993
+| 
+| [[Truru]]
+|-
+|style='text-align:right'| 696
 | [[Restren:Jack Nowell 2013 (cropped).jpg|center|128px]]
 | ''[[:d:Q15731077|Jack Nowell]]''
 | 1993
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 696
+|style='text-align:right'| 697
 | 
 | ''[[:d:Q6701893|Luke Cowan-Dickie]]''
 | 1993
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 697
+|style='text-align:right'| 698
 | [[Restren:Isaac Vassell October 2017.jpg|center|128px]]
 | ''[[:d:Q6077258|Isaac Vassell]]''
 | 1993
 | 
 | [[Tewyn Plustry]]
 |-
-|style='text-align:right'| 698
+|style='text-align:right'| 699
 | 
 | ''[[:d:Q6276447|Jordan Copp]]''
 | 1993
 | 
 | [[Essa]]
 |-
-|style='text-align:right'| 699
+|style='text-align:right'| 700
 | 
 | ''[[:d:Q6160092|Jared Sims]]''
 | 1993
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 700
+|style='text-align:right'| 701
 | 
 | ''[[:d:Q23772172|Lewis Hilton]]''
 | 1993
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 701
+|style='text-align:right'| 702
 | [[Restren:Stephens vs Sevilla 2017.jpg|center|128px]]
 | ''[[:d:Q6115352|Jack Stephens]]''
 | 1994
 | 
 | [[Penntorr]]
 |-
-|style='text-align:right'| 702
+|style='text-align:right'| 703
 | 
 | ''[[:d:Q6289796|Joshua Fedrick]]''
 | 1994
 | 
 | [[Essa]]
 |-
-|style='text-align:right'| 703
+|style='text-align:right'| 704
 | 
 | ''[[:d:Q26837868|Oliver Bryant]]''
 | 1995
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 704
+|style='text-align:right'| 705
 | 
 | ''[[:d:Q18387424|Christian Walton]]''
 | 1995
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 705
+|style='text-align:right'| 706
 | 
 | ''[[:d:Q27915137|James Turpin]]''
 | 1997
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 706
+|style='text-align:right'| 707
 | 
 | ''[[:d:Q42263606|Max Smallcombe]]''
 | 1999
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 707
+|style='text-align:right'| 708
 | 
 | ''[[:d:Q26209496|Nick Laws]]''
 | 1999
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 708
+|style='text-align:right'| 709
 | 
 | ''[[:d:Q6767116|Mark Collicott]]''
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 709
+|style='text-align:right'| 710
 | 
 | ''[[:d:Q6770144|Mark Versallion]]''
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 710
+|style='text-align:right'| 711
 | 
 | [[Rod Lyon]]
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 711
+|style='text-align:right'| 712
 | 
 | ''[[:d:Q7366973|Ros Atkins]]''
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 712
+|style='text-align:right'| 713
 | 
 | ''[[:d:Q24851434|Alex Quinn]]''
 | 2000
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 713
+|style='text-align:right'| 714
 | 
 | ''[[:d:Q7177916|Peter of Cornwall]]''
 | 
 | 1221
 | [[Lannstefan]]
 |-
-|style='text-align:right'| 714
+|style='text-align:right'| 715
 | 
 | ''[[:d:Q17053434|Every Maclean]]''
 | 
 | 1901
 | [[Kernow]]
 |-
-|style='text-align:right'| 715
+|style='text-align:right'| 716
 | [[Restren:Zoie Palmer, Lost Girl Panel at FanExpo crop.jpg|center|128px]]
 | ''[[:d:Q2451052|Zoie Palmer]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 716
+|style='text-align:right'| 717
 | 
 | ''[[:d:Q3048472|Edward Byllynge]]''
 | 
 | 1687
 | [[Kernow]]
 |-
-|style='text-align:right'| 717
+|style='text-align:right'| 718
 | 
 | ''[[:d:Q3332419|Chesten Marchant]]''
 | 
 | 1676
 | [[Kernow]]
 |-
-|style='text-align:right'| 718
+|style='text-align:right'| 719
 | 
 | ''[[:d:Q5240165|David Sturzaker]]''
 | 
 | 
 | [[Resrudh]]
 |-
-|style='text-align:right'| 719
+|style='text-align:right'| 720
 | 
 | ''[[:d:Q6767493|Mark Edwards]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 720
+|style='text-align:right'| 721
 | 
 | ''[[:d:Q7325480|Richard Eliot]]''
 | 
 | 
 | ''[[:d:Q7230603|Q7230603]]''
 |-
-|style='text-align:right'| 721
+|style='text-align:right'| 722
 | 
 | ''[[:d:Q7794545|Thomas Tregosse]]''
 | 
 | 1670
 | [[Porth Ia]]
 |-
-|style='text-align:right'| 722
+|style='text-align:right'| 723
 | 
 | ''[[:d:Q7823705|Tony Wright]]''
 | 
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 723
+|style='text-align:right'| 724
 | [[Restren:Llen Natur Conference May 2017 30.jpg|center|128px]]
 | ''[[:d:Q18535443|Andrew Hawke]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 724
+|style='text-align:right'| 725
 | 
 | ''[[:d:Q19412412|Tim Saunders]]''
 | 
 | 
 | [[Bosvenegh]]
 |-
-|style='text-align:right'| 725
+|style='text-align:right'| 726
 | [[Restren:Ciudad de lyonesse.jpg|center|128px]]
 | [[Craig Weatherhill]]
 | 
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 726
+|style='text-align:right'| 727
 | 
 | ''[[:d:Q21535216|John Arscott]]''
 | 
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 727
+|style='text-align:right'| 728
 | 
 | ''[[:d:Q25352000|Helen Nash]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 728
+|style='text-align:right'| 729
 | [[Restren:Nnenne Iwuji-Eme.jpg|center|128px]]
 | ''[[:d:Q50886550|NneNne Iwuji-Eme]]''
 | 
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 729
+|style='text-align:right'| 730
 | 
 | ''[[:d:Q53196467|Mynfer ach Brynach]]''
 | 
