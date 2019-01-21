@@ -916,25 +916,25 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q5572506|Q5572506]]''
 |-
 |style='text-align:right'| 117
+| [[Restren:Davy John 1825 unknown.jpg|center|128px]]
+| ''[[:d:Q1699774|John Davy]]''
+| 1790
+| 1868
+| [[Pennsans]]
+|-
+|style='text-align:right'| 118
 | 
 | ''[[:d:Q7151152|Paul Harris Nicolas]]''
 | 1790
 | 1860
 | ''[[:d:Q302257|Q302257]]''
 |-
-|style='text-align:right'| 118
+|style='text-align:right'| 119
 | 
 | ''[[:d:Q7184501|Philip VanKoughnet]]''
 | 1790
 | 1873
 | [[Kernow]]
-|-
-|style='text-align:right'| 119
-| [[Restren:Davy John 1825 unknown.jpg|center|128px]]
-| ''[[:d:Q1699774|John Davy]]''
-| 1790
-| 1868
-| [[Pennsans]]
 |-
 |style='text-align:right'| 120
 | 
@@ -3499,18 +3499,18 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Resrudh]]
 |-
 |style='text-align:right'| 486
-| [[Restren:Roxy Music.jpg|center|128px]]
-| ''[[:d:Q526625|Andy Mackay]]''
-| 1946
-| 
-| [[Lostwydhyel]]
-|-
-|style='text-align:right'| 487
 | 
 | ''[[:d:Q7705053|Terry Stringer]]''
 | 1946
 | 
 | [[Resrudh]]
+|-
+|style='text-align:right'| 487
+| [[Restren:Roxy Music.jpg|center|128px]]
+| ''[[:d:Q526625|Andy Mackay]]''
+| 1946
+| 
+| [[Lostwydhyel]]
 |-
 |style='text-align:right'| 488
 | 
