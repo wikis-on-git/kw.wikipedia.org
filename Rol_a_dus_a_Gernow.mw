@@ -1826,32 +1826,32 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Plew Golom]]
 |-
 |style='text-align:right'| 247
+| 
+| ''[[:d:Q18681484|Francis Oats]]''
+| 1848
+| 1918
+| [[Golnans|Golant]]
+|-
+|style='text-align:right'| 248
 | [[Restren:William Copeland Borlase.jpg|center|128px]]
 | ''[[:d:Q1727346|William Copeland Borlase]]''
 | 1848
 | 1899
 | [[Pennsans]]
 |-
-|style='text-align:right'| 248
+|style='text-align:right'| 249
 | [[Restren:David Charleston.jpg|center|128px]]
 | ''[[:d:Q5232322|David Charleston]]''
 | 1848
 | 1934
 | ''[[:d:Q1002835|Q1002835]]''
 |-
-|style='text-align:right'| 249
+|style='text-align:right'| 250
 | [[Restren:Henry Jenner, MA FSA.jpg|center|128px]]
 | [[Henry Jenner]]
 | 1848
 | 1934
 | [[Kernow]]
-|-
-|style='text-align:right'| 250
-| 
-| ''[[:d:Q18681484|Francis Oats]]''
-| 1848
-| 1918
-| [[Golnans|Golant]]
 |-
 |style='text-align:right'| 251
 | [[Restren:Reginald Pole-Carew Vanity Fair 21 February 1901.jpg|center|128px]]
