@@ -4067,17 +4067,17 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 567
 | 
-| ''[[:d:Q186371|Jason Dawe]]''
-| 1967
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 568
-| 
 | ''[[:d:Q4707186|Alan M. Kent]]''
 | 1967
 | 
 | [[Austol]]
+|-
+|style='text-align:right'| 568
+| 
+| ''[[:d:Q186371|Jason Dawe]]''
+| 1967
+| 
+| [[Kernow]]
 |-
 |style='text-align:right'| 569
 | 
