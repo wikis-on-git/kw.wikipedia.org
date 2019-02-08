@@ -3082,7 +3082,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q254240|Rosamunde Pilcher]]''
 | 1924
-| 
+| 2019
 | ''[[:d:Q431799|Q431799]]''
 |-
 |style='text-align:right'| 427
