@@ -514,7 +514,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q920078|Jonathan Hornblower]]''
 | 1753
 | 1815
-| [[Chasewater|Chacewater]]
+| [[Dowr an Chas|Chacewater]]
 |-
 |style='text-align:right'| 60
 | [[Restren:Henry Bone, (1755-1834), the artist's father by Henry Pierce Bone.jpg|center|128px]]
@@ -899,7 +899,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q6791066|Matthew Paul Moyle]]''
 | 1788
 | 1880
-| [[Chasewater|Chacewater]]
+| [[Dowr an Chas|Chacewater]]
 |-
 |style='text-align:right'| 115
 | [[Restren:Jonathan Couch.jpg|center|128px]]
@@ -1298,7 +1298,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q16062737|John Robarts]]''
 | 1818
 | 1888
-| [[Chasewater|Chacewater]]
+| [[Dowr an Chas|Chacewater]]
 |-
 |style='text-align:right'| 172
 | [[Restren:Joseph Brennan VC IWM Q 80482.jpg|center|128px]]
@@ -1928,7 +1928,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q4757607|Andrew Ketcham Barnett]]''
 | 1852
 | 1914
-| [[Chasewater|Chacewater]]
+| [[Dowr an Chas|Chacewater]]
 |-
 |style='text-align:right'| 262
 | [[Restren:John Quick.jpg|center|128px]]
