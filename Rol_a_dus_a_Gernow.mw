@@ -1294,7 +1294,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kernow]]
 |-
 |style='text-align:right'| 171
-| 
+| [[Restren:Victoria Cross Medal without Bar.png|center|128px]]
 | ''[[:d:Q16062737|John Robarts]]''
 | 1818
 | 1888
