@@ -6279,7 +6279,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q6707738|Q6707738]]''
 |-
 |style='text-align:right'| 895
-| [[Restren:Alfred Lewis Jones Statue.jpg|center|128px]]
+| [[Restren:Sir Alfred Lewis Jones statue 2019.jpg|center|128px]]
 | ''[[:d:Q4723069|Alfred Lewis Jones]]''
 | 1845
 | 1909
