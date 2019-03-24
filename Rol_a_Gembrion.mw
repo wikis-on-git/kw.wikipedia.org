@@ -41587,7 +41587,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Karvyrdhin]]
 |-
 |style='text-align:right'| 5939
-| [[Restren:Tyler Morgan.JPG|center|128px]]
+|
 | ''[[:d:Q18045036|Tyler Morgan]]''
 | 1995
 | 
