@@ -1857,7 +1857,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q16198988|Thomas Pascoe]]''
 | 1847
-| 
+| 1938
 | [[Kernow]]
 |-
 |style='text-align:right'| 252
