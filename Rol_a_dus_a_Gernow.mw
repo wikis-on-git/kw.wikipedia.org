@@ -3362,7 +3362,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q5729795|Martin Fido]]''
 | 1939
-| 
+| 2019
 | [[Pennsans]]
 |-
 |style='text-align:right'| 467
