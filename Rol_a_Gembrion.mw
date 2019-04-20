@@ -29267,7 +29267,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Ynys Mon]]
 |-
 |style='text-align:right'| 4179
-| [[Restren:Paula yates.jpg|center|128px]]
+|
 | ''[[:d:Q436394|Paula Yates]]''
 | 1959
 | 2000
