@@ -2071,7 +2071,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q6721364|Lannvab]]''
 |-
 |style='text-align:right'| 282
-| [[Restren:Thomas Henry Davey.jpeg|center|128px]]
+| [[Restren:Thomas Henry Davey (cropped).jpg|center|128px]]
 | ''[[:d:Q7788861|Thomas Davey]]''
 | 1856
 | 1934
