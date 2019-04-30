@@ -402,7 +402,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q2426461|Thomas Pellow]]''
 | 1704
 | 1747
-| [[Kernow]]
+| [[Penrynn]]
 |-
 |style='text-align:right'| 44
 | [[Restren:Jean-Étienne Liotard - Sir William Ponsonby.jpg|center|128px]]
