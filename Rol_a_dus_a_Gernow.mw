@@ -416,7 +416,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q695276|Edward Boscawen]]''
 | 1711
 | 1761
-| [[Aberfala]]
+| ''[[:d:Q3209075|Q3209075]]''
 |-
 |style='text-align:right'| 46
 | 
