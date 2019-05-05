@@ -2183,7 +2183,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kernow]]
 |-
 |style='text-align:right'| 298
-| [[Restren:Josiah Thomas.jpg|center|128px]]
+| [[Restren:Josiah Thomas - Swiss Studios 03 (cropped).jpg|center|128px]]
 | ''[[:d:Q1708668|Josiah Thomas]]''
 | 1863
 | 1933
