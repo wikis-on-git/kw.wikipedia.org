@@ -1339,7 +1339,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Restren:Miss F M Hext 1819-1896.jpg|center|128px]]
 | ''[[:d:Q50059134|Frances Margery Hext]]''
 | 1819
-| 
+| 1896
 | [[Lostwydhyel]]
 |-
 |style='text-align:right'| 178
