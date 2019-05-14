@@ -1,6 +1,6 @@
 {{Boks klassans
-| imach = Plains Zebra Equus quagga.jpg
-| isskrifik_imach= [[Zebra gwastastir]] (''Equus quagga'')
+| imaj = Plains Zebra Equus quagga.jpg
+| isskrifik_imaj= [[Zebra gwastastir]] (''Equus quagga'')
 | regnum = [[Animalia]]
 | phylum = [[Chordata]]
 | classis = [[Mammalia]]
@@ -8,11 +8,17 @@
 | familia = [[Equidae]]
 | genus = ''[[Equus (genws)|Equus]]''
 | subgenus = '''''Hippotigris''''' ha<br>'''''Dolichohippus'''''
-| subdivision_ranks = [[Eghen]]now
-| subdivision =
-''[[Equus zebra]]''<br>
-''[[Equus quagga]]''<br>
-''[[Equus grevyi]]''<br>
+| renk_isrannans = [[Eghen]]now
+| isrannans =
+''[[zebra_menydh|Equus zebra]]''<br>
+''[[zebra an gwastastir|Equus quagga]]''<br>
+''[[zebra Grévy|Equus grevyi]]''<br>
+| mappa_gwandrans = Plains_Zebra_area.png
+| isskrifik_mappa_gwandrans = Gwrandrans an [[zebra gwastastir]] (''Equus quagga'')
+| mappa_gwandrans2 = Equus_zebra.png
+| isskrifik_mappa_gwandrans2 = Gwrandrans an [[zebra menydh]] (''Equus zebra'')
+| mappa_gwandrans3 = Equus_grevyi.png
+| isskrifik_mappa_gwandrans3 = Gwrandrans an [[zebra Grévy]] (''Equus grevyi'')
 }}
 [[Bronnvil]] [[Afrika]]nek y'n teylu ''[[Equidae]]'' yw'r '''zebra'''.
 Best kepar ha [[margh]] yw ha brith gans du ha gwynn.
