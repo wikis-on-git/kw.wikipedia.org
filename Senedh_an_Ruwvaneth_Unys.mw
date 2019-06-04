@@ -5,7 +5,7 @@
 |-
 |bgcolor="#3333CC"|&nbsp; || [[Gwithadoryon]] || 313
 |-
-|bgcolor="#CC0000"|&nbsp; || [[Lavur]] || 246
+|bgcolor="#CC0000"|&nbsp; || [[Lavur]] || 245
 |-
 |bgcolor="#FFFF00"|&nbsp; || [[Parti Kenedhlek Albanek|SNP]] || 35
 |-
@@ -25,6 +25,10 @@
 |-
 |bgcolor="#6AB023"|&nbsp; || [[Parti Gwer|Gwer]] || 1
 |-
+|
+|''Gwag''
+|1
+|-
 ! colspan="2"|'''Sommenn''' !! 650
 |-
 |}
@@ -34,17 +38,17 @@
 ! colspan="2" | Parti
 !Arlydhi
 |-
-| bgcolor="#3333CC" |&nbsp;||[[Gwithadoryon]]|| 249
-|-
-| bgcolor="#CC0000" |&nbsp;||[[Lavur]]|| 186
+| bgcolor="#3333CC" |&nbsp;||[[Gwithadoryon]]|| 243
 |-
 |
 |Formys Treus
-|182
+|183
+|-
+| bgcolor="#CC0000" |&nbsp;||[[Lavur]]|| 182
 |-
 | bgcolor="gold" |&nbsp;||[[Parti Livrel-Werinel|LivWer]]|| 96
 |-
-| bgcolor="white" |&nbsp;|| Anserghogyon || 35
+| bgcolor="white" |&nbsp;|| Anserghogyon || 32
 |-
 |
 |Epskobow
@@ -58,7 +62,7 @@
 |-
 | bgcolor="#6AB023" |&nbsp;||[[Parti Gwer|Gwer]]|| 1
 |-
-| bgcolor="#70147A" |&nbsp;|| PARU || 1
+| bgcolor="#70147A" | || PARU || 1
 |-
 ! colspan="2" |'''Sommenn'''!! 784
 |}
