@@ -1750,7 +1750,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 236
 | 
-| ''[[:d:Q6243979|John Parsons]]''
+| ''[[:d:Q6243979|J. Langdon Parsons]]''
 | 1837
 | 1903
 | [[Lannstefan]]
