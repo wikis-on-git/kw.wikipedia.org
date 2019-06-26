@@ -3346,7 +3346,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 464
 | [[Restren:Jago pic.jpg|center|128px]]
-| ''[[:d:Q17505295|מייק ג'גו]]''
+| ''[[:d:Q17505295|Mike Jago]]''
 | 1938
 | 2006
 | [[Kernow]]
