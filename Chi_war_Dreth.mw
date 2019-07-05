@@ -20,6 +20,21 @@ WHERE
 |columns=number:#,label:Eglwys neu Gymuned,P18:Delwedd,P625:Cyfesurynnau,P131:Lleoliad,item:Wicidata
 |thumb=128
 }}
+{| class='wikitable sortable' style='width:100%'
+!#
+!Eglwys neu Gymuned
+!Delwedd
+!Cyfesurynnau
+!Lleoliad
+!Wicidata
+|-
+|style='text-align:right'| 1
+| Chi war Dreth ha Porth
+| [[Restren:Par Beach - geograph.org.uk - 558792.jpg|center|128px]]
+| {{Coord|50.357|-4.694|display=inline}}
+| Q22338583
+| [[:d:Q1877444|Q1877444]]
+|}
 
 {{Wikidata list end}}
 
