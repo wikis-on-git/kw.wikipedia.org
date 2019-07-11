@@ -10,23 +10,23 @@ Y kasas lies triger an wig rag [[Amerika]] y'n blydhynyow [[1860]]. An poblans a
 SELECT ?item ?coor ?image ?itemLabel
 WHERE
 {
-	?item wdt:P825\u007Cwdt:P138 wd:Q4618153.
+	?item wdt:P825|wdt:P138 wd:Q4618153.
 	OPTIONAL { ?item wdt:P625 ?coor }
 	OPTIONAL { ?item wdt:P18 ?image } 
-  	SERVICE wikibase:label { bd:serviceParam wikibase:language "cy,en" }
+  	SERVICE wikibase:label { bd:serviceParam wikibase:language "kw,cy,en" }
 }
 |links=text
 |sort=label
-|columns=number:#,label:Eglwys neu Gymuned,P18:Delwedd,P625:Cyfesurynnau,P131:Lleoliad,item:Wicidata
+|columns=number:#,label:Pluw Civil,P18:Imach,P625:Kesordenogyon,P131:Le,item:Wikidata
 |thumb=128
 }}
 {| class='wikitable sortable' style='width:100%'
 !#
-!Eglwys neu Gymuned
-!Delwedd
-!Cyfesurynnau
-!Lleoliad
-!Wicidata
+!Pluw Civil
+!Imach
+!Kesordenogyon
+!Le
+!Wikidata
 |-
 |style='text-align:right'| 1
 | Chi war Dreth ha Porth
