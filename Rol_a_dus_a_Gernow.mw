@@ -1330,17 +1330,17 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 176
 | 
+| ''[[:d:Q5496477|Fred W. P. Jago]]''
+| 1817
+| 1911
+| [[Bosvenegh]]
+|-
+|style='text-align:right'| 177
+| 
 | ''[[:d:Q4768074|Anne-Margaretta Burr]]''
 | 1817
 | 1892
 | [[Kernow]]
-|-
-|style='text-align:right'| 177
-| 
-| ''[[:d:Q64846043|Frederick William Pearce Jago]]''
-| 1817
-| 1911
-| [[Bosvenegh]]
 |-
 |style='text-align:right'| 178
 | [[Restren:Victoria Cross Medal without Bar.png|center|128px]]
