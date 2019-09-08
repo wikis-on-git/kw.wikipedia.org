@@ -2670,7 +2670,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q512622|Tom Phillips]]''
 | 1888
 | 1941
-| [[Aberfala]]
+| [[Kastell Penndinas]]
 |-
 |style='text-align:right'| 368
 | 
