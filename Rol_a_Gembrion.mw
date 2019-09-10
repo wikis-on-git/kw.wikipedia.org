@@ -27328,7 +27328,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Betws-y-Coed]]
 |-
 |style='text-align:right'| 3902
-| [[Restren:Julian Lewis at Portcullis House, November 2015.jpeg|center|128px]]
+|
 | ''[[:d:Q749612|Julian Lewis]]''
 | 1951
 | 
