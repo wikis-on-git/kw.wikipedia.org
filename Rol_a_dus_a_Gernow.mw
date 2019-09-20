@@ -2311,7 +2311,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |style='text-align:right'| 316
 | 
 | ''[[:d:Q5901860|Horace Hodges]]''
-| 1863
+| 1865
 | 1951
 | [[Aberfala]]
 |-
