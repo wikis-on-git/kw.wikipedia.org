@@ -5362,117 +5362,124 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 752
 | 
+| ''[[:d:Q21341564|David T. Holyoak]]''
+| 2000
+| 
+| [[Cambron]]
+|-
+|style='text-align:right'| 753
+| 
 | ''[[:d:Q2426862|Thomas Robins]]''
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 753
+|style='text-align:right'| 754
 | 
 | ''[[:d:Q24851434|Alex Quinn]]''
 | 2000
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 754
+|style='text-align:right'| 755
 | 
 | ''[[:d:Q60735219|Michael Peck]]''
 | 2001
 | 
 | [[Bosvenegh]]
 |-
-|style='text-align:right'| 755
+|style='text-align:right'| 756
 | [[Restren:Zoie Palmer, Lost Girl Panel at FanExpo crop.jpg|center|128px]]
 | ''[[:d:Q2451052|Zoie Palmer]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 756
+|style='text-align:right'| 757
 | 
 | ''[[:d:Q7177916|Peter of Cornwall]]''
 | 
 | 1221
 | [[Lannstefan]]
 |-
-|style='text-align:right'| 757
+|style='text-align:right'| 758
 | 
 | ''[[:d:Q17053434|Every Maclean]]''
 | 
 | 1901
 | [[Kernow]]
 |-
-|style='text-align:right'| 758
+|style='text-align:right'| 759
 | 
 | ''[[:d:Q3332419|Chesten Marchant]]''
 | 
 | 1676
 | [[Kernow]]
 |-
-|style='text-align:right'| 759
+|style='text-align:right'| 760
 | 
 | ''[[:d:Q5240165|David Sturzaker]]''
 | 
 | 
 | [[Resrudh]]
 |-
-|style='text-align:right'| 760
+|style='text-align:right'| 761
 | 
 | ''[[:d:Q7794545|Thomas Tregosse]]''
 | 
 | 1670
 | [[Porth Ia]]
 |-
-|style='text-align:right'| 761
+|style='text-align:right'| 762
 | 
 | ''[[:d:Q7823705|Tony Wright]]''
 | 
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 762
+|style='text-align:right'| 763
 | 
 | ''[[:d:Q17984689|Madron]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 763
+|style='text-align:right'| 764
 | 
 | ''[[:d:Q19412412|Tim Saunders]]''
 | 
 | 
 | [[Bosvenegh]]
 |-
-|style='text-align:right'| 764
+|style='text-align:right'| 765
 | [[Restren:Ciudad de lyonesse.jpg|center|128px]]
 | [[Craig Weatherhill]]
 | 
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 765
+|style='text-align:right'| 766
 | 
 | ''[[:d:Q21535216|John Arscott]]''
 | 
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 766
+|style='text-align:right'| 767
 | 
 | ''[[:d:Q25352000|Helen Nash]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 767
+|style='text-align:right'| 768
 | [[Restren:Nnenne Iwuji-Eme.jpg|center|128px]]
 | ''[[:d:Q50886550|NneNne Iwuji-Eme]]''
 | 
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 768
+|style='text-align:right'| 769
 | 
 | ''[[:d:Q53196467|Mynfer ach Brynach]]''
 | 
