@@ -174,7 +174,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kernow]]
 |-
 |style='text-align:right'| 11
-| 
+| [[Restren:MohunArms.png|center|128px]]
 | ''[[:d:Q16844007|Reginald Mohun]]''
 | 1508
 | 1567
@@ -517,7 +517,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Bosvenegh]]
 |-
 |style='text-align:right'| 60
-| [[Restren:Boconnoc Estate3.jpg|center|128px]]
+| [[Restren:Thomas Pitt, Lord Camelford MET DP-15822-165 (cropped).jpg|center|128px]]
 | ''[[:d:Q7793177|Thomas Pitt, 1st Baron Camelford]]''
 | 1737
 | 1793
@@ -1469,7 +1469,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Trevanta]]
 |-
 |style='text-align:right'| 196
-| 
+| [[Restren:JohnHarrisPoet.png|center|128px]]
 | ''[[:d:Q6237967|John Harris]]''
 | 1820
 | 1884
@@ -1945,7 +1945,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Hellys]]
 |-
 |style='text-align:right'| 264
-| 
+| [[Restren:Richard Randall Knuckey, SLSA B-7232.jpg|center|128px]]
 | ''[[:d:Q65659737|Richard Randall Knuckey]]''
 | 1842
 | 1914
