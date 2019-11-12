@@ -1326,7 +1326,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q8016196|William Noye of Paul]]''
 | 1814
 | 1872
-| ''[[:d:Q1002828|Q1002828]]''
+| ''[[:d:Q1002828|Breweni]]''
 |-
 |style='text-align:right'| 176
 | 
@@ -1382,7 +1382,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q16059920|Charles Adolphus Row]]''
 | 1816
 | 1896
-| ''[[:d:Q2384861|Q2384861]]''
+| ''[[:d:Q2384861|S. Jowan]]''
 |-
 |style='text-align:right'| 184
 | 
@@ -1522,7 +1522,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q6252021|John Passmore Edwards]]''
 | 1823
 | 1911
-| ''[[:d:Q4923512|Q4923512]]''
+| ''[[:d:Q4923512|Dowrdu]]''
 |-
 |style='text-align:right'| 204
 | 
@@ -1585,7 +1585,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q5545007|George Symons]]''
 | 1826
 | 1871
-| ''[[:d:Q1900575|Q1900575]]''
+| ''[[:d:Q1900575|Henle Soth]]''
 |-
 |style='text-align:right'| 213
 | 
@@ -2071,7 +2071,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Trevanta]]
 |-
 |style='text-align:right'| 282
-| 
+| [[Restren:Beachy9888.jpg|center|128px]]
 | ''[[:d:Q7792233|Thomas Matthews]]''
 | 1849
 | 1930
@@ -3608,7 +3608,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q4135163|Reg Jenkins]]''
 | 1938
 | 2013
-| ''[[:d:Q2688521|Q2688521]]''
+| ''[[:d:Q2688521|Govermelin]]''
 |-
 |style='text-align:right'| 502
 | 
@@ -4224,7 +4224,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q578272|Sheryll Murray]]''
 | 1956
 | 
-| ''[[:d:Q2688521|Q2688521]]''
+| ''[[:d:Q2688521|Govermelin]]''
 |-
 |style='text-align:right'| 590
 | [[Restren:Rory McGrath IOW cropped.jpg|center|128px]]
