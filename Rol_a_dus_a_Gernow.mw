@@ -1578,7 +1578,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q5665650|Harrison Hayter]]''
 | 1825
 | 1898
-| ''[[:d:Q5462909|Q5462909]]''
+| ''[[:d:Q5462909|Nanskersys]]''
 |-
 |style='text-align:right'| 212
 | [[Restren:Inkermann.jpg|center|128px]]
@@ -1977,7 +1977,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q1494843|Penn Symons]]''
 | 1843
 | 1899
-| ''[[:d:Q5681911|Q5681911]]''
+| ''[[:d:Q5681911|An Hatt]]''
 |-
 |style='text-align:right'| 269
 | 
@@ -3944,7 +3944,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q6266925|Johnny Hore]]''
 | 1947
 | 
-| ''[[:d:Q5477181|Q5477181]]''
+| ''[[:d:Q5477181|Tollowarn]]''
 |-
 |style='text-align:right'| 550
 | 
