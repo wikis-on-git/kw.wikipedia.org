@@ -526,7 +526,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |style='text-align:right'| 61
 | 
 | ''[[:d:Q18592962|Charles Fox]]''
-| 1749
+| 1740
 | 1809
 | [[Aberfala]]
 |-
