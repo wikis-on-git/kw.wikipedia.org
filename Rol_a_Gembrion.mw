@@ -36036,7 +36036,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q23051|Q23051]]''
 |-
 |style='text-align:right'| 5146
-| [[Restren:Matthew graham jones.jpg|center|128px]]
+|
 | ''[[:d:Q3299493|Matt Jones]]''
 | 1980
 | 
