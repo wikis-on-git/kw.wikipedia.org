@@ -625,7 +625,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q6905566|Montfort Browne]]''
 | 1760
-| 
+| 1780
 | ''[[:d:Q7230603|Q7230603]]''
 |-
 |style='text-align:right'| 76
