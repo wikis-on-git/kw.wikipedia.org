@@ -5641,90 +5641,97 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kernow]]
 |-
 |style='text-align:right'| 792
+| [[Restren:Saint-Germain arrivant à Diélette Vitrail Eglise Saint-Germain de Flamanville ERNOUF Annie.JPG|center|128px]]
+| ''[[:d:Q3104158|Germanus of Normandy]]''
+| 
+| 480
+| [[Kernow]]
+|-
+|style='text-align:right'| 793
 | 
 | ''[[:d:Q3332419|Chesten Marchant]]''
 | 
 | 1676
 | [[Kernow]]
 |-
-|style='text-align:right'| 793
+|style='text-align:right'| 794
 | 
 | ''[[:d:Q5240165|David Sturzaker]]''
 | 
 | 
 | [[Resrudh]]
 |-
-|style='text-align:right'| 794
+|style='text-align:right'| 795
 | 
 | ''[[:d:Q7794545|Thomas Tregosse]]''
 | 
 | 1670
 | [[Porth Ia]]
 |-
-|style='text-align:right'| 795
+|style='text-align:right'| 796
 | 
 | ''[[:d:Q7823705|Tony Wright]]''
 | 
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 796
+|style='text-align:right'| 797
 | 
 | ''[[:d:Q16727905|Tamsyn Challenger]]''
 | 
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 797
+|style='text-align:right'| 798
 | 
 | ''[[:d:Q17984689|Madron]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 798
+|style='text-align:right'| 799
 | 
 | ''[[:d:Q19412412|Tim Saunders]]''
 | 
 | 
 | [[Bosvenegh]]
 |-
-|style='text-align:right'| 799
+|style='text-align:right'| 800
 | [[Restren:Ciudad de lyonesse.jpg|center|128px]]
 | [[Craig Weatherhill]]
 | 
 | 
 | [[Pennsans]]
 |-
-|style='text-align:right'| 800
+|style='text-align:right'| 801
 | 
 | ''[[:d:Q21535216|John Arscott]]''
 | 
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 801
+|style='text-align:right'| 802
 | 
 | ''[[:d:Q25352000|Helen Nash]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 802
+|style='text-align:right'| 803
 | [[Restren:Nnenne Iwuji-Eme.jpg|center|128px]]
 | ''[[:d:Q50886550|NneNne Iwuji-Eme]]''
 | 
 | 
 | [[Truru]]
 |-
-|style='text-align:right'| 803
+|style='text-align:right'| 804
 | 
 | ''[[:d:Q53196467|Mynfer ach Brynach]]''
 | 
 | 
 | ''[[:d:Q22338583|Kernow]]''
 |-
-|style='text-align:right'| 804
+|style='text-align:right'| 805
 | 
 | ''[[:d:Q69284821|Philippe Spall]]''
 | 
