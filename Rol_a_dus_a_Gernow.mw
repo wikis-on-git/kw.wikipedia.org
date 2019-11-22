@@ -1637,7 +1637,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kernow]]
 |-
 |style='text-align:right'| 220
-| [[Restren:A Dictionary of Hymnology Vol. 1.pdf|center|128px]]
+| [[Restren:Portrait of John Langdon Down (c 1870) by Sydney Hodges.jpg|center|128px]]
 | ''[[:d:Q315940|John Langdon Down]]''
 | 1828
 | 1896
