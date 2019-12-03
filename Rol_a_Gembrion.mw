@@ -18816,7 +18816,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7975052|Q7975052]]''
 |-
 |style='text-align:right'| 2686
-| [[Restren:Zconcam61.jpg|center|128px]]
+|
 | ''[[:d:Q332759|Francis Pym, Baron Pym]]''
 | 1922
 | 2008
