@@ -44154,3 +44154,5 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |}
 
 {{Wikidata list end}}
+
+[[Klass:Rolyow]]
