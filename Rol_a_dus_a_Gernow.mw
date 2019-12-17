@@ -2897,7 +2897,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Heyl]]
 |-
 |style='text-align:right'| 400
-| 
+| [[Restren:James Fynn portrait B&W.jpg|center|128px]]
 | ''[[:d:Q6134315|James Fynn]]''
 | 1893
 | 1917
