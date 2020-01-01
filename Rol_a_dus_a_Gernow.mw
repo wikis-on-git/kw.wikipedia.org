@@ -125,7 +125,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q22338583|Kernow]]''
 |-
 |style='text-align:right'| 4
-| 
+| [[Restren:Procession des saints de Bretagne - diocèse de Rennes, cathédrale saint Pierre, Rennes, France.jpg|center|128px]]
 | ''[[:d:Q3463997|Melor]]''
 | 524
 | 544
