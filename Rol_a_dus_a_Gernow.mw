@@ -294,7 +294,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 28
 | 
-| ''[[:d:Q25536164|Φερδινάνδος Παλαιολόγος]]''
+| ''[[:d:Q71137627|Ferdinand Palaiologos]]''
 | 1615
 | 1678
 | ''[[:d:Q2704051|Lanndhylyk]]''
