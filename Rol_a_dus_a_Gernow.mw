@@ -601,32 +601,32 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Lannstefan]]
 |-
 |style='text-align:right'| 72
-| 
-| ''[[:d:Q4758801|Andrew Vivian]]''
-| 1759
-| 1842
-| [[Kernow]]
-|-
-|style='text-align:right'| 73
 | [[Restren:Thomas Luny, by Thomas Luny.jpg|center|128px]]
 | ''[[:d:Q1389224|Thomas Luny]]''
 | 1759
 | 1837
 | [[Kernow]]
 |-
-|style='text-align:right'| 74
+|style='text-align:right'| 73
 | 
 | ''[[:d:Q5081579|Charles Penrose]]''
 | 1759
 | 1830
 | [[Penrynn]]
 |-
-|style='text-align:right'| 75
+|style='text-align:right'| 74
 | 
 | ''[[:d:Q6142512|James Ruse]]''
 | 1759
 | 1837
 | [[Lannstefan]]
+|-
+|style='text-align:right'| 75
+| 
+| ''[[:d:Q4758801|Andrew Vivian]]''
+| 1759
+| 1842
+| [[Kernow]]
 |-
 |style='text-align:right'| 76
 | 
