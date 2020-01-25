@@ -2449,7 +2449,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Aberfala]]
 |-
 |style='text-align:right'| 336
-| 
+| [[Restren:Page144 CanadianSingersAndTheirSongs SummersEve.jpg|center|128px]]
 | ''[[:d:Q69888772|Eve Brodlique Summers]]''
 | 1867
 | 1949
