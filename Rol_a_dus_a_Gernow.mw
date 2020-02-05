@@ -275,7 +275,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q1507083|George Carew]]''
 | 1600
-| 1613
+| 1612
 | [[Trevanta]]
 |-
 |style='text-align:right'| 26
