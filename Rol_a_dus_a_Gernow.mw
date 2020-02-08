@@ -3142,7 +3142,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kernow]]
 |-
 |style='text-align:right'| 435
-| [[Restren:Mick Ward.jpg|center|128px]]
+| 
 | ''[[:d:Q1029016|Michael Ward]]''
 | 1909
 | 1997
