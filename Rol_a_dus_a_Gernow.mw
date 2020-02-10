@@ -4675,7 +4675,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Austol]]
 |-
 |style='text-align:right'| 654
-| [[Restren:Official portrait of George Eustice crop 4.jpg|center|128px]]
+| [[Restren:Official portrait of George Eustice crop 2.jpg|center|128px]]
 | ''[[:d:Q303510|George Eustice]]''
 | 1971
 | 
