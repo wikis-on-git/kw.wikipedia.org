@@ -853,7 +853,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kernow]]
 |-
 |style='text-align:right'| 108
-| 
+| [[Restren:John Spargo LCCN2014709598.tif|center|128px]]
 | ''[[:d:Q6258570|John Spargo]]''
 | 1876
 | 1966
