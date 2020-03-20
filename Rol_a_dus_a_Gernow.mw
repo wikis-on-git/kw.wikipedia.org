@@ -1733,6 +1733,13 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | 
 | [[Kernow]]
+|-
+|style='text-align:right'| 234
+| [[Restren:Jacqueline Perkins (diplomat).jpg|center|128px]]
+| ''[[:d:Q85242394|Jacqueline Perkins]]''
+| 
+| 
+| [[Kernow]]
 |}
 
 
