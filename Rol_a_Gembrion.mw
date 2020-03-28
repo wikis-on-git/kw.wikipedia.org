@@ -7399,7 +7399,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | ''[[:d:Q7228316|Q7228316]]''
 |-
 |style='text-align:right'| 1055
-| [[Restren:Hooley.jpg|center|128px]]
+|
 | ''[[:d:Q5337426|Edgar Purnell Hooley]]''
 | 1860
 | 1942
