@@ -1652,7 +1652,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 222
 | [[Restren:Official portrait of Derek Thomas crop 2.jpg|center|128px]]
-| ''[[:d:Q20177497|Derek Thomas]]''
+| [[Derek Thomas]]
 | 1972
 | 
 | [[Kernow]]
