@@ -274,7 +274,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |style='text-align:right'| 25
 | 
 | ''[[:d:Q18592962|Charles Fox]]''
-| 1740
+| 1749
 | 1809
 | [[Aberfala]]
 |-
@@ -1876,26 +1876,33 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |-
 |style='text-align:right'| 254
 | 
-| ''[[:d:Q17984689|Madron]]''
+| ''[[:d:Q3523120|The Tuss]]''
 | 
 | 
 | [[Kernow]]
 |-
 |style='text-align:right'| 255
 | 
-| ''[[:d:Q25352000|Helen Nash]]''
+| ''[[:d:Q17984689|Madron]]''
 | 
 | 
 | [[Kernow]]
 |-
 |style='text-align:right'| 256
 | 
-| ''[[:d:Q69284821|Philippe Spall]]''
+| ''[[:d:Q25352000|Helen Nash]]''
 | 
 | 
 | [[Kernow]]
 |-
 |style='text-align:right'| 257
+| 
+| ''[[:d:Q69284821|Philippe Spall]]''
+| 
+| 
+| [[Kernow]]
+|-
+|style='text-align:right'| 258
 | [[Restren:Jacqueline Perkins (diplomat).jpg|center|128px]]
 | ''[[:d:Q85242394|Jacqueline Perkins]]''
 | 
