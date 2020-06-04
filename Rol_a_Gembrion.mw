@@ -33019,7 +33019,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Pen-y-bont ar Ogwr]]
 |-
 |style='text-align:right'| 4715
-| [[Restren:Julien Macdonald Portrait.jpg|center|128px]]
+|
 | ''[[:d:Q3404358|Julien Macdonald]]''
 | 1971
 | 
