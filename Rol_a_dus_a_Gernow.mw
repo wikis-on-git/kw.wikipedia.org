@@ -1374,7 +1374,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | 
 | ''[[:d:Q7613226|Steve Madge]]''
 | 1948
-| 
+| 2020
 | [[Penntorr]]
 |-
 |style='text-align:right'| 183
