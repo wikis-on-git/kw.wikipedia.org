@@ -37576,7 +37576,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Penarth]]
 |-
 |style='text-align:right'| 5366
-| [[Restren:Jayce Lewis in Moscow 2013.jpg|center|128px]]
+|
 | ''[[:d:Q6167716|Jayce Lewis]]''
 | 1984
 | 
