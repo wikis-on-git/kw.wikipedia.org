@@ -1,6 +1,5 @@
 '''Rudhek''' (''Erithacus rubecula'') yw [[edhen]].
 
-
 {{if then show| {{#invoke:WikidataIB |getLabel |{{wikidata|label|raw}} |fwd=ALL |noicon=y |onlysourced=no |getValue=P1843 |lang=br }}||*[[{{wikidata|label|Q12107}}]]<!--Breizh-->: |}}
 {{if then show| {{#invoke:WikidataIB |getLabel |{{wikidata|label|raw}} |fwd=ALL |noicon=y | |onlysourced=no |getValue=P1843 |lang=cy }}||*[[{{wikidata|label|Q25289}}]]<!--Welsh-->: |}}
 {{if then show| {{#invoke:WikidataIB |getLabel |{{wikidata|label|raw}} |fwd=ALL |noicon=y |onlysourced=no |getValue=P1843 |lang=ga }}||*[[{{wikidata|label|Q9142}}]]<!--Irish / Gaeilge -->: |}}
