@@ -1,3 +1,24 @@
 '''Rudhek''' (''Erithacus rubecula'') yw [[edhen]].
 
+
+{{if then show| {{#invoke:WikidataIB |getLabel |{{wikidata|label|raw}} |fwd=ALL |noicon=y |onlysourced=no |getValue=P1843 |lang=br }}||*[[{{wikidata|label|Q12107}}]]<!--Breizh-->: |}}
+{{if then show| {{#invoke:WikidataIB |getLabel |{{wikidata|label|raw}} |fwd=ALL |noicon=y | |onlysourced=no |getValue=P1843 |lang=cy }}||*[[{{wikidata|label|Q25289}}]]<!--Welsh-->: |}}
+{{if then show| {{#invoke:WikidataIB |getLabel |{{wikidata|label|raw}} |fwd=ALL |noicon=y |onlysourced=no |getValue=P1843 |lang=ga }}||*[[{{wikidata|label|Q9142}}]]<!--Irish / Gaeilge -->: |}}
+{{if then show| {{#invoke:WikidataIB |getLabel |{{wikidata|label|raw}} |fwd=ALL |noicon=y | |onlysourced=no |getValue=P1843 |lang=gv }}||*[[{{wikidata|label|Q12175}}]]<!--Manx-->: |}}
+{{if then show| {{#invoke:WikidataIB |getLabel |{{wikidata|label|raw}} |fwd=ALL |noicon=y | |onlysourced=no |getValue=P1843 |lang=gd }}||*[[{{wikidata|label|Q9314}}]]<!--Sc Gaelic-->: |}}
+
+<!--   Please translate and place a heading below this text: "Other birds in the Turdidae family"  -->
+
+{{Wikidata list
+|sparql=SELECT ?item WHERE { ?item wdt:P105 wd:Q7432. ?item wdt:P171 ?sub0 . ?sub0 (wdt:P171)* wd:Q200989 }
+LIMIT 15
+|sort=label
+|columns=label:rhywogaeth,P225,P18:delwedd
+|row_template=Zutabe formatoa/Familiak
+|thumb=80
+|links=local
+}}
+
+{{Wikidata list end}}
+
 [[Klass:Ydhyn]]
