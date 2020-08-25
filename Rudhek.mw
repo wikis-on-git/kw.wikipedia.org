@@ -1,6 +1,6 @@
 '''Rudhek''' (''Erithacus rubecula'') yw [[edhen]].
 
-<!--   Please translate and place a heading below this text: "Other birds in the Turdidae family"  -->
+<!--   Please translate and place a heading below this text: "Other birds in the Muscicapidae] family"  -->
 
 {{Wikidata list
 |sparql=SELECT ?item WHERE { ?item wdt:P105 wd:Q7432. ?item wdt:P171 ?sub0 . ?sub0 (wdt:P171)* wd:Q200989 }
