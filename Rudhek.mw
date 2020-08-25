@@ -6,7 +6,7 @@
 |sparql=SELECT ?item WHERE { ?item wdt:P105 wd:Q7432. ?item wdt:P171 ?sub0 . ?sub0 (wdt:P171)* wd:Q200989 }
 LIMIT 15
 |sort=label
-|columns=label:rhywogaeth,P225,P18:delwedd
+|columns=label,P225,P18
 |row_template=Zutabe formatoa/Familiak
 |thumb=80
 |links=local
