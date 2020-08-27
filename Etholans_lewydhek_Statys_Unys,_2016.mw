@@ -11,7 +11,7 @@
 | seats_for_election = Pub 538 eseli Kolji Etholoryon
 | majority_seats     = 270
 | turnout            = 55.7% ({{increase}}0.8%)
-<!-- Parti Lavur -->
+<!-- Parti Repoblikanek -->
 | image1             = [[Image:Donald Trump official portrait (cropped).jpg|160x160px|Donald Trump]]
 | candidate1            = [[Donald Trump]]
 | party1             = Parti Repoblikanek
@@ -22,7 +22,7 @@
 | popular_vote1     = 62,984,828
 | percentage1       = 46.1%
 
-<!-- Parti Gwithadorek -->
+<!-- Parti Demokratek -->
 | image2             = [[Image:Hillary Clinton by Gage Skidmore 2.jpg|160x160px|Hillary Clinton]]
 | candidate2         = [[Hillary Clinton]]
 | party2             = Parti Demokratek
@@ -58,7 +58,9 @@ An '''etholans lewydhek Statys Unys 2016''' o an 58ves etholans lewydhek, synsys
 {{bar percent|Johnson (Parti Rydhyasel)|{{Parti Rydhyasel/meta/color}}|3.28}}
 {{bar percent|Stein (Parti Gwyrdh)|{{Parti Gwyrdh (SUA)/meta/color}}|1.07}}
 {{bar percent|Others|#777777|1.38}}
+|float=
 }}
+
 ===Kolji Etholoryon (avel arwostlys)===
 {| style="width:65%; text-align:center"
 |+ ↓
