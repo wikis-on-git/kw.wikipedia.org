@@ -75,7 +75,8 @@ An '''etholans lewydhek Statys Unys 2016''' o an 58ves etholans lewydhek, synsys
 | style="color:{{Parti Repoblikanek/meta/color}}" | '''Trump'''
 
 |}
-<!---{{bar box
+
+{{bar box
 |title=Electoral vote—pledged
 |titlebar=#ddd
 |width=600px
@@ -84,6 +85,8 @@ An '''etholans lewydhek Statys Unys 2016''' o an 58ves etholans lewydhek, synsys
 {{bar percent|'''Trump/Pence'''|{{Parti Repoblikanek/meta/color}}|56.88}}
 {{bar percent|Clinton/Kaine|{{Parti Demokratek/meta/color}}|43.12}}
 }}
+
+===Kolji Etholoryon (vota gwir)===
 {{bar box
 |title=Electoral vote—President
 |titlebar=#ddd
@@ -94,8 +97,8 @@ An '''etholans lewydhek Statys Unys 2016''' o an 58ves etholans lewydhek, synsys
 {{bar percent|Clinton|{{Parti Demokratek/meta/color}}|42.19}}
 {{bar percent|Powell|{{Parti Repoblikanek/meta/color}}|0.56}}
 {{bar percent|Kasich|{{Parti Repoblikanek/meta/color}}|0.19}}
-{{bar percent|Paul|{{Libertarian Party (US)/meta/color}}|0.19}}
-{{bar percent|Sanders|{{Independent (US)/meta/color}}|0.19}}
+{{bar percent|Paul|{{Parti Rydhyasel/meta/color}}|0.19}}
+{{bar percent|[[Bernie Sanders|Sanders]]|#777777|0.19}}
 {{bar percent|Spotted Eagle|{{Parti Demokratek/meta/color}}|0.19}}
 }}
 {{bar box
@@ -106,12 +109,12 @@ An '''etholans lewydhek Statys Unys 2016''' o an 58ves etholans lewydhek, synsys
 |bars=
 {{bar percent|'''Pence'''|{{Parti Repoblikanek/meta/color}}|56.69}}
 {{bar percent|Kaine|{{Parti Demokratek/meta/color}}|42.19}}
-{{bar percent|Warren|{{Parti Demokratek/meta/color}}|0.37}}
+{{bar percent|[[Elizabeth Warren|Warren]]|{{Parti Demokratek/meta/color}}|0.37}}
 {{bar percent|Cantwell|{{Parti Demokratek/meta/color}}|0.19}}
 {{bar percent|Collins |{{Parti Repoblikanek/meta/color}}|0.19}}
 {{bar percent|Fiorina|{{Parti Repoblikanek/meta/color}}|0.19}}
-{{bar percent|LaDuke|{{Green Party (US)/meta/color}}|0.19}}
-}}--->
+{{bar percent|LaDuke|{{Parti Gwyrdh (SUA)/meta/color}}|0.19}}
+}}
 
 ==Devynnow==
 {{Reflist}}
