@@ -11,7 +11,7 @@ SERVICE wikibase:label { bd:serviceParam wikibase:language "kw,cy,en" }
 ORDER BY ASC(?itemLabel)
 |columns=number:#,label:Planet korr possybl,P2233:Pellder a'n Howl (semi-major axis),P18:Imach,item:Wikidata
 |sort=P2233
-|links=text
+|links=red
 |thumb=128
 }}
 {| class='wikitable sortable' style='width:100%'
