@@ -25,10 +25,10 @@ ORDER BY ASC(?semimaj)
 | [[Restren:Ceres RC2 Bright Spot.jpg|center|128px]]
 | [[:d:Q596|Q596]]
 |-
-| [[Eris]]
-| 67.74
-| [[Restren:Eris and dysnomia.jpg|center|128px]]
-| [[:d:Q611|Q611]]
+| [[Plouton (planet korr)|Plouton]]
+| 39.48211675
+| [[Restren:Pluto in True Color - High-Res.jpg|center|128px]]
+| [[:d:Q339|Q339]]
 |-
 | [[Haumea]]
 | 43.28
@@ -40,10 +40,10 @@ ORDER BY ASC(?semimaj)
 | [[Restren:Makemake with moon.png|center|128px]]
 | [[:d:Q604|Q604]]
 |-
-| [[Plouton (planet korr)|Plouton]]
-| 39.48211675
-| [[Restren:Pluto in True Color - High-Res.jpg|center|128px]]
-| [[:d:Q339|Q339]]
+| [[Eris]]
+| 67.74
+| [[Restren:Eris and dysnomia.jpg|center|128px]]
+| [[:d:Q611|Q611]]
 |}
 
 {{Wikidata list end}}
