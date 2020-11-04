@@ -35,7 +35,7 @@ SERVICE wikibase:label { bd:serviceParam wikibase:language "kw,cy,en" }
 }
 ORDER BY ASC(?semimaj)
 |columns=label:Planet,P2233:Pellder a'n Howl (semi-major axis),P18:Imach,item:Wikidata
-|sort=label
+|sort=P2233
 |links=text
 |thumb=128
 }}
