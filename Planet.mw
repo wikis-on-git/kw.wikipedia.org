@@ -34,7 +34,7 @@ FILTER(?semimaj > 0 && ?semimaj < 1000).
 SERVICE wikibase:label { bd:serviceParam wikibase:language "kw,cy,en" }
 }
 ORDER BY ASC(?semimaj)
-|columns=number:#,label:Planet,P2233:Pellder a'n Howl (semi-major axis),P18:Imach,item:Wikidata
+|columns=label:Planet,P2233:Pellder a'n Howl (semi-major axis),P18:Imach,item:Wikidata
 |sort=label
 |links=text
 |thumb=128
@@ -96,6 +96,7 @@ ORDER BY ASC(?semimaj)
 |}
 
 {{Wikidata list end}}
+
 ==Dustuniow==
 {{reflist}}
 {{KUA}}
