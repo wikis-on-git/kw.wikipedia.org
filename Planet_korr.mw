@@ -26,7 +26,7 @@ OPTIONAL{?item wdt:P18 ?pic ;}
 SERVICE wikibase:label { bd:serviceParam wikibase:language "kw,cy,en" }
 }
 ORDER BY ASC(?semimaj)
-|columns=label:Article,description,p131:Place,P580,P582,p625,P18
+|columns=label:Planet korr,P2233:Pellder a'n Howl (semi-major axis),P18:Imach,item:Wikidata
 |sort=label
 |links=red
 |thumb=128
