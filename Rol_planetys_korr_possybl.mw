@@ -28,60 +28,108 @@ ORDER BY ASC(?itemLabel)
 | [[:d:Q4600666|Q4600666]]
 |-
 |style='text-align:right'| 2
-| (119951) 2002 KX14
-| 39.0866463
-| [[Restren:2002KX14-orbit.png|center|128px]]
-| [[:d:Q1951004|Q1951004]]
-|-
-|style='text-align:right'| 3
-| (120348) 2004 TY364
-| 38.7946992
-| 
-| [[:d:Q2584429|Q2584429]]
-|-
-|style='text-align:right'| 4
-| (469372) 2001 QF298
-| 39.4807506
-| 
-| [[:d:Q4029944|Q4029944]]
-|-
-|style='text-align:right'| 5
-| (84922) 2003 VS2
-| 39.248073
-| [[Restren:2003VS2-mag20.jpg|center|128px]]
-| [[:d:Q1953679|Q1953679]]
-|-
-|style='text-align:right'| 6
 | 90482 Orcus
 | 39.1742376
 | [[Restren:Orcus nasa.jpg|center|128px]]
 | [[:d:Q15603|Q15603]]
 |-
+|style='text-align:right'| 3
+| (469372) 2001 QF298
+| 39.4807506
+| 
+| [[:d:Q4029944|Q4029944]]
+|-
+|style='text-align:right'| 4
+| 38628 Huya
+| 39.7634548
+| [[Restren:HuyaDistancetoSunGraph.jpg|center|128px]]
+| [[:d:Q15606|Q15606]]
+|-
+|style='text-align:right'| 5
+| 28978 Ixion
+| 39.7120366
+| [[Restren:ESO asteroid 2001 KX76 phot-27a-01-normal.jpg|center|128px]]
+| [[:d:Q15591|Q15591]]
+|-
+|style='text-align:right'| 6
+| (119951) 2002 KX14
+| 39.0866463
+| [[Restren:2002KX14-orbit.png|center|128px]]
+| [[:d:Q1951004|Q1951004]]
+|-
 |style='text-align:right'| 7
+| (84922) 2003 VS2
+| 39.248073
+| [[Restren:2003VS2-mag20.jpg|center|128px]]
+| [[:d:Q1953679|Q1953679]]
+|-
+|style='text-align:right'| 8
+| (208996) 2003 AZ84
+| 39.2903532
+| [[Restren:2003AZ84-orbit.png|center|128px]]
+| [[:d:Q1944557|Q1944557]]
+|-
+|style='text-align:right'| 9
+| (120348) 2004 TY364
+| 38.7946992
+| 
+| [[:d:Q2584429|Q2584429]]
+|-
+|style='text-align:right'| 10
 | (307261) 2002 MS4
 | 42.0432332
 | [[Restren:2002 MS4 orbit 2018.png|center|128px]]
 | [[:d:Q150802|Q150802]]
 |-
-|style='text-align:right'| 8
+|style='text-align:right'| 11
+| (55637) 2002 UX25
+| 42.5736754
+| [[Restren:20131105 2002 UX25 hst.png|center|128px]]
+| [[:d:Q155539|Q155539]]
+|-
+|style='text-align:right'| 12
+| (24835) 1995 SM55
+| 41.5907058
+| 
+| [[:d:Q1936059|Q1936059]]
+|-
+|style='text-align:right'| 13
+| (90568) 2004 GV9
+| 42.1173046
+| [[Restren:2004-gv9 hst.jpg|center|128px]]
+| [[:d:Q157794|Q157794]]
+|-
+|style='text-align:right'| 14
 | 120347 Salacia
 | 42.0581531
 | [[Restren:Salacia Hubble.png|center|128px]]
 | [[:d:Q136964|Q136964]]
 |-
-|style='text-align:right'| 9
+|style='text-align:right'| 15
+| 20000 Varuna
+| 42.7159477
+| [[Restren:Varuna artistic.png|center|128px]]
+| [[:d:Q15609|Q15609]]
+|-
+|style='text-align:right'| 16
+| (145452) 2005 RN43
+| 41.7557048
+| [[Restren:2005-rn43 hst.jpg|center|128px]]
+| [[:d:Q1944501|Q1944501]]
+|-
+|style='text-align:right'| 17
 | 50000 Quaoar
 | 43.315708645456
 | [[Restren:Quaoar-weywot hst.jpg|center|128px]]
 | [[:d:Q15586|Q15586]]
 |-
-|style='text-align:right'| 10
+|style='text-align:right'| 18
 | 225088 Gonggong
 | 67.4760476
 | [[Restren:2007 OR10 and its moon.png|center|128px]]
 | [[:d:Q6587|Q6587]]
 |-
-|style='text-align:right'| 11
+|style='text-align:right'| 19
 | 90377 Sedna
 | 484.5211488
 | [[Restren:Artist's conception of Sedna.jpg|center|128px]]
