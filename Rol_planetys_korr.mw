@@ -1,3 +1,4 @@
+Rol an [[planet_korr|planetys korr]] yw aswonnys yn sodhogel gans an [[Unyans Stereniethek Keswlasek]].
 {{Wikidata list|sparql=SELECT ?item ?itemLabel ?semimaj ?pic
 WHERE
 {
