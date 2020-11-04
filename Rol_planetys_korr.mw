@@ -1,4 +1,3 @@
-==Rol Wikidata Planetys Korr==
 {{Wikidata list|sparql=SELECT ?item ?itemLabel ?semimaj ?pic
 WHERE
 {
