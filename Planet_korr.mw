@@ -15,7 +15,24 @@ An [[Unyans Steroniethek Keswlasek|USK]] a aswonn pymp planetys korr y'n termyn 
 Gogrysys yw moy ages dew ugens taklennow aswonnys erell yn system howlek yw planetys korr, ha bys dew kans planetys korr yn ranndir gelwys [[grogys Kuiper]]. <ref name="Brown">[http://web.gps.caltech.edu/~mbrown/dwarfplanets/ The Dwarf Planets (Michael E. Brown)]</ref>
 
 Ny wrug klassans korfow haval orth planetys korr yn systemow planettys erell bos prederys. <ref name="Draft Resolution 5">[http://www.iau.org/public_press/news/release/iau0601/ The IAU draft definition of "planet" and "plutons"]</ref>
-
+==Rol Wikidata Planetys Korr==
+{{Wikidata list|sparql=SELECT ?item ?itemLabel ?semimaj ?pic
+WHERE
+{
+?item wdt:P31/wdt:P279* wd:Q2199 ;
+wdt:P397 wd:Q525 ;
+wdt:P2233 ?semimaj ;
+OPTIONAL{?item wdt:P18 ?pic ;}
+SERVICE wikibase:label { bd:serviceParam wikibase:language "kw,cy,en" }
+}
+ORDER BY ASC(?semimaj)
+|columns=label:Article,description,p131:Place,P580,P582,p625,P18
+|sort=label
+|links=red
+|thumb=128
+}}
+... (This will be overwritten by ListeriaBot) ...
+{{Wikidata list end}}
 == Dustuniow ==
 {{reflist|colwidth=45em}}
 {{system howlek}}
