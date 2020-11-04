@@ -12,6 +12,49 @@ ORDER BY ASC(?itemLabel)
 |links=text
 |thumb=128
 }}
-... (This will be overwritten by ListeriaBot) ...
+{| class='wikitable sortable' style='width:100%'
+!#
+!Planet korr possybl
+!Pellder a'n Howl (semi-major axis)
+!Imach
+!Wikidata
+|-
+|style='text-align:right'| 1
+| (307261) 2002 MS4
+| 
+| [[Restren:2002 MS4 orbit 2018.png|center|128px]]
+| [[:d:Q150802|Q150802]]
+|-
+|style='text-align:right'| 2
+| 120347 Salacia
+| 
+| [[Restren:Salacia Hubble.png|center|128px]]
+| [[:d:Q136964|Q136964]]
+|-
+|style='text-align:right'| 3
+| 225088 Gonggong
+| 
+| [[Restren:2007 OR10 and its moon.png|center|128px]]
+| [[:d:Q6587|Q6587]]
+|-
+|style='text-align:right'| 4
+| 50000 Quaoar
+| 43.315708645456
+| [[Restren:Quaoar-weywot hst.jpg|center|128px]]
+| [[:d:Q15586|Q15586]]
+|-
+|style='text-align:right'| 5
+| 90377 Sedna
+| 
+| [[Restren:Artist's conception of Sedna.jpg|center|128px]]
+| [[:d:Q15610|Q15610]]
+|-
+|style='text-align:right'| 6
+| 90482 Orcus
+| 
+| [[Restren:Orcus nasa.jpg|center|128px]]
+| [[:d:Q15603|Q15603]]
+|}
+
 {{Wikidata list end}}
 {{Klass:Astronymyl}}
