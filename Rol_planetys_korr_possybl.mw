@@ -58,16 +58,16 @@ ORDER BY ASC(?itemLabel)
 | [[:d:Q15606|Q15606]]
 |-
 |style='text-align:right'| 7
-| [[(469372) 2001 QF298]]
-| 39.4807506
-| 
-| [[:d:Q4029944|Q4029944]]
-|-
-|style='text-align:right'| 8
 | [[28978 Ixion]]
 | 39.7120366
 | [[Restren:ESO asteroid 2001 KX76 phot-27a-01-normal.jpg|center|128px]]
 | [[:d:Q15591|Q15591]]
+|-
+|style='text-align:right'| 8
+| [[(469372) 2001 QF298]]
+| 39.4807506
+| 
+| [[:d:Q4029944|Q4029944]]
 |-
 |style='text-align:right'| 9
 | [[(84922) 2003 VS2]]
@@ -100,28 +100,28 @@ ORDER BY ASC(?itemLabel)
 | [[:d:Q150802|Q150802]]
 |-
 |style='text-align:right'| 14
-| [[(90568) 2004 GV9]]
-| 42.1173046
-| [[Restren:2004-gv9 hst.jpg|center|128px]]
-| [[:d:Q157794|Q157794]]
-|-
-|style='text-align:right'| 15
 | [[50000 Quaoar]]
 | 43.315708645456
 | [[Restren:Quaoar-weywot hst.jpg|center|128px]]
 | [[:d:Q15586|Q15586]]
 |-
-|style='text-align:right'| 16
-| [[(19308) 1996 TO66]]
-| 43.3456411
-| [[Restren:(19308) 1996 TO66 imaged by NTT cut out.jpg|center|128px]]
-| [[:d:Q8607|Q8607]]
-|-
-|style='text-align:right'| 17
+|style='text-align:right'| 15
 | [[20000 Varuna]]
 | 42.7159477
 | [[Restren:Varuna artistic.png|center|128px]]
 | [[:d:Q15609|Q15609]]
+|-
+|style='text-align:right'| 16
+| [[(90568) 2004 GV9]]
+| 42.1173046
+| [[Restren:2004-gv9 hst.jpg|center|128px]]
+| [[:d:Q157794|Q157794]]
+|-
+|style='text-align:right'| 17
+| [[(19308) 1996 TO66]]
+| 43.3456411
+| [[Restren:(19308) 1996 TO66 imaged by NTT cut out.jpg|center|128px]]
+| [[:d:Q8607|Q8607]]
 |-
 |style='text-align:right'| 18
 | [[(55637) 2002 UX25]]
@@ -130,30 +130,36 @@ ORDER BY ASC(?itemLabel)
 | [[:d:Q155539|Q155539]]
 |-
 |style='text-align:right'| 19
+| [[(469306) 1999 CD158]]
+| 43.4896446
+| 
+| [[:d:Q3398894|Q3398894]]
+|-
+|style='text-align:right'| 20
 | [[(307616) 2003 QW90]]
 | 43.8301104
 | 
 | [[:d:Q4027833|Q4027833]]
 |-
-|style='text-align:right'| 20
+|style='text-align:right'| 21
 | [[(120178) 2003 OP32]]
 | 43.4860022
 | [[Restren:Haumea family orbits.png|center|128px]]
 | [[:d:Q1944739|Q1944739]]
 |-
-|style='text-align:right'| 21
+|style='text-align:right'| 22
 | [[(55636) 2002 TX300]]
 | 43.2697766
 | [[Restren:TX300-2009Nov16-04UT.jpg|center|128px]]
 | [[:d:Q155535|Q155535]]
 |-
-|style='text-align:right'| 22
+|style='text-align:right'| 23
 | [[225088 Gonggong]]
 | 67.4760476
 | [[Restren:2007 OR10 and its moon.png|center|128px]]
 | [[:d:Q6587|Q6587]]
 |-
-|style='text-align:right'| 23
+|style='text-align:right'| 24
 | [[90377 Sedna]]
 | 484.5211488
 | [[Restren:Artist's conception of Sedna.jpg|center|128px]]
