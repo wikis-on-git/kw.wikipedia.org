@@ -14,6 +14,37 @@ ORDER BY ASC(?semimaj)
 |links=red
 |thumb=128
 }}
-... (This will be overwritten by ListeriaBot) ...
+{| class='wikitable sortable' style='width:100%'
+!Planet korr
+!Pellder a'n Howl (semi-major axis)
+!Imach
+!Wikidata
+|-
+| [[Ceres (planet còr)|Ceres]]
+| 2.7679723711437
+| [[Restren:Ceres RC2 Bright Spot.jpg|center|128px]]
+| [[:d:Q596|Q596]]
+|-
+| [[Eris]]
+| 67.74
+| [[Restren:Eris and dysnomia.jpg|center|128px]]
+| [[:d:Q611|Q611]]
+|-
+| [[Haumea]]
+| 43.28
+| [[Restren:Haumea Hubble.png|center|128px]]
+| [[:d:Q601|Q601]]
+|-
+| [[Makemake]]
+| 45.56
+| [[Restren:Makemake with moon.png|center|128px]]
+| [[:d:Q604|Q604]]
+|-
+| [[Plouton (planet korr)|Plouton]]
+| 39.48211675
+| [[Restren:Pluto in True Color - High-Res.jpg|center|128px]]
+| [[:d:Q339|Q339]]
+|}
+
 {{Wikidata list end}}
 [[Klass:Astronomymyl]]
