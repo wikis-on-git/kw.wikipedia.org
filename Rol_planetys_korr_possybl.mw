@@ -1,4 +1,4 @@
-Yma nebes [[planet_korr|planetys korr]] possybl nag yw aswonnys hwath gans an [[Unyans Stereniethek Keswlasek]].
+Yma nebes [[planet_korr|planetys korr]] possybl nag yw aswonnys hwath gans an [[Unyans Stereniethek Keswlasek]]. <ref name="Brown">[http://web.gps.caltech.edu/~mbrown/dwarfplanets/ The Dwarf Planets (Michael E. Brown)]</ref>
 
 {{Wikidata list|sparql=SELECT ?item ?itemLabel ?semimaj ?pic
 WHERE
@@ -59,4 +59,6 @@ ORDER BY ASC(?itemLabel)
 |}
 
 {{Wikidata list end}}
+==Dustuniow==
+<references />
 {{Klass:Astronymyl}}
