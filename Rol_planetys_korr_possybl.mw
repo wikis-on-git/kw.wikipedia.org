@@ -1,5 +1,9 @@
 Yma nebes [[planet_korr|planetys korr]] possybl nag yw aswonnys hwath gans an [[Unyans Stereniethek Keswlasek]]. <ref name="Brown">[http://web.gps.caltech.edu/~mbrown/dwarfplanets/ The Dwarf Planets (Michael E. Brown)]</ref><ref name="Brown2">[http://web.gps.caltech.edu/~mbrown/dps.html#table How many dwarf planets are there in the outer solar system?]</ref>
 
+Planet korr possybl yw neb [[planetik]] yw dybys bos bras lowr dhe vos pel yn shap dre nerth gravedh hy honan. Nyns yw po shap aswonnys yn ta rag lies planetik po braster poran rag planetigow yn grogys Kuiper, le mayth usi an planetys korr possybl. Yn grogys Kuiper an planetigow yw komposys a garrek ha yey, hag ytho braster lowr dhe vos pel yw le ages an huni gans planetik a garrek pur.
+
+Kynth yw moy a blanetigow bras lowr dhe vos pel yn shap hag yllons gelwys [[planet_korr|planetys korr]], nyns yw marnas niver byghan a blanetys korr aswonnys yn sodhogel gans an [[Unyans Stereniethek Keswlasek]]; [[Ceres]], [[Eris]], [[Haumea]], [[Makemake]] ha [[Plouton]].
+
 {{Wikidata list|sparql=SELECT ?item ?itemLabel ?semimaj ?pic
 WHERE
 {
@@ -260,6 +264,8 @@ Yma taklenn 2004 PR107 yn rol gans Prof. Mike Brown<ref name="Brown">[http://web
 Yma taklenn grogys Kuiper [[47171 Lempo]] 1999 TC36 yn rol gans Prof. Mike Brown<ref name="Brown">[http://web.gps.caltech.edu/~mbrown/dwarfplanets/ The Dwarf Planets (Michael E. Brown)]</ref><ref name="Brown2">[http://web.gps.caltech.edu/~mbrown/dps.html#table How many dwarf planets are there in the outer solar system?]</ref> mes lemmyn yth yw aswonnys bos system tryflek a taklennow byghanna, martesen nag yns bras lowr bos pel.
 
 Yma taklenn grogys Kuiper [[79360_Sila–Nunam]] 1997 CS29 yn rol gans Prof. Mike Brown<ref name="Brown">[http://web.gps.caltech.edu/~mbrown/dwarfplanets/ The Dwarf Planets (Michael E. Brown)]</ref><ref name="Brown2">[http://web.gps.caltech.edu/~mbrown/dps.html#table How many dwarf planets are there in the outer solar system?]</ref> mes lemmyn yth yw aswonnys bos system dewblek a taklennow byghanna, martesen nag yns bras lowr bos pel.
+
+{{system howlek}}
 
 ==Dustuniow==
 <references />
