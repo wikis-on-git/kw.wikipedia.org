@@ -80,40 +80,40 @@ ORDER BY ASC(?itemLabel)
 | [[:d:Q15591|Q15591]]
 |-
 |style='text-align:right'| 10
-| [[(208996) 2003 AZ84]]
-| 39.2903532
-| [[Restren:2003AZ84-orbit.png|center|128px]]
-| [[:d:Q1944557|Q1944557]]
-|-
-|style='text-align:right'| 11
 | [[(469372) 2001 QF298]]
 | 39.4807506
 | 
 | [[:d:Q4029944|Q4029944]]
 |-
+|style='text-align:right'| 11
+| [[(208996) 2003 AZ84]]
+| 39.2903532
+| [[Restren:2003AZ84-orbit.png|center|128px]]
+| [[:d:Q1944557|Q1944557]]
+|-
 |style='text-align:right'| 12
-| [[(24835) 1995 SM55]]
-| 41.5907058
-| 
-| [[:d:Q1936059|Q1936059]]
+| [[(55637) 2002 UX25]]
+| 42.5736754
+| [[Restren:20131105 2002 UX25 hst.png|center|128px]]
+| [[:d:Q155539|Q155539]]
 |-
 |style='text-align:right'| 13
+| [[(90568) 2004 GV9]]
+| 42.1173046
+| [[Restren:2004-gv9 hst.jpg|center|128px]]
+| [[:d:Q157794|Q157794]]
+|-
+|style='text-align:right'| 14
 | [[120347 Salacia]]
 | 42.0581531
 | [[Restren:Salacia Hubble.png|center|128px]]
 | [[:d:Q136964|Q136964]]
 |-
-|style='text-align:right'| 14
-| [[(145452) 2005 RN43]]
-| 41.7557048
-| [[Restren:2005-rn43 hst.jpg|center|128px]]
-| [[:d:Q1944501|Q1944501]]
-|-
 |style='text-align:right'| 15
-| [[(90568) 2004 GV9]]
-| 42.1173046
-| [[Restren:2004-gv9 hst.jpg|center|128px]]
-| [[:d:Q157794|Q157794]]
+| [[(24835) 1995 SM55]]
+| 41.5907058
+| 
+| [[:d:Q1936059|Q1936059]]
 |-
 |style='text-align:right'| 16
 | [[(307261) 2002 MS4]]
@@ -122,46 +122,46 @@ ORDER BY ASC(?itemLabel)
 | [[:d:Q150802|Q150802]]
 |-
 |style='text-align:right'| 17
-| [[(19308) 1996 TO66]]
-| 43.3456411
-| [[Restren:(19308) 1996 TO66 imaged by NTT cut out.jpg|center|128px]]
-| [[:d:Q8607|Q8607]]
-|-
-|style='text-align:right'| 18
 | [[20000 Varuna]]
 | 42.7159477
 | [[Restren:Varuna artistic.png|center|128px]]
 | [[:d:Q15609|Q15609]]
 |-
+|style='text-align:right'| 18
+| [[(145452) 2005 RN43]]
+| 41.7557048
+| [[Restren:2005-rn43 hst.jpg|center|128px]]
+| [[:d:Q1944501|Q1944501]]
+|-
 |style='text-align:right'| 19
-| [[(55637) 2002 UX25]]
-| 42.5736754
-| [[Restren:20131105 2002 UX25 hst.png|center|128px]]
-| [[:d:Q155539|Q155539]]
-|-
-|style='text-align:right'| 20
-| [[50000 Quaoar]]
-| 43.315708645456
-| [[Restren:Quaoar-weywot hst.jpg|center|128px]]
-| [[:d:Q15586|Q15586]]
-|-
-|style='text-align:right'| 21
 | [[(55636) 2002 TX300]]
 | 43.2697766
 | [[Restren:TX300-2009Nov16-04UT.jpg|center|128px]]
 | [[:d:Q155535|Q155535]]
 |-
+|style='text-align:right'| 20
+| [[(202421) 2005 UQ513]]
+| 43.3291715
+| [[Restren:2005uq513-20020822.gif|center|128px]]
+| [[:d:Q146939|Q146939]]
+|-
+|style='text-align:right'| 21
+| [[50000 Quaoar]]
+| 43.315708645456
+| [[Restren:Quaoar-weywot hst.jpg|center|128px]]
+| [[:d:Q15586|Q15586]]
+|-
 |style='text-align:right'| 22
+| [[(19308) 1996 TO66]]
+| 43.3456411
+| [[Restren:(19308) 1996 TO66 imaged by NTT cut out.jpg|center|128px]]
+| [[:d:Q8607|Q8607]]
+|-
+|style='text-align:right'| 23
 | [[(523588) 2000 CN105]]
 | 44.408284
 | 
 | [[:d:Q15040484|Q15040484]]
-|-
-|style='text-align:right'| 23
-| [[(469306) 1999 CD158]]
-| 43.4896446
-| 
-| [[:d:Q3398894|Q3398894]]
 |-
 |style='text-align:right'| 24
 | [[(307616) 2003 QW90]]
@@ -170,22 +170,22 @@ ORDER BY ASC(?itemLabel)
 | [[:d:Q4027833|Q4027833]]
 |-
 |style='text-align:right'| 25
+| [[(469306) 1999 CD158]]
+| 43.4896446
+| 
+| [[:d:Q3398894|Q3398894]]
+|-
+|style='text-align:right'| 26
 | [[(120178) 2003 OP32]]
 | 43.4860022
 | [[Restren:Haumea family orbits.png|center|128px]]
 | [[:d:Q1944739|Q1944739]]
 |-
-|style='text-align:right'| 26
-| [[(524435) 2002 CY248]]
-| 46.1165999
-| 
-| [[:d:Q4599819|Q4599819]]
-|-
 |style='text-align:right'| 27
-| [[174567 Varda]]
-| 46.1154283
-| [[Restren:174567 Varda-orbit-2018.png|center|128px]]
-| [[:d:Q143133|Q143133]]
+| [[(119979) 2002 WC19]]
+| 47.5317447
+| [[Restren:2002WC19-orbit.png|center|128px]]
+| [[:d:Q1953642|Q1953642]]
 |-
 |style='text-align:right'| 28
 | [[(307251) 2002 KW14]]
@@ -194,10 +194,10 @@ ORDER BY ASC(?itemLabel)
 | [[:d:Q15040212|Q15040212]]
 |-
 |style='text-align:right'| 29
-| [[(119979) 2002 WC19]]
-| 47.5317447
-| [[Restren:2002WC19-orbit.png|center|128px]]
-| [[:d:Q1953642|Q1953642]]
+| [[174567 Varda]]
+| 46.1154283
+| [[Restren:174567 Varda-orbit-2018.png|center|128px]]
+| [[:d:Q143133|Q143133]]
 |-
 |style='text-align:right'| 30
 | [[(55565) 2002 AW197]]
@@ -206,48 +206,78 @@ ORDER BY ASC(?itemLabel)
 | [[:d:Q155527|Q155527]]
 |-
 |style='text-align:right'| 31
+| [[(524435) 2002 CY248]]
+| 46.1165999
+| 
+| [[:d:Q4599819|Q4599819]]
+|-
+|style='text-align:right'| 32
 | [[(120132) 2003 FY128]]
 | 49.4587674
 | [[Restren:2003fy128-19960410.gif|center|128px]]
 | [[:d:Q2805321|Q2805321]]
 |-
-|style='text-align:right'| 32
+|style='text-align:right'| 33
 | [[(42301) 2001 UR163]]
 | 51.4640885
 | [[Restren:42301-2001ur163 hst.jpg|center|128px]]
 | [[:d:Q2584405|Q2584405]]
 |-
-|style='text-align:right'| 33
+|style='text-align:right'| 34
+| [[(523692) 2014 EZ51]]
+| 52.4666916
+| 
+| [[:d:Q25934870|Q25934870]]
+|-
+|style='text-align:right'| 35
 | [[(84522) 2002 TC302]]
 | 55.0695975
 | [[Restren:TheTransneptunians Size Albedo Color.svg|center|128px]]
 | [[:d:Q116951|Q116951]]
 |-
-|style='text-align:right'| 34
+|style='text-align:right'| 36
 | [[(26375) 1999 DE9]]
 | 55.2322875
 | 
 | [[:d:Q149785|Q149785]]
 |-
-|style='text-align:right'| 35
+|style='text-align:right'| 37
 | [[(82075) 2000 YW134]]
 | 57.4125414
 | 
 | [[:d:Q3325764|Q3325764]]
 |-
-|style='text-align:right'| 36
+|style='text-align:right'| 38
+| [[(532037) 2013 FY27]]
+| 58.7888213
+| [[Restren:2013 FY27.png|center|128px]]
+| [[:d:Q16056004|Q16056004]]
+|-
+|style='text-align:right'| 39
 | [[225088 Gonggong]]
 | 67.4760476
 | [[Restren:2007 OR10 and its moon.png|center|128px]]
 | [[:d:Q6587|Q6587]]
 |-
-|style='text-align:right'| 37
+|style='text-align:right'| 40
+| [[229762 Gǃkúnǁʼhòmdímà]]
+| 72.799581
+| [[Restren:2007 UK126 Hubble.png|center|128px]]
+| [[:d:Q1955755|Q1955755]]
+|-
+|style='text-align:right'| 41
+| [[(523794) 2015 RR245]]
+| 81.30194325787
+| [[Restren:2015 RR245.gif|center|128px]]
+| [[:d:Q24297554|Q24297554]]
+|-
+|style='text-align:right'| 42
 | [[(145451) 2005 RM43]]
 | 90.0200839
 | [[Restren:2005rm43-19761117.gif|center|128px]]
 | [[:d:Q3323791|Q3323791]]
 |-
-|style='text-align:right'| 38
+|style='text-align:right'| 43
 | [[90377 Sedna]]
 | 484.5211488
 | [[Restren:Artist's conception of Sedna.jpg|center|128px]]
