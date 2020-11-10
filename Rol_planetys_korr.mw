@@ -19,32 +19,44 @@ ORDER BY ASC(?semimaj)
 }}
 {| class='wikitable sortable' style='width:100%'
 !Planet korr
+!Niver Kresenn Planet Le
 !Pellder a'n Howl (semi-major axis)
+!Eskresekter
 !Imach
 !Wikidata
 |-
 | [[Ceres (planet còr)|Ceres]]
+| 1
 | 2.7679723711437
+| 0.075782542139633
 | [[Restren:Ceres RC2 Bright Spot.jpg|center|128px]]
 | [[:d:Q596|Q596]]
 |-
 | [[Plouton (planet korr)|Plouton]]
+| 134340
 | 39.48211675
+| 0.24880766
 | [[Restren:Pluto in True Color - High-Res.jpg|center|128px]]
 | [[:d:Q339|Q339]]
 |-
 | [[Haumea]]
+| 136108
 | 43.28
+| 0.19205
 | [[Restren:Haumea Hubble.png|center|128px]]
 | [[:d:Q601|Q601]]
 |-
 | [[Makemake]]
+| 136472
 | 45.56
+| 0.15802
 | [[Restren:Makemake with moon.png|center|128px]]
 | [[:d:Q604|Q604]]
 |-
 | [[Eris]]
+| 136199
 | 67.74
+| 0.43883
 | [[Restren:Eris and dysnomia.jpg|center|128px]]
 | [[:d:Q611|Q611]]
 |}
