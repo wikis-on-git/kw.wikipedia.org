@@ -15,7 +15,7 @@ OPTIONAL{?item wdt:P18 ?pic .}
 SERVICE wikibase:label { bd:serviceParam wikibase:language "kw,cy,en" }
 }
 ORDER BY ASC(?itemLabel)
-|columns=label:Planet korr possybl,P5736:Niver Kresenn Planet Le,P2233:Pellder a'n Howl (semi-major axis),P1096:Eskresekter,P18:Imach,item:Wikidata
+|columns=label:Planet korr possybl,[https://www.minorplanetcenter.net/db_search/show_object?object_id=P5736 P5736]:Niver Kresenn Planet Le,P2233:Pellder a'n Howl (semi-major axis),P1096:Eskresekter,P18:Imach,item:Wikidata
 |sort=P2233
 |links=red
 |thumb=128
