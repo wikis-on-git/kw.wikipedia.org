@@ -1,5 +1,5 @@
 Rol an [[planet_korr|planetys korr]] yw aswonnys yn sodhogel gans an [[Unyans Stereniethek Keswlasek]]. Yma nebes taklennow yw bras lowr dhe bos pel dre gravedh, yw [[planet_korr_possybl|planetys korr possybl]] heb aswonnvos yn sodhogel avel planet korr gans an IAU. <ref name="Brown">[http://web.gps.caltech.edu/~mbrown/dwarfplanets/ The Dwarf Planets (Michael E. Brown)]</ref>
-{{Wikidata list|sparql=SELECT ?item ?itemLabel ?mpc ?semimaj ?eccent ?radius ?pic
+{{Wikidata list|sparql=SELECT ?item ?itemLabel ?mpclink ?semimaj ?eccent ?radius ?pic
 WHERE
 {
 ?item wdt:P31/wdt:P279* wd:Q2199 ;
