@@ -9,7 +9,7 @@ WHERE
 {
 ?item wdt:P31/wdt:P279* wd:Q29370670 .
 OPTIONAL{?item wdt:P5736 ?mpc .}
-BIND(CONCAT(CONCAT(CONCAT(CONCAT("[https://www.minorplanetcenter.net/db_search/show_object?object_id=",?item wdt:P5736), " "),?item wdt:P5736),"]") AS ?mpclink).
+BIND(CONCAT(CONCAT(CONCAT(CONCAT("[https://www.minorplanetcenter.net/db_search/show_object?object_id=",?mpc), " "),?mpc),"]") AS ?mpclink).
 OPTIONAL{?item wdt:P2233 ?semimaj .}
 OPTIONAL{?item wdt:P1096 ?eccent .}
 OPTIONAL{?item wdt:P18 ?pic .}
