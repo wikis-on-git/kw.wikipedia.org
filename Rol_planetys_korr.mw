@@ -7,12 +7,13 @@ wdt:P397 wd:Q525 ;
 wdt:P2233 ?semimaj ;
 OPTIONAL{?item wdt:P18 ?pic ;}
 OPTIONAL{?item wdt:P5736 ?mpc .}
+BIND(CONCAT(CONCAT(CONCAT(CONCAT("[https://www.minorplanetcenter.net/db_search/show_object?object_id=",?mpc), " "),?mpc),"]") AS ?mpclink).
 OPTIONAL{?item wdt:P1096 ?eccent .}
 OPTIONAL{?item wdt:P2120 ?radius .}
 SERVICE wikibase:label { bd:serviceParam wikibase:language "kw,cy,en" }
 }
 ORDER BY ASC(?semimaj)
-|columns=label:Planet korr,P5736:Niver Kresenn Planet Le,P2233:Pellder a'n Howl (semi-major axis),P1096:Eskresekter,P18:Imach,item:Wikidata
+|columns=label:Planet korr,?mpclink:Niver Kresenn Planet Le,P2233:Pellder a'n Howl (semi-major axis),P1096:Eskresekter,P18:Imach,item:Wikidata
 |sort=P2233
 |links=red
 |thumb=128
