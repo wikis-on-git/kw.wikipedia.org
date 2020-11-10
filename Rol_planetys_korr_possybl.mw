@@ -4,16 +4,18 @@ Kynth eus moy a blanetigow bras lowr dhe vos pel yn shap dh'aga gelwel [[planet_
 
 Yma lies [[planet_korr|planet korr]] possybl nag eus aswonnys hwath gans an [[Unyans Stereniethek Keswlasek]] y'n rol a-woles. <ref name="Brown">[http://web.gps.caltech.edu/~mbrown/dwarfplanets/ The Dwarf Planets (Michael E. Brown)]</ref><ref name="Brown2">[http://web.gps.caltech.edu/~mbrown/dps.html#table How many dwarf planets are there in the outer solar system? (Michael E. Brown)]</ref>
 
-{{Wikidata list|sparql=SELECT ?item ?itemLabel ?semimaj ?pic
+{{Wikidata list|sparql=SELECT ?item ?itemLabel ?mpc ?semimaj ?eccent ?pic
 WHERE
 {
 ?item wdt:P31/wdt:P279* wd:Q29370670 .
+OPTIONAL{?item wdt:P5736 ?mpc .}
 OPTIONAL{?item wdt:P2233 ?semimaj .}
+OPTIONAL{?item wdt:P1096 ?eccent .}
 OPTIONAL{?item wdt:P18 ?pic .}
 SERVICE wikibase:label { bd:serviceParam wikibase:language "kw,cy,en" }
 }
 ORDER BY ASC(?itemLabel)
-|columns=number:#,label:Planet korr possybl,P2233:Pellder a'n Howl (semi-major axis),P18:Imach,item:Wikidata
+|columns=number:#,P5736:Niver Kresenn Planet Le,label:Planet korr possybl,P2233:Pellder a'n Howl (semi-major axis),P1096:Eskresekter,P18:Imach,item:Wikidata
 |sort=P2233
 |links=red
 |thumb=128
