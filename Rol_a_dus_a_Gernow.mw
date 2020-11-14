@@ -94,1294 +94,1303 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 |section=31
 |columns=number:#,P18:Imach,label:Hanow,?yob:Dedhyas genesigeth,?yod:Dedhyas mernans,P19:Tyller genesigeth
 }}
+
+
+
 == tus ==
 {| class='wikitable sortable' style='width:100%'
-!#
-!Imach
-!Hanow
-!Dedhyas genesigeth
-!Dedhyas mernans
-!Tyller genesigeth
+! #
+! Imach
+! Hanow
+! Dedhyas genesigeth
+! Dedhyas mernans
+! Tyller genesigeth
 |-
-|style='text-align:right'| 1
-| [[Restren:Köln St.Kunibert561.JPG|center|128px]]
-| ''[[:d:Q445189|Cordula]]''
-| 400
-| 383
-| [[Kernow]]
-|-
-|style='text-align:right'| 2
-| [[Restren:Martyrdom of Saint Ursula, by Hans Memling.jpg|center|128px]]
-| ''[[:d:Q369691|Saint Ursula]]''
-| 400
-| 383
-| [[Kernow]]
-|-
-|style='text-align:right'| 3
-| [[Restren:Eglwys Sant Beuno, St Beuno's Church, Penmorfa, Eifionydd, Gwynedd, Cymru Wales 46.JPG|center|128px]]
-| ''[[:d:Q3399340|Cybi]]''
-| 483
-| 555
-| [[Kernow]]<br/>''[[:d:Q7163120|Q7163120]]''
-|-
-|style='text-align:right'| 4
-| [[Restren:Procession des saints de Bretagne - diocèse de Rennes, cathédrale saint Pierre, Rennes, France.jpg|center|128px]]
-| ''[[:d:Q3463997|Melor]]''
-| 524
-| 544
-| [[Kernow]]
-|-
-|style='text-align:right'| 5
-| [[Restren:Notre-Dame de Rouen.JPG|center|128px]]
-| ''[[:d:Q783357|Walter de Coutances]]''
-| 1101
-| 1207
-| [[Kernow]]
-|-
-|style='text-align:right'| 6
+| style='text-align:right'| 1
+| [[Restren:JaneJohnson.jpg|center|128px|]]
+| ''[[:d:Q95092|Jane Johnson]]''
+| 1960
 | 
-| ''[[:d:Q774154|Michael Tregury]]''
-| 1399
-| 1471
 | [[Kernow]]
 |-
-|style='text-align:right'| 7
-| [[Restren:SirJohnIVArundell OfTrerice Died1561 StrattonChurch Cornwall Detail.PNG|center|128px]]
-| ''[[:d:Q6219534|John Arundell]]''
-| 1495
-| 1561
-| [[Kernow]]
-|-
-|style='text-align:right'| 8
-| 
-| ''[[:d:Q16844007|Reginald Mohun]]''
-| 1508
-| 1567
-| [[Kernow]]
-|-
-|style='text-align:right'| 9
-| 
-| ''[[:d:Q8004978|William Baldwin]]''
-| 1563
-| 1632
-| [[Kernow]]
-|-
-|style='text-align:right'| 10
-| 
-| ''[[:d:Q320344|Francis Tregian the Younger]]''
-| 1574
-| 1617
-| [[Kernow]]
-|-
-|style='text-align:right'| 11
-| [[Restren:Sirjohneliot.jpg|center|128px]]
-| ''[[:d:Q325666|John Eliot]]''
-| 1592
-| 1632
-| ''[[:d:Q7230603|Q7230603]]''
-|-
-|style='text-align:right'| 12
-| 
-| ''[[:d:Q7325480|Richard Eliot]]''
-| 1614
-| 
-| ''[[:d:Q7230603|Q7230603]]''
-|-
-|style='text-align:right'| 13
-| 
-| ''[[:d:Q16153406|James Avery]]''
-| 1620
-| 1700
-| [[Kernow]]
-|-
-|style='text-align:right'| 14
-| [[Restren:John Mayow.jpg|center|128px]]
-| ''[[:d:Q721312|John Mayow]]''
-| 1640
-| 1679
-| [[Kernow]]<br/>''[[:d:Q275863|Q275863]]''
-|-
-|style='text-align:right'| 15
-| 
-| ''[[:d:Q3048472|Edward Byllynge]]''
-| 1650
-| 1687
-| [[Kernow]]
-|-
-|style='text-align:right'| 16
-| [[Restren:Dorothy Pentreath.jpg|center|128px]]
-| [[Dolly Pentreath]]
-| 1692
-| 1777
-| [[Kernow]]
-|-
-|style='text-align:right'| 17
-| [[Restren:Ralph-Allen-NPG-02b.jpg|center|128px]]
-| ''[[:d:Q2917150|Ralph Allen]]''
-| 1693
-| 1764
-| [[Kernow]]
-|-
-|style='text-align:right'| 18
-| [[Restren:William Borlase (1695–1772) cropped.jpg|center|128px]]
-| [[William Borlase]]
-| 1695
-| 1772
-| [[Kernow]]
-|-
-|style='text-align:right'| 19
-| [[Restren:Edward Boscawen by Sir Joshua Reynolds.jpg|center|128px]]
-| ''[[:d:Q695276|Edward Boscawen]]''
-| 1711
-| 1761
-| ''[[:d:Q3209075|Q3209075]]''
-|-
-|style='text-align:right'| 20
-| 
-| ''[[:d:Q53858126|Richard Scaddan]]''
-| 1719
-| 1802
-| [[Kernow]]
-|-
-|style='text-align:right'| 21
-| [[Restren:Admiral Lord Graves, 1st Baron Graves of Gravesend, by Thomas Gainsborough.jpg|center|128px]]
-| ''[[:d:Q334087|Thomas Graves, 1st Baron Graves]]''
-| 1725
-| 1802
-| [[Kernow]]
-|-
-|style='text-align:right'| 22
-| [[Restren:Guilherme Stephens.png|center|128px]]
-| ''[[:d:Q8018787|William Stephens]]''
-| 1731
-| 1803
-| [[Kernow]]
-|-
-|style='text-align:right'| 23
-| [[Restren:Richard & Harriot Eliot, and all their Children, with Mrs. Goldsworthy & the Hon Captn. J. Hamilton by Sir Joshua Reynolds.jpg|center|128px]]
-| ''[[:d:Q6231581|John Eliot]]''
-| 1742
-| 1769
-| ''[[:d:Q7230603|Q7230603]]''
-|-
-|style='text-align:right'| 24
-| [[Restren:Thomas Luny, by Thomas Luny.jpg|center|128px]]
-| ''[[:d:Q1389224|Thomas Luny]]''
-| 1759
-| 1837
-| [[Kernow]]
-|-
-|style='text-align:right'| 25
-| 
-| ''[[:d:Q4758801|Andrew Vivian]]''
-| 1759
-| 1842
-| [[Kernow]]
-|-
-|style='text-align:right'| 26
-| 
-| ''[[:d:Q6905566|Montfort Browne]]''
-| 1760
-| 1780
-| ''[[:d:Q7230603|Q7230603]]''
-|-
-|style='text-align:right'| 27
-| 
-| ''[[:d:Q498817|William Gregor]]''
-| 1761
-| 1817
-| [[Kernow]]
-|-
-|style='text-align:right'| 28
-| [[Restren:Charles incledon.jpg|center|128px]]
-| ''[[:d:Q4201127|Charles Incledon]]''
-| 1763
-| 1826
-| [[Kernow]]
-|-
-|style='text-align:right'| 29
-| [[Restren:Trevithick Richard Linnell.jpg|center|128px]]
-| [[Richard Trevithick]]
-| 1771
-| 1833
-| ''[[:d:Q7837824|Q7837824]]''
-|-
-|style='text-align:right'| 30
-| 
-| ''[[:d:Q7076843|Octavius Temple]]''
-| 1784
-| 1834
-| [[Kernow]]
-|-
-|style='text-align:right'| 31
-| 
-| ''[[:d:Q18674037|Joseph Tregelles Price]]''
-| 1784
-| 1854
-| [[Kernow]]
-|-
-|style='text-align:right'| 32
-| 
-| ''[[:d:Q5201144|Cyrus Redding]]''
-| 1785
-| 1870
-| [[Kernow]]
-|-
-|style='text-align:right'| 33
-| 
-| ''[[:d:Q4888382|Benjamin Carvosso]]''
-| 1789
-| 1854
-| ''[[:d:Q5572506|Q5572506]]''
-|-
-|style='text-align:right'| 34
-| 
-| ''[[:d:Q7184501|Philip VanKoughnet]]''
-| 1790
-| 1873
-| [[Kernow]]
-|-
-|style='text-align:right'| 35
-| 
-| ''[[:d:Q5357269|Richard Charlton]]''
-| 1791
-| 1852
-| [[Kernow]]
-|-
-|style='text-align:right'| 36
-| [[Restren:Goldsworthy Gurney - PD-OLD.jpg|center|128px]]
-| ''[[:d:Q458154|Goldsworthy Gurney]]''
-| 1793
-| 1875
-| [[Lannwedhenek]]<br/>''[[:d:Q7836916|Q7836916]]''
-|-
-|style='text-align:right'| 37
-| [[Restren:WilliamLovettYoung.jpg|center|128px]]
-| ''[[:d:Q345932|William Lovett]]''
-| 1800
-| 1877
-| [[Lulynn]]
-|-
-|style='text-align:right'| 38
-| 
-| ''[[:d:Q7141840|Pascoe Grenfell Hill]]''
-| 1804
-| 1882
-| [[Kernow]]
-|-
-|style='text-align:right'| 39
-| 
-| ''[[:d:Q951355|George Jerrard]]''
-| 1804
-| 1863
-| [[Kernow]]
-|-
-|style='text-align:right'| 40
-| 
-| ''[[:d:Q7526784|Sir Frederick Hervey-Bathurst, 3rd Baronet]]''
-| 1807
-| 1881
-| [[Syllan]]
-|-
-|style='text-align:right'| 41
-| 
-| ''[[:d:Q64482060|James Wallis]]''
-| 1809
-| 1864
-| [[Kernow]]
-|-
-|style='text-align:right'| 42
-| 
-| ''[[:d:Q2579760|William Lobb]]''
-| 1809
-| 1864
-| [[Kernow]]
-|-
-|style='text-align:right'| 43
-| 
-| ''[[:d:Q3328341|John Davey]]''
-| 1812
-| 1891
-| [[Kernow]]
-|-
-|style='text-align:right'| 44
-| 
-| ''[[:d:Q52693467|James Buller]]''
-| 1812
-| 1884
-| [[Kernow]]
-|-
-|style='text-align:right'| 45
-| [[Restren:Stephen Henry Thomas.jpg|center|128px]]
-| ''[[:d:Q33104288|Stephen Henry Thomas]]''
-| 1813
-| 1869
-| [[Kernow]]
-|-
-|style='text-align:right'| 46
-| 
-| ''[[:d:Q4768074|Anne-Margaretta Burr]]''
-| 1817
-| 1892
-| [[Kernow]]
-|-
-|style='text-align:right'| 47
-| [[Restren:JohnHarrisPoet.png|center|128px]]
-| ''[[:d:Q6237967|John Harris]]''
-| 1820
-| 1884
-| ''[[:d:Q4939174|Q4939174]]''
-|-
-|style='text-align:right'| 48
-| [[Restren:Joseph Read ca.1870-90.jpeg|center|128px]]
-| ''[[:d:Q6286523|Joseph Reed]]''
-| 1823
-| 1890
-| [[Kernow]]
-|-
-|style='text-align:right'| 49
-| 
-| ''[[:d:Q15070079|Henry Pering Pellew Crease]]''
-| 1823
-| 1905
-| [[Kernow]]
-|-
-|style='text-align:right'| 50
-| 
-| ''[[:d:Q5006877|C. T. Bate]]''
-| 1825
-| 1889
-| [[Kernow]]
-|-
-|style='text-align:right'| 51
-| 
-| ''[[:d:Q23715171|Josiah Francis]]''
-| 1825
-| 1891
-| ''[[:d:Q7592455|Q7592455]]''
-|-
-|style='text-align:right'| 52
-| 
-| ''[[:d:Q21069609|George Pearce]]''
-| 1826
-| 1908
-| [[Kernow]]
-|-
-|style='text-align:right'| 53
-| [[Restren:Thomas Hodge oval picture-c. 1858.png|center|128px]]
-| ''[[:d:Q21664535|Thomas Hodge]]''
-| 1827
-| 1907
-| [[Kernow]]
-|-
-|style='text-align:right'| 54
-| [[Restren:Moondyne Joe.jpg|center|128px]]
-| ''[[:d:Q6907724|Moondyne Joe]]''
-| 1827
-| 1900
-| [[Kernow]]
-|-
-|style='text-align:right'| 55
-| [[Restren:John Westlake by Marianne Stokes.jpg|center|128px]]
-| ''[[:d:Q1314430|John Westlake]]''
-| 1828
-| 1913
-| [[Kernow]]
-|-
-|style='text-align:right'| 56
-| 
-| ''[[:d:Q30004757|John Jenkins Deason]]''
-| 1829
-| 1915
-| [[Ynys Skaw]]
-|-
-|style='text-align:right'| 57
-| [[Restren:John Teague.png|center|128px]]
-| ''[[:d:Q1701904|John Teague]]''
-| 1833
-| 1902
-| [[Kernow]]
-|-
-|style='text-align:right'| 58
-| 
-| ''[[:d:Q65115304|James Martyn Nicholas]]''
-| 1833
-| 1916
-| [[Kernow]]
-|-
-|style='text-align:right'| 59
-| [[Restren:Samuel Mitchell HOFWA.jpg|center|128px]]
-| ''[[:d:Q24845830|Samuel Mitchell]]''
-| 1838
-| 1912
-| [[Kernow]]
-|-
-|style='text-align:right'| 60
-| 
-| ''[[:d:Q6242304|John Joyce]]''
-| 1839
-| 1899
-| [[Kernow]]
-|-
-|style='text-align:right'| 61
-| 
-| ''[[:d:Q13035083|John Baragwanath]]''
-| 1839
-| 1928
-| [[Kernow]]
-|-
-|style='text-align:right'| 62
-| 
-| ''[[:d:Q18009182|James Surtees Phillpotts]]''
-| 1839
-| 1930
-| [[Kernow]]
-|-
-|style='text-align:right'| 63
-| [[Restren:Penn Symons.jpg|center|128px]]
-| ''[[:d:Q1494843|Penn Symons]]''
-| 1843
-| 1899
-| ''[[:d:Q5681911|An Hatt]]''
-|-
-|style='text-align:right'| 64
-| 
-| ''[[:d:Q7412216|Samuel Morcom]]''
-| 1847
-| 1888
-| [[Kernow]]
-|-
-|style='text-align:right'| 65
-| 
-| ''[[:d:Q16198988|Thomas Pascoe]]''
-| 1847
-| 1938
-| [[Kernow]]
-|-
-|style='text-align:right'| 66
-| [[Restren:Henry Jenner, MA FSA.jpg|center|128px]]
-| [[Henry Jenner]]
-| 1848
-| 1934
-| [[Kernow]]
-|-
-|style='text-align:right'| 67
-| 
-| ''[[:d:Q76466072|Caroline Agnes Leane]]''
-| 1849
-| 1892
-| [[Kernow]]
-|-
-|style='text-align:right'| 68
-| 
-| ''[[:d:Q767901|Thomas Bridges Hughes]]''
-| 1851
-| 1940
-| [[Kernow]]
-|-
-|style='text-align:right'| 69
-| 
-| ''[[:d:Q8007766|William Dennis]]''
-| 1856
-| 1920
-| [[Kernow]]
-|-
-|style='text-align:right'| 70
-| 
-| ''[[:d:Q7182268|Phil Penna]]''
-| 1857
-| 1939
-| ''[[:d:Q7367603|Q7367603]]''
-|-
-|style='text-align:right'| 71
-| [[Restren:BobbyLeachNiagaraFalls.jpg|center|128px]]
-| ''[[:d:Q4264393|Bobby Leach]]''
-| 1858
-| 1926
-| [[Kernow]]
-|-
-|style='text-align:right'| 72
-| [[Restren:Thomas-Ball-Barratt-16year.jpg|center|128px]]
-| ''[[:d:Q628369|Thomas Ball Barratt]]''
-| 1862
-| 1940
-| [[Kernow]]
-|-
-|style='text-align:right'| 73
-| 
-| ''[[:d:Q7348297|Robert Parkyn]]''
-| 1862
-| 1939
-| [[Kernow]]
-|-
-|style='text-align:right'| 74
-| 
-| ''[[:d:Q6140982|James Pascoe]]''
-| 1863
-| 1931
-| [[Kernow]]
-|-
-|style='text-align:right'| 75
-| [[Restren:Page144 CanadianSingersAndTheirSongs SummersEve.jpg|center|128px]]
-| ''[[:d:Q69888772|Eve Brodlique Summers]]''
-| 1867
-| 1949
-| [[Kernow]]
-|-
-|style='text-align:right'| 76
-| 
-| ''[[:d:Q93704930|Chambre Corker Vigurs]]''
-| 1867
-| 1940
-| [[Lulynn]]
-|-
-|style='text-align:right'| 77
-| [[Restren:John Spargo LCCN2014709598.tif|center|128px]]
-| ''[[:d:Q6258570|John Spargo]]''
-| 1876
-| 1966
-| [[Kernow]]
-|-
-|style='text-align:right'| 78
-| 
-| ''[[:d:Q370604|Percy Clifford]]''
-| 1877
-| 1942
-| [[Kernow]]
-|-
-|style='text-align:right'| 79
-| 
-| ''[[:d:Q325565|Lionel Martin]]''
-| 1878
-| 1945
-| [[Kernow]]
-|-
-|style='text-align:right'| 80
-| [[Restren:Reginald John Marsden Parker.jpg|center|128px]]
-| ''[[:d:Q2137997|Reginald John Marsden Parker]]''
-| 1881
-| 1948
-| [[Kernow]]
-|-
-|style='text-align:right'| 81
-| 
-| ''[[:d:Q15994279|Fernley H. Banbury]]''
-| 1881
-| 1963
-| [[Kernow]]
-|-
-|style='text-align:right'| 82
-| [[Restren:Photo of Robert Hichens crew member on RMS Titanic.jpg|center|128px]]
-| ''[[:d:Q456597|Robert Hichens]]''
-| 1882
-| 1940
-| [[Kernow]]
-|-
-|style='text-align:right'| 83
-| 
-| ''[[:d:Q18507221|Gladys Gordon Trenery]]''
-| 1885
-| 1938
-| [[Kernow]]
-|-
-|style='text-align:right'| 84
-| 
-| ''[[:d:Q19726145|Mary Jewels]]''
-| 1886
-| 1977
-| [[Lulynn]]
-|-
-|style='text-align:right'| 85
-| 
-| ''[[:d:Q21464371|Gertrude Harvey]]''
-| 1889
-| 1966
-| [[Kernow]]
-|-
-|style='text-align:right'| 86
-| 
-| ''[[:d:Q8005650|William Bloye]]''
-| 1890
-| 1975
-| [[Kernow]]
-|-
-|style='text-align:right'| 87
-| 
-| ''[[:d:Q3696042|Coulton Waugh]]''
-| 1896
-| 1973
-| [[Kernow]]
-|-
-|style='text-align:right'| 88
-| [[Restren:Sir Henry Gurney.gif|center|128px]]
-| ''[[:d:Q2918377|Henry Gurney]]''
-| 1898
-| 1951
-| ''[[:d:Q2095543|Q2095543]]''
-|-
-|style='text-align:right'| 89
-| 
-| ''[[:d:Q7343422|Robert Davies]]''
-| 1900
-| 1975
-| [[Lulynn]]
-|-
-|style='text-align:right'| 90
-| 
-| ''[[:d:Q6483647|Lancelot Stephen Bosanquet]]''
-| 1903
-| 1984
-| [[Kernow]]
-|-
-|style='text-align:right'| 91
-| 
-| ''[[:d:Q5081970|Charles Reep]]''
-| 1904
-| 2002
-| [[Kernow]]
-|-
-|style='text-align:right'| 92
-| [[Restren:Sculpture at Winnipeg Convention Centre 1.jpg|center|128px]]
-| ''[[:d:Q87831256|Cecil Clarence Richards]]''
-| 1907
-| 1981
-| [[Kernow]]
-|-
-|style='text-align:right'| 93
-| [[Restren:Cecil williams ubrax library collection.png|center|128px]]
+| style='text-align:right'| 2
+| [[Restren:Cecil williams ubrax library collection.png|center|128px|]]
 | ''[[:d:Q183409|Cecil Williams]]''
 | 1909
 | 1979
 | [[Kernow]]
 |-
-|style='text-align:right'| 94
+| style='text-align:right'| 3
+| [[Restren:Jason Dawe - Herts Air Ambulance.jpg|center|128px|]]
+| ''[[:d:Q186371|Jason Dawe]]''
+| 1967
 | 
-| ''[[:d:Q6233569|John Foot, Baron Foot]]''
-| 1909
-| 1999
 | [[Kernow]]
 |-
-|style='text-align:right'| 95
-| 
-| ''[[:d:Q1029016|Michael Ward]]''
-| 1909
-| 1997
-| ''[[:d:Q5044151|Q5044151]]''
+| style='text-align:right'| 4
+| [[Restren:Trevithick Richard Linnell.jpg|center|128px|]]
+| [[Richard Trevithick]]
+| 1771
+| 1833
+| ''[[:d:Q7837824|Tregajorran]]''
 |-
-|style='text-align:right'| 96
+| style='text-align:right'| 5
+| 
+| ''[[:d:Q320344|Francis Tregian the Younger]]''
+| 1574
+| 1617<br/>1619
+| [[Kernow]]
+|-
+| style='text-align:right'| 6
 | 
 | ''[[:d:Q322565|Ian Donald]]''
 | 1910
 | 1987
 | [[Kernow]]
 |-
-|style='text-align:right'| 97
+| style='text-align:right'| 7
+| 
+| ''[[:d:Q325565|Lionel Martin]]''
+| 1878
+| 1945
+| [[Kernow]]
+|-
+| style='text-align:right'| 8
+| [[Restren:Sirjohneliot.jpg|center|128px|]]
+| ''[[:d:Q325666|John Eliot]]''
+| 1592
+| 1632
+| ''[[:d:Q7230603|Port Eliot]]''
+|-
+| style='text-align:right'| 9
+| [[Restren:Admiral Lord Graves, 1st Baron Graves of Gravesend, by Thomas Gainsborough.jpg|center|128px|]]
+| ''[[:d:Q334087|Thomas Graves, 1st Baron Graves]]''
+| 1725
+| 1802
+| [[Kernow]]
+|-
+| style='text-align:right'| 10
+| [[Restren:WilliamLovettYoung.jpg|center|128px|]]
+| ''[[:d:Q345932|William Lovett]]''
+| 1800
+| 1877
+| [[Lulynn]]
+|-
+| style='text-align:right'| 11
 | 
 | ''[[:d:Q353144|Robert Payne]]''
 | 1911
 | 1983
 | [[Kernow]]
 |-
-|style='text-align:right'| 98
-| 
-| ''[[:d:Q5163587|Constance Stuart Larrabee]]''
-| 1914
-| 2000
+| style='text-align:right'| 12
+| [[Restren:Martyrdom of Saint Ursula, by Hans Memling.jpg|center|128px|]]<br/>[[Restren:Hans Memling 075.jpg|center|128px|]]
+| ''[[:d:Q369691|Saint Ursula]]''
+| 400
+| 383
 | [[Kernow]]
 |-
-|style='text-align:right'| 99
+| style='text-align:right'| 13
 | 
-| ''[[:d:Q5607581|Gresham Kirkby]]''
-| 1916
-| 2006
-| [[Kernow]]
-|-
-|style='text-align:right'| 100
-| 
-| ''[[:d:Q98681707|Molly Izzard]]''
-| 1919
-| 2004
-| [[Kernow]]
-|-
-|style='text-align:right'| 101
-| 
-| ''[[:d:Q7342224|Robert Boscawen]]''
-| 1923
-| 2013
-| [[Kernow]]
-|-
-|style='text-align:right'| 102
-| 
-| ''[[:d:Q15921159|Stella Turk]]''
-| 1925
-| 2017
-| [[Syllan]]
-|-
-|style='text-align:right'| 103
-| 
-| ''[[:d:Q6849050|Mike Tiddy]]''
-| 1929
-| 2009
-| ''[[:d:Q950388|Q950388]]''
-|-
-|style='text-align:right'| 104
-| 
-| ''[[:d:Q21389154|Walter Gerard Tremewan]]''
-| 1931
-| 2016
-| [[Kernow]]
-|-
-|style='text-align:right'| 105
-| 
-| ''[[:d:Q69337592|Valentine Robert Duff Abdy]]''
-| 1937
-| 2012
-| [[Kernow]]
-|-
-|style='text-align:right'| 106
-| [[Restren:Jago pic.jpg|center|128px]]
-| ''[[:d:Q17505295|Mike Jago]]''
-| 1938
-| 2006
-| [[Kernow]]
-|-
-|style='text-align:right'| 107
-| 
-| ''[[:d:Q7357952|Roger Caron]]''
-| 1938
-| 2012
-| [[Kernow]]
-|-
-|style='text-align:right'| 108
-| [[Restren:Professor Jean Golding OBE (cropped).jpg|center|128px]]
-| ''[[:d:Q21598164|Jean Golding]]''
-| 1939
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 109
-| 
-| ''[[:d:Q3376925|Peter Tom]]''
-| 1940
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 110
-| 
-| ''[[:d:Q15524517|John Banham]]''
-| 1940
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 111
-| [[Restren:Michael Hartland.jpg|center|128px]]
-| ''[[:d:Q58077347|Michael Hartland]]''
-| 1941
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 112
-| 
-| ''[[:d:Q4962909|Brian 'Stack' Stevens]]''
-| 1941
-| 2017
-| ''[[:d:Q5576779|Q5576779]]''
-|-
-|style='text-align:right'| 113
-| 
-| ''[[:d:Q17426182|Lis Rhodes]]''
+| ''[[:d:Q370604|Percy Clifford]]''
+| 1877
 | 1942
+| [[Kernow]]
+|-
+| style='text-align:right'| 14
+| [[Restren:Köln St.Kunibert561.JPG|center|128px|]]
+| ''[[:d:Q445189|Cordula]]''
+| 400
+| 383
+| [[Kernow]]
+|-
+| style='text-align:right'| 15
+| [[Restren:William Borlase (1695–1772) cropped.jpg|center|128px|]]
+| [[William Borlase]]
+| 1695
+| 1772
+| [[Kernow]]
+|-
+| style='text-align:right'| 16
+| [[Restren:Photo of Robert Hichens crew member on RMS Titanic.jpg|center|128px|]]
+| ''[[:d:Q456597|Robert Hichens]]''
+| 1882
+| 1940
+| [[Kernow]]
+|-
+| style='text-align:right'| 17
+| [[Restren:Goldsworthy Gurney - PD-OLD.jpg|center|128px|]]
+| ''[[:d:Q458154|Goldsworthy Gurney]]''
+| 1793
+| 1875
+| [[Lannwedhenek]]<br/>''[[:d:Q7836916|Treator]]''
+|-
+| style='text-align:right'| 18
+| 
+| ''[[:d:Q498817|William Gregor]]''
+| 1761
+| 1817
+| [[Kernow]]
+|-
+| style='text-align:right'| 19
+| [[Restren:Official portrait of Mr Mark Prisk crop 2.jpg|center|128px|]]
+| ''[[:d:Q575205|Mark Prisk]]''
+| 1962
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 114
-| 
-| ''[[:d:Q3275020|Michael Craze]]''
-| 1942
-| 1998
+| style='text-align:right'| 20
+| [[Restren:Thomas-Ball-Barratt-16year.jpg|center|128px|]]
+| ''[[:d:Q628369|Thomas Ball Barratt]]''
+| 1862
+| 1940
 | [[Kernow]]
 |-
-|style='text-align:right'| 115
+| style='text-align:right'| 21
+| [[Restren:Edward Boscawen by Sir Joshua Reynolds.jpg|center|128px|]]
+| ''[[:d:Q695276|Edward Boscawen]]''
+| 1711
+| 1761
+| ''[[:d:Q3209075|Tregothnan]]''
+|-
+| style='text-align:right'| 22
+| [[Restren:John Mayow.jpg|center|128px|]]
+| ''[[:d:Q721312|John Mayow]]''
+| 1640
+| 1679
+| [[Kernow]]<br/>''[[:d:Q275863|Bree]]''
+|-
+| style='text-align:right'| 23
 | 
-| ''[[:d:Q60370441|Adrian Hall]]''
-| 1943
+| ''[[:d:Q767901|Thomas Bridges Hughes]]''
+| 1851
+| 1940
+| [[Kernow]]
+|-
+| style='text-align:right'| 24
+| 
+| ''[[:d:Q774154|Michael Tregury]]''
+| 1399
+| 1471
+| [[Kernow]]
+|-
+| style='text-align:right'| 25
+| [[Restren:Notre-Dame de Rouen.JPG|center|128px|]]
+| ''[[:d:Q783357|Walter de Coutances]]''
+| 1101
+| 1207
+| [[Kernow]]
+|-
+| style='text-align:right'| 26
+| [[Restren:Frank Lloyd.jpg|center|128px|]]
+| ''[[:d:Q895500|Frank Lloyd]]''
+| 1952
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 116
-| [[Restren:MalcolmPhilipAtkinson.jpg|center|128px]]
-| ''[[:d:Q6742172|Malcolm Atkinson]]''
-| 1943
+| style='text-align:right'| 27
+| 
+| ''[[:d:Q951355|George Jerrard]]''
+| 1804
+| 1863
+| [[Kernow]]
+|-
+| style='text-align:right'| 28
+| 
+| ''[[:d:Q1029016|Michael Ward]]''
+| 1909
+| 1997
+| ''[[:d:Q5044151|Carnmenellis]]''
+|-
+| style='text-align:right'| 29
+| [[Restren:Charlie Winston - Festival Chorus des Hauts de Seine 2012.JPG|center|128px|]]
+| ''[[:d:Q1067045|Charlie Winston]]''
+| 1978
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 117
-| 
-| ''[[:d:Q96959551|Dorothy Hogg]]''
-| 1945
-| 
-| ''[[:d:Q7845529|Q7845529]]''
-|-
-|style='text-align:right'| 118
-| 
-| ''[[:d:Q3372327|Paul Turner]]''
-| 1945
-| 2019
-| [[Kernow]]
-|-
-|style='text-align:right'| 119
-| 
-| ''[[:d:Q4685386|Adrian Thomas]]''
-| 1947
+| style='text-align:right'| 30
+| [[Restren:Edward St Aubyn in 2007.jpg|center|128px|]]
+| ''[[:d:Q1293722|Edward St Aubyn]]''
+| 1960
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 120
+| style='text-align:right'| 31
+| [[Restren:John Westlake by Marianne Stokes.jpg|center|128px|]]
+| ''[[:d:Q1314430|John Westlake]]''
+| 1828
+| 1913
+| [[Kernow]]
+|-
+| style='text-align:right'| 32
+| [[Restren:Thomas Luny, by Thomas Luny.jpg|center|128px|]]
+| ''[[:d:Q1389224|Thomas Luny]]''
+| 1759
+| 1837
+| [[Kernow]]
+|-
+| style='text-align:right'| 33
+| [[Restren:Penn Symons.jpg|center|128px|]]
+| ''[[:d:Q1494843|Penn Symons]]''
+| 1843
+| 1899
+| ''[[:d:Q5681911|An Hatt]]''
+|-
+| style='text-align:right'| 34
+| [[Restren:Jim Hart Kongsberg Jazzfestival 2017 (190735).jpg|center|128px|]]
+| ''[[:d:Q1689108|Jim Hart]]''
+| 1983
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 35
+| [[Restren:John Teague.png|center|128px|]]
+| ''[[:d:Q1701904|John Teague]]''
+| 1833
+| 1902
+| [[Kernow]]
+|-
+| style='text-align:right'| 36
+| [[Restren:Nick harkaway.jpg|center|128px|]]
+| ''[[:d:Q1985398|Nick Harkaway]]''
+| 1972
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 37
+| [[Restren:Reginald John Marsden Parker.jpg|center|128px|]]
+| ''[[:d:Q2137997|Reginald John Marsden Parker]]''
+| 1881
+| 1948
+| [[Kernow]]
+|-
+| style='text-align:right'| 38
 | 
 | ''[[:d:Q2216541|Sam Llewellyn]]''
 | 1948
 | 
 | [[Ynys Skaw]]
 |-
-|style='text-align:right'| 121
-| 
-| ''[[:d:Q11928242|John Treleaven]]''
-| 1950
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 122
-| 
-| ''[[:d:Q7405160|Sally Head]]''
-| 1951
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 123
-| 
-| ''[[:d:Q3399754|Richard Driscoll]]''
-| 1951
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 124
-| [[Restren:Frank Lloyd.jpg|center|128px]]
-| ''[[:d:Q895500|Frank Lloyd]]''
-| 1952
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 125
-| 
-| ''[[:d:Q6767493|Mark Edwards]]''
-| 1954
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 126
-| [[Restren:Stephenfrost.JPG|center|128px]]
-| ''[[:d:Q7609245|Stephen Frost]]''
-| 1955
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 127
-| 
-| ''[[:d:Q85771665|John O'Carroll]]''
-| 1958
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 128
-| [[Restren:Llen Natur Conference May 2017 30.jpg|center|128px]]
-| ''[[:d:Q18535443|Andrew Hawke]]''
-| 1958
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 129
-| 
-| ''[[:d:Q7839031|Trevor Angove]]''
-| 1959
-| 
-| ''[[:d:Q7845529|Q7845529]]''
-|-
-|style='text-align:right'| 130
-| [[Restren:Bert biscoe.jpg|center|128px]]
-| [[Bert Biscoe]]
-| 1960
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 131
-| [[Restren:JaneJohnson.jpg|center|128px]]
-| ''[[:d:Q95092|Jane Johnson]]''
-| 1960
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 132
-| [[Restren:Edward St Aubyn in 2007.jpg|center|128px]]
-| ''[[:d:Q1293722|Edward St Aubyn]]''
-| 1960
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 133
-| 
-| ''[[:d:Q5145189|Colin Harvey]]''
-| 1960
-| 2011
-| [[Kernow]]
-|-
-|style='text-align:right'| 134
-| 
-| ''[[:d:Q15434701|Paul Carr]]''
-| 1961
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 135
-| [[Restren:Official portrait of Mr Mark Prisk crop 2.jpg|center|128px]]
-| ''[[:d:Q575205|Mark Prisk]]''
-| 1962
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 136
-| 
-| ''[[:d:Q7325679|Richard Finn]]''
-| 1963
-| 
-| ''[[:d:Q6947762|Q6947762]]''
-|-
-|style='text-align:right'| 137
-| 
-| ''[[:d:Q5522830|Gareth Edwards]]''
-| 1965
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 138
-| 
-| ''[[:d:Q20713143|Alexandra Walsham]]''
-| 1966
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 139
-| 
-| ''[[:d:Q4978172|Bruce Racine]]''
-| 1966
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 140
-| [[Restren:Jason Dawe - Herts Air Ambulance.jpg|center|128px]]
-| ''[[:d:Q186371|Jason Dawe]]''
-| 1967
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 141
-| [[Restren:Steve Evans-Van der Harten.jpg|center|128px]]
-| ''[[:d:Q3498916|Steve Evans - Van der Harten]]''
-| 1967
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 142
-| 
-| ''[[:d:Q3999035|Tristan Sturrock]]''
-| 1968
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 143
-| 
-| ''[[:d:Q4885376|Ben Bussey]]''
-| 1969
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 144
-| 
-| ''[[:d:Q6742187|Robert Malcolm Hamilton Bell]]''
-| 1969
-| 
-| ''[[:d:Q917474|Q917474]]''
-|-
-|style='text-align:right'| 145
-| 
-| ''[[:d:Q7823153|Tony Penberthy]]''
-| 1969
-| 
-| ''[[:d:Q7845529|Q7845529]]''
-|-
-|style='text-align:right'| 146
-| 
-| ''[[:d:Q6768242|Mark Jenkin]]''
-| 1970
-| 
-| [[Lulynn]]
-|-
-|style='text-align:right'| 147
-| [[Restren:Nick harkaway.jpg|center|128px]]
-| ''[[:d:Q1985398|Nick Harkaway]]''
-| 1972
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 148
-| 
-| ''[[:d:Q6681336|Lorna Dunkley]]''
-| 1972
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 149
-| 
-| ''[[:d:Q7933278|Violet Storm]]''
-| 1972
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 150
-| [[Restren:Official portrait of Derek Thomas crop 2.jpg|center|128px]]
-| [[Derek Thomas]]
-| 1972
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 151
-| 
-| ''[[:d:Q16214797|Tom Craig]]''
-| 1974
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 152
-| [[Restren:Åcon IX 19 (cropped).jpg|center|128px]]
-| ''[[:d:Q42754694|Emma Newman]]''
-| 1976
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 153
-| 
-| ''[[:d:Q6377418|Katie Cullen]]''
-| 1977
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 154
-| [[Restren:45- Stas' dreams 800x450.png|center|128px]]
-| ''[[:d:Q4332510|Leon Ockenden]]''
-| 1978
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 155
-| [[Restren:Charlie Winston - Festival Chorus des Hauts de Seine 2012.JPG|center|128px]]
-| ''[[:d:Q1067045|Charlie Winston]]''
-| 1978
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 156
-| [[Restren:Portrait of Sam Bleakley, Barbados.jpg|center|128px]]
-| ''[[:d:Q7407190|Sam Bleakley]]''
-| 1978
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 157
-| 
-| ''[[:d:Q29960572|Luke Simmonds]]''
-| 1979
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 158
-| 
-| ''[[:d:Q5702971|Helen Carnell]]''
-| 1981
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 159
-| 
-| ''[[:d:Q60010587|Adam Gough]]''
-| 1982
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 160
-| [[Restren:Jim Hart Kongsberg Jazzfestival 2017 (190735).jpg|center|128px]]
-| ''[[:d:Q1689108|Jim Hart]]''
-| 1983
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 161
-| 
-| ''[[:d:Q59826932|Jamie Farnes]]''
-| 1984
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 162
-| 
-| ''[[:d:Q2911007|Alex Parks]]''
-| 1984
-| 
-| ''[[:d:Q6921088|Q6921088]]''
-|-
-|style='text-align:right'| 163
-| 
-| ''[[:d:Q27915137|James Turpin]]''
-| 1997
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 164
-| 
-| ''[[:d:Q6767116|Mark Collicott]]''
-| 2000
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 165
-| 
-| ''[[:d:Q6770144|Mark Versallion]]''
-| 2000
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 166
-| 
-| [[Rod Lyon]]
-| 2000
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 167
-| [[Restren:Host Introduction (48797866562) (cropped).jpg|center|128px]]
-| ''[[:d:Q7366973|Ros Atkins]]''
-| 2000
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 168
+| style='text-align:right'| 39
 | 
 | ''[[:d:Q2426862|Thomas Robins]]''
 | 2000
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 169
-| 
-| ''[[:d:Q72060620|Rubin Wilson]]''
-| 2001
-| 
-| [[Kernow]]
-|-
-|style='text-align:right'| 170
-| [[Restren:Zoie Palmer, Lost Girl Panel at FanExpo crop.jpg|center|128px]]
+| style='text-align:right'| 40
+| [[Restren:Zoie Palmer, Lost Girl Panel at FanExpo crop.jpg|center|128px|]]
 | ''[[:d:Q2451052|Zoie Palmer]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 171
+| style='text-align:right'| 41
 | 
-| ''[[:d:Q17053434|Every Maclean]]''
-| 
-| 1901
+| ''[[:d:Q2579760|William Lobb]]''
+| 1809
+| 1864
 | [[Kernow]]
 |-
-|style='text-align:right'| 172
-| [[Restren:Saint-Germain arrivant à Diélette Vitrail Eglise Saint-Germain de Flamanville ERNOUF Annie.JPG|center|128px]]
+| style='text-align:right'| 42
+| [[Restren:Henry Jenner, MA FSA.jpg|center|128px|]]
+| [[Henry Jenner]]
+| 1848
+| 1934
+| [[Kernow]]
+|-
+| style='text-align:right'| 43
+| 
+| ''[[:d:Q2911007|Alex Parks]]''
+| 1984
+| 
+| ''[[:d:Q6921088|Mount Hawke]]''
+|-
+| style='text-align:right'| 44
+| [[Restren:Ralph-Allen-NPG-02b.jpg|center|128px|]]
+| ''[[:d:Q2917150|Ralph Allen]]''
+| 1693
+| 1764
+| [[Kernow]]
+|-
+| style='text-align:right'| 45
+| [[Restren:Sir Henry Gurney.gif|center|128px|]]
+| ''[[:d:Q2918377|Henry Gurney]]''
+| 1898
+| 1951
+| ''[[:d:Q2095543|Poughill]]''
+|-
+| style='text-align:right'| 46
+| [[Restren:Dorothy Pentreath.jpg|center|128px|]]
+| [[Dolly Pentreath]]
+| 1692
+| 1777
+| [[Kernow]]
+|-
+| style='text-align:right'| 47
+| 
+| ''[[:d:Q3048472|Edward Byllynge]]''
+| 1650
+| 1687
+| [[Kernow]]
+|-
+| style='text-align:right'| 48
+| [[Restren:Saint-Germain arrivant à Diélette Vitrail Eglise Saint-Germain de Flamanville ERNOUF Annie.JPG|center|128px|]]<br/>[[Restren:Saint Germain le Scot Saint Germain sur ay ERNOUF Guillaume.jpeg|center|128px|]]
 | ''[[:d:Q3104158|Germanus of Normandy]]''
 | 
 | 480
 | [[Kernow]]
 |-
-|style='text-align:right'| 173
+| style='text-align:right'| 49
+| 
+| ''[[:d:Q3275020|Michael Craze]]''
+| 1942
+| 1998
+| [[Kernow]]
+|-
+| style='text-align:right'| 50
+| 
+| ''[[:d:Q3328341|John Davey]]''
+| 1812
+| 1891
+| [[Kernow]]
+|-
+| style='text-align:right'| 51
 | 
 | ''[[:d:Q3332419|Chesten Marchant]]''
 | 
 | 1676
 | [[Kernow]]
 |-
-|style='text-align:right'| 174
+| style='text-align:right'| 52
+| 
+| ''[[:d:Q3372327|Paul Turner]]''
+| 1945
+| 2019
+| [[Kernow]]
+|-
+| style='text-align:right'| 53
+| 
+| ''[[:d:Q3376925|Peter Tom]]''
+| 1940
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 54
+| [[Restren:Eglwys Sant Beuno, St Beuno's Church, Penmorfa, Eifionydd, Gwynedd, Cymru Wales 46.JPG|center|128px|]]<br/>[[Restren:Mural of St Cybi.jpg|center|128px|]]
+| ''[[:d:Q3399340|Cybi]]''
+| 483
+| 555
+| [[Kernow]]<br/>''[[:d:Q7163120|Penmon]]''
+|-
+| style='text-align:right'| 55
+| 
+| ''[[:d:Q3399754|Richard Driscoll]]''
+| 1951
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 56
+| [[Restren:Procession des saints de Bretagne - diocèse de Rennes, cathédrale saint Pierre, Rennes, France.jpg|center|128px|]]
+| ''[[:d:Q3463997|Melor]]''
+| 524
+| 544
+| [[Kernow]]
+|-
+| style='text-align:right'| 57
+| 
+| ''[[:d:Q3495444|Stack Stevens]]''
+| 1941<br/>1940
+| 2017
+| ''[[:d:Q5576779|Godolphin Cross]]''
+|-
+| style='text-align:right'| 58
+| [[Restren:Steve Evans-Van der Harten.jpg|center|128px|]]
+| ''[[:d:Q3498916|Steve Evans - Van der Harten]]''
+| 1967
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 59
 | 
 | ''[[:d:Q3523120|The Tuss]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 175
+| style='text-align:right'| 60
+| 
+| ''[[:d:Q3696042|Coulton Waugh]]''
+| 1896
+| 1973
+| [[Kernow]]
+|-
+| style='text-align:right'| 61
+| 
+| ''[[:d:Q3999035|Tristan Sturrock]]''
+| 1968
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 62
+| [[Restren:Charles incledon.jpg|center|128px|]]
+| ''[[:d:Q4201127|Charles Incledon]]''
+| 1763
+| 1826
+| [[Kernow]]
+|-
+| style='text-align:right'| 63
+| [[Restren:BobbyLeachNiagaraFalls.jpg|center|128px|]]
+| ''[[:d:Q4264393|Bobby Leach]]''
+| 1858
+| 1926
+| [[Kernow]]
+|-
+| style='text-align:right'| 64
+| [[Restren:45- Stas' dreams 800x450.png|center|128px|]]
+| ''[[:d:Q4332510|Leon Ockenden]]''
+| 1978
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 65
+| 
+| ''[[:d:Q4685386|Adrian Thomas]]''
+| 1947
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 66
+| 
+| ''[[:d:Q4758801|Andrew Vivian]]''
+| 1759
+| 1842
+| [[Kernow]]
+|-
+| style='text-align:right'| 67
+| 
+| ''[[:d:Q4768074|Anne-Margaretta Burr]]''
+| 1817
+| 1892
+| [[Kernow]]
+|-
+| style='text-align:right'| 68
+| 
+| ''[[:d:Q4885376|Ben Bussey]]''
+| 1969
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 69
+| 
+| ''[[:d:Q4888382|Benjamin Carvosso]]''
+| 1789
+| 1854
+| ''[[:d:Q5572506|Gluvian]]''
+|-
+| style='text-align:right'| 70
+| 
+| ''[[:d:Q4978172|Bruce Racine]]''
+| 1966
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 71
+| 
+| ''[[:d:Q5006877|C. T. Bate]]''
+| 1825
+| 1889
+| [[Kernow]]
+|-
+| style='text-align:right'| 72
+| 
+| ''[[:d:Q5081970|Charles Reep]]''
+| 1904
+| 2002
+| [[Kernow]]
+|-
+| style='text-align:right'| 73
+| 
+| ''[[:d:Q5145189|Colin Harvey]]''
+| 1960
+| 2011
+| [[Kernow]]
+|-
+| style='text-align:right'| 74
+| 
+| ''[[:d:Q5163587|Constance Stuart Larrabee]]''
+| 1914
+| 2000
+| [[Kernow]]
+|-
+| style='text-align:right'| 75
+| 
+| ''[[:d:Q5201144|Cyrus Redding]]''
+| 1785
+| 1870
+| [[Kernow]]
+|-
+| style='text-align:right'| 76
+| 
+| ''[[:d:Q5357269|Richard Charlton]]''
+| 1791
+| 1852
+| [[Kernow]]
+|-
+| style='text-align:right'| 77
+| 
+| ''[[:d:Q5522830|Gareth Edwards]]''
+| 1965
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 78
+| 
+| ''[[:d:Q5607581|Gresham Kirkby]]''
+| 1916
+| 2006
+| [[Kernow]]
+|-
+| style='text-align:right'| 79
+| 
+| ''[[:d:Q5702971|Helen Carnell]]''
+| 1981
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 80
+| 
+| ''[[:d:Q6140982|James Pascoe]]''
+| 1863
+| 1931
+| [[Kernow]]
+|-
+| style='text-align:right'| 81
+| [[Restren:SirJohnIVArundell OfTrerice Died1561 StrattonChurch Cornwall Detail.PNG|center|128px|]]
+| ''[[:d:Q6219534|John Arundell]]''
+| 1495
+| 1561
+| [[Kernow]]
+|-
+| style='text-align:right'| 82
+| [[Restren:Richard & Harriot Eliot, and all their Children, with Mrs. Goldsworthy & the Hon Captn. J. Hamilton by Sir Joshua Reynolds.jpg|center|128px|]]
+| ''[[:d:Q6231581|John Eliot]]''
+| 1742
+| 1769
+| ''[[:d:Q7230603|Port Eliot]]''
+|-
+| style='text-align:right'| 83
+| 
+| ''[[:d:Q6233569|John Foot, Baron Foot]]''
+| 1909
+| 1999
+| [[Kernow]]
+|-
+| style='text-align:right'| 84
+| [[Restren:JohnHarrisPoet.png|center|128px|]]
+| ''[[:d:Q6237967|John Harris]]''
+| 1820
+| 1884
+| ''[[:d:Q4939174|Bolenowe]]''
+|-
+| style='text-align:right'| 85
+| 
+| ''[[:d:Q6242304|John Joyce]]''
+| 1839
+| 1899
+| [[Kernow]]
+|-
+| style='text-align:right'| 86
+| [[Restren:John Spargo LCCN2014709598.tif|center|128px|]]
+| ''[[:d:Q6258570|John Spargo]]''
+| 1876
+| 1966
+| [[Kernow]]
+|-
+| style='text-align:right'| 87
+| [[Restren:Joseph Read ca.1870-90.jpeg|center|128px|]]
+| ''[[:d:Q6286523|Joseph Reed]]''
+| 1823
+| 1890
+| [[Kernow]]
+|-
+| style='text-align:right'| 88
+| 
+| ''[[:d:Q6377418|Katie Cullen]]''
+| 1977
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 89
+| 
+| ''[[:d:Q6483647|Lancelot Stephen Bosanquet]]''
+| 1903
+| 1984
+| [[Kernow]]
+|-
+| style='text-align:right'| 90
+| 
+| ''[[:d:Q6681336|Lorna Dunkley]]''
+| 1972
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 91
+| [[Restren:MalcolmPhilipAtkinson.jpg|center|128px|]]
+| ''[[:d:Q6742172|Malcolm Atkinson]]''
+| 1943
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 92
+| 
+| ''[[:d:Q6742187|Robert Malcolm Hamilton Bell]]''
+| 1969
+| 
+| ''[[:d:Q917474|Hugh Town]]''
+|-
+| style='text-align:right'| 93
+| 
+| ''[[:d:Q6767116|Mark Collicott]]''
+| 2000
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 94
+| 
+| ''[[:d:Q6767493|Mark Edwards]]''
+| 1954
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 95
+| 
+| ''[[:d:Q6768242|Mark Jenkin]]''
+| 1970
+| 
+| [[Lulynn]]
+|-
+| style='text-align:right'| 96
+| 
+| ''[[:d:Q6770144|Mark Versallion]]''
+| 2000
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 97
+| 
+| ''[[:d:Q6849050|Mike Tiddy]]''
+| 1929
+| 2009
+| ''[[:d:Q950388|Cadgwith]]''
+|-
+| style='text-align:right'| 98
+| 
+| ''[[:d:Q6905566|Montfort Browne]]''
+| 1760
+| 1780
+| ''[[:d:Q7230603|Port Eliot]]''
+|-
+| style='text-align:right'| 99
+| [[Restren:Moondyne Joe.jpg|center|128px|]]
+| ''[[:d:Q6907724|Moondyne Joe]]''
+| 1827
+| 1900
+| [[Kernow]]
+|-
+| style='text-align:right'| 100
+| 
+| ''[[:d:Q7076843|Octavius Temple]]''
+| 1784
+| 1834
+| [[Kernow]]
+|-
+| style='text-align:right'| 101
+| 
+| ''[[:d:Q7141840|Pascoe Grenfell Hill]]''
+| 1804
+| 1882
+| [[Kernow]]
+|-
+| style='text-align:right'| 102
+| 
+| ''[[:d:Q7182268|Phil Penna]]''
+| 1857
+| 1939
+| ''[[:d:Q7367603|Rose, Cornwall]]''
+|-
+| style='text-align:right'| 103
+| 
+| ''[[:d:Q7184501|Philip VanKoughnet]]''
+| 1790
+| 1873
+| [[Kernow]]
+|-
+| style='text-align:right'| 104
+| 
+| ''[[:d:Q7325480|Richard Eliot]]''
+| 1614
+| 
+| ''[[:d:Q7230603|Port Eliot]]''
+|-
+| style='text-align:right'| 105
+| 
+| ''[[:d:Q7325679|Richard Finn]]''
+| 1963
+| 
+| ''[[:d:Q6947762|Mylor Bridge]]''
+|-
+| style='text-align:right'| 106
+| 
+| ''[[:d:Q7342224|Robert Boscawen]]''
+| 1923
+| 2013
+| [[Kernow]]
+|-
+| style='text-align:right'| 107
+| 
+| ''[[:d:Q7343422|Robert Davies]]''
+| 1900
+| 1975
+| [[Lulynn]]
+|-
+| style='text-align:right'| 108
+| [[Restren:Parkynad.png|center|128px|]]
+| ''[[:d:Q7348297|Robert Parkyn]]''
+| 1862
+| 1939
+| [[Kernow]]
+|-
+| style='text-align:right'| 109
+| 
+| [[Rod Lyon]]
+| 2000
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 110
+| 
+| ''[[:d:Q7357952|Roger Caron]]''
+| 1938
+| 2012
+| [[Kernow]]
+|-
+| style='text-align:right'| 111
+| [[Restren:Host Introduction (48797866562) (cropped).jpg|center|128px|]]
+| ''[[:d:Q7366973|Ros Atkins]]''
+| 2000
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 112
+| 
+| ''[[:d:Q7405160|Sally Head]]''
+| 1951
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 113
+| [[Restren:Portrait of Sam Bleakley, Barbados.jpg|center|128px|]]
+| ''[[:d:Q7407190|Sam Bleakley]]''
+| 1978
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 114
+| 
+| ''[[:d:Q7412216|Samuel Morcom]]''
+| 1847
+| 1888
+| [[Kernow]]
+|-
+| style='text-align:right'| 115
+| 
+| ''[[:d:Q7526784|Sir Frederick Hervey-Bathurst, 3rd Baronet]]''
+| 1807
+| 1881
+| [[Syllan]]
+|-
+| style='text-align:right'| 116
+| [[Restren:Stephenfrost.JPG|center|128px|]]
+| ''[[:d:Q7609245|Stephen Frost]]''
+| 1955
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 117
+| 
+| ''[[:d:Q7823153|Tony Penberthy]]''
+| 1969
+| 
+| ''[[:d:Q7845529|Troon]]''
+|-
+| style='text-align:right'| 118
+| 
+| ''[[:d:Q7839031|Trevor Angove]]''
+| 1959
+| 
+| ''[[:d:Q7845529|Troon]]''
+|-
+| style='text-align:right'| 119
+| 
+| ''[[:d:Q7933278|Violet Storm]]''
+| 1972
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 120
+| 
+| ''[[:d:Q8004978|William Baldwin]]''
+| 1563
+| 1632
+| [[Kernow]]
+|-
+| style='text-align:right'| 121
+| 
+| ''[[:d:Q8005650|William Bloye]]''
+| 1890
+| 1975
+| [[Kernow]]
+|-
+| style='text-align:right'| 122
+| 
+| ''[[:d:Q8007766|William Dennis]]''
+| 1856
+| 1920
+| [[Kernow]]
+|-
+| style='text-align:right'| 123
+| [[Restren:Guilherme Stephens.png|center|128px|]]
+| ''[[:d:Q8018787|William Stephens]]''
+| 1731
+| 1803
+| [[Kernow]]
+|-
+| style='text-align:right'| 124
+| 
+| ''[[:d:Q11928242|John Treleaven]]''
+| 1950
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 125
+| 
+| ''[[:d:Q12036617|Michael Bourdeaux]]''
+| 1934
+| 
+| ''[[:d:Q7239103|Praze-An-Beeble]]''
+|-
+| style='text-align:right'| 126
+| 
+| ''[[:d:Q13035083|John Baragwanath]]''
+| 1839
+| 1928
+| [[Kernow]]
+|-
+| style='text-align:right'| 127
+| 
+| ''[[:d:Q15070079|Henry Pering Pellew Crease]]''
+| 1823
+| 1905
+| [[Kernow]]
+|-
+| style='text-align:right'| 128
+| 
+| ''[[:d:Q15434701|Paul Carr]]''
+| 1961
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 129
+| 
+| ''[[:d:Q15524517|John Banham]]''
+| 1940
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 130
+| 
+| ''[[:d:Q15921159|Stella Turk]]''
+| 1925
+| 2017
+| [[Syllan]]
+|-
+| style='text-align:right'| 131
+| 
+| ''[[:d:Q15994279|Fernley H. Banbury]]''
+| 1881
+| 1963
+| [[Kernow]]
+|-
+| style='text-align:right'| 132
+| 
+| ''[[:d:Q16153406|James Avery]]''
+| 1620
+| 1700
+| [[Kernow]]
+|-
+| style='text-align:right'| 133
+| 
+| ''[[:d:Q16198988|Thomas Pascoe]]''
+| 1847
+| 1938
+| [[Kernow]]
+|-
+| style='text-align:right'| 134
+| 
+| ''[[:d:Q16214797|Tom Craig]]''
+| 1974
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 135
+| 
+| ''[[:d:Q16844007|Reginald Mohun]]''
+| 1508
+| 1567
+| [[Kernow]]
+|-
+| style='text-align:right'| 136
+| 
+| ''[[:d:Q17053434|Every Maclean]]''
+| 
+| 1901
+| [[Kernow]]
+|-
+| style='text-align:right'| 137
+| 
+| ''[[:d:Q17426182|Lis Rhodes]]''
+| 1942
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 138
+| [[Restren:Jago pic.jpg|center|128px|]]
+| ''[[:d:Q17505295|Mike Jago]]''
+| 1938
+| 2006
+| [[Kernow]]
+|-
+| style='text-align:right'| 139
 | 
 | ''[[:d:Q17984689|Madron]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 176
+| style='text-align:right'| 140
+| 
+| ''[[:d:Q18009182|James Surtees Phillpotts]]''
+| 1839
+| 1930
+| [[Kernow]]
+|-
+| style='text-align:right'| 141
+| 
+| ''[[:d:Q18507221|Gladys Gordon Trenery]]''
+| 1885
+| 1938
+| [[Kernow]]
+|-
+| style='text-align:right'| 142
+| [[Restren:Llen Natur Conference May 2017 30.jpg|center|128px|]]
+| ''[[:d:Q18535443|Andrew Hawke]]''
+| 1958
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 143
+| 
+| ''[[:d:Q18674037|Joseph Tregelles Price]]''
+| 1784
+| 1854
+| [[Kernow]]
+|-
+| style='text-align:right'| 144
+| 
+| ''[[:d:Q19726145|Mary Jewels]]''
+| 1886
+| 1977
+| [[Lulynn]]
+|-
+| style='text-align:right'| 145
+| [[Restren:Official portrait of Derek Thomas crop 2.jpg|center|128px|]]
+| [[Derek Thomas]]
+| 1972
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 146
+| 
+| ''[[:d:Q20713143|Alexandra Walsham]]''
+| 1966
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 147
+| 
+| ''[[:d:Q21069609|George Pearce]]''
+| 1826
+| 1908
+| [[Kernow]]
+|-
+| style='text-align:right'| 148
+| 
+| ''[[:d:Q21389154|Walter Gerard Tremewan]]''
+| 1931
+| 2016
+| [[Kernow]]
+|-
+| style='text-align:right'| 149
+| 
+| ''[[:d:Q21464371|Gertrude Harvey]]''
+| 1889
+| 1966
+| [[Kernow]]
+|-
+| style='text-align:right'| 150
+| [[Restren:Professor Jean Golding OBE (cropped).jpg|center|128px|]]
+| ''[[:d:Q21598164|Jean Golding]]''
+| 1939
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 151
+| [[Restren:Thomas Hodge oval picture-c. 1858.png|center|128px|]]
+| ''[[:d:Q21664535|Thomas Hodge]]''
+| 1827
+| 1907
+| [[Kernow]]
+|-
+| style='text-align:right'| 152
+| 
+| ''[[:d:Q23715171|Josiah Francis]]''
+| 1825
+| 1891
+| ''[[:d:Q7592455|St Ann's Chapel, Cornwall]]''
+|-
+| style='text-align:right'| 153
+| [[Restren:Samuel Mitchell HOFWA.jpg|center|128px|]]
+| ''[[:d:Q24845830|Samuel Mitchell]]''
+| 1838
+| 1912
+| [[Kernow]]
+|-
+| style='text-align:right'| 154
 | 
 | ''[[:d:Q25352000|Helen Nash]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 177
+| style='text-align:right'| 155
+| [[Restren:Bert biscoe.jpg|center|128px|]]
+| [[Bert Biscoe]]
+| 1960
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 156
+| 
+| ''[[:d:Q27915137|James Turpin]]''
+| 1997
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 157
+| 
+| ''[[:d:Q29960572|Luke Simmonds]]''
+| 1979
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 158
+| 
+| ''[[:d:Q30004757|John Jenkins Deason]]''
+| 1829
+| 1915
+| [[Ynys Skaw]]
+|-
+| style='text-align:right'| 159
+| [[Restren:Stephen Henry Thomas.jpg|center|128px|]]
+| ''[[:d:Q33104288|Stephen Henry Thomas]]''
+| 1813
+| 1869
+| [[Kernow]]
+|-
+| style='text-align:right'| 160
+| [[Restren:Åcon IX 19 (cropped).jpg|center|128px|]]
+| ''[[:d:Q42754694|Emma Newman]]''
+| 1976
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 161
+| 
+| ''[[:d:Q52693467|James Buller]]''
+| 1812
+| 1884
+| [[Kernow]]
+|-
+| style='text-align:right'| 162
+| 
+| ''[[:d:Q53858126|Richard Scaddan]]''
+| 1719
+| 1802
+| [[Kernow]]
+|-
+| style='text-align:right'| 163
+| [[Restren:Michael Hartland.jpg|center|128px|]]
+| ''[[:d:Q58077347|Michael Hartland]]''
+| 1941
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 164
+| 
+| ''[[:d:Q59826932|Jamie Farnes]]''
+| 1984
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 165
+| 
+| ''[[:d:Q60010587|Adam Gough]]''
+| 1982
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 166
+| 
+| ''[[:d:Q60370441|Adrian Hall]]''
+| 1943
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 167
+| 
+| ''[[:d:Q64482060|James Wallis]]''
+| 1809
+| 1864
+| [[Kernow]]
+|-
+| style='text-align:right'| 168
+| 
+| ''[[:d:Q65115304|James Martyn Nicholas]]''
+| 1833
+| 1916
+| [[Kernow]]
+|-
+| style='text-align:right'| 169
 | 
 | ''[[:d:Q69284821|Philippe Spall]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 178
-| [[Restren:Jacqueline Perkins (diplomat).jpg|center|128px]]
+| style='text-align:right'| 170
+| 
+| ''[[:d:Q69337592|Valentine Robert Duff Abdy]]''
+| 1937
+| 2012
+| [[Kernow]]
+|-
+| style='text-align:right'| 171
+| [[Restren:Page144 CanadianSingersAndTheirSongs SummersEve.jpg|center|128px|]]
+| ''[[:d:Q69888772|Eve Brodlique Summers]]''
+| 1867
+| 1949
+| [[Kernow]]
+|-
+| style='text-align:right'| 172
+| 
+| ''[[:d:Q72060620|Rubin Wilson]]''
+| 2001
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 173
+| 
+| ''[[:d:Q76466072|Caroline Agnes Leane]]''
+| 1849
+| 1892
+| [[Kernow]]
+|-
+| style='text-align:right'| 174
+| [[Restren:Jacqueline Perkins (diplomat).jpg|center|128px|]]
 | ''[[:d:Q85242394|Jacqueline Perkins]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 179
+| style='text-align:right'| 175
+| 
+| ''[[:d:Q85771665|John O'Carroll]]''
+| 1958
+| 
+| [[Kernow]]
+|-
+| style='text-align:right'| 176
+| [[Restren:Sculpture at Winnipeg Convention Centre 1.jpg|center|128px|]]
+| ''[[:d:Q87831256|Cecil Clarence Richards]]''
+| 1907
+| 1981
+| [[Kernow]]
+|-
+| style='text-align:right'| 177
+| 
+| ''[[:d:Q93704930|Chambre Corker Vigurs]]''
+| 1867
+| 1940
+| [[Lulynn]]
+|-
+| style='text-align:right'| 178
 | 
 | ''[[:d:Q93965544|Mary Launce]]''
 | 
 | 
+| [[Kernow]]
+|-
+| style='text-align:right'| 179
+| 
+| ''[[:d:Q96959551|Dorothy Hogg]]''
+| 1945
+| 
+| ''[[:d:Q7845529|Troon]]''
+|-
+| style='text-align:right'| 180
+| 
+| ''[[:d:Q98681707|Molly Izzard]]''
+| 1919
+| 2004
 | [[Kernow]]
 |}
 
 
 == Misc ==
 {| class='wikitable sortable' style='width:100%'
-!#
-!Imach
-!Hanow
-!Dedhyas genesigeth
-!Dedhyas mernans
-!Tyller genesigeth
+! #
+! Imach
+! Hanow
+! Dedhyas genesigeth
+! Dedhyas mernans
+! Tyller genesigeth
 |-
-|style='text-align:right'| 1
+| style='text-align:right'| 1
 | 
-| ''[[:d:Q3621261|Aramone di Cornovaglia]]''
+| ''[[:d:Q3621261|Q3621261]]''
 | 
 | 
 | [[Kernow]]
 |-
-|style='text-align:right'| 2
+| style='text-align:right'| 2
 | 
 | ''[[:d:Q59282162|Iseult]]''
 | 
 | 
 | [[Kernow]]
 |}
-
 {{Wikidata list end}}
 
 {{Porth Kernow}}
