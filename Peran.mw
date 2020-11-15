@@ -27,7 +27,35 @@ WHERE
 |columns=number:#,label:Eglwys neu Gymuned,P18:Delwedd,P625:Cyfesurynnau,P131:Lleoliad,item:Wicidata
 |thumb=128
 }}
-
+{| class='wikitable sortable' style='width:100%'
+! #
+! Eglwys neu Gymuned
+! Delwedd
+! Cyfesurynnau
+! Lleoliad
+! Wicidata
+|-
+| style='text-align:right'| 1
+| [[Baner Peran]]
+| [[Restren:Flag of Cornwall.svg|center|128px|]]
+| 
+| 
+| [[:d:Q1919103|Q1919103]]
+|-
+| style='text-align:right'| 2
+| [[Porthpyran]]
+| [[Restren:Droskyn Point - geograph.org.uk - 23562.jpg|center|128px|]]
+| {{Coord|50.351388888889|-5.1583333333333|display=inline}}
+| Perranzabuloe
+| [[:d:Q390260|Q390260]]
+|-
+| style='text-align:right'| 3
+| Perranzabuloe
+| [[Restren:Perranzabuloe Church - geograph.org.uk - 66070.jpg|center|128px|]]
+| {{Coord|50.326|-5.133|display=inline}}
+| Kernow
+| [[:d:Q2364410|Q2364410]]
+|}
 {{Wikidata list end}}
 {{KK}}
 
