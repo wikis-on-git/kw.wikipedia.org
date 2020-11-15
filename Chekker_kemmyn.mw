@@ -4,7 +4,7 @@
 <!--   Please translate and place a heading below this text: "Other birds in the Muscicapidae family"  -->
 
 {{Wikidata list
-|sparql=SELECT ?item WHERE { ?item wdt:P105 wd:Q7432. ?item wdt:P171 ?sub0 . ?sub0 (wdt:P171)* wd:Q28915 }
+|sparql=SELECT ?item WHERE { ?item wdt:P105 wd:Q7432. ?item wdt:P171 ?sub0 . ?sub0 (wdt:P171)* wd:Q200989 }
 LIMIT 15
 |sort=label
 |columns=label,P225,P18
