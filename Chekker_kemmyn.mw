@@ -8,7 +8,7 @@
 LIMIT 15
 |sort=label
 |columns=label,P225,P18
-|row_template=Zutabe formatoa/Familiak
+|row_template=Fformat teuluoedd
 |thumb=80
 |links=local
 }}
