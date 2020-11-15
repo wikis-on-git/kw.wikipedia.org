@@ -12,7 +12,92 @@ LIMIT 15
 |thumb=80
 |links=
 }}
-
+{| class='wikitable sortable' style='width:100%'
+! rhywogaeth
+! P225
+! delwedd
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q129219|red-flanked Bluetail]]''
+| p225 = Tarsiger cyanurus
+| p18 = [[Restren:Tarsiger cyanurus.jpg|center|80px|]]<br/>[[Restren:Ruribitakif1.JPG|center|80px|]]
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q152144|Blue Rock Thrush]]''
+| p225 = Monticola solitarius
+| p18 = [[Restren:Monticola solitarius, Spain 1.jpg|center|80px|]]<br/>[[Restren:Monticola solitarius philippensis.JPG|center|80px|]]
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q235057|Common Rock Thrush]]''
+| p225 = Monticola saxatilis
+| p18 = [[Restren:Common rock thrush.jpg|center|80px|]]<br/>[[Restren:Monsax.jpg|center|80px|]]<br/>[[Restren:Rufous-tailed Rock-thrush (Monticola saxitilis) (38253100512).jpg|center|80px|]]
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q27043|Blue-capped Rock Thrush]]''
+| p225 = Monticola cinclorhynchus<br/>Monticola cinclorhyncha
+| p18 = [[Restren:Monticola cinclorhynchus.jpg|center|80px|]]
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q277514|Collared Bush Robin]]''
+| p225 = Tarsiger johnstoniae
+| p18 = [[Restren:Collared Bush Robin.jpg|center|80px|]]
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q285855|Monticola brevipes]]''
+| p225 = Monticola brevipes
+| p18 = [[Restren:Monticola brevipes.jpg|center|80px|]]
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q28837044|Dessonornis archeri]]''
+| p225 = Dessonornis archeri
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q28837056|Dessonornis caffer]]''
+| p225 = Dessonornis caffer
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q28837085|Dessonornis humeralis]]''
+| p225 = Dessonornis humeralis
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q55115614|Dessonornis mbuluensis]]''
+| p225 = Dessonornis mbuluensis
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q55115624|Dessonornis macclounii]]''
+| p225 = Dessonornis macclounii
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q55115630|Dessonornis anomalus]]''
+| p225 = Dessonornis anomalus
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q61995431|Sholicola major]]''
+| p225 = Sholicola major
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q61995467|Sholicola albiventris]]''
+| p225 = Sholicola albiventris
+}}
+|-
+{{Zutabe formatoa/Familiak
+| label = ''[[:d:Q73839|Enicurus velatus]]''
+| p225 = Enicurus velatus
+| p18 = [[Restren:Sunda forktail.jpg|center|80px|]]
+}}
+|}
 {{Wikidata list end}}
 
 [[Klass:Muscicapidae]]
