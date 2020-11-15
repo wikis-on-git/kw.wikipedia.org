@@ -23,6 +23,11 @@ WHERE
   	SERVICE wikibase:label { bd:serviceParam wikibase:language "cy,en" }
 }
 }}
+{| class='wikitable sortable' style='width:100%'
+! item
+|-
+| [[:d:Q1919103|Q1919103]]
+|}
 {{Wikidata list end}}
 {{KK}}
 
