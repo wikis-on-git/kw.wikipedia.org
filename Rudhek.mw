@@ -17,87 +17,89 @@ LIMIT 15
 ! P225
 ! delwedd
 {{Fformat teuluoedd
-| label = ''[[:d:Q25393|Eos]]''
-| p225 = Luscinia megarhynchos
-| p18 = [[Restren:Nachtigall (Luscinia megarhynchos)-2.jpg|center|80px|]]<br/>[[Restren:Западный (Южный) соловей - Luscinia megarhynchos - Common nightingale (Nightingale) - Nachtigall - Южен славей (32588048866).jpg|center|80px|]]
+| label = ''[[:d:Q1192214|Rufous-tailed Robin]]''
+| p225 = Larvivora sibilans
+| p18 = [[Restren:Luscinia sibilans - Khao Yai.jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q1177602|Luscinia pectardens]]''
-| p225 = Luscinia pectardens
+| label = ''[[:d:Q27075663|Vauriella gularis]]''
+| p225 = Vauriella gularis
+| p18 = [[Restren:TrichostomaGulareSmit.jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q1586281|Luscinia cyane]]''
-| p225 = Luscinia cyane
-| p18 = [[Restren:Luscinia cyane - Khao Yai.jpg|center|80px|]]
+| label = ''[[:d:Q27075665|Vauriella albigularis]]''
+| p225 = Vauriella albigularis
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q1587650|Luscinia obscura]]''
-| p225 = Luscinia obscura
-| p18 = [[Restren:Calliope obscura 1891.jpg|center|80px|]]
+| label = ''[[:d:Q27075667|Vauriella insignis]]''
+| p225 = Vauriella insignis
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q1591118|Luscinia ruficeps]]''
-| p225 = Luscinia ruficeps
-| p18 = [[Restren:LarvivoraRuficepsKeulemans.jpg|center|80px|]]
+| label = ''[[:d:Q27075668|Vauriella goodfellowi]]''
+| p225 = Vauriella goodfellowi
+| p18 = [[Restren:IanthiaGoodfellowiGronvold.jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q185673|Luscinia calliope]]''
-| p225 = Luscinia calliope
-| p18 = [[Restren:Luscinia calliope - Pak Chong 2.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q251086|Luscinia brunnea]]''
-| p225 = Luscinia brunnea
+| label = ''[[:d:Q27075669|Indian blue robin]]''
+| p225 = Larvivora brunnea
 | p18 = [[Restren:Luscinia brunnea.jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q26578|Bluethroat]]''
-| p225 = Luscinia svecica
-| p18 = [[Restren:Bluethroat by Daniel Bastaja.jpeg|center|80px|]]<br/>[[Restren:Bluethroat (Luscinia svecica)- Female at Bharatpur I IMG 5484.jpg|center|80px|]]
+| label = ''[[:d:Q27075670|Larvivora cyane]]''
+| p225 = Larvivora cyane
+| p18 = [[Restren:Luscinia cyane - Khao Yai.jpg|center|80px|]]<br/>[[Restren:Siberian Blue Robin (Female, Juvenile).jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q2668616|Luscinia pectoralis]]''
-| p225 = Luscinia pectoralis
+| label = ''[[:d:Q27075672|Larvivora komadori]]''
+| p225 = Larvivora komadori
+| p18 = [[Restren:Erithacus komadori - National Museum of Nature and Science, Tokyo - DSC07033.JPG|center|80px|]]
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q27075673|Larvivora akahige]]''
+| p225 = Larvivora akahige
+| p18 = [[Restren:Japanese Robin 9628.jpg|center|80px|]]
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q27075674|Larvivora ruficeps]]''
+| p225 = Larvivora ruficeps
+| p18 = [[Restren:LarvivoraRuficepsKeulemans.jpg|center|80px|]]
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q27075676|Calliope pectoralis]]''
+| p225 = Calliope pectoralis
 | p18 = [[Restren:White tailed rubythroat.jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q28837044|Dessonornis archeri]]''
-| p225 = Dessonornis archeri
+| label = ''[[:d:Q27075678|Calliope calliope]]''
+| p225 = Calliope calliope
+| p18 = [[Restren:Luscinia calliope - Pak Chong 2.jpg|center|80px|]]<br/>[[Restren:Luscinia calliope 2.jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q28837056|Dessonornis caffer]]''
-| p225 = Dessonornis caffer
+| label = ''[[:d:Q27075680|Calliope pectardens]]''
+| p225 = Calliope pectardens
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q28837085|Dessonornis humeralis]]''
-| p225 = Dessonornis humeralis
+| label = ''[[:d:Q27075682|Calliope obscura]]''
+| p225 = Calliope obscura
+| p18 = [[Restren:Calliope obscura 1891.jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q55115614|Dessonornis mbuluensis]]''
-| p225 = Dessonornis mbuluensis
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q55115624|Dessonornis macclounii]]''
-| p225 = Dessonornis macclounii
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q206130|Unnuariannguaq]]''
-| p225 = Luscinia luscinia
-| p18 = [[Restren:Luscinia luscinia vogelartinfo chris romeiks CHR3635.jpg|center|80px|]]<br/>[[Restren:Nightingale of ancient Uglich.JPG|center|80px|]]
+| label = ''[[:d:Q28731117|Larvivora obscura]]''
+| p225 = Larvivora obscura
 }}
 |}
 {{Wikidata list end}}
