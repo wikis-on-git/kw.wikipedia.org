@@ -17,56 +17,15 @@ LIMIT 15
 ! P225
 ! delwedd
 {{Fformat teuluoedd
-| label = ''[[:d:Q25393|Eos]]''
-| p225 = Luscinia megarhynchos
-| p18 = [[Restren:Nachtigall (Luscinia megarhynchos)-2.jpg|center|80px|]]
+| label = ''[[:d:Q1302671|Angola Cave Chat]]''
+| p225 = Xenocopsychus ansorgei
+| p18 = [[Restren:Xenocopsychus ansorgei, Sebraberge, 2014, b, T Hohls.jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q1177602|Luscinia pectardens]]''
-| p225 = Luscinia pectardens
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q1586281|Luscinia cyane]]''
-| p225 = Luscinia cyane
-| p18 = [[Restren:Luscinia cyane - Khao Yai.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q1587650|Luscinia obscura]]''
-| p225 = Luscinia obscura
-| p18 = [[Restren:Calliope obscura 1891.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q1591118|Luscinia ruficeps]]''
-| p225 = Luscinia ruficeps
-| p18 = [[Restren:LarvivoraRuficepsKeulemans.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q185673|Luscinia calliope]]''
-| p225 = Luscinia calliope
-| p18 = [[Restren:Luscinia calliope - Pak Chong 2.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q251086|Luscinia brunnea]]''
-| p225 = Luscinia brunnea
-| p18 = [[Restren:Luscinia brunnea.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q26578|Bluethroat]]''
-| p225 = Luscinia svecica
-| p18 = [[Restren:Bluethroat by Daniel Bastaja.jpeg|center|80px|]]<br/>[[Restren:Bluethroat (Luscinia svecica)- Female at Bharatpur I IMG 5484.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q2668616|Luscinia pectoralis]]''
-| p225 = Luscinia pectoralis
-| p18 = [[Restren:White tailed rubythroat.jpg|center|80px|]]
+| label = ''[[:d:Q222081|White-browed Robin-Chat]]''
+| p225 = Cossypha heuglini
+| p18 = [[Restren:White-browed Robin-Chat (Cossypha heuglini).jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
@@ -95,9 +54,48 @@ LIMIT 15
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q206130|Unnuariannguaq]]''
-| p225 = Luscinia luscinia
-| p18 = [[Restren:Luscinia luscinia vogelartinfo chris romeiks CHR3635.jpg|center|80px|]]<br/>[[Restren:Nightingale of ancient Uglich.JPG|center|80px|]]
+| label = ''[[:d:Q55115630|Dessonornis anomalus]]''
+| p225 = Dessonornis anomalus
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q604473|Turquoise Flycatcher]]''
+| p225 = Eumyias panayensis
+| p18 = [[Restren:Eumyias panayensis.JPG|center|80px|]]
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q61995431|Sholicola major]]''
+| p225 = Sholicola major
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q61995467|Sholicola albiventris]]''
+| p225 = Sholicola albiventris
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q668807|Buff-streaked Chat]]''
+| p225 = Campicoloides bifasciatus
+| p18 = [[Restren:SaxicolaSpectabilisJennens.jpg|center|80px|]]
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q73700|Grey-headed Canary-flycatcher]]''
+| p225 = Culicicapa ceylonensis
+| p18 = [[Restren:Culicicapa ceylonensis - Mae Wong.jpg|center|80px|]]
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q73857|Indigo Flycatcher]]''
+| p225 = Eumyias indigo
+| p18 = [[Restren:Indigo Flycatcher (Eumyias indigo).jpg|center|80px|]]
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q795554|Javan Cochoa]]''
+| p225 = Cochoa azurea
+| p18 = [[Restren:Cochoa azurea 1838.jpg|center|80px|]]
 }}
 |}
 {{Wikidata list end}}
