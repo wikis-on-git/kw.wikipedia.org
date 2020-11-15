@@ -46,9 +46,20 @@ LIMIT 15
 }}
 |-
 {{Fformat teuluoedd
+| label = ''[[:d:Q18232917|Luscinia cyanura]]''
+| p225 = Luscinia cyanura
+}}
+|-
+{{Fformat teuluoedd
 | label = ''[[:d:Q185673|Luscinia calliope]]''
 | p225 = Luscinia calliope
 | p18 = [[Restren:Luscinia calliope - Pak Chong 2.jpg|center|80px|]]
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q21328243|Luscinia phoenicuroides]]''
+| p225 = Luscinia phoenicuroides
+| p18 = [[Restren:Hodgsonius phoenicuroides 1.jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
@@ -70,28 +81,18 @@ LIMIT 15
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q28837044|Dessonornis archeri]]''
-| p225 = Dessonornis archeri
+| label = ''[[:d:Q55115630|Dessonornis anomalus]]''
+| p225 = Dessonornis anomalus
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q28837056|Dessonornis caffer]]''
-| p225 = Dessonornis caffer
+| label = ''[[:d:Q61995431|Sholicola major]]''
+| p225 = Sholicola major
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q28837085|Dessonornis humeralis]]''
-| p225 = Dessonornis humeralis
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q55115614|Dessonornis mbuluensis]]''
-| p225 = Dessonornis mbuluensis
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q55115624|Dessonornis macclounii]]''
-| p225 = Dessonornis macclounii
+| label = ''[[:d:Q61995467|Sholicola albiventris]]''
+| p225 = Sholicola albiventris
 }}
 |-
 {{Fformat teuluoedd
