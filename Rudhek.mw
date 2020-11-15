@@ -2,25 +2,17 @@
 
 <!--   Please translate and place a heading below this text: "Other birds in the Muscicapidae] family"  -->
 
+
 {{Wikidata list
-|sparql=SELECT ?item WHERE { ?item wdt:P105 wd:Q7432. ?item wdt:P171 ?sub0 . ?sub0 (wdt:P171)* wd:Q28915 }
+|sparql=SELECT ?item WHERE { ?item wdt:P105 wd:Q7432. ?item wdt:P171 ?sub0 . ?sub0 (wdt:P171)* wd:Q200989 }
 LIMIT 15
 |sort=label
-|columns=label,P225,P18
-|row_template=Fformat teuluoedd
+|columns=label:rhywogaeth,P225,P18:delwedd
+|row_template=Zutabe formatoa/Familiak
 |thumb=80
 |links=local
 }}
-{| class='wikitable sortable' style='width:100%'
-! label
-! P225
-! imach
-{{Fformat teuluoedd
-| label = [[Tynwyn]]
-| p225 = Oenanthe oenanthe
-| p18 = [[Restren:Northern wheatear male09.JPG|center|80px|]]
-}}
-|}
+
 {{Wikidata list end}}
 
 [[Klass:Muscicapidae]]
