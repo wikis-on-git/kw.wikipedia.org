@@ -10,6 +10,20 @@ Peran yw aswonnys yn ta avel sans tasek Kernow, mes nepprys [[Sen Myghal|Myghal]
 
 Yma tre [[Porthpyran]] owth hostya goel [[Lowender Peran]] pub blydhen gelwys der enor dhe sans tasek an dre.
 
+{{clear}}
+
+==Places named after Sant Piran==
+{{Wikidata list
+|sparql=#defaultView:Map
+SELECT ?item ?coor ?image ?itemLabel
+WHERE
+{
+	?item wdt:P825\u007Cwdt:P138 wd:Q2472762.
+	OPTIONAL { ?item wdt:P625 ?coor }
+	OPTIONAL { ?item wdt:P18 ?image } 
+  	SERVICE wikibase:label { bd:serviceParam wikibase:language "cy,en" }
+}
+{{Wikidata list end}}
 {{KK}}
 
 {{Porth Kernow}}
