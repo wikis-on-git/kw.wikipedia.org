@@ -87,18 +87,19 @@ LIMIT 15
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q55115630|Dessonornis anomalus]]''
-| p225 = Dessonornis anomalus
+| label = ''[[:d:Q27075680|Calliope pectardens]]''
+| p225 = Calliope pectardens
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q61995431|Sholicola major]]''
-| p225 = Sholicola major
+| label = ''[[:d:Q27075682|Calliope obscura]]''
+| p225 = Calliope obscura
+| p18 = [[Restren:Calliope obscura 1891.jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q61995467|Sholicola albiventris]]''
-| p225 = Sholicola albiventris
+| label = ''[[:d:Q28731117|Larvivora obscura]]''
+| p225 = Larvivora obscura
 }}
 |}
 {{Wikidata list end}}
