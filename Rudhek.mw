@@ -17,9 +17,43 @@ LIMIT 15
 ! P225
 ! delwedd
 {{Fformat teuluoedd
-| label = ''[[:d:Q278028|Somali Wheatear]]''
-| p225 = Oenanthe phillipsi
-| p18 = [[Restren:SaxicolaPhillipsiKeulemans.jpg|center|80px|]]
+| label = ''[[:d:Q1192214|Rufous-tailed Robin]]''
+| p225 = Larvivora sibilans
+| p18 = [[Restren:Luscinia sibilans - Khao Yai.jpg|center|80px|]]
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q27075663|Vauriella gularis]]''
+| p225 = Vauriella gularis
+| p18 = [[Restren:TrichostomaGulareSmit.jpg|center|80px|]]
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q27075665|Vauriella albigularis]]''
+| p225 = Vauriella albigularis
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q27075667|Vauriella insignis]]''
+| p225 = Vauriella insignis
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q27075668|Vauriella goodfellowi]]''
+| p225 = Vauriella goodfellowi
+| p18 = [[Restren:IanthiaGoodfellowiGronvold.jpg|center|80px|]]
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q27075669|Indian blue robin]]''
+| p225 = Larvivora brunnea
+| p18 = [[Restren:Luscinia brunnea.jpg|center|80px|]]
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q27075670|Larvivora cyane]]''
+| p225 = Larvivora cyane
+| p18 = [[Restren:Luscinia cyane - Khao Yai.jpg|center|80px|]]<br/>[[Restren:Siberian Blue Robin (Female, Juvenile).jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
@@ -35,12 +69,6 @@ LIMIT 15
 {{Fformat teuluoedd
 | label = ''[[:d:Q28837085|Dessonornis humeralis]]''
 | p225 = Dessonornis humeralis
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q385723|Western Black-eared Wheatear]]''
-| p225 = Oenanthe hispanica
-| p18 = [[Restren:CollalbaRubia.jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
@@ -66,36 +94,6 @@ LIMIT 15
 {{Fformat teuluoedd
 | label = ''[[:d:Q61995467|Sholicola albiventris]]''
 | p225 = Sholicola albiventris
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q646917|Cyprus Wheatear]]''
-| p225 = Oenanthe cypriaca
-| p18 = [[Restren:Cyprus Pied Wheatear crop.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q672928|Mountain wheatear]]''
-| p225 = Oenanthe monticola
-| p18 = [[Restren:Oenanthe monticola 1.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q747686|Isabelline Wheatear]]''
-| p225 = Oenanthe isabellina
-| p18 = [[Restren:Isabelline wheatear (Oenanthe isabellina) male, non-breeding.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q763538|Pied Wheatear]]''
-| p225 = Oenanthe pleschanka
-| p18 = [[Restren:Pied Wheatear - Tanzania 2008-02-29 0225 (19406836875).jpg|center|80px|]]<br/>[[Restren:Oenanthe pleschanka.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = [[Tynwyn]]
-| p225 = Oenanthe oenanthe
-| p18 = [[Restren:Northern wheatear male09.JPG|center|80px|]]
 }}
 |}
 {{Wikidata list end}}
