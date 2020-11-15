@@ -25,6 +25,24 @@ Wosa deg blydhen warn ugens, yth eth ev dhe [[Rom]] ow passya dre [[Breten Vygha
 * [[South Brent]]
 * [[Petrockstow]]
 * [[Timberscome]], [[Gwlas an Hav]]
+{{clirio}}
+
+{{Wikidata list
+|sparql=#defaultView:Map
+SELECT ?item ?coor ?image ?itemLabel
+WHERE
+{
+	?item wdt:P825\u007Cwdt:P138 wd:Q534049.
+	OPTIONAL { ?item wdt:P625 ?coor }
+	OPTIONAL { ?item wdt:P18 ?image } 
+  	SERVICE wikibase:label { bd:serviceParam wikibase:language "cy,en" }
+}
+|links=text
+|sort=label
+|columns=number:#,label:Eglwys neu Gymuned,P18:Delwedd,P625:Cyfesurynnau,P131:Lleoliad,item:Wicidata
+|thumb=128
+}}
+{{Wikidata list end}}
 
 [[Klass:Kembra]]
 [[Klass:Sens kernowek]]
