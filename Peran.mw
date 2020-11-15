@@ -9,7 +9,6 @@ Y leverir Peran dhe verwel pan goedhas ev yn puth wosa eva re – medhow o ev. H
 Peran yw aswonnys yn ta avel sans tasek Kernow, mes nepprys [[Sen Myghal|Myghal]] po [[Sen Petrok|Petrok]] a biw an titel ma. Dydh goel Peran yw an 5es a [[Mis Meurth|vis Meurth]].
 
 Yma tre [[Porthpyran]] owth hostya goel [[Lowender Peran]] pub blydhen gelwys der enor dhe sans tasek an dre.
-
 {{clear}}
 
 ==Places named after Sant Piran==
@@ -23,6 +22,7 @@ WHERE
 	OPTIONAL { ?item wdt:P18 ?image } 
   	SERVICE wikibase:label { bd:serviceParam wikibase:language "cy,en" }
 }
+}}
 {{Wikidata list end}}
 {{KK}}
 
