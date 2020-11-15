@@ -22,12 +22,12 @@ WHERE
 	OPTIONAL { ?item wdt:P18 ?image } 
   	SERVICE wikibase:label { bd:serviceParam wikibase:language "cy,en" }
 }
+|links=text
+|sort=label
+|columns=number:#,label:Eglwys neu Gymuned,P18:Delwedd,P625:Cyfesurynnau,P131:Lleoliad,item:Wicidata
+|thumb=128
 }}
-{| class='wikitable sortable' style='width:100%'
-! item
-|-
-| [[:d:Q1919103|Q1919103]]
-|}
+
 {{Wikidata list end}}
 {{KK}}
 
