@@ -34,18 +34,6 @@ LIMIT 15
 }}
 |-
 {{Fformat teuluoedd
-| label = ''[[:d:Q1587650|Luscinia obscura]]''
-| p225 = Luscinia obscura
-| p18 = [[Restren:Calliope obscura 1891.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q1591118|Luscinia ruficeps]]''
-| p225 = Luscinia ruficeps
-| p18 = [[Restren:LarvivoraRuficepsKeulemans.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
 | label = ''[[:d:Q185673|Luscinia calliope]]''
 | p225 = Luscinia calliope
 | p18 = [[Restren:Luscinia calliope - Pak Chong 2.jpg|center|80px|]]
@@ -61,12 +49,6 @@ LIMIT 15
 | label = ''[[:d:Q26578|Bluethroat]]''
 | p225 = Luscinia svecica
 | p18 = [[Restren:Bluethroat by Daniel Bastaja.jpeg|center|80px|]]<br/>[[Restren:Bluethroat (Luscinia svecica)- Female at Bharatpur I IMG 5484.jpg|center|80px|]]
-}}
-|-
-{{Fformat teuluoedd
-| label = ''[[:d:Q2668616|Luscinia pectoralis]]''
-| p225 = Luscinia pectoralis
-| p18 = [[Restren:White tailed rubythroat.jpg|center|80px|]]
 }}
 |-
 {{Fformat teuluoedd
@@ -92,6 +74,21 @@ LIMIT 15
 {{Fformat teuluoedd
 | label = ''[[:d:Q55115624|Dessonornis macclounii]]''
 | p225 = Dessonornis macclounii
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q55115630|Dessonornis anomalus]]''
+| p225 = Dessonornis anomalus
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q61995431|Sholicola major]]''
+| p225 = Sholicola major
+}}
+|-
+{{Fformat teuluoedd
+| label = ''[[:d:Q61995467|Sholicola albiventris]]''
+| p225 = Sholicola albiventris
 }}
 |-
 {{Fformat teuluoedd
