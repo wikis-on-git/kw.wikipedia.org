@@ -1395,5 +1395,5 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 
 {{Porth Kernow}}
 
-[[Klass:Pobel gernowek]]
+[[Klass:Kernowyon]]
 [[Klass:Rolyow]]
