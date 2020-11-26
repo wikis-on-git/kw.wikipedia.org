@@ -4,6 +4,7 @@
 | delwedd2 ={{#invoke:Wikidata|getValue|P51|{{{sain|FETCH_WIKIDATA}}}
 }}
 | image_caption = {{#invoke:Wikidata|getValue|P2096|{{{rhiant-dacson|FETCH_WIKIDATA}}}}}
+| image2 ={{#invoke:Wikidata|getValue|P51|{{{sain|FETCH_WIKIDATA}}}}}
 <!-- hide
 | status             = LC
 | status_system      = IUCN3.1
