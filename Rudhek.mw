@@ -1,18 +1,30 @@
-
 {{Boks klassans
-| hanow = Rudhek
-| imaj = Erithacus rubecula with cocked head.jpg
-| isskrifik_imaj = Rudhek yn Konteth Kerhyrvryn
-| regnum = [[Enyval|Animalia]]
+| hanow =  {{{name|{{PAGENAMEBASE}}}}}
+{{Llun o WD o fewn gwybodlen}}
+| delwedd2 ={{#invoke:Wikidata|getValue|P51|{{{sain|FETCH_WIKIDATA}}}
+}}
+| image_caption = {{#invoke:Wikidata|getValue|P2096|{{{rhiant-dacson|FETCH_WIKIDATA}}}}}
+<!-- hide
+| status             = LC
+| status_system      = IUCN3.1
+-->
+| status = {{#invoke:Wikidata|getValue|P141|{{{rhiant-dacson|FETCH_WIKIDATA}}}}}
+
+| mappa_gwandrans = {{#invoke:Wikidata|getValue|P181|{{{map dosbarthiad|FETCH_WIKIDATA}}}}}
+| isskrifik_mappa_gwandrans = Gwrandrans hav (Gwynnrudh), Gwandrans gwav (loos) ha dres an vledhen (Gwer) a'n rudhek
+
+| regnum = [[Animalia]]
 | phylum = [[Chordata]]
-| classis = [[Edhen|Aves]]
+| classis = [[Aves]]
 | ordo = [[Passeriformes]]
 | familia = [[Muscicapidae]]
-| kinda = ''[[Erithacus]]''
-| species = '''''Erithacus rubecola'''''
-| awtorita = Linnaeus 1758
-| mappa_gwandrans = Erithacus rubecula distribution.png
-| isskrifik_mappa_gwandrans = Gwrandrans hav (Gwynnrudh), Gwandrans gwav (loos) ha dres an vledhen (Gwer) a'n rudhek}}
+
+| genus = {{#invoke:Wikidata|getValue|P171|{{{rhiant-dacson|FETCH_WIKIDATA}}}}}
+
+| species = '''''{{#invoke:Wikidata|getValue|P225|{{{enw tacson|FETCH_WIKIDATA}}}}}'''''
+
+| awtorita = ([[Carolus Linnaeus|Linnaeus]], 1758)
+}}
 
 
 '''Rudhek''' (''Erithacus rubecula'') yw [[edhen]] gemmyn a goswigow ha lowarthyow yn Europa. Nans yw nebes bledhynnyow, esel o a deylu [[Turdidae]] an molghow, mes lemmyn esel a'n [[Muscicapidae]] yw, h.y teylu an chekkyer ha gwybesseroryon.
