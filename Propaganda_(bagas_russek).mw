@@ -1,0 +1,469 @@
+{{Taklow | fetchwikidata=ALL | suppressfields= }}
+
+'''Propaganda''' (Russek - Пропаганда) yw bagas pop russek gweythresek ynter 2001 ha 2018. I a dhyllas lies sengel, yn aga mysk nebes sewena yn Russi: "Tak i byt' " ("Так и быть"), "5 minut" ("5 минут"), "Yay-ya" ("Яй-я"), "Super Detka" ("Супер-Детка"), "Quanto Costa", "Znaesh'" ("Знаешь"), ha "Podruga" ("Подруга"), hag a dhrehedh Niver Onan.
+
+== Eseli ==
+{|Class="wikitable"
+|-
+! Spys
+! colspan="5"| Eseli
+|-
+| mis Gwynngala 2001 – mis Est 2002
+| rowspan="9"  bgcolor=#d0f0c0| Viktoria Voronina
+| bgcolor=#fbfe26| Viktoria Petrenko
+| bgcolor=lavender| Yulia Garanina
+|-
+| mis Est 2002 – mis Est 2003
+| rowspan="4"  bgcolor=pink| Olga Moreva
+| rowspan="2" bgcolor=orange | Ekaterina Oleinikova
+|-
+| mis Est 2003 – mis Du 2003
+| bgcolor=#ccf| Irina Yakovleva
+| bgcolor=#dda0dd| Natalia Korshunova
+|-
+| mis Du 2003 – mis Est 2004
+| rowspan="4" bgcolor=#ccf| Irina Yakovleva 
+|-
+| mis Est 2004 – mis Genver 2007
+| rowspan="2" bgcolor=#ffe5b4| Daria Gavrilchuk
+|-
+| mis Genver 2007 – mis Meurth 2007
+| rowspan="9" bgcolor=violet| Maria Bucatari
+|-
+| mis Meurth 2007 – mis Metheven 2009 
+|-
+| mis Metheven 2009 – mis Gortheren 2009
+|-
+| mis Gortheren 2009 – mis Kevardhu 2010
+| bgcolor=skyblue| Anastasia Shevchenko
+|-
+| mis Kevardhu 2010 – mis Hwevrer 2012
+| rowspan="5" bgcolor=skyblue| Anastasia Shevchenko
+|-
+| mis Hwevrer 2012 – mis Ebrel 2012
+| bgcolor=green| Viktoria Bogoslavskaya
+|-
+| mis Ebrel 2012 – mis Metheven 2012
+|-
+| mis Metheven 2012 – mis Gwynngala 2012
+| bgcolor=#FBC28| Maria Nedelkova
+|-
+| mis Gwynngala 2012 – mis Du 2015
+|-
+| mis Du 2015–lemmyn
+| bgcolor=#ff9999| Veronika Kononenko
+| bgcolor=red| Arina Milan
+| bgcolor=#ffff99| Maya Podolskaya
+|}
+
+<div align="left">
+<timeline>
+#
+# см. http://en.wikinews.org/wiki/Help:EasyTimeline_syntax
+#
+ImageSize = width:800 height:auto barincrement:30
+PlotArea = left:120 bottom:60 top:10 right:10
+Alignbars = justify
+DateFormat = dd/mm/yyyy
+Period = from:01/01/2001 till:04/04/2016
+TimeAxis = orientation:horizontal format:yyyy
+
+Colors =
+  id:vocals value:red    legend:Vocals
+  id:guitar value:green  legend:Guitar
+  id:bass   value:blue   legend:Bass
+  id:drums  value:orange legend:Drums
+  id:keys   value:yellow legend:Keyboards
+  id:Lines  value:black  legend:Albums
+
+# Legend = orientation:horizontal position:bottom
+
+ScaleMajor = increment:2 start:2001
+
+BarData =
+
+  bar:vin     text:"Viktoria Voronina"
+  bar:gra     text:"Viktoria Petrenko"
+  bar:nay     text:"Yulia Garanina"
+  bar:sed     text:"Olga Moreva"
+  bar:bre     text:"Ekaterina Oleinikova"
+  bar:lob     text:"Irina Yakovleva"
+  bar:dja     text:"Natalia Korshunova"
+  bar:koc     text:"Daria Gavrilchuk"
+  bar:kor     text:"Maria Bucatari"
+  bar:kob     text:"Anastasia Shevchenko"
+  bar:bog     text:"Viktoria Bogoslavskaya"
+  bar:ned     text:"Maria Nedelkova"
+  bar:ami     text:"Arina Milan"
+  bar:vko     text:"Veronika Kononenko"
+  bar:mpo     text:"Maya Podolskaya"
+PlotData=
+
+  width:10 textcolor:black align:left anchor:from shift:(10,-4)
+  bar:vin       from:01/04/2001 till:01/12/2010 color:Lines
+  bar:gra       from:01/04/2001 till:01/08/2002 color:Lines
+  bar:nay       from:01/04/2001 till:01/08/2002 color:Lines
+  bar:sed       from:01/08/2002 till:15/01/2007 color:Lines 
+  bar:bre       from:01/08/2002 till:15/11/2003 color:Lines
+  bar:lob       from:01/08/2003 till:01/06/2009 color:Lines
+  bar:dja       from:01/08/2003 till:15/11/2003 color:Lines
+  bar:koc       from:01/08/2004 till:01/03/2007 color:Lines
+  bar:kor       from:01/01/2007 till:27/11/2015 color:Lines
+  bar:kob       from:01/06/2009 till:27/11/2015 color:Lines
+  bar:bog       from:01/02/2012 till:01/04/2012 color:Lines
+  bar:ned       from:01/06/2012 till:01/09/2012 color:Lines
+  bar:ami       from:28/11/2015  till:end  color:vocals
+  bar:vko       from:28/11/2015  till:end  color:vocals
+  bar:mpo       from:28/11/2015  till:end  color:vocals
+
+LineData =
+  at:01/01/2001 color:yellow layer:back
+  at:01/01/2002 color:yellow layer:back
+  at:01/01/2003 color:yellow layer:back
+  at:01/01/2004 color:yellow layer:back
+  at:01/01/2005 color:yellow layer:back
+  at:01/01/2006 color:yellow layer:back
+  at:01/01/2007 color:yellow layer:back
+  at:01/01/2008 color:yellow layer:back
+  at:01/01/2009 color:yellow layer:back
+  at:01/01/2010 color:yellow layer:back
+  at:01/01/2011 color:yellow layer:back
+  at:01/01/2012 color:yellow layer:back
+  at:01/01/2013 color:yellow layer:back
+  at:01/01/2014 color:yellow layer:back
+  at:01/01/2015 color:yellow layer:back
+  at:01/01/2016 color:yellow layer:back
+</timeline>
+</div>
+
+== Plasenskrif ==
+
+=== Plasennow hir ===
+{| class="wikitable"
+!Plasen ha bledhen
+!kernewek
+|-
+|2001 — "Детки"  
+|Fleghes
+|-
+|2002 — "Не дети"
+|A-der fleghes
+|-
+|2003 — "Так и быть или Кто-то играет в любовь…"
+|Yndella re bo, po nebonan a wari kerensa
+|-
+|2004 — "Super Dетка"
+|Baban
+|-
+|2006 — "Стихи в метро или Одни дома"
+|Kanow y'n Bib po war y benn y honan tre
+|-
+|2008 — "Ты мой парень"
+|Ty yw ow harer
+|-
+|2011 — "Знаешь"
+|Ty a worr
+|-
+|2012 — "Лучшие песни. Новая коллекция"
+|An gwella ganow, Kuntel nowydh
+|-
+|2013 — "Подруга" (bysyel)
+|Kares
+|-
+|2014 — "Фиолетовая пудра"
+|Polter purpur
+|-
+|2016 — "Золотой альбом"
+|Plasen owr
+|}
+
+==== Plasennow daskemyskys ====
+{| class="wikitable"
+!Plasen ha bledhen
+!kernewek
+|-
+|2002 — "Не дети"
+|A-der fleghes
+|}
+
+==== Plasennow kevernyans ====
+{| class="wikitable"
+!Plasen ha bledhen
+!kernewek
+|-
+|2002 — "Кто придумал эту любовь"
+|Piw a dhevisas an gerensa ma?
+|-
+|2012 — "Лучшие песни. Новая коллекция"
+|An gwella ganow, Kuntel nowydh
+|}
+
+==== Plasenn gott ====
+{| class="wikitable"
+!Plasen ha bledhen
+!kernewek
+|-
+|2010 — "Знаешь" (versyon kott)
+|Ty a worr
+|-
+|2013 — "Подруга" (bysyel)
+|Kares
+|}
+
+=== Senglow ===
+{| class="wikitable"
+!Plasen ha bledhen
+!kernewek
+|-
+|2001 — "Мелом"
+|Krey
+|-
+|2002 — "Никто"
+|Nagonan
+|-
+|2002 — "Холодно"
+|Yeyn
+|-
+|2002 — "Кто?"
+|Piw?
+|-
+|2003 — "5 минут на любовь"
+|Pymp mynysen rag kerensa
+|-
+|2003 — "Так и быть"
+|Yndella re bo
+|-
+|2003 — "Яй-я"
+|Yay-ya
+|-
+|2004 — "Super dетка"
+|Super flogh
+|-
+|2004 — "Quanto costa"
+|Pygemmys yw an kost?
+|-
+|2004 — "Девочка хочет sexa"
+|Mowes a vynn kyjyans
+|-
+|2004 — "Мари полюбила Хуана"
+|Marya a garas Jowan
+|-
+|2006 — "Стихи в метро"
+|Kanow y'n Bib
+|-
+|2006 — "Скучаю"
+|Yth yeunav war dha lergh
+|-
+|2007 — "Ёлки-палки"
+|Barrennow
+|-
+|2008 — "Непростой"
+|Anes
+|-
+|2009 — "Он меня провожал"
+|Ev eth genev
+|-
+|2010 — "Знаешь"
+|Ty a worr
+|-
+|2011 — "Я такая"
+|Yth esov vy mar..
+|-
+|2011 — "До Луны на метро"
+|Dhe'n loor war an Bib
+|-
+|2013 — "Подруга"
+|Kares
+|-
+|2013 — "Я написала любовь"
+|My a skrifas kerensa
+|-
+|2013 — "Банальная история" (gans Master Spensor)
+|Hwedhel kemmyn
+|-
+|2013 — "Папа, ты прав"
+|Tasik, ewn os ta
+|-
+|2014 — "Украина, Россия с тобой!"
+|Ukrayn, Russi yw genes
+|-
+|2014 — "Жаль"
+|Drog yw genev
+|-
+|2015 — "Волшебство (kemmysk disko)"
+|Pystri
+|-
+|2015 — "Волшебство"
+|Pystri
+|-
+|2015 — "Супер детка (2016)"
+|Super baban
+|-
+|2015 — "Я ухожу от тебя"
+|My a'th tiberth
+|-
+|2015 — "Пять минут на любовь (Daskemyskans 2016)"
+|Pymp mynysen rag kerensa
+|-
+|2016 — "Наша песня"
+|Agan kan
+|-
+|2016 — "Ты – моя невесомость"
+|Ty yw ow diboster
+|-
+|2016 — "Сэлфи с войны"
+|Skeusen a'n Bresel
+|-
+|2016 — "Мяу"
+|Myow
+|-
+|2016 — "Я тебя забываю"
+|My a'th ankev
+|-
+|2016 — "Забываю"
+|Yth ankovav
+|-
+|2017 — "Не такая я"
+|Nyns ov avel henna
+|-
+|2017 — "Сильно люблю тебя"
+|My a'th kar yn feur
+|-
+|2017 — "Танцуй, моя Москва"
+|Donsyewgh, ow Moskva
+|-
+|2018 — "Научил любить"
+|Dyskys dhe gara
+|-
+|2018 — "Белый дым"
+|Mog gwynn
+|}
+
+=== Kanow andhyllys ===
+{| class="wikitable"
+!Plasen ha bledhen
+!kernewek
+|-
+|Funny Miх (2004) — В. Воронина, О. Морева, И. Яковлева
+|
+|-
+|Мари полюбила Хуана (2004) — В. Воронина, О. Морева, И. Яковлева, Д. Гаврильчук
+|Marya a garas Jowan
+|-
+|Далеко ли до Таллина (2005) — В. Виноградов, В. Богатырёв
+|Pygemmys pellder yw dhe Tallinn
+|-
+|МЕГАМикс (2006) — В. Воронина, О. Морева, И. Яковлева, Д. Гаврильчук
+|Megakemmysk
+|-
+|Гори ясно (2007) — В. Воронина, М. Букатарь, И. Яковлева, Д. Гаврильчук
+|Lesk kler
+|-
+|Капкан (2009) — В. Воронина, М. Букатарь, А. Шевченко
+|Maglen
+|-
+|Горностай! (2012) — М. Букатарь, А. Шевченко, (при участии А. Янковского)
+|Ermyn
+|}
+
+=== Gwydhyowyow ===
+{| class="wikitable" style="font-size:90%;"
+! style="background:#B0C4DE;" | Bledhen
+! style="background:#B0C4DE;" | Hanow
+! style="background:#B0C4DE;" | Eseli
+|-
+| 2001
+| "Мелом"
+| rowspan="3" | В. Воронина, В. Петренко, Ю. Гаранина
+|-
+| rowspan="3" | 2002
+| "Мелом (Daskemyskans)"
+|-
+| "Никто"
+|-
+| "Пять минут на любовь"
+| rowspan="3" | В. Воронина, О. Морева, Е. Олейникова
+|-
+| rowspan="3" | 2003
+| "Пять минут на любовь (Daskemyskans)"
+|-
+| "Так и быть"
+|-
+| "Яй-я"
+| В. Воронина, О. Морева, Е. Олейникова, И. Яковлева, Н. Коршунова
+|-
+| rowspan="5" | 2004
+| "Super Dетка"
+| rowspan="3" | В. Воронина, О. Морева, И. Яковлева
+|-
+| "Funny Mix"
+|-
+| "Quanto Costa (Daskemyskans)"
+|-
+| "Девочка хочет sexa"
+| rowspan="2" | В. Воронина, О. Морева, И. Яковлева, Д. Гаврильчук
+|-
+| "Мари полюбила Хуана"
+|-
+| rowspan="3" | 2006
+| "Стихи в метро"
+| rowspan="2" | В. Воронина, О. Морева, И. Яковлева
+|-
+| "Скучаю"
+|-
+| "Мегамикс"
+| В. Воронина, О. Морева, И. Яковлева, Д. Гаврильчук
+|-
+| 2007
+| "Ёлки-палки"
+| rowspan="3" | В. Воронина, И. Яковлева, М. Букатарь
+|-
+| rowspan="2" | 2009
+| "Над моей землёй"
+|-
+| "Он меня вчера провожал"
+|-
+| 2010
+| "Знаешь (Daskemyskans DJ Pomeha)"
+| В. Воронина, М. Букатарь, А. Шевченко
+|-
+| rowspan="2" | 2011
+| "Я такая (Daskemyskans DJ Pomeha)"
+| rowspan="7" | М. Букатарь, А. Шевченко
+|-
+| "Я такая"
+|-
+| rowspan="2" | 2013
+| "Подруга"
+|-
+| "Я Написала Любовь"
+|-
+| rowspan="2" | 2014
+| "Жаль"
+|-
+| "Украина, Россия с тобой!"
+|-
+| rowspan="2" | 2015
+|"Волшебство"
+|-
+| "Я ухожу от тебя" <small>(gans TRES)</small>
+| М. Букатарь, А. Шевченко (with А. Милан, В. Кононенко и М. Подольской)
+|}
+
+== Pewasow ==
+* 2003, 2004 and 2005 – "Sewen an Vledhen / Tanbellen an vledhen" ("Бум года / Бомба года")<ref>[http://epop.ru/news/541/ "Пропаганда" заканчивает новый альбом и готовит новую концертную программу] {{in lang|ru}}</ref>
+* 2004 and 2005 – Pewas "[[Pesnya goda]]" <ref>[http://pesnyagoda.my1.ru/2003_2006.html Песня года — неофициальный сайт фестиваля] {{in lang|ru}}</ref>
+* 2004 – Pewas Grammofon Owr rag an gan "Yay-ya" ("Яй-я").<ref>[https://www.youtube.com/watch?v=u6KhObnpF3M Пропаганда — Супер детка (Золотой граммофон 2004] {{in lang|ru}}</ref>
+* 2004 – "Superblasen / Plasen arghans" ("Супердиск / Серебряный диск")<ref>[http://epop.ru/news/222/ "Пропаганда" зажгла "СуперДиск"] {{in lang|ru}}</ref><ref name="русскоерадио">[http://www.rusradio.ru/artists/all/43820 Пропаганда — Русское радио: Музыкальный каталог от А до Я] {{in lang|ru}}</ref>
+* 2005 – Pewas an ''soundtrack''("Звуковая дорожка")<ref>[http://epop.ru/news/406/ "Пропаганда" на "Звуковой дорожке" в Кремле] {{in lang|ru}}</ref>
+* "Top League" ("Высшая лига")<ref name="русскоерадио" />
+* "Stopudovy hit" ("Стопудовый хит")<ref name="русскоерадио" />
+
+==Dustini==
+{{Reflist}}
+
+==Keverennow a-ves==
+* [http://promodj.com/propaganda Propaganda at promodj]
+* [http://instagram.com/propaganda_music Propaganda on instagram]
+* [https://www.youtube.com/user/PROPAGANDABANDRUSSIA Propaganda on youtube]
+* [https://web.archive.org/web/20150907144702/http://www.moskva.fm/artist/%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0 Propaganda on moskva.fm] {{in lang|ru}}
