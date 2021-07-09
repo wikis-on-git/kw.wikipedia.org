@@ -30520,7 +30520,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Pontllan-fraith]]
 |-
 | style='text-align:right'| 4354
-| [[Restren:Pauline Jarman.jpg|center|128px|]]
+| 
 | ''[[:d:Q7155038|Pauline Jarman]]''
 | 1945
 | 
