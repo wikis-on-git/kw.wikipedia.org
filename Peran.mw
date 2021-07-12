@@ -36,24 +36,52 @@ WHERE
 |-
 | style='text-align:right'| 1
 | [[Baner Peran]]
-| [[Restren:Flag of Cornwall.svg|center|128px|]]
+| [[Restren:Flag of Cornwall.svg|center|128px]]
 | 
 | 
 | [[:d:Q1919103|Q1919103]]
 |-
 | style='text-align:right'| 2
+| Church of Saint Piran
+| [[Restren:Perranzabuloe Parish Church - geograph.org.uk - 1592627.jpg|center|128px]]
+| {{Coord|50.326|-5.13373|display=inline}}
 | Perranzabuloe
-| [[Restren:Perranzabuloe Church - geograph.org.uk - 66070.jpg|center|128px|]]
+| [[:d:Q17534764|Q17534764]]
+|-
+| style='text-align:right'| 3
+| Church of Saint Piran
+| [[Restren:Perranarworthal Church - geograph.org.uk - 160508.jpg|center|128px]]
+| {{Coord|50.2086|-5.11371|display=inline}}<br/>{{Coord|50.208|-5.114|display=inline}}
+| Perranarworthal
+| [[:d:Q17555938|Q17555938]]
+|-
+| style='text-align:right'| 4
+| Perranzabuloe
+| [[Restren:Perranzabuloe Church - geograph.org.uk - 66070.jpg|center|128px]]
 | {{Coord|50.326|-5.133|display=inline}}
 | Kernow
 | [[:d:Q2364410|Q2364410]]
 |-
-| style='text-align:right'| 3
+| style='text-align:right'| 5
 | [[Porthpyran]]
-| [[Restren:Droskyn Point - geograph.org.uk - 23562.jpg|center|128px|]]
+| [[Restren:Droskyn Point - geograph.org.uk - 23562.jpg|center|128px]]
 | {{Coord|50.345461|-5.153422|display=inline}}
 | Perranzabuloe
 | [[:d:Q390260|Q390260]]
+|-
+| style='text-align:right'| 6
+| St Piran Mission Church
+| 
+| {{Coord|50.22914678|-5.18196168|display=inline}}
+| 
+| [[:d:Q105078611|Q105078611]]
+|-
+| style='text-align:right'| 7
+| St Piran's Chapel
+| 
+| {{Coord|50.670359|-4.723266|display=inline}}
+| [[Tre war Venydh]]
+| [[:d:Q7595406|Q7595406]]
 |}
 {{Wikidata list end}}
 {{KK}}
