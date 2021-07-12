@@ -29064,7 +29064,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kardydh]]
 |-
 | style='text-align:right'| 4146
-| [[Restren:Mervyn Jones.jpg|center|128px|]]
+| 
 | ''[[:d:Q6819086|Merfyn Jones]]''
 | 1931
 | 2016
