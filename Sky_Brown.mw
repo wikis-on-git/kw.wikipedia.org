@@ -24,3 +24,12 @@ Mis Metheven 2021, Brown o dewisys rag representya Breten Veur rag rostelya y’
 ''Treylys dhyworth an folen wikipedia yn sowsnek: Sky Brown''
 
 [[Klass:Benenes]]
+
+
+{{ambox
+| type = style
+| text = '''Skrifys veu an Kernewek y'n folen ma gans [[Kernewek|Kerneweger]] difreth.'''<br /><small>Mar kyllydh, [{{fullurl:{{FULLPAGENAME}}|action=edit}} gwra gwellhe an folen ma] mar pleg (ha dilea an skantlyn ma pan vo ewnhes da).{{#if:{{{date|}}}|&#32;''({{{date}}})''|}}</small>
+}}<includeonly>{{#if:{{{date|}}}|{{{category|[[Category:Folennow skrifys gans Kerneweger difreth]]}}}|{{{category|[[Category:Wikipedya cleanup]]}}}}}</includeonly><!-- {{Cleanup}} end --><noinclude>
+{{template doc}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>
