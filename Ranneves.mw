@@ -22,7 +22,7 @@ SERVICE wikibase:label { bd:serviceParam wikibase:language "la, kw, en" }
 BIND(REPLACE(REPLACE(CONCAT(STRBEFORE(STRAFTER(REPLACE(STR(?pic),"IAU","constellation"),"http://commons.wikimedia.org/wiki/Special:FilePath/"),"%20constellation")," (ranneves)"),"%C3%B6","ö"),"%20"," ") AS ?link) .
 }
 ORDER BY ASC(?itemLabel)
-|columns=link:Hanow Latinek,?shortname:Hanow berr,?pic:Mappa Ebron,?area:Arebenedh (degreow pedrek),item:Elven Wikidata
+|columns=?link:Hanow Latinek,?shortname:Hanow berr,?pic:Mappa Ebron,?area:Arebenedh (degreow pedrek),item:Elven Wikidata
 |sort=label
 |links=red
 |thumb=128
