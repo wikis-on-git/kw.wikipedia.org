@@ -19,8 +19,9 @@ WHERE
 OPTIONAL{?item wdt:P242 ?pic .}
 OPTIONAL{?item wdt:P2046 ?area .}
 SERVICE wikibase:label { bd:serviceParam wikibase:language "la, kw, en" }
-BIND(REPLACE(REPLACE(CONCAT(STRBEFORE(STRAFTER(REPLACE(STR(?pic),"IAU","constellation"),"http://commons.wikimedia.org/wiki/Special:FilePath/"),"%20constellation")," (ranneves)"),"%C3%B6","ö"),"%20"," ")) AS ?name) .
-BIND(CONCAT(CONCAT("[[",?name),"]]") AS ?link) .
+BIND(REPLACE(REPLACE(CONCAT(STRBEFORE(STRAFTER(REPLACE(STR(?pic),"IAU","constellation"),"http://commons.wikimedia.org/wiki/Special:FilePath/"),"%20constellation")," (ranneves)"),"%C3%B6","ö"),"%20"," ") AS ?linktext) .
+BIND(STRBEFORE(?linktext," (") AS ?name) .
+BIND(CONCAT("[[",CONCAT(CONCAT(?linktext,"|"), ?name),"]]") AS ?link) .
 }
 ORDER BY ASC(?itemLabel)
 |columns=?link:Hanow Latinek,?shortname:Hanow berr,?pic:Mappa Ebron,?area:Arebenedh (degreow pedrek),item:Elven Wikidata
