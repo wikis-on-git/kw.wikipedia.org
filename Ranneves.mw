@@ -54,12 +54,6 @@ ORDER BY ASC(?itemLabel)
 | 206
 | [[:d:Q10506|Q10506]]
 |-
-| [[Aquarius (ranneves)|Aquarius]]
-| Aqr
-| [[Restren:Aquarius constellation map.svg|center|128px]]
-| 980
-| [[:d:Q10576|Q10576]]
-|-
 | [[Aquila (ranneves)|Aquila]]
 | Aql
 | [[Restren:Aquila constellation map.svg|center|128px]]
@@ -71,12 +65,6 @@ ORDER BY ASC(?itemLabel)
 | [[Restren:Ara constellation map.svg|center|128px]]
 | 237
 | [[:d:Q9253|Q9253]]
-|-
-| [[Aries (ranneves)|Aries]]
-| Ari
-| [[Restren:Aries constellation map.png|center|128px]]
-| 441
-| [[:d:Q10584|Q10584]]
 |-
 | [[Auriga (ranneves)|Auriga]]
 | Aur
@@ -102,12 +90,6 @@ ORDER BY ASC(?itemLabel)
 | 757
 | [[:d:Q8832|Q8832]]
 |-
-| [[Cancer (ranneves)|Cancer]]
-| Cnc
-| [[Restren:Cancer constellation map.svg|center|128px]]
-| 506
-| [[:d:Q8849|Q8849]]
-|-
 | [[Canes Venatici (ranneves)|Canes Venatici]]
 | CVn
 | [[Restren:Canes Venatici constellation map.svg|center|128px]]
@@ -125,12 +107,6 @@ ORDER BY ASC(?itemLabel)
 | [[Restren:Canis Minor constellation map.svg|center|128px]]
 | 183
 | [[:d:Q9305|Q9305]]
-|-
-| [[Capricornus (ranneves)|Capricornus]]
-| Cap
-| [[Restren:Capricornus constellation map.svg|center|128px]]
-| 414
-| [[:d:Q10535|Q10535]]
 |-
 | [[Carina (ranneves)|Carina]]
 | Car
@@ -234,6 +210,12 @@ ORDER BY ASC(?itemLabel)
 | 179
 | [[:d:Q8837|Q8837]]
 |-
+| [[Aquarius (ranneves)|Aquarius]]
+| Aqr
+| [[Restren:Aquarius constellation map.svg|center|128px]]
+| 980
+| [[:d:Q10576|Q10576]]
+|-
 | [[Draco (ranneves)|Draco]]
 | Dra
 | [[Restren:Draco constellation map-bs.svg|center|128px]]
@@ -258,6 +240,12 @@ ORDER BY ASC(?itemLabel)
 | 397.5
 | [[:d:Q8913|Q8913]]
 |-
+| [[Capricornus (ranneves)|Capricornus]]
+| Cap
+| [[Restren:Capricornus constellation map.svg|center|128px]]
+| 414
+| [[:d:Q10535|Q10535]]
+|-
 | [[Gemini (ranneves)|Gemini]]
 | Gem
 | [[Restren:Gemini constellation map.svg|center|128px]]
@@ -275,6 +263,12 @@ ORDER BY ASC(?itemLabel)
 | [[Restren:Hercules constellation map.svg|center|128px]]
 | 1225
 | [[:d:Q10448|Q10448]]
+|-
+| [[Aries (ranneves)|Aries]]
+| Ari
+| [[Restren:Aries constellation map.png|center|128px]]
+| 441
+| [[:d:Q10584|Q10584]]
 |-
 | [[Horologium (ranneves)|Horologium]]
 | Hor
@@ -300,11 +294,23 @@ ORDER BY ASC(?itemLabel)
 | 294
 | [[:d:Q10450|Q10450]]
 |-
+| [[Cancer (ranneves)|Cancer]]
+| Cnc
+| [[Restren:Cancer constellation map.svg|center|128px]]
+| 506
+| [[:d:Q8849|Q8849]]
+|-
 | [[Lacerta (ranneves)|Lacerta]]
 | Lac
 | [[Restren:Lacerta constellation map.svg|center|128px]]
 | 201
 | [[:d:Q10430|Q10430]]
+|-
+| [[Lepus (ranneves)|Lepus]]
+| Lep
+| [[Restren:Lepus constellation map.svg|center|128px]]
+| 290
+| [[:d:Q10446|Q10446]]
 |-
 | [[Leo (ranneves)|Leo]]
 | Leo
@@ -317,18 +323,6 @@ ORDER BY ASC(?itemLabel)
 | [[Restren:Leo Minor constellation map.svg|center|128px]]
 | 232
 | [[:d:Q10403|Q10403]]
-|-
-| [[Lepus (ranneves)|Lepus]]
-| Lep
-| [[Restren:Lepus constellation map.svg|center|128px]]
-| 290
-| [[:d:Q10446|Q10446]]
-|-
-| [[Libra (ranneves)|Libra]]
-| Lib
-| [[Restren:Libra constellation map.svg|center|128px]]
-| 538
-| [[:d:Q10580|Q10580]]
 |-
 | [[Lupus (ranneves)|Lupus]]
 | Lup
@@ -347,6 +341,12 @@ ORDER BY ASC(?itemLabel)
 | [[Restren:Lyra constellation map.svg|center|128px]]
 | 286.5
 | [[:d:Q10484|Q10484]]
+|-
+| [[Libra (ranneves)|Libra]]
+| Lib
+| [[Restren:Libra constellation map.svg|center|128px]]
+| 538
+| [[:d:Q10580|Q10580]]
 |-
 | [[Mensa (ranneves)|Mensa]]
 | Men
@@ -426,12 +426,6 @@ ORDER BY ASC(?itemLabel)
 | 247
 | [[:d:Q10486|Q10486]]
 |-
-| [[Pisces (ranneves)|Pisces]]
-| Psc
-| [[Restren:Pisces constellation map.svg|center|128px]]
-| 889
-| [[:d:Q8679|Q8679]]
-|-
 | [[Piscis Austrinus (ranneves)|Piscis Austrinus]]
 | PsA
 | [[Restren:Piscis Austrinus constellation map.svg|center|128px]]
@@ -443,6 +437,12 @@ ORDER BY ASC(?itemLabel)
 | [[Restren:Puppis constellation map.svg|center|128px]]
 | 673
 | [[:d:Q9251|Q9251]]
+|-
+| [[Pisces (ranneves)|Pisces]]
+| Psc
+| [[Restren:Pisces constellation map.svg|center|128px]]
+| 889
+| [[:d:Q8679|Q8679]]
 |-
 | [[Pyxis (ranneves)|Pyxis]]
 | Pyx
