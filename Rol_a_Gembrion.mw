@@ -9793,7 +9793,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Kardydh]]
 |-
 | style='text-align:right'| 1393
-| [[Restren:John Morgan.gif|center|128px|]]
+| 
 | ''[[:d:Q3182121|John Morgan]]''
 | 1930
 | 2004
