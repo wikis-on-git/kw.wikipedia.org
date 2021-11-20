@@ -39,3 +39,126 @@ Maskot an bagas yw Eddie; euthvil a wra apperya dhe geskanow ha limnansow an kun
 * ''The Final Frontier'', 2010
 * ''The Book of Souls'', 2015
 * ''Senjutsu'', 2021
+==Linel termyn==
+<!-- Sources: Mick Wall's ''"Iron Maiden: Run To The Hills, The Authorised biography"'' and ''"The Early Days"'' DVD -->
+<onlyinclude>
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:23
+PlotArea = left:100 bottom:90 top:0 right:5
+Alignbars = justify
+DateFormat = dd/mm/yyyy
+Period = from:25/12/1975 till:{{#time:d/m/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:3
+ScaleMajor = increment:3 start:1976
+ScaleMinor = increment:1 start:1977
+
+Colors =
+ id:Lvocals value:red        legend:Kana
+ id:Bvocals value:pink       legend:Keveylya
+ id:Guitars value:green      legend:Gitarow
+ id:Bass    value:blue       legend:Faborden
+ id:Drums   value:orange     legend:Tabouryow
+ id:Keys    value:purple     legend:Alhwedhellow
+ id:Studio  value:black      legend:Studio
+ id:Live    value:gray(0.75)  legend:Byw
+ id:bars    value:gray(1)
+
+BackgroundColors = bars:bars
+ 
+LineData =
+ layer:back color:Studio
+ at:14/04/1980
+ at:02/02/1981
+ at:22/03/1982
+ at:16/05/1983
+ at:03/09/1984
+ at:29/09/1986
+ at:11/04/1988
+ at:01/10/1990
+ at:11/05/1992
+ at:02/10/1995
+ at:23/03/1998
+ at:29/05/2000
+ at:08/09/2003
+ at:28/08/2006
+ at:16/08/2010
+ at:04/09/2015
+ at:03/09/2021
+
+ layer:back color:Live
+ at:14/10/1985
+ at:22/03/1995
+ at:18/10/1993
+ at:08/11/1993
+ at:25/03/2002
+ at:04/11/2002
+ at:29/08/2005
+ at:25/05/2009
+ at:26/03/2012
+ at:25/03/2013
+ at:17/11/2017
+ at:20/11/2020
+
+BarData =
+ bar:Day          text:"Paul Day"
+ bar:Wilcock      text:"Dennis Wilcock"
+ bar:DiAnno       text:"Paul Di'Anno"
+ bar:Dickinson    text:"Bruce Dickinson"
+ bar:Bayley       text:"Blaze Bayley"
+ bar:Sullivan     text:"Dave Sullivan"
+ bar:Murray       text:"Dave Murray"
+ bar:Wapram       text:"Terry Wapram"
+ bar:Rance        text:"Terry Rance"
+ bar:Sawyer       text:"Bob Sawyer"
+ bar:Cairns       text:"Paul Cairns"
+ bar:Todd         text:"Paul Todd"
+ bar:Parsons      text:"Tony Parsons"
+ bar:Stratton     text:"Dennis Stratton"
+ bar:Smith        text:"Adrian Smith"
+ bar:Gers         text:"Janick Gers"
+ bar:Harris       text:"Steve Harris"
+ bar:Matthews     text:"Ron Matthews"
+ bar:Thunderstick text:"Thunderstick"
+ bar:Sampson      text:"Doug Sampson"
+ bar:Burr         text:"Clive Burr"
+ bar:McBrain      text:"Nicko McBrain"
+ bar:Moore        text:"Tony Moore"
+<!-- Please do not add Michael Kenney to this list. Although he does provide keyboards live, he is principally a roadie and not an official member of the band. -->
+PlotData=
+ width:13 textcolor:black align:left anchor:from shift:(10,-4)
+ bar:Day          from:25/12/1975 till:01/07/1976 color:Lvocals
+ bar:Wilcock      from:02/07/1976 till:01/03/1978 color:Lvocals
+ bar:DiAnno       from:01/11/1978 till:01/10/1981 color:Lvocals
+ bar:Dickinson    from:01/10/1981 till:28/08/1993 color:Lvocals
+ bar:Bayley       from:01/01/1994 till:02/01/1999 color:Lvocals
+ bar:Dickinson    from:02/01/1999 till:end        color:Lvocals
+ bar:Dickinson    from:01/01/2015 till:01/01/2016 color:Keys   width:3
+ bar:Sullivan     from:25/12/1975 till:01/12/1976 color:Guitars
+ bar:Rance        from:25/12/1975 till:01/12/1976 color:Guitars
+ bar:Murray       from:01/12/1976 till:01/06/1977 color:Guitars
+ bar:Murray       from:01/03/1978 till:end        color:Guitars
+ bar:Sawyer       from:01/01/1977 till:01/06/1977 color:Guitars
+ bar:Wapram       from:01/07/1977 till:01/03/1978 color:Guitars
+ bar:Cairns       from:01/12/1978 till:01/03/1979 color:Guitars
+ bar:Todd         from:23/06/1979 till:30/06/1979 color:Guitars
+ bar:Parsons      from:01/09/1979 till:15/11/1979 color:Guitars
+ bar:Stratton     from:20/12/1979 till:01/11/1980 color:Guitars
+ bar:Stratton     from:20/12/1979 till:01/11/1980 color:Bvocals width:3
+ bar:Smith        from:05/11/1980 till:01/01/1990 color:Guitars
+ bar:Smith        from:05/11/1980 till:01/01/1990 color:Bvocals width:3
+ bar:Smith        from:01/02/1999 till:end        color:Guitars
+ bar:Smith        from:01/02/1999 till:end        color:Bvocals width:3
+ bar:Smith        from:01/01/1988 till:01/01/1990 color:Keys    width:7
+ bar:Gers         from:01/02/1990 till:end        color:Guitars
+ bar:Harris       from:25/12/1975 till:end        color:Bass
+ bar:Harris       from:25/12/1975 till:end        color:Bvocals width:3
+ bar:Harris       from:01/01/1988 till:01/01/1990 color:Keys    width:7
+ bar:Harris       from:01/01/1998 till:end        color:Keys    width:7
+ bar:Matthews     from:25/12/1975 till:01/06/1977 color:Drums
+ bar:Thunderstick from:01/09/1977 till:01/11/1977 color:Drums
+ bar:Sampson      from:01/12/1977 till:23/12/1979 color:Drums
+ bar:Burr         from:26/12/1979 till:01/11/1982 color:Drums
+ bar:McBrain      from:01/12/1982 till:end        color:Drums
+ bar:Moore        from:01/09/1977 till:01/11/1977 color:Keys
+}}
