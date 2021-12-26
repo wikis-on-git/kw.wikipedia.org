@@ -34601,7 +34601,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Aberafan]]
 |-
 | style='text-align:right'| 4937
-| [[Restren:SylviaHeal.jpg|center|128px|]]
+| 
 | ''[[:d:Q7660931|Sylvia Heal]]''
 | 1942
 | 
