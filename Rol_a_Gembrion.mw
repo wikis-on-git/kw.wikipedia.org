@@ -9912,7 +9912,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Pontypridd]]
 |-
 | style='text-align:right'| 1410
-| [[Restren:Lee Kendall.JPG|center|128px|]]
+| 
 | ''[[:d:Q3228894|Lee Kendall]]''
 | 1981
 | 
