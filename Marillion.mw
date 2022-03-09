@@ -1,0 +1,139 @@
+{{Taklow| fetchwikidata=ALL | onlysourced=no| suppressfields= }}
+
+'''Marillion''' (leveryans - /məˈrɪliən/) yw bagas [[Rokk|rokk]] bretennek, furvys yn Aylesbury, [[Pow Sows]], yn 1979. Aga hanow a dheu dhyworth titel lyver [[J.R.R.Tolkein]] ''The Silmarillion''. I a dheuth yn-mes a'n gwel ilow wosa-punk, ha gwelys vons avel pons yntra gisyow punk ha rokk klassek avonsus (''progressive'' po ''prog''), ow tos ha bos an bagas rokk nowydh-avonsus moyha sewennus yn kenwerthel y'n 1980ow. 
+[[Restren:Marillion Fish OpenAir Mannheim Maimarktgelaende 1986 06 21.jpg|skeusennik|left|Marillion ow performya yn fyw yn 1986]]
+[[Restren:MarillionEmpik2007.jpg|skeusennik|275px|left| Marillion yn 2007, a'n gledh dhe'n dhyghow: Steve Rothery, Steve Hogarth, Pete Trewavas (renk a-rag), Mark Kelly, Ian Mosley (renk a-dhelergh)]]
+Marillion re rekordyas nawnjek kuntilow a-dhia 1982 yn dew oos dyffrans, kyns ha wosa dibarth an kaner gwreydhek Fish yn 1988 ha devedhyans Steve Hogarth yn 1989 a-varr. I a gavas eth kuntilow 'Deg Ughella' y'n RU ynter 1983 ha 1994, ow komprehendya kuntilow Niver Onan yn 1985 gans "Misplaced Childhood", ha dres oos Fish unnek hitt 'Dew ugens Ughella' yn chart an RU. Moyha aswonnys yns i rag an senglow 1985 "Kayleigh" ha "Lavender", a dhrehedhas niver 2 ha 5 a-gettep (ha "Kayleigh" eth dhe chartys 'Billboard Hot 100' y'n [[Statys Unys]] ynwedh).  
+
+Kuntilowyow Marillion a besyas gwertha yn ta bys dhe dhiwedh an 1990ow, ha wosa henna yn essensek bagas a vern minoryta ens i. 
+
+Yn despit dhe'n feth nag yns i gerys-da y'n media, gans gre diskrassyes y'n diwysyans ilow bretennek, Marillion re withas lies skoodhyor yn kesgwlasek. Ragresoryon ynsi y'n negys a routh-arghasans hag ilow arghasys gans skoodhyoryon. I re werthas moy es 15 milvil kuntilow a-dreus an bys. 
+
+===Eseli===
+{{col-begin}}
+{{col-2}}
+;Eseli a-emmyn
+*Steve Rothery – gitar tredanek ha sononiethel <small>(1979–lemmyn)</small>
+*Mark Kelly  – alhwedhellow, samplow hag effeythyow, skoodh-gana, towlenna <small>(1981–lemmyn)</small>
+*Pete Trewavas – faborden, skoodh-gana, gitarow, samplow hag effeythyow <small>(1982–lemmyn)</small>
+*Ian Mosley – tabours, frappyans <small>(1984–lemmyn)</small>
+*Steve Hogarth – chyf kaner, alhwedhellow, gitarow, frappyans <small>(1989–lemmyn)</small>
+{{col-2}}
+;Eseli kyns
+*Mick Pointer – tabours <small>(1979–1983)</small>
+*Brian Jelliman – alhwedhellow <small>(1979–1981)</small>
+*Doug 'Rastus' Irvine – faborden, chyf kana<small>(1979–1981)</small>
+*Fish – chyf kana, frappyans <small>(1981–1988)</small>
+*Diz Minnitt – faborden <small>(1981–1982)</small>
+*Andy Ward – tabours, frappyans <small>(1983)</small>
+*John 'Martyr' Marter – tabours <small>(1983)</small>
+*Jonathan Mover – tabours <small>(1983–1984)</small>
+{{col-end}}
+
+===Linen termyn===
+
+{{#tag:timeline|
+ImageSize = width:900 height:auto barincrement:20
+PlotArea = left:120 bottom:60 top:15 right:0
+Alignbars = justify
+DateFormat  = mm/dd/yyyy
+Period = from:01/01/1979 till:{{#time:m/d/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:1
+ScaleMajor = increment:2 start:1979
+ScaleMinor = increment:1 start:1979
+
+Colors =
+  id:vocals  value:red           legend:Kana
+  id:guitars value:green         legend:Gitar
+  id:keys    value:purple        legend:Alhwedhellow
+  id:bass    value:blue          legend:Faborden
+  id:drums   value:orange        legend:Tabours
+  id:albums  value:black         legend:Kuntilow_Studio
+  id:bars    value:gray(0.92)
+
+BackgroundColors = bars:bars
+
+LineData =
+  at:03/01/1983 color:black layer:back
+  at:03/12/1984 color:black layer:back
+  at:06/17/1985 color:black layer:back
+  at:06/22/1987 color:black layer:back
+  at:09/25/1989 color:black layer:back
+  at:06/24/1991 color:black layer:back
+  at:02/07/1994 color:black layer:back
+  at:06/24/1995 color:black layer:back
+  at:03/01/1997 color:black layer:back
+  at:09/21/1998 color:black layer:back
+  at:10/18/1999 color:black layer:back
+  at:05/15/2001 color:black layer:back
+  at:05/03/2004 color:black layer:back
+  at:04/09/2007 color:black layer:back
+  at:10/20/2008 color:black layer:back
+  at:10/02/2009 color:black layer:back
+  at:09/17/2012 color:black layer:back
+  at:09/23/2016 color:black layer:back
+  at:03/04/2022 color:black layer:back
+
+BarData =
+
+  bar:Irvine   text:Doug 'Rastus' Irvine
+  bar:Fish     text:Fish
+  bar:Hogarth  text:Steve Hogarth
+  bar:Rothery  text:Steve Rothery
+  bar:Jelliman text:Brian Jelliman
+  bar:Kelly    text:Mark Kelly
+  bar:Minnitt  text:Diz Minnitt
+  bar:Trewavas text:Pete Trewavas
+  bar:Pointer  text:Mick Pointer
+  bar:Ward     text:Andy Ward
+  bar:Marter   text:John 'Martyr' Marter
+  bar:Mover    text:Jonathan Mover
+  bar:Mosley   text:Ian Mosley
+
+PlotData=
+
+  width:11 textcolor:black align:left anchor:from shift:(10,-4)
+
+  bar:Rothery  from:01/01/1979 till:end        color:guitars
+  bar:Jelliman from:01/01/1979 till:12/01/1981 color:keys
+  bar:Kelly    from:12/01/1981 till:end        color:keys
+  bar:Minnitt  from:01/02/1981 till:07/01/1982 color:bass
+  bar:Trewavas from:07/01/1982 till:end        color:bass
+  bar:Trewavas from:07/23/1988 till:end        color:guitars width:3
+  bar:Pointer  from:01/01/1979 till:03/01/1983 color:drums
+  bar:Ward     from:03/01/1983 till:07/01/1983 color:drums
+  bar:Marter   from:07/01/1983 till:11/01/1983 color:drums
+  bar:Mover    from:11/01/1983 till:01/31/1984 color:drums
+  bar:Mosley   from:01/31/1984 till:end        color:drums
+  bar:Irvine   from:01/01/1979 till:01/02/1981 color:vocals
+  bar:Irvine   from:01/01/1979 till:01/02/1981 color:bass width:3
+  bar:Fish     from:01/02/1981 till:07/23/1988 color:vocals
+  bar:Hogarth  from:07/23/1988 till:end        color:vocals
+  bar:Hogarth  from:07/23/1988 till:end        color:guitars width:7
+  bar:Hogarth  from:07/23/1988 till:end        color:keys width:3
+}}
+==Plasennskrif==
+
+
+;Kuntilow Studio 
+*''Script for a Jester's Tear'' (1983)
+*''Fugazi'' (1984)
+*''Misplaced Childhood'' (1985)
+*''Clutching at Straws'' (1987)
+*''Seasons End'' (1989)
+*''Holidays in Eden'' (1991)
+*''Brave'' (1994)
+*''Afraid of Sunlight'' (1995)
+*''This Strange Engine'' (1997)
+*''Radiation'' (1998)
+*''marillion.com'' (1999)
+*''Anoraknophobia'' (2001)
+*''Marbles'' (2004)
+*''Somewhere Else'' (2007)
+*''Happiness Is the Road'' (2008)
+*''Less Is More'' (2009)
+*''Sounds That Can't Be Made'' (2012)
+*''Fuck Everyone and Run (F E A R)'' (2016)
+*''With Friends from the Orchestra'' (2019)
+*''An Hour Before It's Dark'' (2022)
