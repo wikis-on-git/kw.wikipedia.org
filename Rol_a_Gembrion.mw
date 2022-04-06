@@ -1029,7 +1029,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Y Fenni]]
 |-
 | style='text-align:right'| 141
-| [[Restren:Donna Lewis.jpg|center|128px|]]
+| [[Restren:Donna Lewis (cropped).jpg|center|128px|]]
 | ''[[:d:Q272578|Donna Lewis]]''
 | 1973
 | 
