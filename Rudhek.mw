@@ -20,9 +20,9 @@
 | ordo = [[Passeriformes]]
 | familia = [[Muscicapidae]]
 
-| genus = {{#invoke:Wikidata|getValue|P171|{{{rhiant-dacson|FETCH_WIKIDATA}}}}}
+| genus = [[Erithacus]]
 
-| species = '''''{{#invoke:Wikidata|getValue|P225|{{{enw tacson|FETCH_WIKIDATA}}}}}'''''
+| species = '''''Erithacus rubecula'''''
 
 | awtorita = ([[Carolus Linnaeus|Linnaeus]], 1758)
 }}
