@@ -28945,7 +28945,7 @@ OPTIONAL { ?item wdt:P570 ?dod . BIND(YEAR(?dod) as ?yod) }
 | [[Aberystwyth]]
 |-
 | style='text-align:right'| 4129
-| [[Restren:Meganlloydgeorge.jpg|center|128px|]]
+| [[Restren:Meganlloydgeorge (cropped).jpg|center|128px|]]
 | ''[[:d:Q6808694|Megan Lloyd George]]''
 | 1902
 | 1966
